@@ -1,0 +1,105 @@
+body {
+    font-family: Helvetica, serif;
+    color: black;
+    background: white;
+}
+
+.frame {
+    width: 700px;
+    margin: auto;
+}
+
+.logo {
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.episodes {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.block {
+    padding: 10px 20px;
+    background: #c2f0e0;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.episode {
+    margin: 10px 0;
+    background: #c2f0e0;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.clear {
+    clear: both;
+}
+
+.episode .image {
+    width: 20%;
+    float: left;
+}
+
+.episode .image img {
+    width: 100%;
+    margin: 0;
+}
+
+.episode .description {
+    width: 75%;
+    float: left;
+    margin-left: 5%;
+    padding-top: 20px;
+}
+
+.centered {
+    text-align: center;
+}
+
+a {
+    color: darkblue;
+}
+
+img {
+    margin: 20px auto;
+    display: block;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.button {
+    border: none;
+    cursor: pointer;
+    height: 36px;
+    font-size: 20px;
+    line-height: 36px;
+    color: white;
+    white-space: nowrap;
+    background: darkblue;
+    padding: 0 10px;
+}
+
+a.button {
+    padding: 10px;
+}
+
+section {
+    margin: 15px 0;
+}
+
+@media screen and (max-width: 767px) {
+    .frame {
+        width: 100%;
+    }
+}
