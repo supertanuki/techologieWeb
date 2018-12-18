@@ -5,6 +5,6 @@ function toggleMode() {
     localStorage.setItem('mode', mode);
 }
 
-if ('light' === sessionStorage.getItem('mode')) {
+if ('light' === localStorage.getItem('mode')) {
     toggleMode();
 }
