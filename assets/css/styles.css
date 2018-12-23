@@ -148,6 +148,12 @@ section {
     color: white;
 }
 
+footer {
+    text-align: center;
+    margin: 20px 0 0;
+    padding: 20px;
+}
+
 @media screen and (max-width: 767px) {
     .frame {
         width: 100%;
