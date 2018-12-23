@@ -78,6 +78,36 @@ h2 {
     font-weight: normal;
 }
 
+header nav {
+    float: left;
+    line-height: 50px;
+}
+
+header nav img.logo {
+    float: left;
+    margin: 0 10px 0 0;
+    padding: 0;
+}
+
+.list-centered {
+    float:right;
+    position: relative;
+    left: -50%;
+}
+
+ul.buttons-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    left: 50%;
+    position: relative;
+}
+
+ul.buttons-list li {
+    float: left;
+    margin: 0 4px;
+}
+
 .button {
     border: none;
     cursor: pointer;
@@ -86,7 +116,7 @@ h2 {
     line-height: 36px;
     color: white;
     white-space: nowrap;
-    background: #08231a;
+    background: #0e3f2f;
     padding: 0 10px;
 }
 
@@ -114,7 +144,7 @@ section {
 }
 
 .dark .block, .dark .episode {
-    background: #08231a;
+    background: #0e3f2f;
     color: white;
 }
 

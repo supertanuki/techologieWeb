@@ -18,45 +18,38 @@
 
 <body class="dark">
 <div class="frame">
-    <img src="assets/images/techologie-logo.jpg" width="200" alt="Techologie logo" class="logo" />
-    <h1>
-        Techologie, le podcast qui tente de lier tech et écologie alors que tout les oppose.
-    </h1>
+    <header>
+        <img src="assets/images/techologie-logo.jpg" width="200" alt="Techologie" class="logo" />
+        <h1>
+            Techologie, le podcast qui tente de lier tech et écologie alors que tout les oppose.
+        </h1>
+    </header>
 
     <div class="centered">
+        <nav class="list-centered">
+            <ul class="buttons-list">
+                <li><a href="episodes.html" class="button">Épisodes</a></li>
+                <li><a href="a-propos.html" class="button">À propos</a></li>
+            </ul>
+        </nav>
+        <div class="clear"></div>
+
         <p>Écouter et s'abonner :</p>
-        <p>
-            <a href="http://feeds.soundcloud.com/users/soundcloud:users:555069720/sounds.rss" class="button">RSS</a>
-            <a href="https://soundcloud.com/techologie" class="button">Soundcloud</a>
-            <a href="https://itunes.apple.com/fr/podcast/techologie/id1446844143?mt=2" class="button">Apple Podcasts</a>
-        </p>
-        <p>
-            Suivre <a href="https://twitter.com/techologieAudio">@TechologieAudio</a>
-            |
-            <a href="a-propos.html">À propos</a>
-        </p>
+        <nav class="list-centered">
+            <ul class="buttons-list">
+                <li><a href="http://feeds.soundcloud.com/users/soundcloud:users:555069720/sounds.rss" class="button">RSS</a></li>
+                <li><a href="https://soundcloud.com/techologie" class="button">Soundcloud</a></li>
+                <li><a href="https://itunes.apple.com/fr/podcast/techologie/id1446844143?mt=2" class="button">Apple Podcasts</a></li>
+            </ul>
+        </nav>
+        <div class="clear"></div>
     </div>
 
-    <ul class="episodes">
-        <li class="episode">
-            <div class="image">
-                <a href="episodes/2-impact-ecologique-que-faire-en-tant-que-professionnel-du-web.html"><img src="assets/episodes/2-lemaire.jpg" alt="Episode 2"/></a>
-            </div>
-            <div class="description">
-                <h2><a href="episodes/2-impact-ecologique-que-faire-en-tant-que-professionnel-du-web.html">#2 Impact écologique, que faire en tant que professionnel du web avec Raphaël Lemaire</a></h2>
-            </div>
-            <div class="clear"></div>
-        </li>
-        <li class="episode">
-            <div class="image">
-                <a href="episodes/1-coder-et-designer-pour-un-futur-incertain.html"><img src="assets/episodes/1-paccard.jpg" alt="Episode 1"/></a>
-            </div>
-            <div class="description">
-                <h2><a href="episodes/1-coder-et-designer-pour-un-futur-incertain.html">#1 Coder et designer pour un futur incertain avec Marie-Cécile Paccard</a></h2>
-            </div>
-            <div class="clear"></div>
-        </li>
-    </ul>
+    <hr>
+
+    <footer class="centered">
+        Suivre <a href="https://twitter.com/techologieAudio">@TechologieAudio</a>
+    </footer>
 
     <button type="button" onclick="toggleMode()" class="toggle-mode">Changer mode</button>
     <script src="assets/js/main.js"></script>
