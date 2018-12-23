@@ -89,6 +89,13 @@ header nav img.logo {
     padding: 0;
 }
 
+[aria-current] {
+    font-weight: bold;
+    padding: 4px;
+    border-bottom-style: double;
+    text-decoration-line: none;
+}
+
 .list-centered {
     float:right;
     position: relative;
