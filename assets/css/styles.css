@@ -1,10 +1,11 @@
 body {
-    font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
     color: black;
     background: white;
     font-size: 21px;
     line-height: 1.58;
     letter-spacing: -.003em;
+    margin: 0 10px;
 }
 
 .frame {
@@ -99,30 +100,60 @@ header nav img.logo {
     float: left;
     margin: 0 10px 0 0;
     padding: 0;
+    border-radius: 0;
 }
 
-[aria-current] {
-    font-weight: bold;
-    padding: 4px;
-    border-bottom-style: double;
-    text-decoration-line: none;
-}
-
-.list-centered {
-    float:right;
-    position: relative;
-    left: -50%;
-}
-
-ul.buttons-list {
+header nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-ul.buttons-list li {
+header nav ul li {
     float: left;
-    margin: 0 4px;
+    margin: 0;
+    padding: 0;
+}
+
+header nav li a {
+    line-height: 50px;
+    height: 50px;
+    border-bottom: 1px solid #eee;
+    border-right: 1px solid #fff;
+    padding: 0 10px;
+    background: #eee;
+    display: block;
+    text-decoration: none;
+}
+
+header nav li a[aria-current] {
+    border-bottom: 1px solid darkblue;
+}
+
+header nav li:first-child a {
+    padding: 0 10px 0 0;
+}
+
+header nav li:last-child a {
+    border-right: none;
+}
+
+.toggle-mode-button {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    color: black;
+    background: white;
+    font-size: 17px;
+    line-height: 50px;
+}
+
+.float-right {
+    float: right;
+}
+
+.list-centered {
+    float: right;
+    position: relative;
+    left: -50%;
 }
 
 .button {
@@ -165,19 +196,47 @@ section {
     color: white;
 }
 
+.dark header nav li a {
+    background: #0e3f2f;
+    border-color: #051510;
+}
+
+.dark header nav li a[aria-current] {
+    border-bottom: 1px solid white;
+}
+
+.dark .button {
+    background: white;
+    color: #051510;
+}
+
 footer {
     text-align: center;
     margin: 20px 0 0;
     padding: 20px;
 }
 
-@media screen and (max-width: 767px) {
-    body {
-        font-size: 15px;
-    }
-
+@media screen and (max-width: 700px) {
     .frame {
         width: 100%;
+    }
+
+    .small-screen-hidden {
+        display: none;
+    }
+
+    header nav li:first-child a {
+        padding: 0;
+    }
+
+    header nav img.logo {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    body {
+        font-size: 15px;
     }
 
     .episode .image {
@@ -187,10 +246,6 @@ footer {
     .episode .description {
         width: 60%;
         padding-top: 0px;
-    }
-
-    .small-screen-hidden {
-        display: none;
     }
 
     h1 {
