@@ -236,7 +236,7 @@ footer {
 
 @media screen and (max-width: 450px) {
     body {
-        font-size: 15px;
+        font-size: 17px;
     }
 
     .episode .image {
@@ -249,10 +249,10 @@ footer {
     }
 
     h1 {
-        font-size: 19px;
+        font-size: 21px;
     }
 
     h2 {
-        font-size: 17px;
+        font-size: 19px;
     }
 }
