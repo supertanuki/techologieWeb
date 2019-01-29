@@ -1,6 +1,6 @@
 body {
     font-family: Georgia, Cambria, "Times New Roman", Times, serif;
-    color: black;
+    color: #262626;
     background: white;
     font-size: 21px;
     line-height: 1.58;
@@ -179,7 +179,7 @@ section {
 
 .dark {
     color: white;
-    background: #051510;
+    background: #0a2920;
 }
 
 .dark a {
@@ -198,7 +198,7 @@ section {
 
 .dark header nav li a {
     background: #0e3f2f;
-    border-color: #051510;
+    border-color: #0a2920;
 }
 
 .dark header nav li a[aria-current] {
@@ -207,7 +207,7 @@ section {
 
 .dark .button {
     background: white;
-    color: #051510;
+    color: #0a2920;
 }
 
 footer {
