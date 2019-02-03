@@ -1,0 +1,272 @@
+body {
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  color: black;
+  background: white;
+  font-size: 21px;
+  line-height: 1.58;
+  letter-spacing: -.003em;
+  margin: 0 10px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.frame {
+  width: 700px;
+  margin: auto;
+}
+
+img.logo, .logo img {
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.episodes {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.block {
+  padding: 10px 20px;
+}
+
+.episode {
+  margin: 10px 0;
+}
+
+.block, .episode {
+  background: #ddf7ee;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.clear {
+  clear: both;
+}
+
+.episode .image {
+  width: 20%;
+  float: left;
+}
+
+.episode .image img {
+  width: 100%;
+  margin: 0;
+}
+
+.episode .description {
+  width: 70%;
+  float: left;
+  margin-left: 5%;
+  /*padding-top: 4px;*/
+}
+
+.episode .description h2 {
+  line-height: 26px;
+  margin-bottom: 0;
+}
+
+.centered {
+  text-align: center;
+}
+
+a {
+  color: darkblue;
+}
+
+a:hover {
+  color: black;
+  transition: color 0.5s;
+}
+
+a.button:hover {
+  color: #eee;
+  transition: color 0.5s;
+}
+
+h1 {
+  font-size: 27px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 23px;
+  font-weight: normal;
+}
+
+header nav li {
+  line-height: 50px;
+}
+
+header nav img.logo {
+  float: left;
+  margin: 0 10px 0 0;
+  padding: 0;
+  border-radius: 0;
+}
+
+header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+header nav ul li {
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+header nav li a {
+  line-height: 50px;
+  height: 50px;
+  border-bottom: 1px solid #eee;
+  border-right: 1px solid #fff;
+  padding: 0 10px;
+  background: #eee;
+  display: block;
+  text-decoration: none;
+}
+
+header nav li a[aria-current] {
+  border-bottom: 1px solid darkblue;
+}
+
+header nav li:first-child a {
+  padding: 0 10px 0 0;
+}
+
+header nav li:last-child a {
+  border-right: none;
+}
+
+.toggle-mode-button {
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  color: black;
+  background: white;
+  font-size: 17px;
+  line-height: 50px;
+}
+
+.float-right {
+  float: right;
+}
+
+.list-centered {
+  float: right;
+  position: relative;
+  left: -50%;
+}
+
+.button {
+  border: none;
+  cursor: pointer;
+  height: 36px;
+  font-size: 20px;
+  line-height: 36px;
+  color: white;
+  white-space: nowrap;
+  background: #0e3f2f;
+  padding: 0 10px;
+  margin: 0 5px;
+  border-radius: 4px;
+}
+
+a.button {
+  padding: 10px;
+}
+
+section {
+  margin: 15px 0;
+}
+
+.dark {
+  color: white;
+  background: #051510;
+}
+
+.dark hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+}
+
+.dark a {
+  color: white;
+}
+
+.dark a:hover {
+  color: #cccccc;
+  transition: color 0.5s;
+}
+
+.dark .block, .dark .episode {
+  background: #0e3f2f;
+  color: white;
+}
+
+.dark header nav li a {
+  background: #0e3f2f;
+  border-color: #051510;
+}
+
+.dark header nav li a[aria-current] {
+  border-bottom: 1px solid white;
+}
+
+.dark .button {
+  background: white;
+  color: #051510;
+}
+
+footer {
+  text-align: center;
+  margin: 20px 0 0;
+  padding: 20px;
+  font-size: 80%;
+}
+
+@media screen and (max-width: 700px) {
+  .frame {
+    width: 100%;
+  }
+
+  .small-screen-hidden {
+    display: none;
+  }
+
+  header nav li:first-child a {
+    padding: 0;
+  }
+
+  header nav img.logo {
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  body {
+    font-size: 17px;
+  }
+
+  .episode .image {
+    width: 30%;
+  }
+
+  .episode .description {
+    width: 60%;
+    padding-top: 0px;
+  }
+
+  h1 {
+    font-size: 21px;
+  }
+
+  h2 {
+    font-size: 19px;
+  }
+}
