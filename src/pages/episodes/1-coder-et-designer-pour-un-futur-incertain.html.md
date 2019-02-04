@@ -3,10 +3,9 @@ episode_number: 1
 title: "Coder et designer pour un futur incertain avec Marie-Cécile Paccard"
 description: "Marie-Cécile Paccard est designer et auteure des articles S'éveiller à l'effondrement et Design pour un futur incertain. On parle d'effondrement et d'éco-conception dans le design et le développement web ou logiciel."
 published_at: "2018-12-13"
-image: "../images/episodes/1-paccard.jpg"
+image: "./images/1-paccard.jpg"
 audio_link: "https://soundcloud.com/techologie/1-coder-et-designer-pour-un-futur-incertain"
 audio_size_in_megabyte: 30
-source_edit_link: "https://github.com/supertanuki/techologieWeb/blob/master/episodes/1-coder-et-designer-pour-un-futur-incertain.html"
 ---
 
 <p>

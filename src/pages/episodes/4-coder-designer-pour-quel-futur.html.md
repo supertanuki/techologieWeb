@@ -3,10 +3,9 @@ episode_number: 4
 title: "Coder, designer pour quel futur ? (talk)"
 description: "Le 15 janvier 2019, au meetup HumanTalks Paris - humantalks.com, j'ai présenté ce sujet et parler du podcast."
 published_at: "2019-01-16"
-image: "../images/episodes/4-talk.jpg"
+image: "./images/4-talk.jpg"
 audio_link: "https://soundcloud.com/techologie/4-coder-designer-pour-quel-futur-talk"
 audio_size_in_megabyte: 12
-source_edit_link: "https://github.com/supertanuki/techologieWeb/blob/master/episodes/4-coder-designer-pour-quel-futur.html"
 ---
 
 <h2>Transcript</h2>

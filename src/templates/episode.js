@@ -8,6 +8,7 @@ export default ({ data }) => {
   const episode = data.markdownRemark
   const meta = episode.frontmatter
   const title = `#${meta.episode_number} ${meta.title}`
+  const slug = episode.fields.slug
 
   return (
     <Layout>
@@ -36,7 +37,9 @@ export default ({ data }) => {
         <div dangerouslySetInnerHTML={{ __html: episode.html }} />
 
         <p className="centered">
-          <a href={meta.source_edit_link}>
+          <a
+            href={`https://github.com/supertanuki/techologieWeb/blob/master/src/pages${slug}.md`}
+          >
             Proposer une modification de cette page sur Github
           </a>
         </p>
@@ -56,7 +59,6 @@ export const query = graphql`
         published_at(formatString: "DD/MM/YYYY")
         audio_link
         audio_size_in_megabyte
-        source_edit_link
         image {
           childImageSharp {
             fixed(width: 300, height: 300) {
@@ -64,6 +66,9 @@ export const query = graphql`
             }
           }
         }
+      }
+      fields {
+        slug
       }
     }
   }

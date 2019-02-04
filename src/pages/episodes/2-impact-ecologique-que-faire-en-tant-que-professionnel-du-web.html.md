@@ -3,10 +3,9 @@ episode_number: 2
 title: "Impact écologique, que faire en tant que professionnel du web avec Raphaël Lemaire"
 description: "Raphaël Lemaire est développeur et sensibilisé depuis des années à l'éco-conception. Que faire en tant que développeur ou professionnel du web pour réduire l'impact de nos produits sur l'environnement et la consommation énergétique ?"
 published_at: "2018-12-17"
-image: "../images/episodes/2-lemaire.jpg"
+image: "./images/2-lemaire.jpg"
 audio_link: "https://soundcloud.com/techologie/2-impact-ecologique-que-faire-en-tant-que-professionnel-du-web"
 audio_size_in_megabyte: 21
-source_edit_link: "https://github.com/supertanuki/techologieWeb/blob/master/episodes/2-impact-ecologique-que-faire-en-tant-que-professionnel-du-web.html"
 ---
 
 <p><strong>Transcript réalisé par Raphaël Lemaire lui-même (mille merci !)</strong></p>
