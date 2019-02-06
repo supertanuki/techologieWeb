@@ -12,7 +12,7 @@ export default ({ data }) => {
 
   return (
     <Layout>
-      <SEO title={title} description={meta.description} />
+      <SEO title={`Techologie ${title}`} description={meta.description} />
       <div>
         <div className="centered">
           <Img fixed={meta.image.childImageSharp.fixed} className="logo" />
