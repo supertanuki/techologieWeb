@@ -433,7 +433,6 @@ Alors là tu poses un autre problème, le jeunisme dans notre profession mais l�
 Merci Nicolas d'avoir partager ton expérience de jardin partagé à Paris et ta vie de développeur et à bientôt.
 </strong></p>
 
-
 <p>Merci de m'avoir inviter, c'était une expérience très enrichissante ! Salut !</p>
 
 <div class="block">

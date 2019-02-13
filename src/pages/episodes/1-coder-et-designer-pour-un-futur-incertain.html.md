@@ -1286,10 +1286,6 @@ rendez vous sur mon site pour discuter
 design, technologie ou tout ça, voilà.
 </p>
 
-<p><strong>J'espère à très bientôt.</strong></p>
-
-<p>Merci à bientôt !</p>
-
 <div class="block">
 <p>Pour en savoir plus :</p>
 
