@@ -320,6 +320,57 @@ c'est pas de moi : demain, on limite tous notre connexion à 1 méga. Qu'est-ce 
 
 Oui il y a un peu de ça, vous vous souvenez du tollé que ça avait fait ?
 
+**Surtout nous les développeurs, on gueulait là dessus. Certains ont changé d'opérateur.**
+
+Moi le premier qui était un fan absolu de Free de la première heure, et qui est toujours freenaute pour
+différentes raisons.
+
+**On a donc connu ce problème et c'est peut-être quelque chose qu'on va connaitre à nouveau.**
+
+Donc je pense que sans contrainte on aura pas de solution. La chance qu'on a c'est qu'en France on a beaucoup
+d'ingénieurs qui savent très bien de manière culturelle faire de l'optimisation sous contraintes. On lançait des
+fusées dans l'espace avec pas tant de moyens que ça. On saurait faire plein de choses.
+Tout à l'heure je parlais de co-responsabilité. La responsabilité peut être à hauteur du pouvoir qu'on a ou de
+l'effet de levier qu'on a. Tocqueville l'a démontré. En fait, ce qui fait bouger la société, ce sont les corps
+intermédiaires : les institutions, les entreprises. Dis autrement, l'individu tout seul ne peut pas faire changer
+le système. Donc c'est la grande leçon qu'on tire du Petit manuel de résistance contemporaire de Cyril Dion. C'est
+quelqu'un qui a travaillé dans des ONG, il a travaillé sur le boycott. Si on boycotte tous Danone en France ils
+vont forcément pivoter leur logique industrielle vers des yaourts moins polluants et meilleurs pour la planète.
+Cela ne marche pas en fait. Il n'y a que 5% qui modifie son comportement mais ce n'est pas suffisant. Les
+comportements individuels sont très importants pour conscientiser le problème et faire sa part. Mais pour changer
+le système, il faut avoir une alternative qui est proposée aux corps intermédiaires. Donc il faut s'organiser
+ensemble pour faire les choses différentes. Faire une Scop si on n'a plus envie de travailler dans une entreprise
+du CAC40, s'organiser différemment.
+
+**Qu'est ce que tu fais au quotidien dans ton travail à la SNCF ?**
+
+Je suis dans l'oeil du cyclone, je fais de la transformation digitale. Encore une fois, je parle en mon nom et non
+au nom de mon employeur. Donc j'essayer d'appliquer au quotidien les principes de la sobriété numérique. Par
+contre ce n'est pas une démarche qui est, en tout cas dans mon service, sur la transformation digitale, il y a des
+gens qui en parlent mais ce n'est pas encore dans le quotidien des équipes de développement et des chefs de
+projets. À titre personnel je peux vous donner un exemple de ce que j'ai fait ces dernières années. Vous avez
+peut-être vu il y a 3 ou 4 ans, les bornes de la SNCF qui étaient jaune sont devenues blanches, à ce moment là on
+a refait toute l'IHM, toute l'interface, avec AngularJS et avec Firefox, des supers technos. Il s'est posé la
+question de refaire ça avec la borne existante ou on jette la borne à la poubelle et on en construit une autre.
+Avec un peu de lobbying interne et la démonstration que c'était plus intelligent de conserver les bornes, on a
+réussi à ne pas jeter à la poubelle les 1000 tonnes que constituaient notre parc et à refaire avec l'existant. On
+a changé de PC à l'intérieur puisqu'il ne permettait plus d'exécuter, je dirais un client lourd / léger avec du
+Javascript riche mais permettait tout à faire de répondre à l'ensemble des besoins sans avoir à changer la
+carcasse et à mettre des milliers de tonnes de métal en recyclage.
+Un autre exemple, on a des contrats de prestation dans le nuage. J'essaye de regarder que certains nombres
+d'élements soient décrits sur la sobriété numérique, typiquement l'efficacité énergétique des data-center qu'on
+appelle le PUE, pour vérifier qu'elle est dans des seuils admissibles, donc autour de 1,7. Ce n'est pas toujours
+facile. L'Europe nous aide, parce qu'elle a signé un code de conduite des data-center mais ce sont des discussions
+qui ne sont pas naturelles dans les négociations contractuelles. Et là en tant que gros responsable d'une partie
+de la commande publique, puisque l'argent de la SNCF c'est l'argent du contribuable, et tout ce qu'on gagne est
+rendu au contribuable, et bien c'est intéressant d'intégrer les critères énergétiques et environnementaux dans nos
+appels d'offres.
+
+**Dans les précédents épisodes, on parlait que le développeur doit prendre ses responsabilités et par ses décisions
+de conception, aller vers une application plus sobre, plus performante et économe en énergie. Mais est-ce qu'on
+reporte pas la responsabilité, et un peu de culpabilité finalement sur le développeur. Alors que le décideur, le
+manager ou le gérant de l'entreprise doivent également prendre leurs responsabilités ?**
+
 _Transcript en cours de rédaction..._
 
 <div class="block">
