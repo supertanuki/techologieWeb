@@ -12,9 +12,9 @@ Pour participer au manifeste, rendez-vous ici : [github.com/climanifeste/climani
 
 ## Transcript
 
-Écrit par Jean-François lui-même (mille merci !)
+Écrit par Jean-François lui-même (mille mercis !)
 
-**Jean-François Fourmond tu est développeur Java depuis 2005 et indépendant depuis 2015.
+**Jean-François Fourmond tu es développeur Java depuis 2005 et indépendant depuis 2015.
 Depuis quand tu t'intéresses à l'écologie et au réchauffement climatique ?**
 
 Depuis longtemps. Je m'intéresse à l'écologie depuis que je suis adulte. C'est un intérêt qui était un peu
@@ -213,6 +213,7 @@ maintenant.
 <div class="block">
 En savoir plus :
 
+* Manifeste écologique des professionnels de l'informatique : [github.com/climanifeste/climanifeste](https://github.com/climanifeste/climanifeste)
 * Le blog de Jean-François : [jffourmond.github.io](http://jffourmond.github.io)
 * Bonnes pratiques écologiques : [github.com/jffourmond/ecologit](https://github.com/jffourmond/ecologit)
 * Pour un réveil écologique lancé par les étudiants de grandes écoles : [pour-un-reveil-ecologique.fr](https://pour-un-reveil-ecologique.fr)

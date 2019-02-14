@@ -8,7 +8,7 @@ audio_link: "https://soundcloud.com/techologie/2-impact-ecologique-que-faire-en-
 audio_size_in_megabyte: 21
 ---
 
-<p><strong>Transcript réalisé par Raphaël Lemaire lui-même (mille merci !)</strong></p>
+<p><strong>Transcript réalisé par Raphaël Lemaire lui-même (mille mercis !)</strong></p>
 
 <p>
 <strong>Aujourd'hui, on est avec Raphaël Lemaire. Est-ce que tu peux nous parler de ce que tu fais au quotidien,
