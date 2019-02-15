@@ -371,6 +371,50 @@ de conception, aller vers une application plus sobre, plus performante et écono
 reporte pas la responsabilité, et un peu de culpabilité finalement sur le développeur. Alors que le décideur, le
 manager ou le gérant de l'entreprise doivent également prendre leurs responsabilités ?**
 
+Je le redis, la culpabilité ne sert à rien. Il faut la remplacer par la notion de co-responsabilité. C'est à dire
+que le développeur dans son coin a une part de la responsabilité : la performance opérationnelle de son site,
+qu'il soit environnemental, énergétique et en temps de réponse. Est-ce que je sauvegarde une info en mémoire vive
+ou est-ce que je la range quelque part pour la ressortir quand j'en ai besoin. Qu'est-ce que je peux mettre en
+accessible pas au premier clic mais plus loin dès qu'on en a vraiment besoin. Il y a un certains nombres
+d'arbitrages qu'on peut faire. Une partie de la réponse c'est questionner l'usage. Une deuxième partie de la
+réponse c'est appliquer les bonnes pratiques. Pour les bonnes pratiques, je vous renvoie à un référentiel, les 115
+bonnes pratiques de l'éco-conception logicielle qui est fait par des gens de GreenIT. C'est le plus souvent du bon
+sens. Quand on regarde ce qui est effectivement fait, c'est très contrasté dans la réalité. Pour de bonnes
+raisons. Quand on met une date limite pour sortir un site, si le site répond mais en seulement 4 secondes pour
+afficher 300 commentaires alors qu'on a besoin des 10 premiers commentaires, le client sera plus content que si le
+site est livré un mois plus tard avec des temps de réponse bien meilleure.
+Il y a une injonction de produire qui fait que ce n'est pas toujours facile de mettre en place de l'optimisation
+ou des bonnes pratiques d'éco-conception.
+Sur l'usage, il faut réfléchir au besoin. On peut faire le logiciel qui fait tout mais à un moment donné il vaut
+mieux faire un logiciel ou un site web qui s'adapte exactement au besoin.
+On écoute le client pour voir de quoi il a besoin. Est-ce que ses articles doivent être conservés 3 ans ou 10 ans
+? France-Culture par exemple conserve ses podcasts pendant 1000 jours. Cette règle a l'avantage de ne pas
+encombrer des serveurs ad vitam eternam.
+
+**J'y réfléchirai aussi pour ce podcast.**
+
+**J'ai discuté avec pas mal de développeurs qui souhaient changer leur quotidien et travailler pour des sociétés
+plus éthiques et plus écologiques, sauf que ça ne court pas les rues. Je pense qu'il faut déjà au sein de nos
+boites peu éthiques, peu sensibilisées à l'écologie ou à l'économie de ressources, de faire un travail de lobbying
+en interne, de mettre en place des choses contraintes dans notre travail au quotidien. Essayer de faire changer
+les choses en interne, qu'est-ce que tu en penses ?**
+
+Il y a deux questions selon moi : une première question c'est moi en tant que développeur si je dois m'investir
+dans quelque chose qui est vertueux comment je peux faire ? Le message que j'ai envie de faire passer en toute
+humilité, c'est formez-vous. Aujourd'hui c'est un domaine qui est petit et qui est en pleine expansion. Il y a
+quelques sociétés qui sont spécialisées là dedans mais il y en a pas beaucoup. Apprenez des choses, allez faire
+des formations auprès de ces sociétés.
+
+**Tu parlais du livre les 115 bonnes pratiques de l'éco-conception de GreenIT...**
+
+Oui et il en a d'autres mais je ne les ais pas en tête. En fait, plus on sera nombreux à se poser ces questions
+là, plus le message sera entendu.
+
+**Encore faut-il que la formation soit acceptée par son entreprise !**
+
+Exactement. Ensuite si on est client, on peut tout à fait poser des questions lors de commandes à un prestataire.
+On peut avoir des clauses contractuelles par exemple sur où sont hébergées les données.
+
 _Transcript en cours de rédaction..._
 
 <div class="block">
