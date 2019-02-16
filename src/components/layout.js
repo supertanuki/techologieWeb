@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from '../images/techologie-logo.jpg'
+import logo from '../images/techologie-logo.png'
 import ToggleMode from './toggleMode'
 
 export default ({ children }) => {
@@ -36,7 +36,9 @@ export default ({ children }) => {
         <div className="clear" />
       </header>
 
-      {children}
+      <div className="content">
+        {children}
+      </div>
 
       <footer>
         <hr />

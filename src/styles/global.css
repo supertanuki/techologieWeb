@@ -5,7 +5,7 @@ body {
   font-size: 21px;
   line-height: 1.58;
   letter-spacing: -.003em;
-  margin: 0 10px;
+  margin: 0;
 }
 
 hr {
@@ -17,6 +17,10 @@ hr {
 .frame {
   width: 700px;
   margin: auto;
+}
+
+.content {
+  padding: 0 10px;
 }
 
 img.logo, .logo img {
@@ -62,7 +66,6 @@ img.logo, .logo img {
   width: 70%;
   float: left;
   margin-left: 5%;
-  /*padding-top: 4px;*/
 }
 
 .episode .description h2 {
@@ -74,8 +77,12 @@ img.logo, .logo img {
   text-align: center;
 }
 
+.margin-top {
+  margin-top: 20px;
+}
+
 a {
-  color: darkblue;
+  color: #093513;
 }
 
 a:hover {
@@ -133,7 +140,7 @@ header nav li a {
 }
 
 header nav li a[aria-current] {
-  border-bottom: 1px solid darkblue;
+  border-bottom: 1px solid #093513;
 }
 
 header nav li:first-child a {
@@ -170,7 +177,7 @@ header nav li:last-child a {
   line-height: 36px;
   color: white;
   white-space: nowrap;
-  background: #0e3f2f;
+  background: #093513;
   padding: 0 10px;
   margin: 0 5px;
   border-radius: 4px;
@@ -205,12 +212,12 @@ section {
 }
 
 .dark .block, .dark .episode {
-  background: #0e3f2f;
+  background: #093513;
   color: white;
 }
 
 .dark header nav li a {
-  background: #0e3f2f;
+  background: #093513;
   border-color: #051510;
 }
 

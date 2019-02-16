@@ -14,7 +14,7 @@ export default ({ data }) => {
     <Layout>
       <SEO title={`Techologie ${title}`} description={meta.description} />
       <div>
-        <div className="centered">
+        <div className="centered margin-top">
           <Img fixed={meta.image.childImageSharp.fixed} className="logo" />
         </div>
 
@@ -61,7 +61,7 @@ export const query = graphql`
         audio_size_in_megabyte
         image {
           childImageSharp {
-            fixed(width: 300, height: 300) {
+            fixed(width: 200, height: 200) {
               ...GatsbyImageSharpFixed
             }
           }

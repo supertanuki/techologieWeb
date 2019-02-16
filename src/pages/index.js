@@ -1,20 +1,20 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import Layout from '../components/layout'
-import logo from '../images/techologie-logo.jpg'
+import logo from '../images/techologie-logo.png'
 import SEO from '../components/seo'
 
 export default () => {
   return (
     <Layout>
-      <SEO title="Techologie, le podcast qui tente de lier tech et écologie alors que tout les oppose." />
+      <SEO title="Techologie, le podcast qui tente de lier tech et écologie alors que tout les oppose."/>
 
-      <div className="centered">
+      <div className="centered margin-top">
         <img
           src={logo}
           alt="Techologie"
-          width="200"
-          height="200"
+          width="340"
+          height="340"
           className="logo"
         />
 
