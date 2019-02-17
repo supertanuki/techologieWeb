@@ -1,6 +1,7 @@
 ---
 episode_number: 5
-title: "Pour une sobriété numérique avec Xavier Verne"
+title: "Pour une sobriété numérique"
+people: "Xavier Verne"
 description: "Xavier Verne est directeur projet à la SNCF, agrégé de mathématiques et membre du think tank The Shift Project. Il nous parle du rapport publié en octobre dernier « Pour une sobriété numérique », l’impact environnemental du numérique et les leviers d'action."
 published_at: "2019-01-25"
 image: "./images/5-verne.jpg"

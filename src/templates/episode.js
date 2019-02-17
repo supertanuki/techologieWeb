@@ -19,7 +19,9 @@ export default ({ data }) => {
         </div>
 
         <h1>{title}</h1>
-        <p>Publié le {meta.published_at}</p>
+        <h2>avec {meta.people}</h2>
+
+        <p><span className="label">Publié le {meta.published_at}</span></p>
 
         <div className="block">
           <p className="centered">
@@ -55,13 +57,14 @@ export const query = graphql`
       frontmatter {
         episode_number
         title
+        people
         description
         published_at(formatString: "DD/MM/YYYY")
         audio_link
         audio_size_in_megabyte
         image {
           childImageSharp {
-            fixed(width: 200, height: 200) {
+            fixed(width: 160, height: 160) {
               ...GatsbyImageSharpFixed
             }
           }

@@ -1,6 +1,7 @@
 ---
 episode_number: 4
-title: "Coder, designer pour quel futur ? (talk)"
+title: "Coder, designer pour quel futur ?"
+people: "Richard Hanna"
 description: "Le 15 janvier 2019, au meetup HumanTalks Paris - humantalks.com, j'ai présenté ce sujet et parler du podcast."
 published_at: "2019-01-16"
 image: "./images/4-talk.jpg"

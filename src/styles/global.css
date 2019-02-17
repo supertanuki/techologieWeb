@@ -44,7 +44,6 @@ img.logo, .logo img {
 
 .block, .episode {
   background: #ddf7ee;
-  border-radius: 20px;
   overflow: hidden;
 }
 
@@ -54,7 +53,27 @@ img.logo, .logo img {
 
 .episode .image {
   width: 20%;
-  float: left;
+  float: right;
+}
+
+.label {
+  font-size: 14px;
+  background: #ddf7ee;
+  padding: 4px 6px;
+  margin-right: 5px;
+  white-space: nowrap;
+}
+
+.dark .label {
+  background: #0b4418;
+}
+
+.episode .label {
+  background: #ffffff;
+}
+
+.dark .episode .label {
+  background: #051510;
 }
 
 .episode .image img {
@@ -65,12 +84,12 @@ img.logo, .logo img {
 .episode .description {
   width: 70%;
   float: left;
-  margin-left: 5%;
+  margin: 0 10px 10px;
 }
 
 .episode .description h2 {
   line-height: 26px;
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 
 .centered {
@@ -82,7 +101,7 @@ img.logo, .logo img {
 }
 
 a {
-  color: #093513;
+  color: #0b4418;
 }
 
 a:hover {
@@ -97,12 +116,12 @@ a.button:hover {
 
 h1 {
   font-size: 27px;
-  font-weight: normal;
+  font-weight: bolder;
 }
 
 h2 {
   font-size: 23px;
-  font-weight: normal;
+  font-weight: bolder;
 }
 
 header nav li {
@@ -140,7 +159,7 @@ header nav li a {
 }
 
 header nav li a[aria-current] {
-  border-bottom: 1px solid #093513;
+  border-bottom: 1px solid #0b4418;
 }
 
 header nav li:first-child a {
@@ -177,7 +196,7 @@ header nav li:last-child a {
   line-height: 36px;
   color: white;
   white-space: nowrap;
-  background: #093513;
+  background: #0b4418;
   padding: 0 10px;
   margin: 0 5px;
   border-radius: 4px;
@@ -212,12 +231,12 @@ section {
 }
 
 .dark .block, .dark .episode {
-  background: #093513;
+  background: #0b4418;
   color: white;
 }
 
 .dark header nav li a {
-  background: #093513;
+  background: #0b4418;
   border-color: #051510;
 }
 

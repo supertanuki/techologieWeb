@@ -1,6 +1,7 @@
 ---
 episode_number: 3
-title: "Permaculture et agilité avec Nicolas Bétheuil"
+title: "Permaculture et agilité"
+people: "Nicolas Bétheuil"
 description: "Nicolas Bétheuil est développeur. Il a appris simultanément la permaculture dans sa vie personnel et l'agilité dans sa vie professionnelle. Il a remarqué de nombreuses similitudes entre agriculture respectueuse de la nature et l'agilité en entreprise, notamment les pratiques Scrum et XP, Extreme Programming."
 published_at: "2018-12-28"
 image: "./images/3-betheuil.jpg"
