@@ -86,7 +86,7 @@ pas vraiment. Donc il y a un problème de formation. Peut-être que le manifeste
 les gens se forment à ses problématiques-là ?**
 
 Qu'est-ce qu'on peut faire ? Je pense que l'impact le plus important qu'un développeur puisse avoir, c'est côté
-front. Parce que les pages web sont énormes. Un site web aujourd'hui pèse autant que les programmes qui ont service
+front. Parce que les pages web sont énormes. Un site web aujourd'hui pèse autant que les programmes qui ont servi
 à aller sur la Lune, c'est un peu délirant. C'est là qu'il y a le plus de marge de manœuvre je pense. Moi je suis
 développeur back-end. J'ai quand même un peu de mal à voir comment je pourrais optimiser l'efficacité énergétique de
 mes serveurs... enfin si, je vois mais c'est quelque chose qui est pour moi un peu dérisoire. Mais c'est nécessaire
