@@ -416,6 +416,46 @@ là, plus le message sera entendu.
 Exactement. Ensuite si on est client, on peut tout à fait poser des questions lors de commandes à un prestataire.
 On peut avoir des clauses contractuelles par exemple sur où sont hébergées les données.
 
+Encore faut-il que la formation soit acceptée par son entreprise !
+
+Exactement. Ensuite si on est client, on peut tout à fait poser des questions lors de commandes à un
+prestataire. On peut avoir des clauses contractuelles par exemple où sont hébergées les données ? Au lieu
+d'héberger nos données aux États-Unis, rapatrions les données dans un lieu plus proche pour limiter les accès à
+l'autre bout de la planète. Dans ses activités, le professionnel dans le numérique doit se poser ce genre de
+question quand il utilise des ressources informatiques.
+
+Faut-il changer le système de l'intérieur ou de l'extérieur ? Cette question est mal posée selon moi. Mon
+opinion personnelle est celle là : la démarche personnelle qui consiste à changer le système de l'intérieur est
+essentielle. Pour faire sa part et pour comprendre la problématique sociétale dont il est question, il faut en
+faire l'expérience soi-même. Est-ce que j'ai besoin d'une deuxième voiture ? Est-ce que pour Noël je vais
+accepter que mon enfant ait des objets électroniques dont certains vont partir à la poubelle dans deux mois ?
+Ais-je vraiment besoin d'un sèche-linge au lieu d'étendre le linge et attendre deux jours en hiver qu'il sèche ?
+Il faut se poser la question dans son quotidien. C'est la démarche individuelle.
+
+Concernant la démarche collective, j'ai tendance à penser que si on travaille dans un grand groupe qui n'a aucun
+intérêt à toucher au business, tant qu'il rapporte et tant qu'il n'y a pas de contraintes réglementaires ou
+financières... Il y a deux types de contraintes : soit il y a des contraintes réglementaires qui vous oblige
+à..., soit il y a des contraintes financières d'accès à la ressource. Si vous voulez toucher au business, de
+l'intérieur c'est très difficile. Apple dont le business est vous vendre du matériel, dont le coût de
+construction est de 200€ et le prix de vente est de 750€ d'un iPhone moyen, n'a aucun intérêt à vendre moins de
+terminaux. Leur business est en contraction directe avec la sobriété. Vous allez vous retrouver en conflit de
+valeur au quotidien et votre employeur va vous dire "oui c'est très bien mais fais ça dans ton coin, ça concerne
+pas l'entreprise".
+
+Encore une fois, je ne parle pas au nom de la SNCF, au sein de laquelle de choses très intéressantes se font. Et
+puis je ne veux pas stigmatiser Apple, c'est un problème sociétale. Mais si vous touchez au business, c'est
+difficile et vous allez vous épuisez.
+
+Donc proposition, c'est un vrai champ d'exploration : l'agilité est à la mode, le numérique est à la mode, il y
+a probablement des boites à monter, des agences web éthique c'est à dire qui vont réfléchir en questionnant
+l'usage et d'être au plus près des besoins, d'avoir un label "éco-conçu" et rendre par la même occasion un
+service à la planète. Ou trouver des moyens pour réduire les flux et en besoin de ressources. Il y a tout un
+éco-système à créer.
+
+**Et le sabotage entre guillemet ? Je discutais avec un développeur qui dit qu'il y a pénurie de développeuses et
+de développeurs et si on pénalise les entreprises qui ne veulent pas faire d'effort en les quittant et en ne
+travaillant pas pour elles ?**
+
 _Transcript en cours de rédaction..._
 
 <div class="block">
