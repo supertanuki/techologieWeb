@@ -456,7 +456,23 @@ service à la planète. Ou trouver des moyens pour réduire les flux et en besoi
 de développeurs et si on pénalise les entreprises qui ne veulent pas faire d'effort en les quittant et en ne
 travaillant pas pour elles ?**
 
-_Transcript en cours de rédaction..._
+Les étudiants d'écoles d'ingénieur viennent de rédiger un manifeste qui dit que si vous êtes une entreprise
+qui n'entends pas ce message écologique et bien je n'ai pas envie de travailler pour vous. C'est un choix
+fort, individuel et c'est un message. Pour moi la force de ce message vient du collectif. Oui à titre
+individuel, vous pouvez quitter une entreprise, quelqu'un finira par prendre votre place. Actuellement il y a
+une tension sur le marché de l'informatique. Cette tension va se résorber tôt ou tard. Il ne faut pas
+s'appuyer là dessus. Il faut se dire comment on se positionne collectivement pour faire émerger la prise de
+conscience.
+
+**Pour finir, quelle sera ta prochaine actualité avec le Shift Project ?**
+
+Avec le Shift, on prépare la suite du rapport. Cela n'a pas encore tout à fait démarrer. C'est en gestation et
+on a envie d'avancer. Le rapport sur la Sobriété numérique a eu énormément d'impact. Les chiffres sont repris.
+On reçoit des questions. C'est super intéressant. Le sujet prend. Il y aura probablement soit des publications
+ponctuelles, soit une version 2 pour traiter des sujets qu'on n'a pas eut le temps de creuser. J'aime aussi de
+temps en temps faire des analyses plus ciblées. Je vais m'intéresser à la 5G en 2019. Parce que la 5G c'est de
+nouveau la promesse qu'on va résoudre tout nos problèmes. Et en fait quand on creuse, ce n'est absolument pas
+évident.
 
 <div class="block">
 En savoir plus :
