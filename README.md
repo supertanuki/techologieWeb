@@ -1,5 +1,13 @@
 # Techologie website
 
+Install Gatsby-cli:
+
+    $ sudo npm install --global gatsby-cli
+
+Install:
+
+    $ npm install
+
 Start:
 
     $ gatsby develop
