@@ -34,7 +34,7 @@ la pétition L'Affaire du Siècle qui a fait 2 millions de signataires. Et derni
 Fing pour réinventer le numérique. Tu peux nous dire en quoi consiste le manifeste que tu proposerais ?**
 
 Oui, tout ça, ça donne des idées. Quand on voit qu'il y a 2 millions de signatures pour L'Affaire du Siècle, on a
-l'impression que le sujet, ça y est, intéresse le plus grand nombre. Mmais concrètement, dans ma vie de tous les
+l'impression que le sujet, ça y est, intéresse le plus grand nombre. Mais concrètement, dans ma vie de tous les
 jours, j'ai l'impression que tout le monde s'en fout toujours, donc le but de mon manifeste est d'aller essayer de
 toucher les derniers résistants, les dernières personnes qui ne seraient pas encore convaincues de l'urgence de se
 battre contre le réchauffement climatique. Et moi en tant qu'informaticien, je m'adresse aux informaticiens. C'est
