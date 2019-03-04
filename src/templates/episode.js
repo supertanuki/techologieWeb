@@ -14,12 +14,13 @@ export default ({ data }) => {
     <Layout>
       <SEO title={`Techologie ${title}`} description={meta.description} />
       <div>
+        <h1>{title}</h1>
+
         <div className="centered margin-top">
           <Img fixed={meta.image.childImageSharp.fixed} className="logo" />
         </div>
 
-        <h1>{title}</h1>
-        <h2>avec {meta.people}</h2>
+        <h2 className="centered">avec {meta.people}</h2>
 
         <p><span className="label">Publié le {meta.published_at}</span></p>
 
