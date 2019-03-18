@@ -81,5 +81,8 @@ export default () => (
       </a>
       .
     </p>
+    <p>
+      Le logo de Techologie a été créé par <a href="https://www.behance.net/matharet">Stéphanie Matharet</a>.
+    </p>
   </Layout>
 )
