@@ -1,6 +1,5 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from '../images/techologie-logo.png'
 import ToggleMode from './toggleMode'
 
 export default ({ children }) => {
@@ -10,16 +9,7 @@ export default ({ children }) => {
         <nav>
           <ul>
             <li>
-              <Link to={`/`}>
-                <img
-                  src={logo}
-                  alt="Techologie"
-                  width="50"
-                  height="50"
-                  className="logo"
-                />
-                <span className="small-screen-hidden"> Accueil</span>
-              </Link>
+              <Link to={`/`}>🎙 Techologie</Link>
             </li>
             <li>
               <Link to={`/episodes.html`}>Épisodes</Link>
@@ -27,7 +17,7 @@ export default ({ children }) => {
             <li>
               <Link to={`/a-propos.html`}>À propos</Link>
             </li>
-            <li>
+            <li className="small-screen-hidden">
               <Link to={`/ailleurs.html`}>Ailleurs</Link>
             </li>
           </ul>
