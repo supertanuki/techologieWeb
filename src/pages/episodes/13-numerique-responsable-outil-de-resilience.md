@@ -39,7 +39,7 @@ _À venir._
 En savoir plus :
 
 * [Green IT](https://www.greenit.fr/)
-* [Collectif conception responsable numérique](https://collectif.greenit.fr/)
+* [Collectif conception responsable numérique](https://www.conception-numerique-responsable.com/)
 * [MeetUp GreenTech verte 2019](https://www.greenit.fr/agenda/greentech-verte-meetup-2019/)
 
 </div>
