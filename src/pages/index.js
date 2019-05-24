@@ -45,7 +45,13 @@ export default ({data}) => {
             href="https://itunes.apple.com/fr/podcast/techologie/id1446844143?mt=2"
             className="button"
           >
-            Apple Podcasts
+            Apple
+          </a>
+          <a
+            href="https://open.spotify.com/show/4UWIXYVgM4SHzDLHarxFqs?si=5biELlz2SJeV1-BAuP4csQ"
+            className="button"
+          >
+            Spotify
           </a>
         </p>
       </div>
