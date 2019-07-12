@@ -33,7 +33,7 @@ export default ({ data }) => {
           <p>{meta.description}</p>
           <p>
             En écoutant cet épisode, vous téléchargerez{' '}
-            {meta.audio_size_in_megabyte} Mo de données.
+            {meta.audio_size_in_megabyte} Mo de données ce qui émettra {meta.audio_size_in_megabyte} gCO<sub>2</sub>eq.
           </p>
         </div>
 
