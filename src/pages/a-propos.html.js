@@ -11,32 +11,23 @@ export default () => (
     <p>Bonjour,</p>
 
     <p>
-      Je suis <a href="https://twitter.com/richardhanna">Richard Hanna</a>,
-      développeur passionné depuis 1996. Je suis né en Guadeloupe, une île
-      impactée directement par les changements climatiques (montée du niveau de
-      la mer, ouragans) et les pollutions, le{' '}
-      <a href="https://fr.wikipedia.org/wiki/Chlord%C3%A9cone_dans_les_Antilles_fran%C3%A7aises">
-        chlordécone
-      </a>{' '}
-      notamment.
+      Ce podcast est animé par la coopérative <a href="http://fairness.works/">Fairness</a>.
+        Le logo a été créé par <a href="https://www.behance.net/matharet">Stéphanie Matharet</a>.
     </p>
 
     <p>
-      J'ai découvert que très récemment les{' '}
+      Vous connaissez peut être déjà les{' '}
       <a href="https://fr.wikipedia.org/wiki/Th%C3%A9ories_sur_les_risques_d%27effondrement_de_la_civilisation_industrielle">
         théories sur les risques d'effondrement de la civilisation industrielle
-      </a>
-      . L'économie du numérique a un impact sur l'environnement et donc prend
-      part dans cet effondrement. En France par exemple, le numérique est
+      </a>. L'urgence climatique est là et il faut l'avouer, à tous les niveaux de notre société, peu de choses ne bougent.
+        Le numérique a un impact sur l'environnement. En France par exemple, le numérique est
       responsable de{' '}
       <a href="https://www.ademe.fr/expertises/batiment/passer-a-laction/elements-dequipement/technologies-linformation-communication-tic">
         13,5 % de la consommation d’électricité
-      </a>
-      . Au niveau mondial il représente{' '}
+      </a>. Au niveau mondial il représente{' '}
       <a href="https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/">
         3,7 % des émissions de gaz à effet de serre
-      </a>
-      .
+      </a>.
     </p>
 
     <p>
@@ -49,8 +40,8 @@ export default () => (
     </p>
 
     <p>
-      Quel monde allons-nous laisser à nos enfants (j'en ai deux) ? Et la
-      réciproque est vraie. Quels enfants allons-nous laisser au monde ?
+      Quel monde allons-nous laisser à nos enfants ? Et la réciproque est vraie.
+        Quels enfants allons-nous laisser au monde ?
     </p>
 
     <div className="block">
@@ -67,7 +58,7 @@ export default () => (
     </div>
 
     <p>
-      Pour me contacter, le compte Twitter du podcast :{' '}
+      Le compte Twitter du podcast :{' '}
       <a href="https://twitter.com/techologieAudio">@TechologieAudio</a>.
     </p>
     <p>
@@ -80,9 +71,6 @@ export default () => (
         licence Creative Commons CC BY-NC-SA 3.0
       </a>
       .
-    </p>
-    <p>
-      Le logo de Techologie a été créé par <a href="https://www.behance.net/matharet">Stéphanie Matharet</a>.
     </p>
   </Layout>
 )
