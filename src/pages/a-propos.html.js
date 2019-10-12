@@ -11,7 +11,7 @@ export default () => (
     <p>Bonjour,</p>
 
     <p>
-      Ce podcast est animé par la coopérative <a href="http://fairness.works/">Fairness</a>.
+      Ce podcast est animé par les coopérateurs de <a href="http://fairness.coop/">Fairness</a>.
         Le logo a été créé par <a href="https://www.behance.net/matharet">Stéphanie Matharet</a>.
     </p>
 
@@ -30,19 +30,12 @@ export default () => (
       </a>.
     </p>
 
-    <p>
-      Comment nous, professionnels dans la tech ou dans l'économie du numérique,
+    <ul>
+      <li>Comment nous, professionnels dans la tech ou dans l'économie du numérique,
       développeurs ou développeuses, designers, startups, etc, pouvons-nous agir
-      pour limiter notre consommation d'énergie et l'impact sur l'environnement
-      ? J'ai lancé ce podcast pour faire intervenir des personnes qui en
-      parlent. L'objectif très clair est de faire réfléchir, vous faire
-      réfléchir, sur les choses que nous concevons.
-    </p>
-
-    <p>
-      Quel monde allons-nous laisser à nos enfants ? Et la réciproque est vraie.
-        Quels enfants allons-nous laisser au monde ?
-    </p>
+        pour limiter notre consommation de ressources informatiques et l'impact sur l'environnement ?</li>
+      <li>Comment peut-on mettre la tech au service de l'intérêt général ?</li>
+    </ul>
 
     <div className="block">
       <p>Comment suivre et donner un coup de pouce à ce podcast ?</p>
