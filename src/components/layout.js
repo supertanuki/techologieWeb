@@ -36,7 +36,7 @@ export default ({ children }) => {
           Suivre le podcast sur{' '}
           <a href="https://twitter.com/techologieAudio">Twitter</a> |{' '}
           <a href="https://www.facebook.com/techologieAudio">Facebook</a> |{' '}
-          <a href="https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLWExNjQyNDM0MTA2MzFhMDc1NjllMjM5MWE1NzRlMmNlZGNjZjEyNDFlYjljOTM3NTRhNWE2ZjQ0MWYzOTE3YjM">
+          <a href="https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM">
             Slack
           </a>
         </p>
