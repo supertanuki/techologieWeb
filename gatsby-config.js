@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Techologie`,
     description: `Le podcast qui tente de lier tech et écologie alors que tout les oppose`,
-    author: `@richardhanna`,
+    author: `Fairness`,
+    siteUrl: `https://techologie.net`,
   },
   plugins: [
     `gatsby-plugin-emotion`,
