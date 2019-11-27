@@ -14,7 +14,7 @@ export default ({ data }) => {
     <Layout>
       <SEO title={`Techologie ${title}`} description={meta.description} />
       <div>
-        <h1>{title}</h1>
+        <h1 className="centered">{title}</h1>
 
         <div className="centered margin-top">
           <Img fixed={meta.image.childImageSharp.fixed} className="logo" />
@@ -22,20 +22,18 @@ export default ({ data }) => {
 
         <h2 className="centered">avec {meta.people}</h2>
 
-        <p><span className="label">Publié le {meta.published_at}</span></p>
+        <p className="centered"><span className="label">Publié le {meta.published_at}</span></p>
 
         <div className="block">
-          <p className="centered">
-            <a href={meta.audio_link} className="button">
-              Écouter
-            </a>
-          </p>
           <p>{meta.description}</p>
           <p>
             En écoutant cet épisode, vous téléchargerez{' '}
             {meta.audio_size_in_megabyte} Mo de données ce qui émettra {meta.audio_size_in_megabyte} gCO<sub>2</sub>eq.
           </p>
         </div>
+        <a href={meta.audio_link} className="button">
+          Écouter
+        </a>
 
         <div dangerouslySetInnerHTML={{ __html: episode.html }} />
 
@@ -43,7 +41,7 @@ export default ({ data }) => {
           <a
             href={`https://github.com/supertanuki/techologieWeb/blob/master/src/pages${slug}.md`}
           >
-            Proposer une modification de cette page sur Github
+            Proposer une modification de cette page
           </a>
         </p>
       </div>

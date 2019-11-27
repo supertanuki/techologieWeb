@@ -23,11 +23,6 @@ hr {
   padding: 0 10px;
 }
 
-img.logo, .logo img {
-  border-radius: 20px;
-  overflow: hidden;
-}
-
 .episodes {
   list-style: none;
   margin: 0;
@@ -58,14 +53,14 @@ img.logo, .logo img {
 
 .label {
   font-size: 14px;
-  background: #ddf7ee;
+  background: #eeeeee;
   padding: 4px 6px;
   margin-right: 5px;
   white-space: nowrap;
 }
 
 .dark .label {
-  background: #333;
+  background: #000;
 }
 
 .episode .label {
@@ -187,8 +182,8 @@ header nav li:last-child a {
   white-space: nowrap;
   background: #333;
   padding: 0 10px;
-  margin: 0 5px;
-  border-radius: 4px;
+  display: block;
+  text-align: center;
 }
 
 a.button {
