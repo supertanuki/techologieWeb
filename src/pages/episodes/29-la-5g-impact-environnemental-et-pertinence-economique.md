@@ -50,7 +50,7 @@ Le dépliement tout azimut de la 5G est de nature à prolonger voire à accélé
 
 **C'est un bon exemple du paradoxe de Jevons, l'effet rebond : plus c'est efficient, plus on l'utilise.**
 
-Absolument, ce phénomène est au coeur de la problématique environnemental du numérique. Sur la 5G, on va l'observer. C'est d'autant plus frustrant qu'à l'échelle de quelques années, la 5G ne va pas permettre de déclencher des usages véritablement innovants. Elle va permettre de faire plus vite ou de façon plus riche ce que l'on fait déjà. Elle va permettre de télécharger un film en quelques secondes au lieu d'une minute. Elle va permettre de regarder des films en 4K au lieu de les regarder en HD. Même si sur un écran de smartphone, cela ne va pas faire beaucoup de différence. Elle va permettre, miracle, de passer aux jeux en ligne, en réalité virtuelle. Tout cela sont des usages dont on peut se demander s'il faut forcément les intensifier compte tenu des enjeux environnementaux que nous avons par ailleurs.
+Absolument, ce phénomène est au coeur de la problématique environnementale du numérique. Sur la 5G, on va l'observer. C'est d'autant plus frustrant qu'à l'échelle de quelques années, la 5G ne va pas permettre de déclencher des usages véritablement innovants. Elle va permettre de faire plus vite ou de façon plus riche ce que l'on fait déjà. Elle va permettre de télécharger un film en quelques secondes au lieu d'une minute. Elle va permettre de regarder des films en 4K au lieu de les regarder en HD. Même si sur un écran de smartphone, cela ne va pas faire beaucoup de différence. Elle va permettre, miracle, de passer aux jeux en ligne, en réalité virtuelle. Tout cela sont des usages dont on peut se demander s'il faut forcément les intensifier compte tenu des enjeux environnementaux que nous avons par ailleurs.
 
 **Qui va payer la facture ? Derrière cette question, c'est la question économique. Avec ce boom de la consommation énergétique, nos forfaits mobiles n'augmentant pas, qui payera la facture ?**
 
@@ -108,7 +108,7 @@ Je dirai qu'on ne peut pas arrêter le progrès mais on peut essayer de le redé
 
 **Quelles sont les prochaines actualités du Shift Project ?**
 
-Sur les travaux sur le numérique, on passera des constats aux propositions. L'évolution de l'empreinte environnementale du numérique est devenu un problème. Les solutions ont consisté à comprendre comment on peut modifier nos usages, nos comportements, pour revenir sur une trajectoire compatible avec les engagements de la COP21. Cela sera l'objectif du rapport qui devrait être publié en juin 2020. Ce ne seront pas des recettes de cuisine mais ce rapport tentera d'outiller les acteurs, que ce soit des entreprises, les collectivités locales, les politiques publiques ou le grand public, pour que le principe de sobriété numérique puisse être mis en œuvre.
+Sur les travaux sur le numérique, on passera des constats aux propositions. L'évolution de l'empreinte environnementale du numérique est devenue un problème. Les solutions ont consisté à comprendre comment on peut modifier nos usages, nos comportements, pour revenir sur une trajectoire compatible avec les engagements de la COP21. Cela sera l'objectif du rapport qui devrait être publié en juin 2020. Ce ne seront pas des recettes de cuisine mais ce rapport tentera d'outiller les acteurs, que ce soit des entreprises, les collectivités locales, les politiques publiques ou le grand public, pour que le principe de sobriété numérique puisse être mis en œuvre.
 
 <div class="block">
 
