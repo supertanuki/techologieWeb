@@ -4,7 +4,7 @@ import Layout from '../components/layout'
 import logo from '../images/techologie-logo.png'
 import SEO from '../components/seo'
 
-export default ({}) => {
+export default () => {
     return (
         <Layout>
             <SEO title="Techologie, le podcast qui tente de lier tech et écologie alors que tout les oppose."/>
