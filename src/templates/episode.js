@@ -26,10 +26,6 @@ export default ({ data }) => {
 
         <div className="block">
           <p>{meta.description}</p>
-          <p>
-            En écoutant cet épisode, vous téléchargerez{' '}
-            {meta.audio_size_in_megabyte} Mo de données ce qui émettra {meta.audio_size_in_megabyte} gCO<sub>2</sub>eq.
-          </p>
         </div>
         <a href={meta.audio_link} className="button">
           Écouter
@@ -37,6 +33,12 @@ export default ({ data }) => {
 
         <div dangerouslySetInnerHTML={{ __html: episode.html }} />
 
+        <p>
+        </p>
+        <p className="centered">
+          En écoutant cet épisode, vous téléchargerez{' '}
+          {meta.audio_size_in_megabyte} Mo de données.
+        </p>
         <p className="centered">
           <a
             href={`https://github.com/supertanuki/techologieWeb/blob/master/src/pages${slug}.md`}
