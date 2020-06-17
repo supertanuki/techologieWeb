@@ -33,7 +33,10 @@ export default ({ children }) => {
       <footer>
         <hr />
         <p>
-          Suivre le podcast sur{' '}
+          Podcast de la sélection <a href="https://www.imagotv.fr/">IMAGO</a>
+        </p>
+        <p>
+          Nous suivre sur{' '}
           <a href="https://twitter.com/techologieAudio">Twitter</a> |{' '}
           <a href="https://www.facebook.com/techologieAudio">Facebook</a> |{' '}
           <a href="https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM">
