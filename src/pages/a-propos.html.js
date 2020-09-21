@@ -9,7 +9,7 @@ export default () => (
     <h1>À propos de Techologie</h1>
 
     <p>
-      Ce podcast de la sélection <a href="https://www.imagotv.fr/">IMAGO</a> est animé par les coopérateurs de <a href="http://fairness.coop/">Fairness</a>.
+      Ce podcast de la sélection <a href="https://www.imagotv.fr/">IMAGO</a> est animé par les coopérateurs et amis de <a href="http://fairness.coop/">Fairness</a>.
         Le logo a été créé par <a href="https://www.behance.net/matharet">Stéphanie Matharet</a>.
     </p>
 
