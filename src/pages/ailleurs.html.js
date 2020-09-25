@@ -34,6 +34,11 @@ export default () => (
         variés.
       </li>
       <li>
+        <a href="">Disruption Protestante</a>, une immersion dans la Startup
+        Nation pour comprendre les humains et les technologies sous le vernis
+        de la "transformation digitale".
+      </li>
+      <li>
         <a href="https://www.presages.fr">Présages</a>, le podcast qui
         questionne l’état de notre monde, les risques d’effondrement de la
         civilisation industrielle, et les façons de se préparer à vivre
