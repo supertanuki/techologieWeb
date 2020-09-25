@@ -1,0 +1,13 @@
+- name: Publish Gatsby Site
+  # You may pin to the exact commit or the version.
+  # uses: xmflsct/action-publish-gatsby@1f2db93ef604d3f81442879569fc2aae9dd19918
+  uses: xmflsct/action-publish-gatsby@v1.0.0
+  with:
+    # The branch that GitHub Pages is being exposed to.
+    publishBranch: # optional, default is master
+    # Personal Access Token in order to publish to GitHub Pages.
+    token: ceb787c54511c6bafa3a20c93e002285c413b42c
+    # Your name to include in the commit.
+    name: Gatsby publisher
+    # Your email to include in the commit.
+    email: supertanuki@gmail.com
