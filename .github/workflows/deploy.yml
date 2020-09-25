@@ -9,9 +9,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-       - name: Build and deploy to gh-pages
-         uses: sauloxd/review-apps@v1.3.2
-         with:
-           build-cmd: 'yarn build'
-           branch: 'gh-pages' # The branch you chose to be your github-pages source
-           dist: 'public' # The dist folder where your "yarn build" command will place the build artifacts
+      - uses: actions/checkout@v1
+      - uses: enriikke/gatsby-gh-pages-action@v2
+        with:
+          access-token: ${{ secrets.ACCESS_TOKEN }}
+          deploy-branch: gh-pages
