@@ -1,4 +1,4 @@
-name: github pages
+name: Deploy
 
 on:
   push:
@@ -10,11 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Gatsby Publish
-        # You may pin to the exact commit or the version.
-        # uses: enriikke/gatsby-gh-pages-action@854578ae3c66828334442d16ef54ef814f3a410a
-        uses: enriikke/gatsby-gh-pages-action@v2.1.1
-        with:
-          # A personal access token needed to push your site after it has been built.
-          access-token: ceb787c54511c6bafa3a20c93e002285c413b42c
-          # The branch expected by GitHub to have the static files needed for your site.
-          deploy-branch: master
+        run: gatsby build && gh-pages -d public
