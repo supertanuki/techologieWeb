@@ -4,7 +4,7 @@ title: "Un opérateur télécom coopératif et engagé dans la transition écolo
 people: "Marion Graeffly"
 description: "Marion Graeffly est cofondatrice de Telecoop, et chargée de la communication, des partenariats et du sociétariat."
 published_at: "2020-11-20"
-image: "./images/38-marion-graeffly"
+image: "./images/38-marion-graeffly.jpg"
 audio_link: "https://soundcloud.com/techologie/un-operateur-telecom-cooperatif-et-engage-dans-la-transition-ecologique-avec-marion-graeffly"
 audio_size_in_megabyte: 16
 ---
