@@ -39,6 +39,11 @@ export default () => {
                     </a></li>
 
                     <li><a
+                        href="https://www.imagotv.fr/podcasts/techologie"
+                    >
+                        Imago
+                    </a></li>
+                    <li><a
                         href="https://itunes.apple.com/fr/podcast/techologie/id1446844143?mt=2"
                     >
                         Apple
