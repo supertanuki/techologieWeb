@@ -10,8 +10,7 @@ audio_size_in_megabyte: 30
 ---
 
 <p>
-<strong>Aujourd'hui on est avec Marie-Cécile Paccard qui est designer. Tu peux nous parler de ton
-métier et ce que tu fais au quotidien en tant que designer ?</strong>
+<strong>Peux nous parler de ton métier et de ce que tu fais au quotidien en tant que designer ?</strong>
 </p>
 
 <p>

@@ -14,26 +14,21 @@ export default ({ data }) => {
 
         <ul className="episodes">
           {data.allMarkdownRemark.edges.map(({ node }) => (
-            <li className="episode" key={node.id}>
+            <li key={node.id}>
               <div className="image">
                 <Link to={node.fields.slug}>
-                  <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
+                  <Img fluid={node.frontmatter.image.childImageSharp.fluid} alt="{node.frontmatter.people}" alt="" />
                 </Link>
               </div>
               <div className="description">
+              <p class="episode-label">Épisode {node.frontmatter.episode_number}</p>
                 <h2>
                   <Link to={node.fields.slug}>
-                    #{node.frontmatter.episode_number} {node.frontmatter.title}{' '}
+                    {node.frontmatter.title}
                   </Link>
                 </h2>
-                <span className="label">
-                  {node.frontmatter.people}
-                </span>
-                <span className="label">
-                  {node.frontmatter.published_at}
-                </span>
+                <p>{node.frontmatter.people}</p>
               </div>
-              <div className="clear" />
             </li>
           ))}
         </ul>
@@ -58,7 +53,7 @@ export const query = graphql`
             description
             image {
               childImageSharp {
-                fluid(maxWidth: 300) {
+                fluid(maxWidth: 240) {
                   ...GatsbyImageSharpFluid
                 }
               }
