@@ -7,39 +7,39 @@ import SEO from '../components/seo'
 export default ({ data }) => {
   const episode = data.markdownRemark
   const meta = episode.frontmatter
-  const title = `#${meta.episode_number} ${meta.title}`
+  const title = meta.title
   const slug = episode.fields.slug
 
   return (
     <Layout>
       <SEO title={`Techologie ${title}`} description={meta.description} image={meta.image.childImageSharp.fixed.src} />
       <div>
-        <h1 className="centered">{title}</h1>
+        <br />
+				<p className="published">
+					📅 Épisode {meta.episode_number} publié le {meta.published_at}
+				</p>
+				
+				<h1>{title}</h1>
 
-        <div className="centered margin-top">
-          <Img fixed={meta.image.childImageSharp.fixed} className="logo" />
-        </div>
+				<p>
+          <Img fixed={meta.image.childImageSharp.fixed} alt="" />
+				</p>
+				<p class="label">
+					<span>{meta.people}</span>
+				</p>
 
-        <h2 className="centered">avec {meta.people}</h2>
+				<p>{meta.description}</p>
 
-        <p className="centered"><span className="label">Publié le {meta.published_at}</span></p>
-
-        <div className="block">
-          <p>{meta.description}</p>
-        </div>
-        <a href={meta.audio_link} className="button">
-          Écouter
-        </a>
+				<p className="listen">🎧 <a href={meta.audio_link}>Écouter sur soundcloud</a></p>
 
         <div dangerouslySetInnerHTML={{ __html: episode.html }} />
 
         <p>
-        </p>
-        <p className="centered">
           En écoutant cet épisode, vous téléchargerez{' '}
           {meta.audio_size_in_megabyte} Mo de données.
         </p>
-        <p className="centered">
+
+        <p>
           <a
             href={`https://github.com/supertanuki/techologieWeb/blob/master/src/pages${slug}.md`}
           >
@@ -65,7 +65,7 @@ export const query = graphql`
         audio_size_in_megabyte
         image {
           childImageSharp {
-            fixed(width: 160, height: 160) {
+            fixed(width: 240, height: 240) {
               ...GatsbyImageSharpFixed
             }
           }

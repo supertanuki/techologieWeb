@@ -1,274 +1,368 @@
-body {
-  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
-  color: black;
-  background: white;
-  font-size: 21px;
-  line-height: 1.58;
-  letter-spacing: -.003em;
-  margin: 0;
+body		{
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background: #191919;
+	color: #eee;
+	background: url('/images/background.png') #191919;
 }
 
-hr {
-  border: 0;
-  height: 1px;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+h1			{
+	background: #000;
+	font-weight: bold;
+	font-size: 30px;
+	line-height: 1.3;
+	margin: 50px 0 30px -23px;
+	padding: 10px;
+	max-width: 700px;
 }
 
-.frame {
-  width: 700px;
-  margin: auto;
+p.published + h1 {
+	margin-top: 0;
 }
 
-.content {
-  padding: 0 10px;
+.wrapper	{ /*max-width: 1000px; margin: 0 auto;*/ }
+article     { padding: 20px; border-left: 5px solid #191919; line-height: 1.58; letter-spacing: -.003em; }
+
+article {
+	font-size: 21px;
+}
+
+article ul {
+	margin-bottom: 50px;
+}
+
+article ul li {
+	max-width: 700px;
+	list-style-type: square;
+	color: #ccc;
+	margin-bottom: 10px;
+}
+article p { font-size: 21px; max-width: 700px; }
+
+article .episodes p {
+	font-size: 15px;
+}
+
+.published {
+	font-size: 15px;
+	color: #ccc;
+}
+
+article .episodes p.episode-label {
+	font-size: 13px;
+	color: #4a7145;
+	font-weight: bold;
+	margin: 0 0 6px;
+}
+.logo { width: 100% }
+
+footer {
+	margin: 0 -20px -20px -23px;
+	background: #000;
+	padding: 20px;
+}
+
+footer p {
+	font-size: 15px;
+	margin: 0 0 10px;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    color: #ccc;
+    transition: color .5s;
+}
+
+footer a:visited {
+    color: #ccc;
+}
+
+.listen { font-size: 30px; font-weight: bold; margin: 50px 0; }
+
+article .label {
+	margin: -30px 0 0 0;
+	font-size: 17px;
+}
+article .label span {
+	background: #264653;
+	padding: 10px;
+	display: inline-block;
+	z-index: 1000;
 }
 
 .episodes {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
+	display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.episodes li {
+    list-style: none;
+    width: 240px;
+	background: #090909;
+	margin: 0 20px 20px 0;
+	border: 1px solid transparent;
+	transition:	border-color 0.5s;
+}
+.episodes li:hover {
+	border: 1px solid #fff;
 }
 
-.block {
-  padding: 10px 20px;
+.episodes li .description {
+    padding: 10px;
+}
+.episodes li h2 {
+	font-size: 21px;
+	font-weight: bold;
+	margin: 0;
+	line-height: 1.3;
 }
 
-.episode {
-  margin: 10px 0;
+.episodes li .label {
+	display: block;
 }
 
-.block, .episode {
-  background: #ddf7ee;
-  overflow: hidden;
-}
-
-.clear {
-  clear: both;
-}
-
-.episode .image {
-  width: 20%;
-  float: right;
-}
-
-.label {
-  font-size: 14px;
-  background: #eeeeee;
-  padding: 4px 6px;
-  margin-right: 5px;
-  white-space: nowrap;
-}
-
-.dark .label {
-  background: #000;
-}
-
-.episode .label {
-  background: #ffffff;
-}
-
-.dark .episode .label {
-  background: #051510;
-}
-
-.episode .image img {
-  width: 100%;
-  margin: 0;
-}
-
-.episode .description {
-  width: 70%;
-  float: left;
-  margin: 0 10px 10px;
-}
-
-.episode .description h2 {
-  line-height: 26px;
-  margin-bottom: 10px;
-}
-
-.centered {
-  text-align: center;
-}
-
-.margin-top {
-  margin-top: 20px;
-}
-
-a {
-  color: #0b4418;
-}
-
-a:hover {
-  color: black;
-  transition: color 0.5s;
-}
-
-a.button:hover {
-  color: #eee;
-  transition: color 0.5s;
-}
-
-h1 {
-  font-size: 27px;
-  font-weight: bolder;
-}
-
-h2 {
-  font-size: 23px;
-  font-weight: bolder;
-}
-
-header nav li {
-  line-height: 50px;
-}
-
-header nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-header nav ul li {
-  float: left;
-  margin: 0;
-  padding: 0;
-}
-
-header nav li a {
-  line-height: 50px;
-  height: 50px;
-  border-bottom: 1px solid #eee;
-  border-right: 1px solid #fff;
-  padding: 0 10px;
-  background: #eee;
-  display: block;
-  text-decoration: none;
-}
-
-header nav li a[aria-current] {
-  border-bottom: 1px solid #0b4418;
-}
-
-header nav li:last-child a {
-  border-right: none;
-}
-
-.toggle-mode-button {
-  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
-  color: black;
-  background: white;
-  font-size: 17px;
-  line-height: 50px;
-}
-
-.float-right {
-  float: right;
-}
-
-.list-centered {
-  float: right;
-  position: relative;
-  left: -50%;
-}
-
-.button {
-  border: none;
-  cursor: pointer;
-  height: 36px;
-  font-size: 20px;
-  line-height: 36px;
-  color: white;
-  white-space: nowrap;
-  background: #333;
-  padding: 0 10px;
-  display: block;
-  text-align: center;
-}
-
-a.button {
-  padding: 10px;
-}
-
-section {
-  margin: 15px 0;
-}
-
-.dark {
-  color: white;
-  background: #051510;
-}
-
-.dark hr {
-  border: 0;
-  height: 1px;
-  background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
-}
-
-.dark a {
-  color: white;
-}
-
-.dark a:hover {
-  color: #cccccc;
-  transition: color 0.5s;
-}
-
-.dark .block, .dark .episode {
-  background: #333;
-  color: white;
-}
-
-.dark header nav li a {
-  background: #333;
-  border-color: #051510;
-}
-
-.dark header nav li a[aria-current] {
-  border-bottom: 1px solid white;
-}
-
-.dark .button {
-  background: white;
-  color: #051510;
-}
-
-footer {
-  text-align: center;
-  margin: 20px 0 0;
-  padding: 20px;
-  font-size: 80%;
-}
-
-@media screen and (max-width: 700px) {
-  .frame {
+.episodes img {
     width: 100%;
-  }
-
-  .small-screen-hidden {
-    display: none;
-  }
 }
 
-@media screen and (max-width: 450px) {
-  body {
-    font-size: 17px;
-  }
+article a {
+    color: #fff;
+}
 
-  .episode .image {
-    width: 30%;
-  }
+article a:hover {
+    color: #ccc;
+    transition: color .5s;
+}
 
-  .episode .description {
-    width: 60%;
-    padding-top: 0px;
-  }
+article a:visited {
+    color: #ccc;
+}
 
-  h1 {
-    font-size: 21px;
-  }
+.minimal-menu {
+	position: relative;
+	display: block;
+	text-decoration: none;
+	font-size: 0;
+	line-height: 0;
+}
 
-  h2 {
-    font-size: 19px;
-  }
+.minimal-menu h3 {
+	font-weight: normal;
+}
+
+.minimal-menu a {
+	border-color: transparent;
+}
+
+.minimal-menu a:hover {
+	-webkit-transition:	border-color 0.3s, background 0.3s;
+	-moz-transition:	border-color 0.3s, background 0.3s;
+	transition:			border-color 0.3s, background 0.3s;
+}
+
+.minimal-menu a[aria-current] {
+	border: 1px solid #fff;
+}
+
+.minimal-menu ul,
+.minimal-menu ul li,
+.minimal-menu ul li a {
+	position: relative;
+}
+
+.minimal-menu ul {
+	z-index: 1;
+}
+
+.minimal-menu ul li a {
+	display: block;
+	padding: 10px 18px;
+	font-size: 21px;
+	line-height: 20px;
+	text-decoration: none;
+}
+
+.minimal-menu > ul > li > a {
+	border: 1px solid transparent;
+	color: #fff;
+}
+
+.minimal-menu > ul > li:hover > a,
+.minimal-menu > ul > li.current > a {
+	border: 1px solid #fff;
+}
+			
+@media only screen and (min-width: 768px) {
+    .logo { width: 340px }
+
+	h1 {
+		margin: 50px 0 30px -30px;
+	}
+
+	footer {
+		margin: 0 -20px -20px -30px;
+	}
+
+    article {
+        border-left: 100px solid #191919;
+	}
+	
+	.episodes li {
+		height: 480px;
+	}
+
+	.minimal-menu.clr-black {
+		background: #000;
+		border-left: 100px solid #000;
+	}
+	
+	.minimal-menu.clr-black > ul > li > a {
+		color: #fff;
+	}
+	
+	.minimal-menu.clr-black > ul > li:hover > a,
+	.minimal-menu.clr-black > ul > li.current > a {
+		border-color: #aaa;
+	}
+		
+	.minimal-menu.clr-black ul ul li:hover > a,
+	.minimal-menu.clr-black ul ul li.current > a {
+		border-color: #999;
+	}
+	
+	.minimal-menu-button {
+		display: none;
+	}
+	
+	.minimal-menu.pos-fixed {
+		position: fixed;
+		top: -2px;
+		left: -2px;
+		right: -2px;
+		z-index: 9999;
+		height: 50px;
+	}
+	
+	.minimal-menu a {
+		white-space: nowrap;
+	}
+
+	.minimal-menu > ul {
+		margin-bottom: -15px !important;
+		padding: 5px;
+	}
+		
+	.minimal-menu ul li {
+		display: inline-block;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.minimal-menu-button, .minimal-menu {
+		position: fixed;
+		right: 0;
+		top: 0;
+		z-index: 9999;
+	}
+	
+	input.minimal-menu-button {
+		display: none;
+	}
+	
+	label.minimal-menu-button {
+		display: inline-block;
+		width: 50px;
+		height: 50px;
+		text-transform: uppercase;
+		background: #000;
+		color: #fff;
+		cursor: pointer;
+		text-indent: -9999px;
+	}
+	
+	label.minimal-menu-button:before {
+		position: absolute;
+		content: '';
+		width: 30px;
+		height: 5px;
+		left: 10px;
+		bottom: 13px;
+		border-top: 13px double #fff;
+		border-bottom: 4px solid #fff;
+		z-index: 1;
+	}
+	
+	.minimal-menu {
+		background: #000;
+		border-color: rgba(100%, 100%, 100%, 0.3);
+		overflow: auto;
+		left: -100%;
+		top: 0;
+		width: 55%;
+		height: 100%;
+		opacity: 0;
+		-webkit-transition:	left 0.3s, opacity 0.3s;
+		-moz-transition:	left 0.3s, opacity 0.3s;
+		transition:			left 0.3s, opacity 0.3s;
+	}
+	
+	#mobile-nav:checked + .minimal-menu {
+		visibility: visible;
+		left: 0;
+		opacity: 1;
+	}
+
+	.minimal-menu h3, .minimal-menu ul li a {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid rgba(100%, 100%, 100%, 0.2);
+		color: #fff;
+	}
+	
+	.minimal-menu h3 {
+		font-size: 18px;
+		line-height: 1em;
+		margin: 0;
+		padding: 20px 0 20px 40px;
+		color: #fff;
+		background: rgba(100%, 100%, 100%, 0.10);
+	}
+	
+	.minimal-menu ul {
+		margin: 0;
+		padding: 0;
+	}
+	
+	.minimal-menu li, .minimal-menu a {
+		display: block;
+	}
+	
+	.minimal-menu li {
+		position: relative;
+	}
+	
+	.minimal-menu li:hover > a,
+	.minimal-menu li.current > a {
+		background: rgba(100%, 100%, 100%, 0.2);
+	}
+	
+	.minimal-menu ul > li {
+		padding-bottom: 0;
+	}
+
+	.minimal-menu > ul > li:hover > a,
+	.minimal-menu > ul > li.current > a	{
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.minimal-menu {
+		width: 70%;
+	}
 }

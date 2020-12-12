@@ -373,7 +373,7 @@ style qu’il faut aimer, adopter.
 
 <p>
 <strong>Du coup tu rejoins un peu
-<a href="1-coder-et-designer-pour-un-futur-incertain.html.md">Marie Cécile Paccard lors du premier épisode</a>.
+<a href="1-coder-et-designer-pour-un-futur-incertain.html">Marie Cécile Paccard lors du premier épisode</a>.
 Elle disait un peu la même chose, ça peut être minimaliste mais pas forcément moche et effectivement tout ce
 qui est google font, les polices chargées forcément ça consomme et utiliser plutôt les polices qui sont déjà
 présentes sur les ordinateurs.
