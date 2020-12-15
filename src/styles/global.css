@@ -1,4 +1,4 @@
-body		{
+body {
 	margin: 0;
 	font-family: Arial, sans-serif;
 	background: #191919;
@@ -6,7 +6,7 @@ body		{
 	background: url('/images/background.png') #191919;
 }
 
-h1			{
+h1 {
 	background: #000;
 	font-weight: bold;
 	font-size: 30px;
@@ -97,16 +97,16 @@ article .label span {
 	margin: 0;
 	padding: 0;
 	display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
+	flex-wrap: wrap;
+	flex-direction: row;
 }
 .episodes li {
-    list-style: none;
-    width: 240px;
+	list-style: none;
+	width: 240px;
 	background: #090909;
-	margin: 0 20px 20px 0;
+	margin: 0 auto;
 	border: 1px solid transparent;
-	transition:	border-color 0.5s;
+	transition: border-color 0.5s;
 }
 .episodes li:hover {
 	border: 1px solid #fff;
@@ -214,6 +214,7 @@ article a:visited {
 	
 	.episodes li {
 		height: 480px;
+		margin: 0 20px 20px 0;
 	}
 
 	.minimal-menu.clr-black {
