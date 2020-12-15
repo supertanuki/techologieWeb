@@ -28,7 +28,7 @@ Erratum :  Le montant des parts que l'Etat possède dans Orange s'établit à 23
 
 En savoir plus
 
-* Telecoop : https://telecoop.fr/
-* Licoornes, les coopératives du monde d’après : https://www.enercoop.fr/content/licoornes-les-cooperatives-du-monde-dapres
+* [Telecoop](https://telecoop.fr/)
+* [Licoornes, les coopératives du monde d’après](https://www.enercoop.fr/content/licoornes-les-cooperatives-du-monde-dapres)
 
 </div>
