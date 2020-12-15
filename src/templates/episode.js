@@ -15,22 +15,22 @@ export default ({ data }) => {
       <SEO title={`Techologie ${title}`} description={meta.description} image={meta.image.childImageSharp.fixed.src} />
       <div>
         <br />
-				<p className="published">
-					📅 Épisode {meta.episode_number} publié le {meta.published_at}
-				</p>
-				
-				<h1>{title}</h1>
+	<p className="published">
+		📅 Épisode {meta.episode_number} publié le {meta.published_at}
+	</p>
 
-				<p>
-          <Img fixed={meta.image.childImageSharp.fixed} alt="" />
-				</p>
-				<p class="label">
-					<span>{meta.people}</span>
-				</p>
+	<h1>{title}</h1>
 
-				<p>{meta.description}</p>
+	<p>
+		<Img fixed={meta.image.childImageSharp.fixed} alt="" />
+	</p>
+	<p className="label">
+		<span>{meta.people}</span>
+	</p>
 
-				<p className="listen">🎧 <a href={meta.audio_link}>Écouter sur soundcloud</a></p>
+	<p>{meta.description}</p>
+
+	<p className="listen">🎧 <a href={meta.audio_link}>Écouter</a></p>
 
         <div dangerouslySetInnerHTML={{ __html: episode.html }} />
 
