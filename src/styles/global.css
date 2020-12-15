@@ -104,7 +104,7 @@ article .label span {
 	list-style: none;
 	width: 240px;
 	background: #090909;
-	margin: 0 auto;
+	margin: 0 auto 20px;
 	border: 1px solid transparent;
 	transition: border-color 0.5s;
 }
