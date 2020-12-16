@@ -18,12 +18,12 @@ export default ({ children }) => {
       </nav>
       </header>
 
-			<article>
+      <article>
         {children}
 
         <footer>
           <p>Podcast de la sélection <a href="https://www.imagotv.fr/">IMAGO</a></p>
-          <p>Publié sous licence <a href="#">CC BY-NC-SA 3.0 FR</a></p>
+          <p>Publié sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/fr/">CC BY-NC-SA 3.0 FR</a></p>
           <p>Commenter sur <a href="https://twitter.com/techologieAudio">Twitter</a>,{' '}
           <a href="https://www.imagotv.fr/podcasts/techologie">Imago</a>,{' '}
           ou <a href="https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM">Slack</a>
