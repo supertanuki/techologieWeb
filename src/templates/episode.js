@@ -24,9 +24,8 @@ export default ({ data }) => {
 	<p>
 		<Img fixed={meta.image.childImageSharp.fixed} alt="" />
 	</p>
-	<p className="label">
-		<span>{meta.people}</span>
-	</p>
+
+	<p className={`label`}><span>{meta.people}</span></p>
 
 	<p>{meta.description}</p>
 
