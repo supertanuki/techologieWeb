@@ -30,7 +30,7 @@ export default ({ data }) => {
 
 	<p>{meta.description}</p>
 
-	<p className="listen">🎧 <a href={meta.audio_link}>Écouter</a></p>
+	<p className="listen">🎧 <a href={meta.audio_link} title={`Écouter l'épisode ${title} sur Soundcloud`}>Écouter</a></p>
 
         <div dangerouslySetInnerHTML={{ __html: episode.html }} />
 
