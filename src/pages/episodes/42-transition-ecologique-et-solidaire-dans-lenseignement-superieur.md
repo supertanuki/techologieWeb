@@ -35,6 +35,4 @@ audio_size_in_megabyte: 45
 * [Shift your job](https://shiftyourjob.org/)
 * Documentaire [En quête de sens](https://www.imagotv.fr/documentaires/en-quete-de-sens) sur Imago
 * [L'Âge des low tech](https://www.seuil.com/ouvrage/l-age-des-low-tech-philippe-bihouix/9782021160727), Vers une civilisation techniquement soutenable, Philippe Bihouix
-* [Un moment de bascule](https://signauxfaibles.co/2019/11/02/un-moment-de-bascule/), Clément Jeanneau, Signaux Faibles 
-
-</div>
+* [Un moment de bascule](https://signauxfaibles.co/2019/11/02/un-moment-de-bascule/), Clément Jeanneau, Signaux Faibles
