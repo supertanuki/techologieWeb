@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Techologie`,
     description: `Le podcast qui tente de lier tech et écologie alors que tout les oppose`,
-    author: `Fairness`,
+    author: `Coopérateurs et amis de Fairness`,
     siteUrl: `https://techologie.net`,
   },
   plugins: [
