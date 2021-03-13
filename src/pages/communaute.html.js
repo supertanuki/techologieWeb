@@ -9,8 +9,7 @@ export default () => (
     <h1>Communauté et newsletter</h1>
   
     <p>
-      Rejoignez-nous sur un énième <a href="https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM">espace slack</a>
-      mais nous vous faisons la promesse que celui-ci est plus sympa que les autres ;)
+      Rejoignez-nous sur un énième <a href="https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM">espace slack</a> mais nous vous faisons la promesse que celui-ci est plus sympa que les autres ;)
     </p>
 
     <p>
