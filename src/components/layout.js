@@ -13,6 +13,7 @@ export default ({ children }) => {
         <ul>
           <li><Link to={`/`}>Techologie</Link></li>
           <li><Link to={`/episodes.html`}>Épisodes</Link></li>
+          <li><Link to={`/communauté.html`}>Garder le lien</Link></li> 
           <li><Link to={`/a-propos.html`}>À propos</Link></li>
         </ul>
       </nav>
