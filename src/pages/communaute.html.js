@@ -17,6 +17,8 @@ export default () => (
       une veille collaborative sur le thème technologies et écologie,
       les alertes greenwashing et le tout sur un ton léger car oui, même si le sujet est grave, on essaye de ne pas se prendre au sérieux.
     </p>
+  
+    <p>Pour votre information, l'outil tiers utilisé est Mailjet.</p>
 
     <iframe scrolling="no" marginheight="0" marginwidth="0" src="https://app.mailjet.com/widget/iframe/6Adg/I8g" style={{height: '300px'}} width="100%" frameborder="0"></iframe>
   </Layout>
