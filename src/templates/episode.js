@@ -12,24 +12,43 @@ export default ({ data }) => {
 
   return (
     <Layout>
-      <SEO title={`Techologie ${title}`} description={meta.description} image={meta.image.childImageSharp.fixed.src} />
-      <div>
+      <SEO
+        title={`Techologie ${title}`}
+        description={meta.description}
+        image={meta.image.childImageSharp.fixed.src}
+      />
+      <div className="centered">
         <br />
-	<p className="published">
-		📅 Épisode {meta.episode_number} publié le {meta.published_at}
-	</p>
+        <p className="published">
+          <span role="img" aria-label="">
+            📅
+          </span>{' '}
+          Épisode {meta.episode_number} publié le {meta.published_at}
+        </p>
 
-	<h1>{title}</h1>
+        <h1>{title}</h1>
 
-	<p>
-		<Img fixed={meta.image.childImageSharp.fixed} alt="" />
-	</p>
+        <p>
+          <Img fixed={meta.image.childImageSharp.fixed} alt="" />
+        </p>
 
-	<p className={`label`}><span>{meta.people}</span></p>
+        <p className={`label`}>
+          <span>{meta.people}</span>
+        </p>
 
-	<p>{meta.description}</p>
+        <p>{meta.description}</p>
 
-	<p className="listen">🎧 <a href={meta.audio_link} title={`Écouter l'épisode ${title} sur Soundcloud`}>Écouter</a></p>
+        <p className="listen">
+          <span role="img" aria-label="">
+            🎧
+          </span>{' '}
+          <a
+            href={meta.audio_link}
+            title={`Écouter l'épisode ${title} sur Soundcloud`}
+          >
+            Écouter
+          </a>
+        </p>
 
         <div dangerouslySetInnerHTML={{ __html: episode.html }} />
 
