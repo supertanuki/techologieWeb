@@ -24,6 +24,9 @@ exports.createPages = ({ graphql, actions }) => {
             fields {
               slug
             }
+            frontmatter {
+              type
+            }
           }
         }
       }
@@ -31,9 +34,11 @@ exports.createPages = ({ graphql, actions }) => {
   `).then(result => {
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       const slug = node.fields.slug
+      const type = node.frontmatter.type
+
       createPage({
         path: slug,
-        component: path.resolve(`./src/templates/episode.js`),
+        component: path.resolve('newsletter' === type ? `./src/templates/newsletter.js` : `./src/templates/episode.js`),
         context: { slug },
       })
     })

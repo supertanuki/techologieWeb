@@ -17,15 +17,18 @@ export default ({ data }) => {
             <li key={node.id}>
               <div className="image">
                 <Link to={node.fields.slug}>
-                  <Img fluid={node.frontmatter.image.childImageSharp.fluid} alt="{node.frontmatter.people}" alt="" />
+                  <Img
+                    fluid={node.frontmatter.image.childImageSharp.fluid}
+                    alt="{node.frontmatter.people}"
+                  />
                 </Link>
               </div>
               <div className="description">
-              <p class="episode-label">Épisode {node.frontmatter.episode_number}</p>
+                <p class="episode-label">
+                  Épisode {node.frontmatter.episode_number}
+                </p>
                 <h2>
-                  <Link to={node.fields.slug}>
-                    {node.frontmatter.title}
-                  </Link>
+                  <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
                 </h2>
                 <p>{node.frontmatter.people}</p>
               </div>
@@ -40,6 +43,7 @@ export default ({ data }) => {
 export const query = graphql`
   query {
     allMarkdownRemark(
+      filter: { frontmatter: { type: { ne: "newsletter" } } }
       sort: { fields: [frontmatter___published_at], order: DESC }
     ) {
       edges {
