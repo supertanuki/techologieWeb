@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{w2l6:function(e,t,a){"use strict";a.r(t);var n=a("qKvR"),s=(a("q1tI"),a("Bl7J")),c=a("vrFN"),l=a("Wbzz");t.default=function(){return Object(n.a)(s.a,null,Object(n.a)(c.a,{title:"404, page non trouvée !"}),Object(n.a)("h1",null,"404, page non trouvée !"),Object(n.a)("div",{className:"centered"},Object(n.a)("p",null,"Essayez par ici par exemple :"),Object(n.a)(l.Link,{to:"/episodes.html",className:"button"},"Liste des épisodes")))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-36c2d77b8d3a282f1cfa.js.map
