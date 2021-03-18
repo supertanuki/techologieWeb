@@ -24,7 +24,10 @@ export default ({ data }) => {
 
         <hr>
 
-        <p>Pas encore inscrit·e à la newsletter ? <span aria-label="">👉</span> <Link to={`/communaute.html`}>S'inscrire</Link></p>
+        <p>
+          Pas encore inscrit·e à la newsletter ?{' '}
+          👉 <Link to={`/communaute.html`}>S'inscrire</Link>
+        </p>
       </div>
     </Layout>
   )
