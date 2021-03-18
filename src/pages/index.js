@@ -19,9 +19,15 @@ export default () => {
           <img src={logo} alt="Techologie" className="logo" />
         </Link>
 
-        <p className="listen">
-          <Link to={`/episodes.html`} className="button">
+        <p className="centered">
+          <Link to={`/episodes.html`} className="focus">
             Liste des épisodes
+          </Link>
+        </p>
+
+        <p className="centered">
+          <Link to={`/communaute.html`} className="focus">
+            S'inscrire à la newsletter
           </Link>
         </p>
 
@@ -51,12 +57,6 @@ export default () => {
             </a>
           </li>
         </ul>
-
-        <p>
-          <Link to={`/communaute.html`} className="button">
-            S'inscrire à la newsletter
-          </Link>
-        </p>
       </div>
     </Layout>
   )

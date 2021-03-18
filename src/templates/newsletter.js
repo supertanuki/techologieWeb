@@ -22,11 +22,10 @@ export default ({ data }) => {
 
         <div dangerouslySetInnerHTML={{ __html: episode.html }} />
 
-        <hr>
-
         <p>
-          Pas encore inscrit·e à la newsletter ?{' '}
-          👉 <Link to={`/communaute.html`}>S'inscrire</Link>
+          <Link to={`/communaute.html`} className="focus">
+            S'inscrire à la newsletter
+          </Link>
         </p>
       </div>
     </Layout>
