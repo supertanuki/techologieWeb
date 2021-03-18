@@ -19,21 +19,21 @@ export default () => {
           <img src={logo} alt="Techologie" className="logo" />
         </Link>
 
-        <p className="centered">
+        <p className="text-centered">
           <Link to={`/episodes.html`} className="focus">
             Liste des épisodes
           </Link>
         </p>
 
-        <p className="centered">
+        <p className="text-centered">
           <Link to={`/communaute.html`} className="focus">
             S'inscrire à la newsletter
           </Link>
         </p>
 
-        <p>Écouter et s'abonner :</p>
+        <p className="text-centered">Écouter et s'abonner :</p>
 
-        <ul>
+        <ul className="text-centered">
           <li>
             <a href="http://feeds.soundcloud.com/users/soundcloud:users:555069720/sounds.rss">
               RSS

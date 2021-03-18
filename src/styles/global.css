@@ -218,6 +218,11 @@ article a:visited {
 		margin: 0 auto;
 	}	
 
+	.text-centered {
+		text-align: center;
+		margin: 50px 0;
+	}
+
 	.centered {
 		max-width: 700px;
 		margin: 0 auto;
