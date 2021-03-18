@@ -1,5 +1,5 @@
 import React from 'react'
-import { graphql } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 
@@ -21,6 +21,10 @@ export default ({ data }) => {
         </h1>
 
         <div dangerouslySetInnerHTML={{ __html: episode.html }} />
+
+        <hr>
+
+        <p>Pas encore inscrit·e à la newsletter ? <span aria-label="">👉</span> <Link to={`/communaute.html`}>S'inscrire</Link></p>
       </div>
     </Layout>
   )
