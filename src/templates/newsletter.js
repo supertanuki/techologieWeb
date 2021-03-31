@@ -6,7 +6,6 @@ import SEO from '../components/seo'
 export default ({ data }) => {
   const episode = data.markdownRemark
   const meta = episode.frontmatter
-  const slug = episode.fields.slug
 
   return (
     <Layout>

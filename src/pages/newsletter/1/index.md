@@ -2,7 +2,7 @@
 type: newsletter
 number: 1
 published_at: "2021-03-18"
-image: image1.jpg
+image: ./image1.jpg
 ---
 
 ## La newsletter green, super green
