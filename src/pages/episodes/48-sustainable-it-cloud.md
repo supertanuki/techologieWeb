@@ -23,9 +23,12 @@ Finally, she talks about her new role at Microsoft.
 
 ## Find out more
 
-You can follow her on [Twitter](https://twitter.com/nataliehollier) or [her website](https://www.nataliehollier.com/)
-She follows the community [Climate Action Tech](https://climateaction.tech/)
-[Her talk in May](https://www.womenincleantechsustainability.org/wcs-talks/part-3/)
+You can follow her on [Twitter](https://twitter.com/nataliehollier) or [her website](https://www.nataliehollier.com/).
+
+She follows the community [Climate Action Tech](https://climateaction.tech/).
+
+She will speak in May at the conference [Women In Cleantech And Sustainability](https://www.womenincleantechsustainability.org/wcs-talks/part-3/).
+
 Her book list:
 
 * [Designing for Sustainability - Tim Frick](https://www.oreilly.com/library/view/designing-for-sustainability/9781491935767/)
