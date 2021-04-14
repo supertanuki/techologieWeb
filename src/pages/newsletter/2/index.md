@@ -1,6 +1,7 @@
 ---
 type: newsletter
 number: 2
+title: Nevergreen
 published_at: "2021-04-01"
 image: ./image1.jpg
 ---

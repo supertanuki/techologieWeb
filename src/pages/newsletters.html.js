@@ -15,7 +15,7 @@ export default ({ data }) => {
           {data.allMarkdownRemark.edges.map(({ node }) => (
             <li key={node.id}>
               <Link to={node.fields.slug}>
-                #{node.frontmatter.number}, le {node.frontmatter.published_at}
+                #{node.frontmatter.number}. {node.frontmatter.title}
               </Link>
             </li>
           ))}
@@ -36,6 +36,7 @@ export const query = graphql`
           id
           frontmatter {
             number
+            title
             published_at(formatString: "DD/MM/YYYY")
           }
           fields {

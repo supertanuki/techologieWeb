@@ -10,14 +10,16 @@ export default ({ data }) => {
   return (
     <Layout>
       <SEO
-        title={`Techologie Newsletter #${meta.number}`}
+        title={`${meta.title} - Techologie Newsletter #${meta.number}`}
         description={meta.description}
         image={meta.image.childImageSharp.fixed.src}
       />
       <div className="centered">
         <h1>
-          Newsletter #{meta.number} envoyée le {meta.published_at}
+          {meta.title}
         </h1>
+
+        <p>Newsletter #{meta.number} envoyée le {meta.published_at}</p>
 
         <div dangerouslySetInnerHTML={{ __html: episode.html }} />
 
@@ -36,6 +38,7 @@ export const query = graphql`
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {
+        title
         number
         published_at(formatString: "DD/MM/YYYY")
         image {
