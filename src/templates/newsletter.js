@@ -19,7 +19,7 @@ export default ({ data }) => {
           {meta.title}
         </h1>
 
-        <p>Newsletter #{meta.number} envoyée le {meta.published_at}</p>
+        <p><Link to={`/newsletters.html`}>Newsletters</Link> &gt; n°{meta.number} envoyée le {meta.published_at}</p>
 
         <div dangerouslySetInnerHTML={{ __html: episode.html }} />
 

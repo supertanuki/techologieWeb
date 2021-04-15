@@ -10,6 +10,8 @@ export default () => (
     <div className="centered">
       <h1>Communauté et newsletter</h1>
 
+      <h2>Techologie c'est aussi une communauté</h2>
+
       <p>
         Rejoignez-nous sur un énième{' '}
         <a href="https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM">
@@ -18,6 +20,8 @@ export default () => (
         mais nous vous faisons la promesse que celui-ci est plus sympa que les
         autres ;)
       </p>
+
+      <h2>S'inscrire à la newsletter</h2>
 
       <p>
         Inscrivez-vous à la newsletter de Techologie pour recevoir toutes les 2
@@ -28,10 +32,10 @@ export default () => (
       </p>
 
       <p>
-        <Link to={`/newsletters.html`}>Voir les archives</Link>
+        <Link to={`/newsletters.html`}>Lire en ligne la newsletter</Link>
       </p>
 
-      <p>Pour votre information, l'outil tiers utilisé est Mailjet.</p>
+      <p>Pour information, l'outil tiers utilisé est Mailjet.</p>
 
       <iframe
         title="Inscription à la newsletter"
