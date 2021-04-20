@@ -24,7 +24,7 @@ Le concept de “désinnover”, “désincuber”, comment rediriger des activi
 
 ## L’entretien
 
-Agnès Crépetest développeuse chez Fairphone, elle s’occupe de longévité logicielle dans le monde des smartphones. Nous avions déjà échangé avec elle en septembre 2019, [épisode à écouter ici](https://techologie.net/episodes/18-un-smartphone-ethique-et-reparable). Nous prenons de ses nouvelles et de l’actualité de Fairphone.
+**Agnès Crépet** est développeuse chez Fairphone, elle s’occupe de longévité logicielle dans le monde des smartphones. Nous avions déjà échangé avec elle en septembre 2019, [épisode à écouter ici](https://techologie.net/episodes/18-un-smartphone-ethique-et-reparable). Nous prenons de ses nouvelles et de l’actualité de Fairphone.
 
 **Quels sont les succès et les difficultés rencontrés depuis notre entretien en 2019 ?**
 
