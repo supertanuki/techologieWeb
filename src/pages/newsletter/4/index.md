@@ -80,7 +80,7 @@ En parlant de neutralité carbone mondiale… Alors qu’il s’agit de l’obje
 
 Écoutes circulaires : déjà passés par Techologie, Agnès Crépet, Maël Thomas et Frédéric Bordage sont à écouter chez l’[Octet Vert](https://standblog.org/blog/post/2021/02/26/Je-lance-un-podcast-l-Octet-Vert), le podcast de Tristan Nitot. Retrouvez également [Adrien Montagut de Commown chez Radio Printemps](https://anchor.fm/chlo-durantis/episodes/Agir-3-Allonger-la-dure-de-vie-de-nos-quipements-lectroniques-avec-Commown-ettn2v), le podcast de l’écosyndicat Printemps Écologique.
 
-// todo, manque le lien Imago // Nous vous donnons rendez-vous le mardi 11 mai pour échanger lors d’une diffusion live sur Imago de l’épisode 50 de Techologie, “Data sciences, techno-libéralisme et désertion de l’ingénierie” avec Romain Boucher. Tout un programme !
+Nous vous donnons rendez-vous le mardi 11 mai pour échanger lors d’une diffusion live sur Imago de l’épisode 50 de Techologie, “[Data sciences, techno-libéralisme et désertion de l’ingénierie](https://www.imagotv.fr/podcasts/techologie)” avec Romain Boucher. Tout un programme !
 
 L’Europe lance sa [consultation citoyenne sur des thèmes comme le changement climatique ou la transformation numérique](https://futureu.europa.eu/?locale%3Dfr).
 
