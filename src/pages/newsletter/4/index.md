@@ -62,7 +62,7 @@ Faire des rencontres, partager, expérimenter, bref, se mettre en chemin en "fai
 
 Pour en savoir plus : [lire le témoignage de Marion sur Ways to shift](https://waystoshift.com/marion-crosnier-fondatrice-ecolieu-ciboulettes/).
 
-# Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a <span class="c2 c20 c6">[flower](https://www.youtube.com/watch?v%3DP-qOurzN_Gs)
+# Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a [flower](https://www.youtube.com/watch?v%3DP-qOurzN_Gs)
 
 ![](./image2.jpg)  
 
@@ -104,7 +104,7 @@ Un article incompréhensible si nous étions toujours en 2019 : "[Rosette et Fra
 
 Pour nous montrer que vous avez apprécié votre lecture et pour nous donner un coup de pouce, [partagez-la sur le réseau au logo d’oiseau](https://twitter.com/intent/tweet?text%3DJe%2520recommande%2520la%2520lecture%2520de%2520la%2520derni%25C3%25A8re%2520newsletter%2520de%2520Techologie%2520:%2520https://techologie.net/newsletter/4), sur un [réseau pro aux gens chelous](https://www.linkedin.com/sharing/share-offsite/?url%3Dhttps://techologie.net/newsletter/4)ou sur celui de votre choix.
 
-Pour nous suggérer des améliorations, <span class="c15">dites nous tout sur notre <span class="c2 c15">[espace dédié](https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM) (slack).
+Pour nous suggérer des améliorations, dites nous tout sur notre [espace dédié](https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM) (slack).
 
 Prenez soin de vous et de vos smartphones et à dans 2 semaines !
 
