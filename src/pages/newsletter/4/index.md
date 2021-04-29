@@ -102,7 +102,7 @@ Un article incompréhensible si nous étions toujours en 2019 : "[Rosette et Fra
 
 **Nous vous donnons rendez-vous le mardi 11 mai** pour échanger lors d’une diffusion live sur Imago de l’épisode 50 de Techologie, “[Data sciences, techno-libéralisme et désertion de l’ingénierie](https://www.imagotv.fr/live-radio/techologie/538)” avec Romain Boucher. Tout un programme !
 
-Pour nous montrer que vous avez apprécié votre lecture et pour nous donner un coup de pouce, [partagez-la sur le réseau au logo d’oiseau](https://twitter.com/intent/tweet?text%3DJe%2520recommande%2520la%2520lecture%2520de%2520la%2520derni%25C3%25A8re%2520newsletter%2520de%2520Techologie%2520:%2520https://techologie.net/newsletter/4), sur un [réseau pro aux gens chelous](https://www.linkedin.com/sharing/share-offsite/?url%3Dhttps://techologie.net/newsletter/4)ou sur celui de votre choix.
+Pour nous montrer que vous avez apprécié votre lecture et pour nous donner un coup de pouce, [partagez-la sur le réseau au logo d’oiseau](https://twitter.com/intent/tweet?text%3DJe%2520recommande%2520la%2520lecture%2520de%2520la%2520derni%25C3%25A8re%2520newsletter%2520de%2520Techologie%2520:%2520https://techologie.net/newsletter/4), sur un [réseau pro aux gens chelous](https://www.linkedin.com/sharing/share-offsite/?url%3Dhttps://techologie.net/newsletter/4) ou sur celui de votre choix.
 
 Pour nous suggérer des améliorations, dites nous tout sur notre [espace dédié](https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM) (slack).
 
