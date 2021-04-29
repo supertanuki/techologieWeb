@@ -66,7 +66,11 @@ Pour en savoir plus : [lire le témoignage de Marion sur Ways to shift](https://
 
 [Photo Accor par Maibp85 — Travail personnel, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid%3D49844175), [photo de Brune Poirson par Antoine Lamielle, CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 
-Celle à qui on doit la loi Anti-Gaspillage et Économie Circulaire et quelques avancées pour contribuer à la réduction de l’obsolescence des équipements et de l’impact environnemental du numérique notamment avec l’indice de réparabilité, Brune Poirson, [quitte son poste de députée](https://fr.wikipedia.org/wiki/Brune_Poirson%23Retour_dans_le_priv%25C3%25A9) pour s’investir pleinement dans le développement durable... du groupe hôtelier Accor. Vous voyez venir le projet de greenwashing ? Tant qu’elle reste en “accor” avec elle-même… Pour ajouter de la vilénie à cette histoire, il y a aussi recours à une astuce pour que cela soit son suppléant qui prenne sa place à l’hémicycle et éviter ainsi la tenue d’une élection : le premier ministre a prolongé de six mois sa mission (fictive ?) consacrée à « l’éducation au développement durable ». Poirson d’avril.
+Celle à qui on doit la loi Anti-Gaspillage et Économie Circulaire et quelques avancées pour contribuer à la réduction de l’obsolescence des équipements et de l’impact environnemental du numérique notamment avec l’indice de réparabilité, Brune Poirson, [quitte son poste de députée](https://fr.wikipedia.org/wiki/Brune_Poirson%23Retour_dans_le_priv%25C3%25A9) pour s’investir pleinement dans le développement durable... du groupe hôtelier Accor. Vous voyez venir le projet de greenwashing ? Tant qu’elle reste en “accor” avec elle-même… 
+
+Pour ajouter de la vilénie à cette histoire, il y a aussi recours à une astuce pour que cela soit son suppléant qui prenne sa place à l’hémicycle et éviter ainsi la tenue d’une élection : le premier ministre a prolongé de six mois sa mission (fictive ?) consacrée à « l’éducation au développement durable ».
+
+**Poirson d’avril**.
 
 ## À ne pas manquer
 
@@ -79,8 +83,6 @@ En parlant de neutralité carbone mondiale… Alors qu’il s’agit de l’obje
 ## Avant de se quitter
 
 Écoutes circulaires : déjà passés par Techologie, Agnès Crépet, Maël Thomas et Frédéric Bordage sont à écouter chez l’[Octet Vert](https://standblog.org/blog/post/2021/02/26/Je-lance-un-podcast-l-Octet-Vert), le podcast de Tristan Nitot. Retrouvez également [Adrien Montagut de Commown chez Radio Printemps](https://anchor.fm/chlo-durantis/episodes/Agir-3-Allonger-la-dure-de-vie-de-nos-quipements-lectroniques-avec-Commown-ettn2v), le podcast de l’écosyndicat Printemps Écologique.
-
-Nous vous donnons rendez-vous le mardi 11 mai pour échanger lors d’une diffusion live sur Imago de l’épisode 50 de Techologie, “[Data sciences, techno-libéralisme et désertion de l’ingénierie](https://www.imagotv.fr/podcasts/techologie)” avec Romain Boucher. Tout un programme !
 
 L’Europe lance sa [consultation citoyenne sur des thèmes comme le changement climatique ou la transformation numérique](https://futureu.europa.eu/?locale%3Dfr).
 
@@ -97,6 +99,8 @@ Le [prix d’1 giga-octets](https://www.cable.co.uk/mobiles/worldwide-data-prici
 Les écoles vont produire de l’électricité ! Pas avec du jus de cerveaux, mais avec du soleil. Cela se passe aux Lilas, dans le 93, [grâce à des panneaux photovoltaïques](https://www.leparisien.fr/seine-saint-denis-93/les-lilas-93260/les-lilas-demarrage-reussi-pour-la-centrale-solaire-27-04-2021-NPSMSNZ3ANGTJMQOGJPD6VWQE4.php) installés sur les toits et financés par la coopérative citoyenne Electrons solaires.
 
 Un article incompréhensible si nous étions toujours en 2019 : "[Rosette et François pêchent sur Doctolib des rendez-vous Pfizer pour vous](https://www.leparisien.fr/societe/sante/vaccination-anti-covid-a-sauvian-rosette-et-francois-pechent-des-rendez-vous-pfizer-pour-vous-16-04-2021-JLKRWQQW3VESLPQVDAIEASSRXA.php)". Formidable !
+
+**Nous vous donnons rendez-vous le mardi 11 mai** pour échanger lors d’une diffusion live sur Imago de l’épisode 50 de Techologie, “[Data sciences, techno-libéralisme et désertion de l’ingénierie](https://www.imagotv.fr/live-radio/techologie/538)” avec Romain Boucher. Tout un programme !
 
 Pour nous montrer que vous avez apprécié votre lecture et pour nous donner un coup de pouce, [partagez-la sur le réseau au logo d’oiseau](https://twitter.com/intent/tweet?text%3DJe%2520recommande%2520la%2520lecture%2520de%2520la%2520derni%25C3%25A8re%2520newsletter%2520de%2520Techologie%2520:%2520https://techologie.net/newsletter/4), sur un [réseau pro aux gens chelous](https://www.linkedin.com/sharing/share-offsite/?url%3Dhttps://techologie.net/newsletter/4)ou sur celui de votre choix.
 
