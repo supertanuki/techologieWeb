@@ -17,7 +17,7 @@ audio_size_in_megabyte: 48
 * Démission, désertion, lanceur d’alerte ? Comment en es-tu arrivé là ? Comment ça s’est passé pour toi ?
 * L'association Vous N’êtes Pas Seuls
 * Un message ou des conseils pour des personnes qui se retrouvent prises en étau entre leur travail et leurs convictions ?
-* Que conseillez aux étudiants ?
+* Que conseiller aux étudiants ?
 * Quelle rémunération ?
 * Sur le plan politique, quels sont les enjeux de la présidentielle de 2022 ?
 
