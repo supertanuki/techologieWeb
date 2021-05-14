@@ -46,7 +46,7 @@ Voilà. Vous seriez prêts à manifester dans la rue pour un sujet aussi futile 
 
 **Quels sont vos projets en cours ?**
 
-Le [lance-flamme-chalumeau](https://www.rtl.fr/actu/sciences-tech/elon-musk-vend-des-lance-flammes-a-500-dollars-apres-une-blague-7792046821)n’a clairement pas trouvé son public. On planche maintenant sur le lancement d’un hyperloop toothbrush, une brosse à dent supersonique et bien sûr connectée vous permettant de vous brosser les dents en moins de 10 secondes. C’est un gain de temps quotidien énorme ! Time is money. Ce temps gagné vous permettra par exemple de fonder des startups.
+Le [lance-flamme-chalumeau](https://www.rtl.fr/actu/sciences-tech/elon-musk-vend-des-lance-flammes-a-500-dollars-apres-une-blague-7792046821) n’a clairement pas trouvé son public. On planche maintenant sur le lancement d’un hyperloop toothbrush, une brosse à dent supersonique et bien sûr connectée vous permettant de vous brosser les dents en moins de 10 secondes. C’est un gain de temps quotidien énorme ! Time is money. Ce temps gagné vous permettra par exemple de fonder des startups.
 
 ## Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a [flower](https://www.youtube.com/watch?v%3DP-qOurzN_Gs)
 
