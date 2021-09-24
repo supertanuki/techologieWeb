@@ -6,7 +6,7 @@ published_at: "2021-09-23"
 image: ./image.jpg
 ---
 
-## La newsletter green, super green**
+## La newsletter green, super green
 
 Coucou. Nous espérons que vous avez passé un bel été sans évacuation de camping pour cause de feu de forêt. Nous vous souhaitons une bonne lecture de ce 7ème numéro, fruit d’une veille collective de la communauté Techologie.
 
