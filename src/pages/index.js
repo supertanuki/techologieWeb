@@ -7,13 +7,16 @@ import SEO from '../components/seo'
 export default () => {
   return (
     <Layout>
-      <SEO title="Techologie, le podcast qui tente de lier tech et écologie alors que tout les oppose." />
+      <SEO title="Techologie, le podcast qui tente de lier technologie et écologie alors que tout les oppose." />
 
       <div className="centered">
         <h1>
-          Techologie, le podcast qui tente de lier tech et écologie alors que
-          tout les oppose.
+          Techologie
         </h1>
+        <h2>
+          Le podcast qui tente de lier technologie et écologie
+          alors que tout les oppose.
+        </h2>
 
         <Link to={`/episodes.html`}>
           <img src={logo} alt="Techologie" className="logo" />

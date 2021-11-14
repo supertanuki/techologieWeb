@@ -1,7 +1,7 @@
 {
   "name": "techologie",
   "private": true,
-  "description": "Le podcast qui tente de lier tech et écologie alors que tout les oppose",
+  "description": "Le podcast qui tente de lier technologie et écologie alors que tout les oppose",
   "version": "2.0.0",
   "author": "Richard Hanna <supertanuki@gmail.com>",
   "dependencies": {
