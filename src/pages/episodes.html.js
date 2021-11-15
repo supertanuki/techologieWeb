@@ -14,14 +14,12 @@ export default ({ data }) => {
 
         <ul className="episodes">
           {data.allMarkdownRemark.edges.map(({ node }) => (
-            <li key={node.id}>
+            <li key={node.id} className="enlarge-link">
               <div className="image">
-                <Link to={node.fields.slug}>
-                  <Img
-                    fluid={node.frontmatter.image.childImageSharp.fluid}
-                    alt="{node.frontmatter.people}"
-                  />
-                </Link>
+                <Img
+                  fluid={node.frontmatter.image.childImageSharp.fluid}
+                  alt=""
+                />
               </div>
               <div className="description">
                 <p class="episode-label">
