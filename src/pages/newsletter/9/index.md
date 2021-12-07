@@ -54,7 +54,7 @@ Pour conclure, je précise que l'exercice que nous venons de faire avec Kant aur
 
 ## Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a [flower](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DP-qOurzN_Gs&sa=D&source=editors&ust=1638912633207000&usg=AOvVaw2-pih--0RR0wXXr6k7_kXj)
 
-![](./greenwashing.png)
+![](./greenwashing.jpg)
 
 Il y a de nombreux candidats pour cette rubrique greenwashing. Mais un champion sort clairement du lot. Il s’agit de "[Fuel for the planet](https://www.google.com/url?q=https://fuelforplanet.com/&sa=D&source=editors&ust=1638912633208000&usg=AOvVaw1ZCJlQOon5yvqdBcO1_TC_)", la station essence qui compense les émissions du carburant. Bah oui, plus c’est gros, mieux ça passe. Les gueux ont le sens (ou l’essence ?) de l’humour : “Nous sommes le 1er réseau français de station-service qui fait le plein de sens”.
 
