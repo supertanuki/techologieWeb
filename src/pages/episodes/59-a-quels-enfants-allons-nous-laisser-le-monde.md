@@ -2,7 +2,7 @@
 episode_number: 59
 title: À quels enfants allons-nous laisser le monde ?
 people: Philippe Bihouix
-description: Philippe Bihouix est ingénieur, son sujet les limites de la planète, l’épuisement de ses ressources minérales et ressources énergétiques et les low tech. Auteur de L'Âge des low-tech, Le bonheur était pour demain, Quel futur pour les métaux ? et co-auteur avec Karine Mauvilly de : Le désastre de l’école numérique : plaidoyer pour une école sans écran.
+description: "Philippe Bihouix est ingénieur, son sujet les limites de la planète, l’épuisement de ses ressources minérales et ressources énergétiques et les low tech. Auteur de L'Âge des low-tech, Le bonheur était pour demain, Quel futur pour les métaux ? et co-auteur avec Karine Mauvilly de : Le désastre de l’école numérique, plaidoyer pour une école sans écran."
 published_at: 2021-12-09
 image: "./images/59-philippe-bihouix.jpg"
 audio_link: https://soundcloud.com/techologie/a-quels-enfants-allons-nous-laisser-le-monde-avec-philippe-bihouix
