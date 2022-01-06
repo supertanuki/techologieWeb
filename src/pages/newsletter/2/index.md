@@ -88,7 +88,7 @@ Vous noterez que cette newsletter ne contient aucun **poisson d'avril**. En effe
 
 Nous espérons que vous avez apprécié votre lecture. Pour nous donner un coup de pouce, [partagez-la sur le réseau au logo d’oiseau](https://twitter.com/intent/tweet?text=Je recommande la lecture de la dernière newsletter de Techologie : https://techologie.net/newsletter/2) ou sur celui de votre choix.
 
-Si vous avez moins aimé (vous avez le droit), pour nous suggérer des améliorations, dites nous tout sur notre [espace dédié](https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM) (slack).
+Si vous avez moins aimé (vous avez le droit), pour nous suggérer des améliorations, dites nous tout sur notre [framateam](https://framateam.org/techologie/).
 
 Prenez soin de vous et de vos smartphones et à dans 2 semaines !
 
