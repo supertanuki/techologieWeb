@@ -70,6 +70,6 @@ Pendant ce temps, le Figaro magazine, tranquille, met en une « [Comment tirer p
 
 Nous espérons que vous avez apprécié cette 1ère édition de notre newsletter. Pour nous donner un coup de pouce, [partagez-la sur le réseau au logo d’oiseau](https://twitter.com/intent/tweet?text=Je recommande la lecture de la dernière newsletter de Techologie : https://techologie.net/newsletter/1) ou sur celui de votre choix.
 
-Si vous avez moins aimé (vous avez le droit), pour nous suggérer des améliorations, dites nous tout sur notre [framateam](https://framateam.org/techologie/) (slack).
+Si vous avez moins aimé (vous avez le droit), pour nous suggérer des améliorations, dites nous tout sur notre [framateam](https://framateam.org/techologie/).
 
 Prenez soin de vous et de vos smartphones et à dans 2 semaines !
