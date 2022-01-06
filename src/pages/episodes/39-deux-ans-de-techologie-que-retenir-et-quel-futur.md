@@ -52,5 +52,4 @@ En savoir plus :
 * [L'indice de réparabilité](https://www.quechoisir.org/actualite-antigaspillage-l-indice-de-reparabilite-des-appareils-se-precise-n81579/) 
 * [Tweet de Romain](https://twitter.com/Air_Loren/status/1307309975178539009?s=20) : "ça me semblerait intéressant de mettre sur la table la question de l’utilité sociétale du véhicule autonome" et la réponse assez drôle.
 
-Commenter cet épisode sur le
-[Slack de Techologie](https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM)
+Commenter cet épisode sur [framateam](https://framateam.org/techologie/)
