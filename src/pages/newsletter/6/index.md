@@ -83,7 +83,7 @@ Dans son rapport d’activité annuel, la CNIL, Commission nationale de l'inform
 
 Nous espérons que vous avez apprécié votre lecture. Pour nous donner un coup de pouce, [partagez-la sur le réseau au logo d’oiseau](https://twitter.com/intent/tweet?text%3DJe%2520recommande%2520la%2520lecture%2520de%2520la%2520derni%25C3%25A8re%2520newsletter%2520de%2520Techologie%2520:%2520https://techologie.net/newsletter/6), sur un [réseau des professionnels et des recruteurs](https://www.linkedin.com/sharing/share-offsite/?url%3Dhttps://techologie.net/newsletter/6) ou sur celui de votre choix. C'est peut-être un détail pour vous, mais pour nous, ça veut dire beaucoup.
 
-Pour nous suggérer des améliorations, dites nous tout sur notre [espace dédié](https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM) (slack).
+Pour nous suggérer des améliorations, dites nous tout sur notre [framateam](https://framateam.org/techologie/).
 
 Prenez soin de vous et de vos smartphones et à dans 2 semaines !
 
