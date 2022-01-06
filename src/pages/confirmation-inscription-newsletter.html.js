@@ -18,9 +18,9 @@ export default () => (
       <p>Vous pourrez vous désinscrire à tout moment.</p>
 
       <p>
-        En attendant, et si ce n'est pas encore fait, rejoignez-nous sur notre{' '}
-        <a href="https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM">
-          communauté Techologie sur slack
+        En attendant, et si ce n'est pas encore fait, rejoignez la{' '}
+        <a href="https://framateam.org/techologie/">
+          communauté Techologie sur framateam
         </a>
         .
       </p>
