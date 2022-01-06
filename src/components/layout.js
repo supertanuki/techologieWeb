@@ -49,8 +49,8 @@ export default ({ children }) => {
             Commenter sur{' '}
             <a href="https://twitter.com/techologieAudio">Twitter</a>,{' '}
             <a href="https://www.imagotv.fr/podcasts/techologie">Imago</a>, ou{' '}
-            <a href="https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLTMzZWI3NTIwNWUyMzIwMGIyMzY2YmYyNDFiZWMyOWJiMTJjOWRkODg2MWM4Y2M1OWE4Y2Y2MmJiNjQ5NTcwZmM">
-              Slack
+            <a href="https://framateam.org/techologie/">
+              Framateam
             </a>
           </p>
         </footer>
