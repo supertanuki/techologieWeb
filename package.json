@@ -1,48 +1,35 @@
 {
-  "name": "techologie",
-  "private": true,
-  "description": "Le podcast qui tente de lier technologie et écologie alors que tout les oppose",
-  "version": "2.0.0",
-  "author": "Richard Hanna <supertanuki@gmail.com>",
-  "dependencies": {
-    "@emotion/core": "^10.0.6",
-    "gatsby": "^2.28.2",
-    "gatsby-image": "^2.0.26",
-    "gatsby-plugin-emotion": "^4.0.1",
-    "gatsby-plugin-manifest": "^2.0.13",
-    "gatsby-plugin-offline": "^2.0.21",
-    "gatsby-plugin-react-helmet": "^3.0.2",
-    "gatsby-plugin-sharp": "^2.0.17",
-    "gatsby-remark-images": "^4.1.0",
-    "gatsby-source-filesystem": "^2.0.16",
-    "gatsby-transformer-remark": "^2.2.0",
-    "gatsby-transformer-sharp": "^2.1.10",
-    "prop-types": "^15.6.2",
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-helmet": "^5.2.0"
-  },
-  "keywords": [
-    "gatsby"
-  ],
-  "license": "MIT",
+  "name": "eleventy-base-blog",
+  "version": "6.0.0",
+  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
   "scripts": {
-    "build": "gatsby build",
-    "deploy": "gatsby build && gh-pages -d public",
-    "develop": "gatsby develop",
-    "start": "npm run develop",
-    "format": "prettier --write \"src/**/*.js\"",
-    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
-  },
-  "devDependencies": {
-    "gh-pages": "^2.0.1",
-    "prettier": "^1.16.1"
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "git://github.com/11ty/eleventy-base-blog.git"
   },
+  "author": {
+    "name": "Zach Leatherman",
+    "email": "zachleatherman@gmail.com",
+    "url": "https://zachleat.com/"
+  },
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/11ty/eleventy-base-blog/issues"
+  },
+  "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.3",
+    "luxon": "^2.3.0",
+    "markdown-it": "^12.3.2",
+    "markdown-it-anchor": "^8.4.1"
   }
 }

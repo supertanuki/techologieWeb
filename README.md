@@ -1,17 +1,28 @@
 # Techologie website
 
-Install Gatsby-cli:
+## 1. Install dependencies
 
-    $ sudo npm install --global gatsby-cli
+```
+npm install
+```
 
-Install:
+## 2. Run Eleventy
 
-    $ npm install
+```
+npx eleventy
+```
 
-Start:
+Or build and host locally for local development
+```
+npx eleventy --serve
+```
 
-    $ gatsby develop
+Or build automatically when a template changes:
+```
+npx eleventy --watch
+```
 
-The site is now running at `http://localhost:8000`.
-
-[Documentation for Gatsby](https://www.gatsbyjs.org/).
+Or in debug mode:
+```
+DEBUG=* npx eleventy
+```
