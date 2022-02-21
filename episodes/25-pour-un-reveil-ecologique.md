@@ -4,7 +4,7 @@ title: "Pour un réveil écologique"
 people: "Antoine Trouche"
 description: "Antoine Trouche est membre de Pour un Réveil écologique, collectif qui est né dans la continuité du Manifeste Étudiant pour un Réveil Écologique, lancé en septembre 2018 et signé par près de 30 000 étudiants. Aujourd'hui le collectif travaille sur deux axes : réveiller son employeur et réveiller sa formation."
 published_at: "2020-01-03"
-image: "./images/25-antoine-trouche.jpg"
+image: "/img/episodes/25-antoine-trouche.jpg"
 audio_link: "https://soundcloud.com/techologie/25-pour-un-reveil-ecologique-avec-antoine-trouche"
 audio_size_in_megabyte: 31
 ---

@@ -4,7 +4,7 @@ title: "Pour un manifeste écologique des professionnels de l'informatique"
 people: "Jean-François Fourmond"
 description: "Jean-François Fourmond est développeur Java indépendant. Il souhaite s'engager pour limiter le réchauffement climatique en lançant un manifeste dédié aux professionnels de l'informatique. Il a besoin d'aide pour finaliser ce manifeste et communiquer."
 published_at: "2019-02-12"
-image: "./images/6-fourmond.jpg"
+image: "/img/episodes/6-fourmond.jpg"
 audio_link: "https://soundcloud.com/techologie/6-manifeste-ecologique-des-professionnels-de-l-informatique"
 audio_size_in_megabyte: 12
 ---

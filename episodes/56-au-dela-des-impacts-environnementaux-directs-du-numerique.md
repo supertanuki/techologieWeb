@@ -4,7 +4,7 @@ title: Au-delà des impacts environnementaux directs du numérique
 people: Françoise Berthoud
 description: Françoise Berthoud est ingénieure de recherche en informatique au CNRS, membre et ancienne directrice du GDS, groupement de service EcoInfo « Pour une informatique éco-responsable ».
 published_at: 2021-10-22
-image: "./images/56-francoise-berthoud.jpg"
+image: "/img/episodes/56-francoise-berthoud.jpg"
 audio_link: https://soundcloud.com/techologie/56-au-dela-des-impacts-environnementaux-directs-du-numerique/
 audio_size_in_megabyte: 32
 ---

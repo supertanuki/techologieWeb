@@ -4,7 +4,7 @@ title: "Design pour une résilience face à l'effondrement"
 people: "Geoffrey Dorne"
 description: "Geoffrey Dorne est designer indépendant depuis 2005 et fondateur de Design & Human, agence de design à vocation sociale et qui vise l’indépendance. Il a donné une conférence très inspirante à BlendWebMix 2018, « Pour un design de l’indépendance ». Il nous parle des métiers de la conception (designer, développeurs notamment) et comment ré-affecter ces métiers pour préparer les gens, les utilisateurs de nos produits, à plus de résilience face à l'effondrement de notre civilisation."
 published_at: "2019-03-08"
-image: "./images/8-gdorne.jpg"
+image: "/img/episodes/8-gdorne.jpg"
 audio_link: "https://soundcloud.com/techologie/8-design-pour-une-resilience-face-a-l-effondrement-avec-geoffrey-dorne"
 audio_size_in_megabyte: 23
 ---

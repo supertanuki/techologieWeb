@@ -4,7 +4,7 @@ title: Data sciences, techno-libéralisme et désertion de l’ingénierie
 people: Romain Boucher
 description: Romain est ingénieur, spécialisé dans les data sciences. Il a travaillé en tant que consultant data scientist pendant 3 ans, avant de démissionner en mars 2020. Il publie il y a quelques semaines une lettre ouverte ainsi qu’un rapport intitulé « D’un peu de lucidité sur les ravages du techno-libéralisme ».
 published_at: 2021-05-11
-image: "./images/50-romain-boucher.jpg"
+image: "/img/episodes/50-romain-boucher.jpg"
 audio_link: https://soundcloud.com/techologie/50-data-sciences-techno-liberalisme-et-desertion-de-lingenierie-avec-romain-boucher
 audio_size_in_megabyte: 48
 ---

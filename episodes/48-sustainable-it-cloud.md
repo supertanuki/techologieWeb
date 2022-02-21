@@ -4,7 +4,7 @@ title: "Sustainable IT: Natalie Hollier views on product teams, cloud and IT for
 people: Natalie Hollier
 description: Natalie has been working in Digital Sustainability for a few years at ThoughtWorks, and recently joined  Microsoft to work on Sustainability Product Innovation.
 published_at: 2021-04-13
-image: "./images/48-sustainable-it.jpg"
+image: "/img/episodes/48-sustainable-it.jpg"
 audio_link: https://soundcloud.com/techologie/48-sustainable-it-natalie-hollier-views-on-product-teams-cloud-and-it-for-green
 audio_size_in_megabyte: 26
 ---

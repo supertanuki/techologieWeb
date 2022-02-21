@@ -4,7 +4,7 @@ title: "Anthropocène et futurs souhaitables"
 people: "Marie-Cécile Godwin Paccard et Thomas di Luccio"
 description: "Marie-Cécile Godwin Paccard et Thomas di Luccio sont designers. Ils ont créé le think-tank Common Future(s). Nous les avons rencontré au ForumPHP 2019 où ils donnaient une conférence Façonner des futurs souhaitables : concevoir à l'ère de l'anthropocène."
 published_at: "2019-11-19"
-image: "./images/23-paccard-diluccio.jpg"
+image: "/img/episodes/23-paccard-diluccio.jpg"
 audio_link: "https://soundcloud.com/techologie/23-anthropocene-et-futurs-souhaitables"
 audio_size_in_megabyte: 37
 ---

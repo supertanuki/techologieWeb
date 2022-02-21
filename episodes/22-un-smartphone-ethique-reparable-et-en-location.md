@@ -4,7 +4,7 @@ title: "Un smartphone éthique, réparable et en location"
 people: "Adrien Montagut"
 description: "Adrien Montagut a cofondé Commown, une coopérative d'intérêt collectif qui propose des smartphone et des pc en location. Vous n'êtes plus propriétaires de ces biens mais vous êtes clients d'un service. C'est ce qu'on appelle l'économie de la fonctionnalité. On parle avec Adrien de l'impact environnemental de la production, de l'usage et de fin de vie de nos smartphones, quelles sont les solutions pour réduire ces impacts. On parle aussi d'activisme, de désobéissance civile et de décrochage de portraits."
 published_at: "2019-11-06"
-image: "./images/22-adrien-montagut.jpg"
+image: "/img/episodes/22-adrien-montagut.jpg"
 audio_link: "https://soundcloud.com/techologie/22-un-smartphone-ethique-reparable-et-en-location-avec-adrien-montagut"
 audio_size_in_megabyte: 38
 ---

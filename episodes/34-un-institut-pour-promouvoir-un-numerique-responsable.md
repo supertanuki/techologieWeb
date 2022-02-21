@@ -4,7 +4,7 @@ title: "Un institut pour promouvoir un numérique responsable"
 people: "Vincent Courboulay"
 description: "Vincent Courboulay est maitre de conférences à La Rochelle Université et directeur scientifique de l'Institut du Numérique Responsable."
 published_at: "2020-06-05"
-image: "./images/34-vincent-courboulay.jpg"
+image: "/img/episodes/34-vincent-courboulay.jpg"
 audio_link: "https://soundcloud.com/techologie/34-un-institut-pour-promouvoir-un-numerique-responsable-avec-vincent-courboulay"
 audio_size_in_megabyte: 25
 ---

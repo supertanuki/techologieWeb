@@ -4,7 +4,7 @@ title: Build a sustainable business with digital sustainability
 people: Tom Greenwood
 description: "In this episode, we invite Tom Greenwood to talk about sustainable web design and his company Wholegrain Digital."
 published_at: 2022-01-07
-image: "./images/61-tom-greenwood.jpg"
+image: "/img/episodes/61-tom-greenwood.jpg"
 audio_link: https://soundcloud.com/techologie/61-building-a-sustainable-business-with-digital-sustainability
 audio_size_in_megabyte: 27
 ---

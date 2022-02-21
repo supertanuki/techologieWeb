@@ -4,7 +4,7 @@ title: "Une vie engagée et un ordinateur low tech mais pas bidon"
 people: "Romain Chanut"
 description: "Romain Chanut, nomade depuis quelques mois, se décrit comme facilitateur et DJ. Il est aussi le cofondateur de Jerry Do it together, un ordinateur dans un bidon fait à base d'éléments récupérés. On y parle de low tech, un peu de politique mais aussi d'Extinction Rebellion."
 published_at: "2019-10-12"
-image: "./images/19-romain.jpg"
+image: "/img/episodes/19-romain.jpg"
 audio_link: "https://soundcloud.com/techologie/une-vie-engagee-et-un-ordinateur-de-recup-dans-un-bidon-avec-romain-chanut"
 audio_size_in_megabyte: 26
 ---

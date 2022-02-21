@@ -4,7 +4,7 @@ title: "Mesurer la consommation énergétique des apps et sites web"
 people: "Olivier Philippot"
 description: "Olivier Philippot est développeur depuis 20 ans, dans différentes technologies, embarquées et mobile notamment. Lors de ses années universitaires, il a fait de la recherche sur les batteries et la gestion de l'énergie. Aujourd'hui il est cofondateur de Greenspector, une startup installée à Nantes. Nous allons parler de comment mesurer la consommation énergétique de nos sites web et applications."
 published_at: "2019-04-16"
-image: "./images/11-olivier-philippot.jpg"
+image: "/img/episodes/11-olivier-philippot.jpg"
 audio_link: "https://soundcloud.com/techologie/11-mesurer-la-consommation-energetique-des-apps-et-sites-web-avec-olivier-philippot"
 audio_size_in_megabyte: 17
 ---

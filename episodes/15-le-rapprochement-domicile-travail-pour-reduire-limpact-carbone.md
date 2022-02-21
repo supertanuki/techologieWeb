@@ -4,7 +4,7 @@ title: "Le rapprochement domicile - travail pour réduire l'impact carbone"
 people: "Laure Wagner"
 description: "Laure Wagner travaille dans la mobilité depuis plus de 10 ans notamment chez Blablacar. Elle lance 1km à Pied, pour démocratiser la réalisation de diagnostic mobilité sur la base de fichiers RH et pour identifier des solutions de réduction des trajets, ce qui est à la fois bénéfique pour les entreprises, les salariés et l'environnement."
 published_at: "2019-07-12"
-image: "./images/15-laure-wagner.jpg"
+image: "/img/episodes/15-laure-wagner.jpg"
 audio_link: "https://soundcloud.com/techologie/15-le-rapprochement-domicile-travail-pour-reduire-limpact-carbone-avec-laure-wagner"
 audio_size_in_megabyte: 15
 ---

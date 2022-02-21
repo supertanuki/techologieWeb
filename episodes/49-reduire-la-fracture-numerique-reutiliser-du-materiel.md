@@ -4,7 +4,7 @@ title: Réduire la fracture numérique, réutiliser du matériel
 people: Camille Bardou et Victor Estienney
 description: Nous allons à la rencontre de Camille Bardou, chef de projet lacollecte.tech et Victor Estienney, responsable national des opérations de Emmaüs Connect.
 published_at: 2021-04-26
-image: "./images/49-emmaus-connect.jpg"
+image: "/img/episodes/49-emmaus-connect.jpg"
 audio_link: https://soundcloud.com/techologie/49-reduire-la-fracture-numerique-reutiliser-du-materiel-avec-camille-bardou-et-victor-estienney
 audio_size_in_megabyte: 20
 ---

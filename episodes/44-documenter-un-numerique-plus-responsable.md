@@ -4,7 +4,7 @@ title: "Documenter un numérique plus responsable"
 people: "Alizée Colin"
 description: "Etudiante dans le secteur du numérique, Alizée Colin aspire à travers son blog à recentrer le web et ses outils dans un objectif de bien commun, tant bien environnemental que social."
 published_at: "2021-02-02"
-image: "./images/44-alizee-colin.jpg"
+image: "/img/episodes/44-alizee-colin.jpg"
 audio_link: "https://soundcloud.com/techologie/44-documenter-un-numerique-plus-responsable-avec-alizee-colin"
 audio_size_in_megabyte: 15
 ---

@@ -4,7 +4,7 @@ title: "Entreprise sociale de service numérique au Sénégal"
 people: "Marion, Mame Daba et Sébastien"
 description: "Nous partons en Afrique rencontrer les membres de IT4Life, une entreprise de services numériques installée à Dakar, au Sénégal."
 published_at: "2021-01-21"
-image: "./images/43-it4life.jpg"
+image: "/img/episodes/43-it4life.jpg"
 audio_link: "https://soundcloud.com/techologie/43-entreprise-sociale-service-numerique"
 audio_size_in_megabyte: 28
 ---

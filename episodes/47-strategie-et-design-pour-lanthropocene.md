@@ -4,7 +4,7 @@ title: Stratégie et design pour l'Anthropocène
 people: Alexandre Monnin et Emmanuel Bonnet
 description: Alexandre Monnin est directeur de la Recherche d'Origens Medialab, Co-fondateur de l'initiative Closing Worlds. Avec Emmanuel Bonnet, ils sont tous les deux enseignants dans le Master of Science (MSc) "Stratégie et Design pour l'Anthropocène" à l'ESC Clermont BS.
 published_at: 2021-04-05
-image: "./images/47-design-for-the-anthropocene.jpg"
+image: "/img/episodes/47-design-for-the-anthropocene.jpg"
 audio_link: https://soundcloud.com/techologie/strategie-et-design-pour-lanthropocene-avec-alexandre-monnin-et-emmanuel-bonnet
 audio_size_in_megabyte: 40
 ---

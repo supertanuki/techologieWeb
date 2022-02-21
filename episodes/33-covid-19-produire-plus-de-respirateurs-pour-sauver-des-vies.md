@@ -4,7 +4,7 @@ title: "Covid-19, produire plus de respirateurs pour sauver des vies"
 people: "Peio Roth"
 description: "Pierre Roth dit Peio est développeur chez Eove, une entreprise qui produit des respirateurs, installée à Pau. Il nous parle de son quotidien qui a été bouleversé par l'arrivée du Covid-19, comment protéger l'équipe de production, créer une seconde équipe et travailler le samedi pour répondre à la demande."
 published_at: "2020-04-21"
-image: "./images/33-peio-roth.png"
+image: "/img/episodes/33-peio-roth.png"
 audio_link: "https://soundcloud.com/techologie/33-covid-19-produire-plus-de-respirateurs-pour-sauver-des-vies"
 audio_size_in_megabyte: 25
 ---

@@ -4,7 +4,7 @@ title: On n'arrête pas le progrès ?
 people: Fanny Verrax
 description: "Philosophe de formation, Fanny Verrax est enseignante, chercheuse indépendante et consultante auprès de différentes institutions, dont le Ministère de la Transition écologique. Co-auteure du livre « Quelle éthique pour l’ingénieur »."
 published_at: 2021-11-25
-image: "./images/58-fanny-verrax.jpg"
+image: "/img/episodes/58-fanny-verrax.jpg"
 audio_link: https://soundcloud.com/techologie/58-on-narrete-pas-le-progres-avec-fanny-verrax
 audio_size_in_megabyte: 41
 ---

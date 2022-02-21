@@ -4,7 +4,7 @@ title: L’impératif de la sobriété numérique et l’enjeu des modes de vie
 people: Fabrice Flipo
 description: Fabrice Flipo est professeur de philosophie sociale et politique, philosophie des sciences et techniques à l'Institut Mines-Télécom et chercheur au Laboratoire de changement social et politique à l’Université de Paris. Il est l'auteur de L’impératif de la sobriété numérique, L’enjeu des modes de vie.
 published_at: 2021-03-16
-image: "./images/46-fabrice-flipo.jpg"
+image: "/img/episodes/46-fabrice-flipo.jpg"
 audio_link: https://soundcloud.com/techologie/limperatif-de-la-sobriete-numerique-et-lenjeu-des-modes-de-vie-avec-fabrice-flipo
 audio_size_in_megabyte: 38
 ---

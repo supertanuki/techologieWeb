@@ -4,7 +4,7 @@ title: "Nuit du code citoyen et la tech au service de l'intérêt général"
 people: "Yannick Morel"
 description: "Dans cet épisode, on est à la Nuit du Code citoyen à Paris qui s'est tenue le vendredi 15 mars 2019. On est avec Yannick Morel, co-fondateur de Latitudes, association loi 1901 qui accompagne et encourage l'utilisation des technologies au service de l'intérêt général."
 published_at: "2019-03-22"
-image: "./images/10-yannick-morel.jpg"
+image: "/img/episodes/10-yannick-morel.jpg"
 audio_link: "https://soundcloud.com/techologie/10-nuit-du-code-citoyen"
 audio_size_in_megabyte: 25
 ---

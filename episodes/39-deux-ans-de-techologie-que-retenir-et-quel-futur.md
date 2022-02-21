@@ -4,7 +4,7 @@ title: "Deux ans de Techologie, que retenir et quel futur ?"
 people: "Various artists"
 description: "Pour les deux ans du podcast, un épisode spécial en public pour marquer le coup. On fait le bilan, calmement."
 published_at: "2020-12-16"
-image: "./images/39-techologie-2ans.jpg"
+image: "/img/episodes/39-techologie-2ans.jpg"
 audio_link: "https://soundcloud.com/techologie/39-deux-ans-de-techologie-que-retenir-et-quel-futur"
 audio_size_in_megabyte: 56
 ---

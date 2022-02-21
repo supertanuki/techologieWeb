@@ -4,7 +4,7 @@ title: Le numérique de demain avec les équipements d'hier
 people: Benjamin Ninassi
 description: "Ingénieur de recherche, chef de projet informatique dédié à la médiation scientifique et à l'innovation pédagogique dans la direction scientifique à l'Inria, spécialiste des impacts environnementaux des technologies numériques, Benjamin Ninassi est également membre du Groupement de service EcoInfo, pour une informatique éco-responsable et de l'INR, l'Institut du Numérique Responsable."
 published_at: 2022-02-03
-image: "./images/63-benjamin-ninassi.jpg"
+image: "/img/episodes/63-benjamin-ninassi.jpg"
 audio_link: https://soundcloud.com/techologie/63-le-numerique-de-demain-avec-les-equipements-dhier-avec-benjamin-ninassi
 audio_size_in_megabyte: 34
 ---
