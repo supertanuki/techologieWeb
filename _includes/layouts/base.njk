@@ -9,7 +9,7 @@
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
   </head>
-  <body>
+  <body class="{% if page.url == '/' %}home{% endif %}">
     <header>
       <label aria-hidden="true" class="minimal-menu-button" for="mobile-nav">
         Menu
@@ -53,7 +53,7 @@
         </a>
       </p>
       <p>
-        <a href="/communaute.html">S'inscrire à la newsletter</a>
+        <a href="/communaute/">S'inscrire à la newsletter</a>
         Commenter sur
         <a href="https://twitter.com/techologieAudio">Twitter</a>,
         <a href="https://www.imagotv.fr/podcasts/techologie">Imago</a>, ou

@@ -1,8 +1,12 @@
 body {
 	margin: 0;
 	font-family: Arial, sans-serif;
-	background: #191919;
+	background: #111111;
 	color: #eee;
+}
+
+body.home {
+	background: #083c30;
 }
 
 h1 {
@@ -81,10 +85,6 @@ footer a:hover {
     transition: color .5s;
 }
 
-footer a:visited {
-    color: #ccc;
-}
-
 .listen { font-size: 30px; font-weight: bold; margin: 50px 0; }
 
 .focus { background-color: #000; font-size: 30px; font-weight: bold; padding: 20px 50px; }
@@ -94,7 +94,8 @@ main .label {
 	font-size: 17px;
 }
 main .label span {
-	background: #264653;
+	background: white;
+	color: black;
 	padding: 10px;
 	display: inline-block;
 	z-index: 1000;
@@ -146,7 +147,7 @@ main a:hover {
     transition: color .5s;
 }
 
-main a:visited {
+main a:visited, footer a:visited {
     color: darkseagreen;
 }
 

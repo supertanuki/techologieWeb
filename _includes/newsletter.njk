@@ -2,20 +2,14 @@
 layout: layouts/base.njk
 ---
 
-<br />
+<h1>{{title}}</h1>
 
-<div class="centered">
-  <h1>
-    {{title}}
-  </h1>
+<p><a href="/newsletter">Newsletters</a> &gt; n°{{number}} envoyée le {{date | toFrenchDate}}</p>
 
-  <p><a href="/newsletter">Newsletters</a> &gt; n°{{number}} envoyée le {{date | toFrenchDate}}</p>
+<div>{{ content | safe }}</div>
 
-  <div>{{ content | safe }}</div>
-
-  <p class="text-centered">
-    <a href="/communaute" class="focus">
-      S'inscrire à la newsletter
-    </a>
-  </p>
-</div>
+<p class="text-centered">
+  <a href="/communaute" class="focus">
+    S'inscrire à la newsletter
+  </a>
+</p>
