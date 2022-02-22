@@ -1,0 +1,14 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Techologie",
+  "language": "fr",
+  "home_page_url": "https://techologie.net/",
+  "feed_url": "https://techologie.net/feed/feed.json",
+  "description": "Le podcast qui tente de lier technologie et écologie alors que tout les oppose.",
+  "author": {
+    "name": "Richard Hanna",
+    "url": "https://techologie.net/about-me/"
+  },
+  "items": [
+  ]
+}

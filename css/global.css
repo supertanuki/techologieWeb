@@ -1,0 +1,392 @@
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background: #111111;
+	color: #eee;
+}
+
+body.home {
+	background: #083c30;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 1.3;
+	margin: 50px 0 30px;
+	max-width: 700px;
+}
+
+h2 {
+	max-width: 700px;
+	font-weight: normal;
+}
+
+.enlarge-link {position:relative}
+.enlarge-link a{outline-width:0!important}
+.enlarge-link a:before{content:"";display:block;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;outline-offset:2px;outline-style:inherit;outline-color:inherit;outline-width:2px;z-index:1}
+
+p.published + h1 {
+	margin-top: 0;
+}
+
+main {
+	padding: 0 20px;
+	line-height: 1.58;
+	letter-spacing: -.003em;
+	font-size: 21px;
+}
+
+main ul {
+	margin-bottom: 50px;
+}
+
+main ul li {
+	max-width: 700px;
+	list-style-type: square;
+	color: #ccc;
+	margin-bottom: 10px;
+}
+main p { font-size: 21px; max-width: 700px; color: #ccc; }
+
+main .episodes p {
+	font-size: 15px;
+}
+
+.published {
+	font-size: 15px;
+	color: #ccc;
+}
+
+main .episodes p.episode-label {
+	font-size: 13px;
+	color: #4a7145;
+	font-weight: bold;
+	margin: 0 0 6px;
+}
+.logo { width: 100% }
+
+footer {
+	background: #000;
+	padding: 20px;
+}
+
+footer p {
+	font-size: 15px;
+	margin: 0 0 10px;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    color: #ccc;
+    transition: color .5s;
+}
+
+.listen { font-size: 30px; font-weight: bold; margin: 50px 0; }
+
+.focus { background-color: #000; font-size: 30px; font-weight: bold; padding: 20px 50px; }
+
+main .label {
+	margin: -30px 0 0 0;
+	font-size: 17px;
+}
+main .label span {
+	background: white;
+	color: black;
+	padding: 10px;
+	display: inline-block;
+	z-index: 1000;
+}
+
+.episodes {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.episodes li {
+	list-style: none;
+	width: 240px;
+	background: #090909;
+	margin: 0 auto 20px;
+	border: 1px solid transparent;
+	transition: border-color 0.5s;
+}
+.episodes li:hover {
+	border: 1px solid #fff;
+}
+
+.episodes li .description {
+    padding: 10px;
+}
+.episodes li h2 {
+	font-size: 21px;
+	font-weight: bold;
+	margin: 0;
+	line-height: 1.3;
+}
+
+.episodes li .label {
+	display: block;
+}
+
+.episodes img {
+    width: 100%;
+}
+
+main a {
+    color: #fff;
+}
+
+main a:hover {
+    color: #ccc;
+    transition: color .5s;
+}
+
+main a:visited, footer a:visited {
+    color: darkseagreen;
+}
+
+.minimal-menu {
+	position: relative;
+	display: block;
+	text-decoration: none;
+	font-size: 0;
+	line-height: 0;
+}
+
+.minimal-menu h3 {
+	font-weight: normal;
+}
+
+.minimal-menu a {
+	border-color: transparent;
+}
+
+.minimal-menu a:hover {
+	-webkit-transition:	border-color 0.3s, background 0.3s;
+	-moz-transition:	border-color 0.3s, background 0.3s;
+	transition:			border-color 0.3s, background 0.3s;
+}
+
+.minimal-menu a[aria-current] {
+	border-bottom: 1px solid #fff;
+}
+
+.minimal-menu ul,
+.minimal-menu ul li,
+.minimal-menu ul li a {
+	position: relative;
+}
+
+.minimal-menu ul {
+	z-index: 1;
+}
+
+.minimal-menu ul li a {
+	display: block;
+	padding: 10px 18px;
+	font-size: 21px;
+	line-height: 40px;
+	text-decoration: none;
+}
+
+.minimal-menu > ul > li > a {
+	border-bottom: 1px solid transparent;
+	color: #fff;
+}
+
+.minimal-menu > ul > li:hover > a,
+.minimal-menu > ul > li.current > a {
+	border-bottom: 1px solid #fff;
+}
+			
+@media only screen and (min-width: 768px) {
+    .logo { width: 600px; margin: 0 auto; display: block; }
+
+	h1 {
+		margin: 50px 0 30px 0px;
+	}
+
+	footer p {
+		margin: 0 auto;
+	}	
+
+	.text-centered {
+		text-align: center;
+		margin: 50px 0;
+	}
+
+	.centered {
+		max-width: 700px;
+		margin: 0 auto;
+	}
+	
+	.episodes li {
+		height: 480px;
+		margin: 0 20px 20px 0;
+	}
+
+	.minimal-menu.clr-black {
+		background: #000;
+		border-left: 100px solid #000;
+	}
+	
+	.minimal-menu.clr-black > ul > li > a {
+		color: #fff;
+	}
+	
+	.minimal-menu.clr-black > ul > li:hover > a,
+	.minimal-menu.clr-black > ul > li.current > a {
+		border-color: #aaa;
+	}
+		
+	.minimal-menu.clr-black ul ul li:hover > a,
+	.minimal-menu.clr-black ul ul li.current > a {
+		border-color: #999;
+	}
+	
+	.minimal-menu-button {
+		display: none;
+	}
+	
+	.minimal-menu.pos-fixed {
+		position: fixed;
+		top: -2px;
+		left: -2px;
+		right: -2px;
+		z-index: 9999;
+		height: 66px;
+	}
+	
+	.minimal-menu a {
+		white-space: nowrap;
+	}
+
+	.minimal-menu > ul {
+		margin-bottom: -15px !important;
+		padding: 5px;
+	}
+		
+	.minimal-menu ul li {
+		display: inline-block;
+	}
+
+	main {
+		padding: 40px 20px 0;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.focus {
+		font-size: 20px;
+		padding: 10px;
+	}
+
+	.minimal-menu-button, .minimal-menu {
+		position: fixed;
+		right: 0;
+		top: 0;
+		z-index: 9999;
+	}
+	
+	input.minimal-menu-button {
+		display: none;
+	}
+	
+	label.minimal-menu-button {
+		display: inline-block;
+		width: 50px;
+		height: 50px;
+		text-transform: uppercase;
+		background: #000;
+		color: #fff;
+		cursor: pointer;
+		text-indent: -9999px;
+	}
+	
+	label.minimal-menu-button:before {
+		position: absolute;
+		content: '';
+		width: 30px;
+		height: 5px;
+		left: 10px;
+		bottom: 13px;
+		border-top: 13px double #fff;
+		border-bottom: 4px solid #fff;
+		z-index: 1;
+	}
+	
+	.minimal-menu {
+		background: #000;
+		border-color: rgba(100%, 100%, 100%, 0.3);
+		overflow: auto;
+		left: -100%;
+		top: 0;
+		width: 55%;
+		height: 100%;
+		opacity: 0;
+		-webkit-transition:	left 0.3s, opacity 0.3s;
+		-moz-transition:	left 0.3s, opacity 0.3s;
+		transition:			left 0.3s, opacity 0.3s;
+	}
+	
+	#mobile-nav:checked + .minimal-menu {
+		visibility: visible;
+		left: 0;
+		opacity: 1;
+	}
+
+	.minimal-menu h3, .minimal-menu ul li a {
+		border-top: 1px solid transparent;
+		border-bottom: 1px solid rgba(100%, 100%, 100%, 0.2);
+		color: #fff;
+	}
+	
+	.minimal-menu h3 {
+		font-size: 18px;
+		line-height: 1em;
+		margin: 0;
+		padding: 20px 0 20px 40px;
+		color: #fff;
+		background: rgba(100%, 100%, 100%, 0.10);
+	}
+	
+	.minimal-menu ul {
+		margin: 0;
+		padding: 0;
+	}
+	
+	.minimal-menu li, .minimal-menu a {
+		display: block;
+	}
+	
+	.minimal-menu li {
+		position: relative;
+	}
+	
+	.minimal-menu li:hover > a,
+	.minimal-menu li.current > a {
+		background: rgba(100%, 100%, 100%, 0.2);
+	}
+	
+	.minimal-menu ul > li {
+		padding-bottom: 0;
+	}
+
+	.minimal-menu > ul > li:hover > a,
+	.minimal-menu > ul > li.current > a	{
+		border-left: 1px solid transparent;
+		border-right: 1px solid transparent;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.minimal-menu {
+		width: 70%;
+	}
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Techologie</title>
+	<subtitle>Le podcast qui tente de lier technologie et écologie alors que tout les oppose.</subtitle>
+	
+	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
+	<link href="https://techologie.net/"/>
+	<updated>2022-02-22T22:19:12Z</updated>
+	<id>https://techologie.net/</id>
+	<author>
+		<name>Richard Hanna</name>
+		<email>supertanuki@gmail.com</email>
+	</author>
+</feed>
