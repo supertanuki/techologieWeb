@@ -3,7 +3,7 @@ episode_number: 28
 title: "Un écosyndicat qui concilie transition écologique et justice sociale"
 people: "Maxime Blondeau"
 description: "Maxime Blondeau a cofondé l'association Printemps Écologique dont le but est de construire le premier écosyndicat de l'histoire et accélérer la transition écologique par la négociation collective."
-date: "2020-02-12"
+date: 2020-02-12
 image: "/img/episodes/28-maxime-blondeau.jpg"
 audio_link: "https://soundcloud.com/techologie/28-un-ecosyndicat-qui-concilie-transition-ecologique-et-justice-sociale"
 audio_size_in_megabyte: 22

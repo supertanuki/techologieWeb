@@ -2,7 +2,7 @@
 type: newsletter
 number: 8
 title: Une souris verte...
-published_at: "2021-10-14"
+date: 2021-10-14
 image: ./image1.jpeg
 ---
 

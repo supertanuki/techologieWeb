@@ -3,7 +3,7 @@ episode_number: 9
 title: "Les cryptomonnaies sont-elles réellement énergivores ?"
 people: "Jean-Baptiste Dusseaut"
 description: "Jean-Baptiste Dusseaut est eXtreme programmeur depuis plus de 16 ans, architecte logiciel chez LGO, co-fondateur d'Arpinum, co-organisateur de l'Agile Tour Bordeaux et également enseignant. Nous abordons le sujet de la consommation d'énergie des cryptomonnaies notamment le BitCoin mais aussi les usages de la Blockchain, le bullshit marketing, la spéculation et les idées reçues autour de cette technologie."
-date: "2019-03-14"
+date: 2019-03-14
 image: "/img/episodes/9-jb-dusseaut.jpg"
 audio_link: "https://soundcloud.com/techologie/9-les-cryptomonnaies-sont-elles-reellement-energivores-avec-jean-baptiste-dusseaut"
 audio_size_in_megabyte: 27

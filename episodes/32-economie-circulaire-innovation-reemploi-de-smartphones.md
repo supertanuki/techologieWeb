@@ -3,7 +3,7 @@ episode_number: 32
 title: "Économie circulaire, innovation sociale et réemploi de smartphones"
 people: "Cyril Desmidt"
 description: "Rencontre avec Cyril Desmidt avec qui nous parlons logiciels libres, innovation sociale, réemploi d'équipements électroniques, transition numérique et écologique, économie circulaire, recylcage, low-tech, écoconception, épuisement de ressources et même sérendipité."
-date: "2020-04-13"
+date: 2020-04-13
 image: "/img/episodes/32-cyril-desmidt.jpg"
 audio_link: "https://soundcloud.com/techologie/32-economie-circulaire-innovation-reemploi-de-smartphones"
 audio_size_in_megabyte: 35

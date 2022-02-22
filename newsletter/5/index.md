@@ -2,7 +2,7 @@
 type: newsletter
 number: 5
 title: Croissance verte en danger et éco-filtre
-published_at: "2021-05-13"
+date: 2021-05-13
 image: ./orange-eco-filter.jpg
 ---
 

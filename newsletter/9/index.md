@@ -2,7 +2,7 @@
 type: newsletter
 number: 9
 title: C’est la fête du climat
-published_at: "2021-12-08"
+date: 2021-12-08
 image: ./manif.jpg
 ---
 

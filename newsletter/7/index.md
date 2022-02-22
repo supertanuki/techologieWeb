@@ -2,7 +2,7 @@
 type: newsletter
 number: 7
 title: C'est reparti !
-published_at: "2021-09-23"
+date: 2021-09-23
 image: ./image.jpg
 ---
 

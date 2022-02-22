@@ -2,7 +2,7 @@
 type: newsletter
 number: 3
 title: Longévité des smartphones, des nouvelles de Fairphone, sortie de la matrice et neutralité carbone
-published_at: "2021-04-15"
+date: 2021-04-15
 image: ./image2.jpg
 ---
 

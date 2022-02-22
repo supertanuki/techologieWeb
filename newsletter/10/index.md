@@ -2,7 +2,7 @@
 type: newsletter
 number: 10
 title: Accélération de la soutenabilité verte
-published_at: "2022-02-03"
+date: 2022-02-03
 image: ./amazon-eoliennes.jpg
 ---
 

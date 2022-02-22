@@ -3,7 +3,7 @@ episode_number: 4
 title: "Coder, designer pour quel futur ?"
 people: "Richard Hanna"
 description: "Le 15 janvier 2019, au meetup HumanTalks Paris - humantalks.com, j'ai présenté ce sujet et parler du podcast."
-date: "2019-01-16"
+date: 2019-01-16
 image: "/img/episodes/4-talk.jpg"
 audio_link: "https://soundcloud.com/techologie/4-coder-designer-pour-quel-futur-talk"
 audio_size_in_megabyte: 12
@@ -66,7 +66,7 @@ Le recyclage des composants n’est pas fou. Les composants sont complexes et ex
 consommerait trop d’énergie.
 
 En septembre dernier, un article a fait le buzz : "<a href="http://tonsky.me/blog/disenchantment/">Software
-disenchantment </a>" (<a href="https://blog.romainfallet.fr/desenchantement-logiciel/">le désenchantement
+disenchantment</a>" (<a href="https://blog.romainfallet.fr/desenchantement-logiciel/">le désenchantement
 du logiciel</a>) qui pointe le complexité et la lourdeur de nos applications. Alors que Windows 95 ne pesait que
 30 Mo et permettait de faire tourner un ordinateur. Aujourd'hui, en 30 Mo, on peine à faire un site web.
 
@@ -91,18 +91,18 @@ Pourquoi ne pas ajouter l'impact sur la consommation d’énergie comme critère
 
 Quelques actions à mettre en place :
 
-* Surveiller et optimiser les performances (profilers comme webhint.io, web.dev, Greenspector…). </li>
-* Préférer un hébergement qui optimise les ressources. </li>
-* Ne pas contribuer à l’obsolescence du code et des machines. </li>
-* Garder du vieux matériel pour veiller à respecter cette contrainte. </li>
+* Surveiller et optimiser les performances (profilers comme webhint.io, web.dev, Greenspector…).</li>
+* Préférer un hébergement qui optimise les ressources.</li>
+* Ne pas contribuer à l’obsolescence du code et des machines.</li>
+* Garder du vieux matériel pour veiller à respecter cette contrainte.</li>
 * Réduire le renouvellement machine et smartphone.</li>
 
 En terme de méthodologie,
 
-* Méthode Lean : gestion « sans gaspillage » ou « au plus juste » </li>
-* Software Craftmanship, Extreme Programming </li>
-* Éviter l’over-engineering : complexité, couches d’abstractions et dépendances. </li>
-* Augmenter la qualité et la pérennité du code </li>
+* Méthode Lean : gestion « sans gaspillage » ou « au plus juste »</li>
+* Software Craftmanship, Extreme Programming</li>
+* Éviter l’over-engineering : complexité, couches d’abstractions et dépendances.</li>
+* Augmenter la qualité et la pérennité du code</li>
 * Éthique et accessibilité</li>
 
 Augmenter les performances, faire des applications simples permettront une réduction de consommation

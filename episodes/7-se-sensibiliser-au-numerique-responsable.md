@@ -3,7 +3,7 @@ episode_number: 7
 title: "Se sensibiliser au numérique responsable"
 people: "Bela Loto"
 description: "Bela a fondé l'association Point de M.I.R, Maison de l'Informatique Responsable qui organise des ateliers et évènements autour de cette thématique."
-date: "2019-03-01"
+date: 2019-03-01
 image: "/img/episodes/7-bela-loto.jpg"
 audio_link: "https://soundcloud.com/techologie/7-se-sensibiliser-au-numerique-responsable-avec-bela-loto"
 audio_size_in_megabyte: 25

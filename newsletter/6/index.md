@@ -2,7 +2,7 @@
 type: newsletter
 number: 6
 title: Marées noires de données, des clics et déclic
-published_at: "2021-05-26"
+date: 2021-05-26
 image: ./image2.jpg
 ---
 

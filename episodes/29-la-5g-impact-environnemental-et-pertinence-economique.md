@@ -3,7 +3,7 @@ episode_number: 29
 title: "La 5G, impact environnemental et pertinence économique"
 people: "Hugues Ferreboeuf"
 description: "Dans une tribune dans le Monde début janvier 2020, Hugues Ferreboeuf et Jean-Marc Jancovici du Shift Project pose la question : « La 5G est-elle vraiment utile ? ». Alors qu’augmenter la durée d’utilisation des smartphones est primordial pour réduire leur empreinte carbone, l’apparition de la 5G accélérerait leur remplacement. L'impact environnemental est aussi à l'installation des antennes et à l'usage, c'est à dire la consommation d'électricité, qui selon le Shift Project sera multipliée par 2,5 à 3 dans les cinq ans à venir. Hugues Ferreboeuf, directeur du projet « Lean ICT » au sein du Shift Project est venu répondre à nos questions sur la 5G."
-date: "2020-02-25"
+date: 2020-02-25
 image: "/img/episodes/29-hugues-ferreboeuf.jpg"
 audio_link: "https://soundcloud.com/techologie/29-la-5g-impact-environnemental-et-pertinence-economique"
 audio_size_in_megabyte: 26

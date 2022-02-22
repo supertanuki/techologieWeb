@@ -2,7 +2,7 @@
 type: newsletter
 number: 4
 title: Beaucoup de techno solutionnisme et un poirson d’avril
-published_at: "2021-04-29"
+date: 2021-04-29
 image: ./image2.jpg
 ---
 

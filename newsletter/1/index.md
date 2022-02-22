@@ -2,7 +2,7 @@
 type: newsletter
 number: 1
 title: Et voici Techologie en version .txt, la newsletter green, super green
-published_at: "2021-03-18"
+date: 2021-03-18
 image: ./image1.jpg
 ---
 
