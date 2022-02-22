@@ -3,7 +3,7 @@ episode_number: 45
 title: Anthropologie du smartphone et culture de la réparation
 people: Nicolas Nova
 description: Nicolas Nova est anthropologue des technologies et designer-chercheur à Genève, et cofondateur du cabinet de conseil The Near Future Laboratory spécialisé dans les pratiques de design-fiction. Il est l'auteur de Smartphones. Une enquête anthropologique et avec Anaïs Bloch, designer et chercheuse, d'un essai en anglais, "Dr Smartphone, une ethnographie des magasins de réparation de smartphone", qui sera en accès libre prochainement.
-published_at: 2021-03-09
+date: 2021-03-09
 image: "/img/episodes/45-nicolas-nova.jpg"
 audio_link: https://soundcloud.com/techologie/45-anthropologie-du-smartphone-avec-nicolas-nova
 audio_size_in_megabyte: 33

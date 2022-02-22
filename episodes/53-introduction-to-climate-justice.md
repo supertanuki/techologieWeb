@@ -3,7 +3,7 @@ episode_number: 53
 title: Introduction to Climate Justice
 people: Yang Hong and Richard Kim
 description: In this podcast, we talk and learn about Climate Justice with Richard Kim and Yang Hong from the community Work on Climate.
-published_at: 2021-07-12
+date: 2021-07-12
 image: "/img/episodes/53-yang-hong-richard-kim.jpg"
 audio_link: https://soundcloud.com/techologie/53-introduction-to-climate-justice-with-yang-hong-and-richard-kim
 audio_size_in_megabyte: 29

@@ -3,7 +3,7 @@ episode_number: 40
 title: "Lutter contre l'obsolescence programmée et promouvoir la durabilité"
 people: "Adèle Chasson"
 description: "A la suite de l'instauration du délit d'obsolescence programmée dans le Code de la consommation en 2015, est née l'association HOP, Halte à l'obsolescence programmée. Cette association a été créée notamment, par Laëtitia Vasseur, ancienne assistante parlementaire et militante contre la surconsommation, Emile Meunier, avocat, et Samuel Sauvage, autre militant et consultant spécialisé dans l'économie circulaire. Pour parler d'obsolescence programmée et d'indice de réparabilité, nous avons le plaisir de recevoir Adèle Chasson, chargée des relations publiques de l'association Hop."
-published_at: "2020-12-22"
+date: "2020-12-22"
 image: "/img/episodes/40-adele-chasson.jpg"
 audio_link: "https://soundcloud.com/techologie/40-lutter-contre-lobsolescence-programmee-et-promouvoir-la-durabilite"
 audio_size_in_megabyte: 24

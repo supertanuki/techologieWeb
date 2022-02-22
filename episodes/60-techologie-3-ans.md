@@ -3,7 +3,7 @@ episode_number: 60
 title: Trois ans de Techologie, déclics et actions
 people: Various artists
 description: "Pour finir cette année et fêter ces 3 ans, nous avons donné la parole à des auditeurs et membres de la communauté Techologie."
-published_at: 2021-12-16
+date: 2021-12-16
 image: "/img/episodes/60-techologie3ans.jpg"
 audio_link: https://soundcloud.com/techologie/techologie3ans
 audio_size_in_megabyte: 41

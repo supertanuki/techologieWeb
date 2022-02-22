@@ -3,7 +3,7 @@ episode_number: 62
 title: Conception pour appareils obsolètes
 people: Anaëlle Beignon
 description: "Anaëlle Beignon est designer d'intéractions. Son sujet de mémoire de master a porté sur la conception pour appareils obsolètes, une exploration de la marginalisation des utilisateurs d'appareils obsolètes face à la numérisation des services publics suédois."
-published_at: 2022-01-20
+date: 2022-01-20
 image: "/img/episodes/62-anaelle-beignon.jpg"
 audio_link: https://soundcloud.com/techologie/62-conception-pour-des-appareils-obsoletes-avec-anaelle-beignon
 audio_size_in_megabyte: 32

@@ -3,7 +3,7 @@ episode_number: 27
 title: "Design et numérique en temps de crise environnementale"
 people: "Gauthier Roussilhe"
 description: "Gauthier Roussilhe est designer et chercheur. Il travaille sur un design et un numérique soutenables dans un monde confronté à une crise environnementale majeure."
-published_at: "2020-02-03"
+date: "2020-02-03"
 image: "/img/episodes/27-gauthier-roussilhe.jpg"
 audio_link: "https://soundcloud.com/techologie/27-design-et-numerique-en-temps-de-crise-environnementale-avec-gauthier-roussilhe"
 audio_size_in_megabyte: 27

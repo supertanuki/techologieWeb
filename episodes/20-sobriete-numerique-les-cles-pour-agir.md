@@ -3,7 +3,7 @@ episode_number: 20
 title: "Sobriété numérique, les clés pour agir"
 people: "Frédéric Bordage"
 description: "Frédéric Bordage est un expert green IT, éco-conception et la conception responsable des services numériques. Nous l'avions déjà rencontré lors d'un précédent épisode. Il nous parle cette fois de son livre Sobriété numérique, les clés pour agir sorti le 10 septembre 2019."
-published_at: "2019-10-22"
+date: "2019-10-22"
 image: "/img/episodes/13-frederic-bordage.jpg"
 audio_link: "https://soundcloud.com/techologie/20-sobriete-numerique-les-cles-pour-agir-avec-frederic-bordage"
 audio_size_in_megabyte: 13

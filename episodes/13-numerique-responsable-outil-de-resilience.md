@@ -3,7 +3,7 @@ episode_number: 13
 title: "Le numérique responsable, outil de résilience"
 people: "Frédéric Bordage"
 description: "Frédéric Bordage a été développeur, directeur technique, consultant et journaliste. En 2004, il a créé le blog greenit.fr afin de rassembler une communauté autour du green IT, ensuite sur l'éco-conception et la conception responsable des services numériques."
-published_at: "2019-05-23"
+date: "2019-05-23"
 image: "/img/episodes/13-frederic-bordage.jpg"
 audio_link: "https://soundcloud.com/techologie/13-numerique-responsable-outil-de-resilience"
 audio_size_in_megabyte: 30

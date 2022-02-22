@@ -3,7 +3,7 @@ episode_number: 12
 title: "Recycler les déchets d'entreprise"
 people: "Julien Hamilius"
 description: "Julien est ingénieur et a cofondé Urbyn, une startup dont l'objectif est de réduire l'impact environnemental des entreprises en accélérant leur transition vers l'économie circulaire. Et cela passe par une meilleure gestion des déchets et de leur recyclage."
-published_at: "2019-05-17"
+date: "2019-05-17"
 image: "/img/episodes/12-julien.jpg"
 audio_link: "https://soundcloud.com/techologie/12-recycler-dechets-entreprise"
 audio_size_in_megabyte: 28

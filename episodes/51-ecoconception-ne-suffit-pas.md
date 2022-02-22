@@ -3,7 +3,7 @@ episode_number: 51
 title: L'écoconception ne suffit pas
 people: Guillaume Mandil
 description: Guillaume Mandil est enseignant chercheur en science pour l’ingénieur à l’Université Grenoble Alpes, enseignant du master Stratégie et Design pour l'Anthropocène et membre de l’équipe INRIA STEEP depuis 2018. Il est également docteur en génie mécanique et génie industriel.
-published_at: 2021-05-25
+date: 2021-05-25
 image: "/img/episodes/51-guillaume-mandil.jpg"
 audio_link: https://soundcloud.com/techologie/51-lecoconception-avec-guillaume-mandil
 audio_size_in_megabyte: 34

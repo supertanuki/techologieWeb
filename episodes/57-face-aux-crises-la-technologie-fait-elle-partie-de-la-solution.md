@@ -3,7 +3,7 @@ episode_number: 57
 title: Face aux crises, la technologie fait-elle partie de la solution ?
 people: Frédéric Sitterlé
 description: Frédéric Sitterlé est Directeur Général de HETIC, une école qui forme des experts aux métiers de la tech et du numérique. Nous allons parlé du rôle des formations d'ingénieurs quant aux enjeux actuels, environnementaux, sociaux, sociétaux.
-published_at: 2021-11-12
+date: 2021-11-12
 image: "/img/episodes/57-frederic-sitterle.jpg"
 audio_link: https://soundcloud.com/techologie/57-face-aux-crises-la-technologie-fait-elle-partie-de-la-solution-avec-frederic-sitterle
 audio_size_in_megabyte: 33

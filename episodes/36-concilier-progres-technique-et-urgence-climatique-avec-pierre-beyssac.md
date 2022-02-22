@@ -3,7 +3,7 @@ episode_number: 36
 title: "Concilier progrès technique et urgence climatique"
 people: "Pierre Beyssac"
 description: "Pierre Beyssac est informaticien depuis les années 1980, porte-parole du parti pirate, cofondateur de Gandi et eu.org, actif sur les débats tech. Nous le recevons pour parler de l'impact environnemental du numérique et de la 5G."
-published_at: "2020-09-24"
+date: "2020-09-24"
 image: "/img/episodes/36-pierre-beyssac.jpg"
 audio_link: "https://soundcloud.com/techologie/36-concilier-progres-technique-et-urgence-climatique-avec-pierre-beyssac"
 audio_size_in_megabyte: 34

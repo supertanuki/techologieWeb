@@ -3,7 +3,7 @@ episode_number: 55
 title: Se préparer aux catastrophes naturelles et technologiques
 people: Gaël Musquet
 description: Gaël Musquet est un hacker citoyen, un fervent ambassadeur des logiciels libres et open source notamment OpenStreetMap. Il met les technologies au service de la prévention des risques naturels et pour une meilleure résilience face aux chocs.
-published_at: 2021-10-05
+date: 2021-10-05
 image: "/img/episodes/55-gael-musquet.jpg"
 audio_link: https://soundcloud.com/techologie/55-se-preparer-aux-catastrophes-naturelles-et-technologiques-avec-gael-musquet
 audio_size_in_megabyte: 46
