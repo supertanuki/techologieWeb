@@ -1,5 +1,4 @@
 ---
-layout: episode.njk
 episode_number: 1
 title: "Coder et designer pour un futur incertain"
 people: "Marie-Cécile Paccard"
