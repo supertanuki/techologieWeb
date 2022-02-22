@@ -1,0 +1,15 @@
+---
+layout: layouts/home.njk
+permalink: /newsletter/
+title: Les archives de la Newsletter
+---
+
+<h1>{{ title }}</h1>
+
+{% set newsletters = collections.newsletter %}
+
+<ul>
+  {% for newsletter in newsletters | reverse %}
+  <li><a href="{{ newsletter.url | url }}">#{{ newsletter.data.number}}. {{ newsletter.data.title}}</a></li>
+  {% endfor %}
+</ul>

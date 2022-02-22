@@ -1,0 +1,44 @@
+---
+layout: layouts/home.njk
+permalink: /episodes/
+title: Épisodes
+eleventyNavigation:
+  key: Épisodes
+  order: 30
+---
+
+<h1>{{ title }}</h1>
+
+{% set episodes = collections.episode %}
+{% set currentYear = null %}
+
+  {% for episode in episodes | reverse %}
+    {% set episodeYear = episode.data.date | year %}
+
+    {% if currentYear != episodeYear %}
+      {% if currentYear != null %}
+        </ul>
+      {% endif %}
+
+      {% set currentYear = episodeYear %}
+      <h2>{{ currentYear }}</h2>
+
+      <ul class="episodes">
+    {% endif %}
+
+    <li class="enlarge-link">
+      <div class="image">
+        <img src="{{ episode.data.image }}" alt="{{ episode.data.people }}" />
+      </div>
+      <div class="description">
+        <p class="episode-label">
+          Épisode {{ episode.data.episode_number }}
+        </p>
+        <h2>
+          <a href="{{ episode.url | url }}">{{ episode.data.title }}</a>
+        </h2>
+        <p>{{ episode.data.people }}</p>
+      </div>
+    </li>
+{% endfor %}
+</ul>

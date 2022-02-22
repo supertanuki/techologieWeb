@@ -1,0 +1,50 @@
+---
+layout: layouts/base.njk
+---
+
+<br />
+
+<h1>{{title}}</h1>
+
+<p class="published">
+  Épisode {{episode_number}} publié le {{date | toFrenchDate}}
+</p>
+
+<p>
+  <img src="{{image}}" alt="{{people | safe }}" />
+</p>
+
+<p class="label">
+  <span>{{people | safe}}</span>
+</p>
+
+<p>{{description | safe}}</p>
+
+<p class="listen">
+  <span role="img" aria-label="">
+    🎧
+  </span>
+  <a
+    href="{{audio_link | safe}}"
+    title="Écouter l'épisode {{title | safe}} sur Soundcloud"
+  >
+    Écouter
+  </a>
+</p>
+
+{{ content | safe }}
+
+<p>
+  En écoutant cet épisode, vous téléchargerez
+  {{audio_size_in_megabyte}} Mo de données.
+</p>
+
+{# "/" final à supprimer dans page.url
+<p>
+  <a
+    href="https://github.com/supertanuki/techologieWeb/blob/master/src{{ page.url }}.md"
+  >
+    Proposer une modification de cette page
+  </a>
+</p>
+#}

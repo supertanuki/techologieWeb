@@ -1,0 +1,21 @@
+{
+  "title": "Techologie",
+  "url": "https://techologie.net/",
+  "language": "fr",
+  "description": "Le podcast qui tente de lier technologie et écologie alors que tout les oppose.",
+  "feed": {
+    "subtitle": "Le podcast qui tente de lier technologie et écologie alors que tout les oppose.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://techologie.net/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://techologie.net/feed/feed.json"
+  },
+  "author": {
+    "name": "Richard Hanna",
+    "email": "supertanuki@gmail.com",
+    "url": "https://techologie.net/about-me/"
+  }
+}
