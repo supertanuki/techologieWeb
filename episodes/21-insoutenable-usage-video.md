@@ -41,7 +41,7 @@ _À venir._
 En savoir plus :
 
 * [Rapport pour une sobriété numérique](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/)
-* [Rapport l’insoutenable usage de la vidéo en ligne](https://theshiftproject.org/article/climat-insoutenable-usage-video/) 
+* [Rapport l’insoutenable usage de la vidéo en ligne](https://theshiftproject.org/article/climat-insoutenable-usage-video/)
 * [Carbonalyser, l'extension pour Firefox](https://theshiftproject.org/carbonalyser-extension-navigateur/)
 * [Retournez à l'école ! par Jean-Marc Jancovici](https://www.lesechos.fr/idees-debats/sciences-prospective/retournez-a-lecole-1132225)
 

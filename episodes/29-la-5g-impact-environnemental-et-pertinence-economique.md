@@ -114,7 +114,7 @@ Sur les travaux sur le numérique, on passera des constats aux propositions. L'�
 
 En savoir plus :
 
-* [The Shift Project / Lean ICT - Les impacts environnementaux du Numérique](https://theshiftproject.org/lean-ict/) 
+* [The Shift Project / Lean ICT - Les impacts environnementaux du Numérique](https://theshiftproject.org/lean-ict/)
 * Tribune « La 5G est-elle vraiment utile ? » dans [le Monde](https://www.lemonde.fr/idees/article/2020/01/09/5g-ne-sommes-nous-pas-en-train-de-confondre-ce-qui-est-nouveau-avec-ce-qui-est-utile-ce-qui-semble-urgent-avec-ce-qui-est-important_6025291_3232.html) ou [en accès libre ici](https://jancovici.com/publications-et-co/articles-de-presse/faut-il-faire-la-5g/).
 
 </div>

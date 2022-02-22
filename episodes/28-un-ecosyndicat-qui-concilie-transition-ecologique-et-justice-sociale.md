@@ -26,7 +26,7 @@ audio_size_in_megabyte: 22
 
 En savoir plus :
 
-* [Printemps Écologique](https://www.printemps-ecologique.fr) 
+* [Printemps Écologique](https://www.printemps-ecologique.fr)
 * Suivre Printemps Écologique sur [Facebook](https://www.facebook.com/ecosyndicat), sur [Twitter](https://www.twitter.com/ecosyndicat) ou sur [Linkedin](https://www.linkedin.com/company/37387288)
 * [Tribune de mars 2019 "Contrat social 2020"](https://medium.com/@maximblondeau/contrat-social-reloaded-2e2b24c7b347)
 

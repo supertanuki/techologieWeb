@@ -3,14 +3,14 @@ type: newsletter
 number: 2
 title: Nevergreen
 date: 2021-04-01
-image: ./image1.jpg
+image: /img/newsletters/2/image1.jpg
 ---
 
 ## La newsletter green, super green
 
 mais pas plus green que le porte-containers d'Evergreen qui a bloqué plusieurs jours durant le canal de Suez, avec des marchandises et des animaux vivants conteneurisés et générant une pagaille mondiale.
 
-![Evergreen](./image1.jpg)
+![Evergreen](/img/newsletters/2/image1.jpg)
 
 Bonjour les amishs. Nous vous souhaitons une bonne lecture du second numéro (déjà !) de cette newsletter collaborative, fruit d'une veille collective de la communauté Techologie.
 
@@ -56,7 +56,7 @@ Cela dépend des usages. Comme dans bien d'autres secteurs que le numérique d'a
 
 ## Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a [flower](https://www.youtube.com/watch?v%3DP-qOurzN_Gs)
 
-![Google Cloud](./image2.jpg)
+![Google Cloud](/img/newsletters/2/image2.jpg)
 
 Bonne nouvelle, Google est neutre en carbone depuis 2007. Mieux encore, les data centers de Google Cloud sont "[zero net carbon emissions](https://cloud.google.com/blog/topics/sustainability/sharing-carbon-free-energy-percentage-for-google-cloud-regions)". Car Google, en bon élève qui va sauver la planète, investit "dans suffisamment d'énergie renouvelable et de compensations de carbone pour neutraliser l'empreinte de ses émissions". Ce que Google ne vous dit pas, mais nous, nous allons vous le dire, c'est que la compensation carbone est un jeu d'écriture comptable. Sauf que le climat et la biodiversité n'en ont rien à carrer de la comptabilité. Pire encore, Google ne compense ici que les émissions de GES liées à sa consommation d'électricité. Pas question ici d'analyse de cycle de vie multicritères, ça serait fort emmerdant. Pas de jaloux, AWS et Azure font pareil. On élude évidemment tout le renouvellement rapide de tous les équipements high-tech (car il faut rester au top), composants essentiels des data-centers et dont l'impact environnemental lié à leurs fabrications est loin d'être anodin. Les recommandations de Google ne vont pas vers une sobriété numérique : "choisissez pour vos nouvelles applications ou pour exécuter des tâches gourmandes, un data-center à faible émission de carbone". **Un exemple manifeste d'effet rebond**.
 

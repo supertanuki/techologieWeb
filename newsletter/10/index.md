@@ -3,7 +3,7 @@ type: newsletter
 number: 10
 title: Accélération de la soutenabilité verte
 date: 2022-02-03
-image: ./amazon-eoliennes.jpg
+image: /img/newsletters/10/amazon-eoliennes.jpg
 ---
 
 ## La newsletter green, super green
@@ -28,7 +28,7 @@ Pour **Tariq Krim**, entrepreneur pionnier du web français et initiateur du mou
 
 Aujourd'hui, quand on parle de souveraineté numérique, on pense plus souvent au cloud qui est d'abord du logiciel et non pas du matériel comme on aurait tort de le penser. Lorsque le logiciel est rôdé, il devient aisé de le vendre et les services qui vont avec.
 
-Sorti en mai 2021 et annoncé en grande pompe par le Gouvernement, le "**Cloud de confiance**", est un label pour adopter les solutions de cloud américaines avec des gardes-fous minimum : un gestionnaire de compte français (ne riez pas !). Un des projets emblématiques sur ces questions de souveraineté c'est bien sûr le Health Data Hub, la base de données agrégeant des données pseudonymisées de santé des français à des fins de recherche et propulsé par des solutions Microsoft Azure. 
+Sorti en mai 2021 et annoncé en grande pompe par le Gouvernement, le "**Cloud de confiance**", est un label pour adopter les solutions de cloud américaines avec des gardes-fous minimum : un gestionnaire de compte français (ne riez pas !). Un des projets emblématiques sur ces questions de souveraineté c'est bien sûr le Health Data Hub, la base de données agrégeant des données pseudonymisées de santé des français à des fins de recherche et propulsé par des solutions Microsoft Azure.
 
 Contrairement à ce qui "est vendu", cette dépendance aux GAFAM est non réversible. C'est un acte manqué de financer les acteurs français ou européens. On ne donne ni le temps, ni les moyens aux acteurs européens de mettre en place des solutions souveraines. De plus, les acteurs choisis pour implémenter un Cloud souverain sont à chaque tentative, des grands groupes qui n'y connaissent rien alors que de petits acteurs compétents et même spécialistes du sujet sont snobés. Sans compter que les grands groupes attirent dans leur rang les meilleurs ingénieurs, débauchés aux PME ce qui génère une déstabilisation du marché de l'emploi. Qu'est devenu le "Cloud souverain" d'Orange et SFR subventionné par de l'argent public ? Revendu à Huawei et Red Hat.
 
@@ -57,7 +57,7 @@ Non mais franchement ça démarre mal. Surtout en France. Une campagne présiden
 **Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a flower**
 ----------------------------------------------------------------------------------------
 
-![Amazon qui veut accélérer la croissance, mais soutenable, avec plein d'éoliennes](./amazon-eoliennes.jpg)
+![Amazon qui veut accélérer la croissance, mais soutenable, avec plein d'éoliennes](/img/newsletters/10/amazon-eoliennes.jpg)
 
 Amazon lance son « [Launchpad Sustainability Accelerator](https://www.clubic.com/pro/entreprises/amazon/actualite-406713-amazon-lance-un-programme-visant-a-soutenir-les-start-up-qui-creent-des-produits-dits-durables.html) », un programme de 12 semaines de soutien à des jeunes start-up qui « conçoivent des produits durables ». Il ne s'agit pas d'un programme de sobriété, bien évidemment, mais comme son nom l'indique, on appuie bien sur la pédale d'accélérateur : « les fondateurs de start-up devront avoir pour ambition de s'appuyer sur l'e-commerce (comprendre : Amazon) pour dynamiser la croissance de leurs produits et s'engager à créer et à développer leur activité en tenant compte de son impact environnemental ». La planète est sauvée. Jeff Bezos peut continuer à s'envoyer en l'air, la conscience tranquille.
 
@@ -72,7 +72,7 @@ Amazon lance son « [Launchpad Sustainability Accelerator](https://www.clubic.co
 * [Explications sur l'empreinte carbone du streaming et du transfert de données](https://gauthierroussilhe.com/post/explication-streaming.html), par Gauthier Roussilhe.
 * [Evaluation ADEME de l'impact environnemental d'un ensemble de produits reconditionnés : le smartphone](https://librairie.ademe.fr/dechets-economie-circulaire/5241-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html).
 * [Empreinte environnementale du numérique en France](https://www.arcep.fr/actualites/les-communiques-de-presse/detail/n/environnement-190122.html) : l’ADEME et l’Arcep remettent leur premier rapport au Gouvernement.
-* [Empreinte carbone d'un e-mail](https://www.sami.eco/post/empreinte-carbone-email) : mythes, réalités et solutions 
+* [Empreinte carbone d'un e-mail](https://www.sami.eco/post/empreinte-carbone-email) : mythes, réalités et solutions
 * Une enquête révèle que [les développeurs ne sont absolument pas intéressés par les cryptomonnaies ou les NFT](https://www.developpez.com/actu/330412/Une-enquete-revele-que-les-developpeurs-ne-sont-absolument-pas-interesses-par-les-cryptomonnaies-ou-les-NFT-et-se-disent-stupefaits-par-l-interet-pour-ces-technologies/) et se disent "stupéfaits" par l'intérêt pour ces technologies..
 * Cela aurait pu être sur le Gorafi : [discussion entre Cédric O, Jean-Michel Jarre et Luc Julia sur le métavers](https://twitter.com/cedric_o/status/1485667836848656386) et les défis qu’il pose. Innovation, création, souveraineté.
 * On trouve de beaux articles et même des "futurs spéculatifs" (spoiler: sombres) [au sujet des métavers chez le lab de la Cnil](https://linc.cnil.fr/metavers-ce-jeu-dont-qui-sera-le-heros)

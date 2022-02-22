@@ -3,14 +3,14 @@ type: newsletter
 number: 4
 title: Beaucoup de techno solutionnisme et un poirson d’avril
 date: 2021-04-29
-image: ./image2.jpg
+image: /img/newsletters/4/image2.jpg
 ---
 
 ## La newsletter green, super green
 
-mais pas plus green qu’une photo d’une planète au creux des mains. Kitsch.  
+mais pas plus green qu’une photo d’une planète au creux des mains. Kitsch.
 
-![](./image1.jpg)  
+![](/img/newsletters/4/image1.jpg)
 
 [Photo par Bill Oxford sur Unsplash](https://unsplash.com/photos/rdLERs3ZGgQ)
 
@@ -62,11 +62,11 @@ Pour en savoir plus : [lire le témoignage de Marion sur Ways to shift](https://
 
 # Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a [flower](https://www.youtube.com/watch?v%3DP-qOurzN_Gs)
 
-![](./image2.jpg)  
+![](/img/newsletters/4/image2.jpg)
 
 [Photo Accor par Maibp85 — Travail personnel, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid%3D49844175), [photo de Brune Poirson par Antoine Lamielle, CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 
-Celle à qui on doit la loi Anti-Gaspillage et Économie Circulaire et quelques avancées pour contribuer à la réduction de l’obsolescence des équipements et de l’impact environnemental du numérique notamment avec l’indice de réparabilité, Brune Poirson, [quitte son poste de députée](https://fr.wikipedia.org/wiki/Brune_Poirson%23Retour_dans_le_priv%25C3%25A9) pour s’investir pleinement dans le développement durable... du groupe hôtelier Accor. Vous voyez venir le projet de greenwashing ? Tant qu’elle reste en “accor” avec elle-même… 
+Celle à qui on doit la loi Anti-Gaspillage et Économie Circulaire et quelques avancées pour contribuer à la réduction de l’obsolescence des équipements et de l’impact environnemental du numérique notamment avec l’indice de réparabilité, Brune Poirson, [quitte son poste de députée](https://fr.wikipedia.org/wiki/Brune_Poirson%23Retour_dans_le_priv%25C3%25A9) pour s’investir pleinement dans le développement durable... du groupe hôtelier Accor. Vous voyez venir le projet de greenwashing ? Tant qu’elle reste en “accor” avec elle-même…
 
 Pour ajouter de la vilénie à cette histoire, il y a aussi recours à une astuce pour que cela soit son suppléant qui prenne sa place à l’hémicycle et éviter ainsi la tenue d’une élection : le premier ministre a prolongé de six mois sa mission (fictive ?) consacrée à « l’éducation au développement durable ».
 

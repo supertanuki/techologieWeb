@@ -28,7 +28,7 @@ En savoir plus :
 * [The reports of bitcoin environmental damage are garbage](https://hackernoon.com/the-reports-of-bitcoin-environmental-damage-are-garbage-5a93d32c2d7)
 * [The Bitcoin  Mining Network - Trends, Marginal Creation Cost, Electricity Consumption & Sources](https://coinshares.co.uk/wp-content/uploads/2018/11/Mining-Whitepaper-Final.pdf) (Pdf)
 * La chaîne youtube conseillée par Jean-Baptiste pour comprendre le «pourquoi bitcoin», au delà des passions occidentales pour le trading, et de la hype autour du mot blockchain : [youtube.com/user/aantonop](https://www.youtube.com/user/aantonop)
-* Bitcoin, la monnaie acéphale : [bitcoinlamonnaieacephale.fr](https://bitcoinlamonnaieacephale.fr/) 
+* Bitcoin, la monnaie acéphale : [bitcoinlamonnaieacephale.fr](https://bitcoinlamonnaieacephale.fr/)
 * Jean-Baptiste sur Twitter : [twitter.com/bodysplash](https://twitter.com/bodysplash)
 
 </div>

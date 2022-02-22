@@ -26,7 +26,7 @@ _en cours_
 En savoir plus :
 
 * [Le monde du logiciel est en train de se détruire... Manifeste pour un développement plus durable](https://greenspector.com/fr/articles/2018-12-11-manifeste-developpement-plus-durable/)
-* [Greenspector](https://greenspector.com/) 
+* [Greenspector](https://greenspector.com/)
 * [Green code label](https://label.greencodelab.org/)
 
 </div>

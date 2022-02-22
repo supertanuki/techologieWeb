@@ -28,7 +28,7 @@ _À venir._
 En savoir plus :
 
 * Son site [agnescrepet.org](https://agnescrepet.org/)
-* [Fairphone](https://www.fairphone.com/fr/) 
-* [e foundation](https://e.foundation/?lang=fr) 
+* [Fairphone](https://www.fairphone.com/fr/)
+* [e foundation](https://e.foundation/?lang=fr)
 
 </div>

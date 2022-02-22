@@ -32,6 +32,6 @@ En savoir plus :
 
 * [Resonate](https://resonate.is/)
 * [Mycelia / Creative passport](http://myceliaformusic.org/creative-passport/)
-* [Marie sur Github](https://github.com/blushi) 
+* [Marie sur Github](https://github.com/blushi)
 
 </div>

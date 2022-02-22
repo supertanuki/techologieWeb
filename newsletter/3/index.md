@@ -3,14 +3,14 @@ type: newsletter
 number: 3
 title: Longévité des smartphones, des nouvelles de Fairphone, sortie de la matrice et neutralité carbone
 date: 2021-04-15
-image: ./image2.jpg
+image: /img/newsletters/3/image2.jpg
 ---
 
 ## La newsletter green, super green
 
 mais pas plus green que The Green, un film d’horreur dans lequel vous êtes hanté par le fantôme d’une jeune fille qui fout vraiment la pétoche, tant que vous parlez “d’écologie digitale” et que vous vous contentez d’effacer vos e-mails.
 
-![](./image2.jpg)
+![](/img/newsletters/3/image2.jpg)
 
 Bonjour les bobos-écolos. Nous vous souhaitons une bonne lecture de ce troisième numéro de notre newsletter collaborative, fruit d’une veille collective de la communauté Techologie.
 
@@ -58,7 +58,7 @@ Voilà pour la stratégie de développement commerciale mais le cœur de dévelo
 
 ## Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a [flower](https://www.youtube.com/watch?v%3DP-qOurzN_Gs)
 
-![Green Index](./image1.png)
+![Green Index](/img/newsletters/3/image1.png)
 
 On avait l’habitude du greenwashing des entreprises, voici le greenwashing national ! Tout commence par un rapport (non scientifique) publié dans le MIT Technology Review : [The Green Future Index](https://mittrinsights.s3.amazonaws.com/GFI/Report2021.pdf). Cocorico ! La France est classée 4ème pays le plus vert au monde sur 176 pays. Notre ancien ministre de l’écologie et des banquets fastueux [s’est empressé de le tweeter en s’autocongratulant](https://www.transitionsenergies.com/france-classee-4eme-pays-plus-vert-monde/) et en fustigeant les “professionnels de la protestation”.
 

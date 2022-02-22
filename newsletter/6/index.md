@@ -3,14 +3,14 @@ type: newsletter
 number: 6
 title: Marées noires de données, des clics et déclic
 date: 2021-05-26
-image: ./image2.jpg
+image: /img/newsletters/6/image2.jpg
 ---
 
 ## La newsletter green, super green
 
 Mais pas plus green qu’une plante qui émerge d’un tas de sous. Ça pousse dans du liquide, pas besoin d’arroser.
 
-![](./image2.jpg)
+![](/img/newsletters/6/image2.jpg)
 
 Bonjour ! Nous vous souhaitons une bonne lecture de ce 6ème numéro de notre newsletter collaborative, fruit d’une veille collective de la communauté Techologie.
 
@@ -58,7 +58,7 @@ On espère d'une part participer à l'essor du numérique responsable en proposa
 
 ## Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a [flower](https://www.youtube.com/watch?v%3DP-qOurzN_Gs)
 
-![](./image1.jpg)
+![](/img/newsletters/6/image1.jpg)
 
 Charmante ville de 24 000 habitants près de Bordeaux, Le Bouscat propose pour sa “Fête des Jardins 2021” une exposition “[Les arbres dans la ville](https://twitter.com/villedubouscat/status/1380807770891563010)” en affichant **des photos d’arbres remarquables de la commune sur... des panneaux publicitaires**. Malaise. Prochaine édition : que les arbres tweetent et que leur fil twitter soit affiché sur des écrans digitaux ?
 

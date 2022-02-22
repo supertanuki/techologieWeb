@@ -351,6 +351,6 @@ En savoir plus :
 * [Premier Festival du film Numérique & Environnement](http://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/), les 13 et 14 avril à la Cité des Sciences
 * Documentaire "[Internet, la pollution cachée](https://www.editionsmontparnasse.fr/p1735/Internet-La-pollution-cachee-DVD)", de Coline Tison et Laurent Lichtenstein, qui sera projeté lors du festival Numérique & Environnement.
 * Réinventer le numérique : [reset.fing.org](https://reset.fing.org/)
-* HOP / Halte à l'Obsolescence Programmée : [halteobsolescence.org](https://www.halteobsolescence.org/) 
+* HOP / Halte à l'Obsolescence Programmée : [halteobsolescence.org](https://www.halteobsolescence.org/)
 
 </div>

@@ -26,7 +26,7 @@ Au sommaire :
 En savoir plus :
 
 * Son [portfolio](https://stephaniematharet.myportfolio.com/)
-* [Institut des futurs souhaitables](https://www.futurs-souhaitables.org/) 
+* [Institut des futurs souhaitables](https://www.futurs-souhaitables.org/)
 * [Deep Time Walk](https://www.deeptimewalk.org/)
 * [Post-R](http://futurs-souhaitables.org/post-r/), comprendre et à s’interroger sur le monde tel qu’il fonctionne et sur ses limites (biodiversité, sécurité alimentaire, démographie, santé…)
 * [The Simple Life](https://www.thesimplelife.fr/)

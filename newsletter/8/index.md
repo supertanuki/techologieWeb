@@ -3,14 +3,14 @@ type: newsletter
 number: 8
 title: Une souris verte...
 date: 2021-10-14
-image: ./image1.jpeg
+image: /img/newsletters/8/image1.jpeg
 ---
 
 ## La newsletter green, super green
 
 Hello. Nous espérons que vous avez terminé la lecture des [3949 pages du dernier rapport du GIEC](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/) (vous avez le droit de vous limiter au résumé, hein !). S’il vous reste un peu de force, nous vous souhaitons une bonne lecture de ce 8è numéro de la newsletter, fruit d’une veille collective de la communauté Techologie.
 
-![Infographie low tech](./image2.png)
+![Infographie low tech](/img/newsletters/8/image2.png)
 
 Infographie « [Les low-tech ou l'art du techno-discernement](https://fr.wikipedia.org/wiki/Low-tech#/media/Fichier:Infographie_Low-tech_1600x900.jpg) » selon Arthur Keller et Émilien Bournigal (octobre 2021).
 
@@ -64,13 +64,13 @@ Notification: “Achète du pain stp, bisous”
 
 ## Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a flower
 
-![Souris Microsoft](./image1.jpeg)
+![Souris Microsoft](/img/newsletters/8/image1.jpeg)
 
 Une souris verte, qui ne courait pas dans l’herbe mais qui trempait dans l’eau ! Microsoft a sorti une souris réalisée avec du plastique recyclé récupéré des océans. Son nom ? “Ocean Plastic Mouse”. Ça ne sauvera sans doute pas les tortues dans les océans, mais c’est une belle opportunité verte pour Microsoft et son bilan RSE (Responsabilité sociétale des entreprises).
 
 ## À ne pas manquer
 
-![Ecran Atari](./atari.jpeg)
+![Ecran Atari](/img/newsletters/8/atari.jpeg)
 
 Un certain Frans Bos a acheté un ordinateur Atari ST lors de sa sortie en 1985. Comme il n’y avait pas de logiciel disponible pour gérer un terrain de camping à l’époque, il en a écrit un spécifiquement à cet effet. 36 ans plus tard, [il est toujours utilisé](https://www.geeksaresexy.net/2021/10/01/this-1985-atari-st-computer-is-still-being-used-daily-at-a-campg) ! Mieux, il n’a même jamais été en panne.
 

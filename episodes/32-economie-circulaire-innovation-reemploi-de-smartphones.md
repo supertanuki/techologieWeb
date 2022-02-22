@@ -18,7 +18,7 @@ En savoir plus :
 * [IGE : L'innovation ouverte en commun](https://infognueureka.fr/)
 * [Electrocycle](https://www.electrocycle.co/), sensibilisation et design libre par l'inteligence collective et pour des objets électriques et électroniques
 * [Blog En commun](http://encommun.org/), pour une transition écologique et numérique
-* [Emmaüs Connect](https://emmaus-connect.org/), pour que le numérique profite aussi aux plus fragiles 
+* [Emmaüs Connect](https://emmaus-connect.org/), pour que le numérique profite aussi aux plus fragiles
 * [Le Bug humain](https://fr.wikipedia.org/wiki/Le_Bug_humain), pourquoi notre cerveau nous pousse à détruire la planète et comment l'en empêcher, par Sébastien Bohler
 
 </div>

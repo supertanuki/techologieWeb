@@ -31,6 +31,6 @@ En savoir plus :
 
 * [Episode précédent avec Frédéric Bordage](https://techologie.net/episodes/13-numerique-responsable-outil-de-resilience)
 * [Livre Sobriété numérique, les clés pour agir](https://www.greenit.fr/2019/09/10/sobriete-numerique-les-cles-pour-agir/)
-* [Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/) 
+* [Empreinte environnementale du numérique mondial](https://www.greenit.fr/empreinte-environnementale-du-numerique-mondial/)
 
 </div>
