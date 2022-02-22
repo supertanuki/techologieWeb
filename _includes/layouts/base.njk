@@ -39,7 +39,7 @@
       </nav>
     </header>
 
-    <main class="centered">
+    <main class="{% if page.url != '/episodes/' %}centered{% endif %}">
       {{ content | safe }}
     </main>
 

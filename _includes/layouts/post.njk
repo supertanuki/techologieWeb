@@ -4,14 +4,13 @@ layout: layouts/base.njk
 
 <h1>{{ title }}</h1>
 
-<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
-{%- for tag in tags | filterTagList -%}
-{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-<a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
-{%- endfor %}
+{% if date %}
+  <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+{% endif %}
 
 {{ content | safe }}
 
+{#
 {%- if collections.posts %}
 {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
@@ -23,3 +22,4 @@ layout: layouts/base.njk
 </ul>
 {%- endif %}
 {%- endif %}
+#}
