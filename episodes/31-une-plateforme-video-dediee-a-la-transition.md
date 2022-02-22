@@ -3,7 +3,7 @@ episode_number: 31
 title: "Une plateforme vidéo dédiée à la transition"
 people: "Nicolas"
 description: "Nicolas a cofondé Imago, la plateforme de vidéos et de podcasts dédiée à la transition et lancée en janvier 2019. On parle du monde de l'audiovisuel, l'arrivée du streaming."
-date: "2020-03-11"
+date: 2020-03-11
 image: "/img/episodes/31-imago.jpg"
 audio_link: "https://soundcloud.com/techologie/31-une-plateforme-video-dediee-a-la-transition-avec-nicolas"
 audio_size_in_megabyte: 32

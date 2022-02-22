@@ -3,7 +3,7 @@ episode_number: 13
 title: "Le numérique responsable, outil de résilience"
 people: "Frédéric Bordage"
 description: "Frédéric Bordage a été développeur, directeur technique, consultant et journaliste. En 2004, il a créé le blog greenit.fr afin de rassembler une communauté autour du green IT, ensuite sur l'éco-conception et la conception responsable des services numériques."
-date: "2019-05-23"
+date: 2019-05-23
 image: "/img/episodes/13-frederic-bordage.jpg"
 audio_link: "https://soundcloud.com/techologie/13-numerique-responsable-outil-de-resilience"
 audio_size_in_megabyte: 30
@@ -29,7 +29,7 @@ audio_size_in_megabyte: 30
 * Que penses-tu du manifeste écologique des professionnels de l'informatique et qui signifie aux entreprises responsables du réchauffement climatique et celles qui les financent que nous refuserons dorénavant de travailler pour elles ?
 * Comment vois tu l'avenir du Green IT ?
 * Comment vois tu l'avenir du monde ? Es-tu pessimiste ou plutôt optimiste ?
-* Le club Green IT fera plusieurs annonces majeures sur le numérique responsable lors du MeetUp GreenTech verte, le 4 juin 2019 à Station F et organisé par le ministère de l'environnement et de la transition écologique. Peux-tu nous donner un avant-goût de ces annonces ? 
+* Le club Green IT fera plusieurs annonces majeures sur le numérique responsable lors du MeetUp GreenTech verte, le 4 juin 2019 à Station F et organisé par le ministère de l'environnement et de la transition écologique. Peux-tu nous donner un avant-goût de ces annonces ?
 
 ## Transcript
 

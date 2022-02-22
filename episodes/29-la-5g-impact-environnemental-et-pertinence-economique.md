@@ -3,7 +3,7 @@ episode_number: 29
 title: "La 5G, impact environnemental et pertinence économique"
 people: "Hugues Ferreboeuf"
 description: "Dans une tribune dans le Monde début janvier 2020, Hugues Ferreboeuf et Jean-Marc Jancovici du Shift Project pose la question : « La 5G est-elle vraiment utile ? ». Alors qu’augmenter la durée d’utilisation des smartphones est primordial pour réduire leur empreinte carbone, l’apparition de la 5G accélérerait leur remplacement. L'impact environnemental est aussi à l'installation des antennes et à l'usage, c'est à dire la consommation d'électricité, qui selon le Shift Project sera multipliée par 2,5 à 3 dans les cinq ans à venir. Hugues Ferreboeuf, directeur du projet « Lean ICT » au sein du Shift Project est venu répondre à nos questions sur la 5G."
-date: "2020-02-25"
+date: 2020-02-25
 image: "/img/episodes/29-hugues-ferreboeuf.jpg"
 audio_link: "https://soundcloud.com/techologie/29-la-5g-impact-environnemental-et-pertinence-economique"
 audio_size_in_megabyte: 26
@@ -114,7 +114,7 @@ Sur les travaux sur le numérique, on passera des constats aux propositions. L'�
 
 En savoir plus :
 
-* [The Shift Project / Lean ICT - Les impacts environnementaux du Numérique](https://theshiftproject.org/lean-ict/) 
+* [The Shift Project / Lean ICT - Les impacts environnementaux du Numérique](https://theshiftproject.org/lean-ict/)
 * Tribune « La 5G est-elle vraiment utile ? » dans [le Monde](https://www.lemonde.fr/idees/article/2020/01/09/5g-ne-sommes-nous-pas-en-train-de-confondre-ce-qui-est-nouveau-avec-ce-qui-est-utile-ce-qui-semble-urgent-avec-ce-qui-est-important_6025291_3232.html) ou [en accès libre ici](https://jancovici.com/publications-et-co/articles-de-presse/faut-il-faire-la-5g/).
 
 </div>

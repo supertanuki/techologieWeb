@@ -2,19 +2,19 @@
 type: newsletter
 number: 1
 title: Et voici Techologie en version .txt, la newsletter green, super green
-published_at: "2021-03-18"
-image: ./image1.jpg
+date: 2021-03-18
+image: /img/newsletters/1/image1.jpg
 ---
 
 ## La newsletter green, super green
 
 Bienvenue et bonne lecture de cette première édition de la newsletter de Techologie, le podcast qui se met à l’écriture. Cette newsletter collaborative est le fruit d’une veille collective de la petite communauté Techologie.
 
-![Il faut que ça soit green](./image1.jpg)
+![Il faut que ça soit green](/img/newsletters/1/image1.jpg)
 
 ## 1024 nuances de green
 
-Sur le front de l’allongement de la durée de vie des équipements numériques, vient de paraître le [décret relatif à l'obligation d'acquisition par la commande publique](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043231546) de biens issus du réemploi ou de la réutilisation ou intégrant des matières recyclées. Il vient en application de l’article 58 de la loi AGEC relative à la lutte contre le gaspillage et à l'économie circulaire. Pour les téléphones mobiles, les téléphones fixes, les ordinateurs portables ou de bureau entre autres, l’État doit maintenant se fournir à 20% en produits réemployés ou intégrant des matières recyclées. À ce sujet, une réflexion intéressante de [Benjamin Bayart](https://twitter.com/bayartb/status/1364658036669894663?s=20) : “la cible du reconditionné, ce sont les gens qui n'ont pas les thunes pour du neuf. Si ce marché est aspiré par la commande publique, les prix vont monter, et empêcher qu'il se développe chez les particuliers”. 
+Sur le front de l’allongement de la durée de vie des équipements numériques, vient de paraître le [décret relatif à l'obligation d'acquisition par la commande publique](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043231546) de biens issus du réemploi ou de la réutilisation ou intégrant des matières recyclées. Il vient en application de l’article 58 de la loi AGEC relative à la lutte contre le gaspillage et à l'économie circulaire. Pour les téléphones mobiles, les téléphones fixes, les ordinateurs portables ou de bureau entre autres, l’État doit maintenant se fournir à 20% en produits réemployés ou intégrant des matières recyclées. À ce sujet, une réflexion intéressante de [Benjamin Bayart](https://twitter.com/bayartb/status/1364658036669894663?s=20) : “la cible du reconditionné, ce sont les gens qui n'ont pas les thunes pour du neuf. Si ce marché est aspiré par la commande publique, les prix vont monter, et empêcher qu'il se développe chez les particuliers”.
 
 Réemployer, allonger la durée de vie des équipements, c’est aussi réparer, autant que possible. "Ce qui est courant dans la réparation de smartphone, c'est ce qu'on appelle la cannibalisation, la manière d'utiliser des composants d'un smartphone dans un autre", nous dit Nicolas Nova, anthropologue des technologies et designer-chercheur, [à écouter dans cet épisode de Techologie](https://techologie.net/episodes/45-anthropologie-du-smartphone).
 
@@ -42,7 +42,7 @@ Je dirais qu'il faut faire les mises à jour de sécurité. Par contre, pour les
 
 ## Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a flower
 
-![Il faut que ça soit green](./image2.png)
+![Il faut que ça soit green](/img/newsletters/1/image2.png)
 
 Dans une publication promo sur Linkedin avec une vidéo à l’appui, on “chasse le carbone des serveurs” avec un laptop représenté affublé d’un pot d’échappement. Mais le vrai message, il est ailleurs. C’est encore une fois aux pauvres usagers, ici les salariés, la responsabilité de faire attention à ne pas flinguer la planète avec leurs emails ! Assez drôle, lorsqu’on sait l’activité de l’entreprise en question.
 

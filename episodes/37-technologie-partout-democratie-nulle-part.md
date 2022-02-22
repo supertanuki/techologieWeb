@@ -3,7 +3,7 @@ episode_number: 37
 title: "Technologie partout, démocratie nulle part"
 people: "Yaël Benayoun et Irénée Régnauld"
 description: "Yaël Benayoun est diplômée en philosophie politique et en sciences sociales. Elle conseille les organisations qui souhaitent se doter d’outils d’observation et de compréhension des réalités sociales. Irénée Régnauld est diplômé en sciences politiques et en affaires internationales et consultant en innovation et en transformation numérique. Auteur du blog et compte twitter technocritique « Mais où va le web ? ». Tous les deux, ont créé l'association Le Mouton Numérique qui met en lumière les enjeux sociaux, politiques et environnementaux du numérique et des nouvelles technologies. Ils sont les auteurs du livre Technologies partout, démocratie nulle part, Plaidoyer pour que les choix technologiques deviennent l’affaire de tous."
-date: "2020-10-16"
+date: 2020-10-16
 image: "/img/episodes/37-irenee-yael.jpg"
 audio_link: "https://soundcloud.com/techologie/37-technologie-partout-democratie-nulle-part-avec-yael-benayoun-et-irenee-regnauld"
 audio_size_in_megabyte: 34

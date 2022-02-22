@@ -3,7 +3,7 @@ episode_number: 21
 title: "L’insoutenable usage de la vidéo en ligne"
 people: "Maxime Efoui-Hess"
 description: "Maxime Efoui-Hess est ingénieur et chef de projet au sein du Shift Project sur les questions numériques. Nous l'avons rencontré lors des ateliers du Shift fin septembre 2019."
-date: "2019-10-29"
+date: 2019-10-29
 image: "/img/episodes/21-maxime-efoui-hess.jpg"
 audio_link: "https://soundcloud.com/techologie/21-linsoutenable-usage-de-la-video-en-ligne-avec-maxime-efoui-hess"
 audio_size_in_megabyte: 41
@@ -41,7 +41,7 @@ _À venir._
 En savoir plus :
 
 * [Rapport pour une sobriété numérique](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/)
-* [Rapport l’insoutenable usage de la vidéo en ligne](https://theshiftproject.org/article/climat-insoutenable-usage-video/) 
+* [Rapport l’insoutenable usage de la vidéo en ligne](https://theshiftproject.org/article/climat-insoutenable-usage-video/)
 * [Carbonalyser, l'extension pour Firefox](https://theshiftproject.org/carbonalyser-extension-navigateur/)
 * [Retournez à l'école ! par Jean-Marc Jancovici](https://www.lesechos.fr/idees-debats/sciences-prospective/retournez-a-lecole-1132225)
 

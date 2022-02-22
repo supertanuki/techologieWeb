@@ -3,7 +3,7 @@ episode_number: 18
 title: "Un smartphone éthique et réparable"
 people: "Agnès Crépet"
 description: "Agnès Crépet est développeuse chez Fairphone, membre des Duchess France, une association pour valoriser les femmes développeuses et cofondatrice de la conférence MIX-IT."
-date: "2019-09-24"
+date: 2019-09-24
 image: "/img/episodes/18-agnes-crepet.jpg"
 audio_link: "https://soundcloud.com/techologie/18-un-smartphone-ethique-et-reparable"
 audio_size_in_megabyte: 24
@@ -28,7 +28,7 @@ _À venir._
 En savoir plus :
 
 * Son site [agnescrepet.org](https://agnescrepet.org/)
-* [Fairphone](https://www.fairphone.com/fr/) 
-* [e foundation](https://e.foundation/?lang=fr) 
+* [Fairphone](https://www.fairphone.com/fr/)
+* [e foundation](https://e.foundation/?lang=fr)
 
 </div>

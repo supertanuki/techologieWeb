@@ -3,7 +3,7 @@ episode_number: 14
 title: "Développer un service de streaming musical coopératif"
 people: "Marie Gauthier"
 description: "Marie Gauthier est développeuse et contribue depuis 2016 au lancement du service de streaming musical Resonate. Cette coopérative appartient aux musiciens, labels indépendants, fans et développeurs."
-date: "2019-06-27"
+date: 2019-06-27
 image: "/img/episodes/14-marie-gauthier.jpg"
 audio_link: "https://soundcloud.com/techologie/14-developper-un-service-de-streaming-cooperatif"
 audio_size_in_megabyte: 13.2
@@ -32,6 +32,6 @@ En savoir plus :
 
 * [Resonate](https://resonate.is/)
 * [Mycelia / Creative passport](http://myceliaformusic.org/creative-passport/)
-* [Marie sur Github](https://github.com/blushi) 
+* [Marie sur Github](https://github.com/blushi)
 
 </div>

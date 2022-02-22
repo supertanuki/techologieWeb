@@ -3,7 +3,7 @@ episode_number: 42
 title: "Transition écologique et solidaire dans l'enseignement supérieur"
 people: "Yannick Morel"
 description: "Yannick Morel est le cofondateur de l'association Latitudes qui accompagne et encourage l'utilisation des technologies au service de l'intérêt général. Il nous raconte comment vivent les étudiants et les enseignants la crise sanitaire actuelle. Et comment l'enseignement supérieur est en train de se transformer pour répondre à une indispensable transition écologique."
-date: "2021-01-14"
+date: 2021-01-14
 image: "/img/episodes/10-yannick-morel.jpg"
 audio_link: "https://soundcloud.com/techologie/42-transition-ecologique-et-solidaire-dans-lenseignement-superieur-avec-yannick-morel"
 audio_size_in_megabyte: 45

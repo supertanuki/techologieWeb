@@ -2,15 +2,15 @@
 type: newsletter
 number: 5
 title: Croissance verte en danger et éco-filtre
-published_at: "2021-05-13"
-image: ./orange-eco-filter.jpg
+date: 2021-05-13
+image: /img/newsletters/5/orange-eco-filter.jpg
 ---
 
 ## La newsletter green, super green
 
 mais pas plus green que cette nouvelle technologie de capture du carbone :
 
-![](./tweet.jpg)
+![](/img/newsletters/5/tweet.jpg)
 
 par [Ketan Joshi](https://twitter.com/KetanJ0/status/1389532880163020801)
 
@@ -20,7 +20,7 @@ Bonjour les écolo-geeks. Nous vous souhaitons une bonne lecture de ce 5ème num
 
 **Rien ne va plus pour la croissance verte.** C’est l’alerte donnée par un nouveau rapport de l’IEA, l’agence internationale de l'énergie, sur “[le rôle des minéraux critiques dans les transitions vers les énergies propres](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions&sa=D&source=editors&ust=1620862743562000&usg=AOvVaw3YpFtsOevzdDD7J6WUuWHB)”. Selon un des auteurs, [Fatih Birol](https://twitter.com/fbirol/status/1389807286735056896), il y a “un décalage entre les ambitions climatiques du monde et la disponibilité des minéraux nécessaires à la réalisation de ces ambitions”. Pour lui, “les gouvernements doivent agir maintenant pour réduire les risques de volatilité des prix et de rupture d'approvisionnement”. Pas question encore d’évoquer une quelconque sobriété, mais d’amplifier l’extractivisme.
 
-![](./iea-minerals.png)
+![](/img/newsletters/5/iea-minerals.png)
 
 **Green Tech toniqu**e **pour la République**. L’État se met au vert côté matériel et prestations numériques en sortant son [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/). En version bêta et assez dru pour le moment, ce guide offre tous les éléments pour s’orienter vers une politique d’achat plus responsable. Glossaire, description des (éco)labels, rappel de la réglementation, fiches thématiques par famille d’achat, c’est une mine d’informations qui permet aux administrations de se poser les bonnes questions avant de passer à la caisse. Si ce guide est à destination des services de l’État, il reprend les bonnes pratiques qui sont amenées à être généralisées.
 
@@ -50,7 +50,7 @@ Le [lance-flamme-chalumeau](https://www.rtl.fr/actu/sciences-tech/elon-musk-vend
 
 ## Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a [flower](https://www.youtube.com/watch?v%3DP-qOurzN_Gs)
 
-![](./orange-eco-filter.jpg)
+![](/img/newsletters/5/orange-eco-filter.jpg)
 
 Orange et Publicis lancent un filtre Instagram et Facebook qui ambitionne de réduire l’empreinte environnementale des stories. Ce filtre modestement nommé [Eco-filter](https://www.ladn.eu/adn-business/news-business/actualites-annonceurs/orange-publicis-filtre-photo/) propose une réduction du nombre de pixels des photos et vidéos ce qui allège le poids de ces médias d’environ 20%. Le point positif c’est la sensibilisation du grand public sur l’impact environnemental des usages numériques. Cependant, compte tenu des activités d’Orange et de Publicis, c’est reporter encore une fois la responsabilité sur les utilisateurs, à coup de grande communication et [vidéo à l’appui](https://www.youtube.com/watch?v%3DTDo9jx_7q0U). Tout cela pour un usage fort peu essentiel, voire futile. La vidéo se termine par ce message : “A little goes a long way”, un peu peut mener loin. Est-ce une invitation à aller utiliser de l’eco-filter en vacances à Bali ?
 

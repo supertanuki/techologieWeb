@@ -2,8 +2,8 @@
 type: newsletter
 number: 9
 title: C’est la fête du climat
-published_at: "2021-12-08"
-image: ./manif.jpg
+date: 2021-12-08
+image: /img/newsletters/9/manif.jpg
 ---
 
 ## La newsletter green, super green
@@ -12,7 +12,7 @@ Bonjour les colibris. Ce 8 décembre, c’est la journée mondiale du climat. On
 
 Nous vous souhaitons une bonne lecture du 9è numéro de cette newsletter collaborative, fruit d’une veille collective de la communauté Techologie.
 
-![](./manif.jpg)
+![](/img/newsletters/9/manif.jpg)
 
 ## 1024 nuances de green
 
@@ -36,7 +36,7 @@ Bon, sinon, le green tech forum c’était bien pour au moins une (ou la seule) 
 
 ## L’entretien
 
-![](./verrax.jpg)
+![](/img/newsletters/9/verrax.jpg)
 
 Fanny Verrax, philosophe, enseignante et chercheuse qui a répondu à nos questions lors d’un épisode plein de bonne humeur et de philosophie intitulé “[On n'arrête pas le progrès ?](https://soundcloud.com/techologie/58-on-narrete-pas-le-progres-avec-fanny-verrax&sa=D&source=editors&ust=1638912633205000&usg=AOvVaw3I1XZeczTBGO61cHwr9Alv)” a gentiment accepté de compléter l’échange avec une question bonus :
 
@@ -54,7 +54,7 @@ Pour conclure, je précise que l'exercice que nous venons de faire avec Kant aur
 
 ## Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a [flower](https://www.youtube.com/watch?v%3DP-qOurzN_Gs&sa=D&source=editors&ust=1638912633207000&usg=AOvVaw2-pih--0RR0wXXr6k7_kXj)
 
-![](./greenwashing.jpg)
+![](/img/newsletters/9/greenwashing.jpg)
 
 Il y a de nombreux candidats pour cette rubrique greenwashing. Mais un champion sort clairement du lot. Il s’agit de "[Fuel for the planet](https://fuelforplanet.com/&sa=D&source=editors&ust=1638912633208000&usg=AOvVaw1ZCJlQOon5yvqdBcO1_TC_)", la station essence qui compense les émissions du carburant. Bah oui, plus c’est gros, mieux ça passe. Les gueux ont le sens (ou l’essence ?) de l’humour : “Nous sommes le 1er réseau français de station-service qui fait le plein de sens”.
 
@@ -62,8 +62,8 @@ Et si vous en voulez encore, l’association Pour un réveil écologique a lanc�
 
 ## À ne pas manquer
 
-![](./bihouix.jpg)
-  
+![](/img/newsletters/9/bihouix.jpg)
+
 À quels enfants allons-nous laisser le monde ?
 
 C’est le titre de l’[entretien avec Philippe Bihouix dans le cadre du 59è épisode de Techologie diffusé ce jeudi 9 décembre à 20h30 sur Imago](https://www.imagotv.fr/inscription/live-radio/techologie/636&sa=D&source=editors&ust=1638912633210000&usg=AOvVaw2vhapk0qDwKPzQxv8Nujgx), le média gratuit de la transition. Si ce nom vous est inconnu, Philippe Bihouix est ingénieur et ses sujets de prédilection sont les limites de la planète, l’épuisement des ressources minérales et énergétiques et les low tech. Auteur de « L'Âge des low-tech », « Le bonheur était pour demain », « Quel futur pour les métaux ? » et co-auteur avec Karine Mauvilly de « Le désastre de l’école numérique, plaidoyer pour une école sans écran ». Venez discuter pendant et après l’épisode (inscription nécessaire).

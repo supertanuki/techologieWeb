@@ -3,7 +3,7 @@ episode_number: 17
 title: "La tech pour redonner du pouvoir aux agriculteurs"
 people: "Solene Maître"
 description: "Solene est cofondatrice et directrice produit de Perfarmer, une application mobile qui permet aux agriculteurs de vendre au bon moment."
-date: "2019-09-12"
+date: 2019-09-12
 image: "/img/episodes/17-solene-maitre.jpg"
 audio_link: "https://soundcloud.com/techologie/17-la-tech-pour-redonner-du-pouvoir-aux-agriculteurs"
 audio_size_in_megabyte: 19

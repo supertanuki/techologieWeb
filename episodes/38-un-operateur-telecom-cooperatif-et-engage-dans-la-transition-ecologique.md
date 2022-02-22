@@ -3,7 +3,7 @@ episode_number: 38
 title: "Un opérateur télécom coopératif et engagé dans la transition écologique"
 people: "Marion Graeffly"
 description: "Marion Graeffly est cofondatrice de Telecoop, et chargée de la communication, des partenariats et du sociétariat."
-date: "2020-11-20"
+date: 2020-11-20
 image: "/img/episodes/38-marion-graeffly.jpg"
 audio_link: "https://soundcloud.com/techologie/un-operateur-telecom-cooperatif-et-engage-dans-la-transition-ecologique-avec-marion-graeffly"
 audio_size_in_megabyte: 16

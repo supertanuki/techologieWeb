@@ -3,7 +3,7 @@ episode_number: 9
 title: "Les cryptomonnaies sont-elles réellement énergivores ?"
 people: "Jean-Baptiste Dusseaut"
 description: "Jean-Baptiste Dusseaut est eXtreme programmeur depuis plus de 16 ans, architecte logiciel chez LGO, co-fondateur d'Arpinum, co-organisateur de l'Agile Tour Bordeaux et également enseignant. Nous abordons le sujet de la consommation d'énergie des cryptomonnaies notamment le BitCoin mais aussi les usages de la Blockchain, le bullshit marketing, la spéculation et les idées reçues autour de cette technologie."
-date: "2019-03-14"
+date: 2019-03-14
 image: "/img/episodes/9-jb-dusseaut.jpg"
 audio_link: "https://soundcloud.com/techologie/9-les-cryptomonnaies-sont-elles-reellement-energivores-avec-jean-baptiste-dusseaut"
 audio_size_in_megabyte: 27
@@ -28,7 +28,7 @@ En savoir plus :
 * [The reports of bitcoin environmental damage are garbage](https://hackernoon.com/the-reports-of-bitcoin-environmental-damage-are-garbage-5a93d32c2d7)
 * [The Bitcoin  Mining Network - Trends, Marginal Creation Cost, Electricity Consumption & Sources](https://coinshares.co.uk/wp-content/uploads/2018/11/Mining-Whitepaper-Final.pdf) (Pdf)
 * La chaîne youtube conseillée par Jean-Baptiste pour comprendre le «pourquoi bitcoin», au delà des passions occidentales pour le trading, et de la hype autour du mot blockchain : [youtube.com/user/aantonop](https://www.youtube.com/user/aantonop)
-* Bitcoin, la monnaie acéphale : [bitcoinlamonnaieacephale.fr](https://bitcoinlamonnaieacephale.fr/) 
+* Bitcoin, la monnaie acéphale : [bitcoinlamonnaieacephale.fr](https://bitcoinlamonnaieacephale.fr/)
 * Jean-Baptiste sur Twitter : [twitter.com/bodysplash](https://twitter.com/bodysplash)
 
 </div>
