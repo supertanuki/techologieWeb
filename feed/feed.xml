@@ -5,10 +5,1039 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2022-02-22T22:39:30Z</updated>
+	<updated>2022-03-01T10:03:57Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Accélération de la soutenabilité verte</title>
+		<link href="https://techologie.net/newsletter/10/"/>
+		<updated>2022-02-03T00:00:00Z</updated>
+		<id>https://techologie.net/newsletter/10/</id>
+		<content type="html">&lt;h2&gt;La newsletter green, super green&lt;/h2&gt;
+&lt;p&gt;Bonjour les cryptos-sceptiques. Comme il est de coutume, nous vous souhaitons une très bonne année sous le signe de la sobriété ! Et veuillez nous pardonner pour cette newsletter qui n’aide pas forcément à la sobriété, qui alimente l’infobésité et vous noie d’informations, qu&#39;on espère pertinentes !&lt;/p&gt;
+&lt;p&gt;Au sommaire du 10è numéro de cette newsletter collaborative, fruit d’une veille collective de la communauté Techologie : souveraineté numérique, GAFAM, l&#39;entretien avec 2022 (oui), Amazon qui accèlere sur la soutenabilité verte (et oui), les métaux et les métavers.&lt;/p&gt;
+&lt;h2&gt;1024 nuances de green&lt;/h2&gt;
+&lt;p&gt;Des choses intéressantes entendues à la table ronde &amp;quot;&lt;strong&gt;Géopolitique du numérique&lt;/strong&gt;&amp;quot; organisée par l&#39;Institut Rousseau, le Vent du changement et Le vent se lève, le 15 janvier.&lt;/p&gt;
+&lt;p&gt;Pour &lt;strong&gt;Ophélie Coelho&lt;/strong&gt;, chercheuse indépendante spécialiste des enjeux de géopolitique du numérique, aborder le concept de souveraineté numérique nécessite d&#39;abord de prendre en considération les &lt;strong&gt;interdépendances&lt;/strong&gt; entre acteurs techniques et industriels. Celles-ci concernent tout autant la chaîne de fabrication des réseaux physiques, les infrastructures de stockage et la couche logicielle que les terminaux qui rendent possible notre vie numérique. Parfois, les dépendances touchent au territoire : les pays enclavés comme la Suisse ou le Burkina Faso dépendent des pays frontaliers pour leur accès aux câbles sous-marins; les territoires européens riches en eau ou ayant accès à la mer du nord, comme la France ou la Finlande, sont des lieux favorables à l&#39;installation de nouveaux serveurs... Malheureusement, l&#39;écosystème fait face à de très grandes disparités de pouvoirs et de dépendances :  l&#39;essentiel du trafic internet mondial passe par les centres de données loués ou appartenant aux Big techs, qui investissent également dans les infrastructures physiques tels que les câbles sous-marins. En tant que simples clients de plateforme, nous ne parvenons pas à les réguler par le droit, et restons soumis à ces acteurs devenus très puissants, qui peuvent peser sur notre capacité d&#39;autodétermination. Ainsi, plutôt que de rester sur une logique unique de régulation fondamentalement basée sur le principe de confiance, l&#39;enjeu crucial est de mieux gérer nos dépendances en mettant en place une réelle stratégie dédiée à la maîtrise des technologies clefs.&lt;/p&gt;
+&lt;p&gt;Selon &lt;strong&gt;Clotilde Bômont&lt;/strong&gt;, chercheure au centre de recherche et de formation GEODE et doctorante à l’Université Panthéon-Sorbonne, il n&#39;y a pas de définition neutre pour la &lt;strong&gt;souveraineté numérique&lt;/strong&gt;. Cela ne peut être qu&#39;une définition qui s&#39;intéresse à plusieurs facteurs :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;stratégique : s&#39;affirmer sur la scène internationale ;&lt;/li&gt;
+&lt;li&gt;économique : l&#39;Europe n&#39;en profite pas. Les données ne profitent qu&#39;aux géants du web américains. Rien d&#39;anecdotique, l&#39;argent qu&#39;aspire les GAFAM en Europe sans retour fiscal permet aujourd&#39;hui de manière indirecte de financer les retraites américaines.&lt;/li&gt;
+&lt;li&gt;éthique, civique et moral : influence des Big Tech, les États devenant des &amp;quot;colonies numériques&amp;quot;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour &lt;strong&gt;Tariq Krim&lt;/strong&gt;, entrepreneur pionnier du web français et initiateur du mouvement &amp;quot;slow web&amp;quot;, le problème en France dure depuis des décennies et se résume par l&#39;incompétence des dirigeants français, nourris aux benchmarks des cabinets de conseil, sans jamais de réelle stratégie numérique. Pire encore, il y a une attirance exclusive et malsaine pour tout ce qui brille. Et donc tout ce qui vient des États-Unis. Exemple marquant, la réception en 2019 par Macron de Zuckerberg , comme un chef d&#39;Etat pour une réunion... &amp;quot;Tech for good&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Aujourd&#39;hui, quand on parle de souveraineté numérique, on pense plus souvent au cloud qui est d&#39;abord du logiciel et non pas du matériel comme on aurait tort de le penser. Lorsque le logiciel est rôdé, il devient aisé de le vendre et les services qui vont avec.&lt;/p&gt;
+&lt;p&gt;Sorti en mai 2021 et annoncé en grande pompe par le Gouvernement, le &amp;quot;&lt;strong&gt;Cloud de confiance&lt;/strong&gt;&amp;quot;, est un label pour adopter les solutions de cloud américaines avec des gardes-fous minimum : un gestionnaire de compte français (ne riez pas !). Un des projets emblématiques sur ces questions de souveraineté c&#39;est bien sûr le Health Data Hub, la base de données agrégeant des données pseudonymisées de santé des français à des fins de recherche et propulsé par des solutions Microsoft Azure.&lt;/p&gt;
+&lt;p&gt;Contrairement à ce qui &amp;quot;est vendu&amp;quot;, cette dépendance aux GAFAM est non réversible. C&#39;est un acte manqué de financer les acteurs français ou européens. On ne donne ni le temps, ni les moyens aux acteurs européens de mettre en place des solutions souveraines. De plus, les acteurs choisis pour implémenter un Cloud souverain sont à chaque tentative, des grands groupes qui n&#39;y connaissent rien alors que de petits acteurs compétents et même spécialistes du sujet sont snobés. Sans compter que les grands groupes attirent dans leur rang les meilleurs ingénieurs, débauchés aux PME ce qui génère une déstabilisation du marché de l&#39;emploi. Qu&#39;est devenu le &amp;quot;Cloud souverain&amp;quot; d&#39;Orange et SFR subventionné par de l&#39;argent public ? Revendu à Huawei et Red Hat.&lt;/p&gt;
+&lt;p&gt;Pour &lt;strong&gt;Jean-Paul Smets&lt;/strong&gt;, co-fondateur de l’alliance Euclidia, un autre problème est que les grands groupes notamment français ne jurent que par les solutions des GAFAM : elles ne demandent qu&#39;exclusivement du GCP (Google), de l&#39;AWS (Amazon) ou de l&#39;Azure (Microsoft). Le choix des systèmes d&#39;exploitation et logiciels libres parait encore dans ce contexte comme un acte militant.&lt;/p&gt;
+&lt;p&gt;Enfin, un problème majeur de souveraineté numérique est dans la &lt;strong&gt;non-maîtrise des technologies&lt;/strong&gt;. On forme de moins en moins d&#39;ingénieurs et de plus en plus de techniciens de plateforme. En devenant des spécialistes des technologies créées par les GAFAM, les développeurs clouds, mais aussi toute une catégorie de métiers du webmarketing, deviennent à leur tour dépendants de ces entreprises pour leur accès au marché du travail.&lt;/p&gt;
+&lt;p&gt;Le &lt;a href=&quot;https://www.youtube.com/watch?v=4yIBbh6_PV8&quot;&gt;replay de cette table-ronde est disponible sur youtube&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;L&#39;entretien&lt;/h2&gt;
+&lt;p&gt;Entretien exclusif avec l&#39;année 2022 (et pourquoi pas ?), qui a bien voulu nous donner son avis sur son année.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bonne année 2022, année 2022 ! Que nous réserves-tu cette année, année 2022 ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Après deux ans de pandémie, j’aurais aimé vous dire que c’est la fin, j’en sais foutrement rien, déso. Cependant, on va vivre une belle année sportive marquée par deux grands évènements mondiaux : les jeux olympiques d&#39;hiver à Pékin avec 100% de neige artificielle et la coupe du monde de football au Qatar avec 100% de stades climatisés. Belle démonstration de résilience de l&#39;être humain pour dire au changement climatique d&#39;aller se faire voir ailleurs. Bon ça aurait pu être pire. Imaginez que le tennis soit une discipline des JO d&#39;hiver avec des joueuses qui disparaissent. Ou bien que la coupe du monde de football féminin soit jouée dans un pays salafiste !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tu te lâches 2022 là ! Et du côté du numérique, que peut-on attendre en 2022 ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sur les impacts environnementaux du numérique, les pseudos-scientifiques continueront à faire des calculs en coin de table et à vociférer sur Twitter. À part ça tout va bien. Tout le monde n’a d’z’yeux que pour les métavers, le web3 et les NFT. Mais personne ne voit venir le grand retour des lunettes connectées et des walkmans cassettes. Une re-révolution vintage qui viendra des influenceurs en toque et TikTok installés à Dubai, donc au plus près des tendances et des modes du futur. Les enjeux écologiques seront aussi au rendez-vous cette année. Des milliards de dollars en équivalent Bitcoin seront investis dans les solutions for the planet, par exemple dans la décarbonation des écrans numériques publicitaires des grands aéroports. Je suis quand même assez sereine sur la question des métavers. Comme sur Chatroulette ou dans les visioconfs des décideurs politiques : y&#39;aura toujours un qui montrera son phallus ou une vidéo porno. Bref, le métavers sera surtout méga-pervers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Un peu taquine là ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Non mais franchement ça démarre mal. Surtout en France. Une campagne présidentielle moribonde avec les sujets climat et environnement aux abonnés absents, on est passé d&#39;un climato-scepticisme ambiant à un climato-négationnisme qui nous mène droit dans le mur (effet Don&#39;t look up ?), une primaire populaire censée faire l&#39;union qui n&#39;a rien de populaire et qui alimente la désunion, on s&#39;occupe mal de nos vieux, un virus qui lâche pas l&#39;affaire... Alors bon, imaginez que dans les livres d&#39;histoire du futur, ils raconteront que les occidentaux s&#39;amusaient avec des NFT et des cryptomonnaies dans les métavers quand tout s&#39;est effondré.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a flower&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/10/amazon-eoliennes.jpg&quot; alt=&quot;Amazon qui veut accélérer la croissance, mais soutenable, avec plein d&#39;éoliennes&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Amazon lance son « &lt;a href=&quot;https://www.clubic.com/pro/entreprises/amazon/actualite-406713-amazon-lance-un-programme-visant-a-soutenir-les-start-up-qui-creent-des-produits-dits-durables.html&quot;&gt;Launchpad Sustainability Accelerator&lt;/a&gt; », un programme de 12 semaines de soutien à des jeunes start-up qui « conçoivent des produits durables ». Il ne s&#39;agit pas d&#39;un programme de sobriété, bien évidemment, mais comme son nom l&#39;indique, on appuie bien sur la pédale d&#39;accélérateur : « les fondateurs de start-up devront avoir pour ambition de s&#39;appuyer sur l&#39;e-commerce (comprendre : Amazon) pour dynamiser la croissance de leurs produits et s&#39;engager à créer et à développer leur activité en tenant compte de son impact environnemental ». La planète est sauvée. Jeff Bezos peut continuer à s&#39;envoyer en l&#39;air, la conscience tranquille.&lt;/p&gt;
+&lt;h2&gt;À ne pas manquer&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Clément Jeanneau&lt;/strong&gt; dans sa newsletter « Nourritures terrestres » livre une analyse / retranscription intéressante autour des &lt;a href=&quot;https://www.nourrituresterrestres.fr/p/regards-sur-les-metaux&quot;&gt;métaux nécessaires aux transitions numérique et énergétiques&lt;/a&gt;. Il y a la retranscription de l&#39;intervention d&#39;&lt;strong&gt;Aurore Stéphant&lt;/strong&gt;, ingénieure géologue minier invitée chez Thinkerview. Mais aussi une conférence de &lt;strong&gt;José Halloy&lt;/strong&gt;, professeur de physique à l&#39;Université de Paris et chercheur au Laboratoire Interdisciplinaire des Énergies de Demain. Extraits : « &lt;strong&gt;En réalité, l&#39;essentiel des technologies que nous utilisons aujourd’hui sont des « technologies zombies » : ce sont des morts-vivants. Elles continuent d&#39;envahir le monde au détriment de l&#39;humanité mais elles sont déjà mortes en termes de soutenabilité&lt;/strong&gt; ». Ou bien encore : « La question des choix techniques et technologiques est capitale pour l’avenir de l’humanité car elle induit un verrouillage de nos infrastructures et un chemin de dépendance socio-économique. Il faudrait donc penser la technologie sur une échelle de temps qui dépasse le XXIème siècle ».&lt;/p&gt;
+&lt;h2&gt;Avant de se quitter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://techologie.net/episodes/62-conception-pour-des-appareils-obsoletes&quot;&gt;Conception pour appareils obsolètes&lt;/a&gt; l&#39;épisode 62 de Techologie avec Anaëlle Beignon&lt;/li&gt;
+&lt;li&gt;Il est peu probable &lt;a href=&quot;https://www.datacenterdynamics.com/en/news/eirgrid-says-no-new-applications-for-data-centers-in-dublin-till-2028/&quot;&gt;de voir construire de nouveaux centres de données dans la région de Dublin&lt;/a&gt;, en Irlande, au moins jusqu&#39;en 2028 par crainte du black-out. Les datacenters consomment actuellement 10% de l&#39;électricité du pays et mettent en péril ses objectifs de décarbonation énergétique.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gauthierroussilhe.com/post/explication-streaming.html&quot;&gt;Explications sur l&#39;empreinte carbone du streaming et du transfert de données&lt;/a&gt;, par Gauthier Roussilhe.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://librairie.ademe.fr/dechets-economie-circulaire/5241-evaluation-de-l-impact-environnemental-d-un-ensemble-de-produits-reconditionnes.html&quot;&gt;Evaluation ADEME de l&#39;impact environnemental d&#39;un ensemble de produits reconditionnés : le smartphone&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.arcep.fr/actualites/les-communiques-de-presse/detail/n/environnement-190122.html&quot;&gt;Empreinte environnementale du numérique en France&lt;/a&gt; : l’ADEME et l’Arcep remettent leur premier rapport au Gouvernement.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.sami.eco/post/empreinte-carbone-email&quot;&gt;Empreinte carbone d&#39;un e-mail&lt;/a&gt; : mythes, réalités et solutions&lt;/li&gt;
+&lt;li&gt;Une enquête révèle que &lt;a href=&quot;https://www.developpez.com/actu/330412/Une-enquete-revele-que-les-developpeurs-ne-sont-absolument-pas-interesses-par-les-cryptomonnaies-ou-les-NFT-et-se-disent-stupefaits-par-l-interet-pour-ces-technologies/&quot;&gt;les développeurs ne sont absolument pas intéressés par les cryptomonnaies ou les NFT&lt;/a&gt; et se disent &amp;quot;stupéfaits&amp;quot; par l&#39;intérêt pour ces technologies..&lt;/li&gt;
+&lt;li&gt;Cela aurait pu être sur le Gorafi : &lt;a href=&quot;https://twitter.com/cedric_o/status/1485667836848656386&quot;&gt;discussion entre Cédric O, Jean-Michel Jarre et Luc Julia sur le métavers&lt;/a&gt; et les défis qu’il pose. Innovation, création, souveraineté.&lt;/li&gt;
+&lt;li&gt;On trouve de beaux articles et même des &amp;quot;futurs spéculatifs&amp;quot; (spoiler: sombres) &lt;a href=&quot;https://linc.cnil.fr/metavers-ce-jeu-dont-qui-sera-le-heros&quot;&gt;au sujet des métavers chez le lab de la Cnil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/posts/alexandrebompard_metaverse-ugcPost-6893843350990974976--gKC/&quot;&gt;Premier magasin Carrefour dans le #metavers&lt;/a&gt;. Mais pourquoi faire ? Point d&#39;interrogation général.&lt;/li&gt;
+&lt;li&gt;Comment réagirions-nous face à la mise en place de quotas ? Quelles seraient les conséquences d&#39;une plus grande transparence écologique des entreprises ? &lt;a href=&quot;https://www.climatopie.fr/?03-instantan%C3%A9es&quot;&gt;C&#39;est dans Climatopie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Opération &amp;quot;&lt;a href=&quot;https://techologie.net/newsletter/10/(https://vert.eco/wp-content/uploads/2022/02/DP_ADEME_OSEZ-CHANGER.pdf)&quot;&gt;Osez changer&lt;/a&gt;&amp;quot; de l&#39;ADEME : 21 foyers français désencombrent leur logement, vers une consommation plus sobre et plus responsable, où l&#39;on apprend qu&#39;en matière d&#39;objets, de vêtements ou d&#39;électroniques, on sous-estime leur nombre dans nos foyers, que les femmes sont principalement mise à contribution pour gérer le désencombrement (coucou la charge mentale) et qu&#39;il y a des effets rebond (maudits effets  rebond) à vivre d&#39;une vie matérielle plus sobre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enfin, une bonne nouvelle, la communauté Techologie migre avec succès de slaque vers framateam propulsé par l&#39;outil libre et open source Mattermost (&lt;a href=&quot;https://framateam.org/techologie/&quot;&gt;https://framateam.org/techologie/&lt;/a&gt;). Rejoignez-nous !&lt;/p&gt;
+&lt;p&gt;Prenez soin de vous et de vos futurs déchets électriques et électroniques et à très vite !&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;N&#39;imprimez cet e-mail qu&#39;en noir et blanc, recto-verso, sans marge et sur du papier recyclé labellisé. Non, bon, laissez tomber, n&#39;imprimez pas cet e-mail.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Le numérique de demain avec les équipements d&#39;hier</title>
+		<link href="https://techologie.net/episodes/63-le-numerique-de-demain-avec-les-equipements-dhier/"/>
+		<updated>2022-02-03T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/63-le-numerique-de-demain-avec-les-equipements-dhier/</id>
+		<content type="html">Ingénieur de recherche, chef de projet informatique dédié à la médiation scientifique et à l&#39;innovation pédagogique dans la direction scientifique à l&#39;Inria, spécialiste des impacts environnementaux des technologies numériques, Benjamin Ninassi est également membre du Groupement de service EcoInfo, pour une informatique éco-responsable et de l&#39;INR, l&#39;Institut du Numérique Responsable.</content>
+	</entry>
+	
+	<entry>
+		<title>Conception pour appareils obsolètes</title>
+		<link href="https://techologie.net/episodes/62-conception-pour-des-appareils-obsoletes/"/>
+		<updated>2022-01-20T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/62-conception-pour-des-appareils-obsoletes/</id>
+		<content type="html">Anaëlle Beignon est designer d&#39;intéractions. Son sujet de mémoire de master a porté sur la conception pour appareils obsolètes, une exploration de la marginalisation des utilisateurs d&#39;appareils obsolètes face à la numérisation des services publics suédois.</content>
+	</entry>
+	
+	<entry>
+		<title>Build a sustainable business with digital sustainability</title>
+		<link href="https://techologie.net/episodes/61-building-a-sustainable-business-with-digital-sustainability/"/>
+		<updated>2022-01-07T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/61-building-a-sustainable-business-with-digital-sustainability/</id>
+		<content type="html">In this episode, we invite Tom Greenwood to talk about sustainable web design and his company Wholegrain Digital.</content>
+	</entry>
+	
+	<entry>
+		<title>Trois ans de Techologie, déclics et actions</title>
+		<link href="https://techologie.net/episodes/60-techologie-3-ans/"/>
+		<updated>2021-12-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/60-techologie-3-ans/</id>
+		<content type="html">Pour finir cette année et fêter ces 3 ans, nous avons donné la parole à des auditeurs et membres de la communauté Techologie.</content>
+	</entry>
+	
+	<entry>
+		<title>À quels enfants allons-nous laisser le monde ?</title>
+		<link href="https://techologie.net/episodes/59-a-quels-enfants-allons-nous-laisser-le-monde/"/>
+		<updated>2021-12-09T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/59-a-quels-enfants-allons-nous-laisser-le-monde/</id>
+		<content type="html">Philippe Bihouix est ingénieur, son sujet les limites de la planète, l’épuisement de ses ressources minérales et ressources énergétiques et les low tech. Auteur de L&#39;Âge des low-tech, Le bonheur était pour demain, Quel futur pour les métaux ? et co-auteur avec Karine Mauvilly de : Le désastre de l’école numérique, plaidoyer pour une école sans écran.</content>
+	</entry>
+	
+	<entry>
+		<title>C’est la fête du climat</title>
+		<link href="https://techologie.net/newsletter/9/"/>
+		<updated>2021-12-08T00:00:00Z</updated>
+		<id>https://techologie.net/newsletter/9/</id>
+		<content type="html">&lt;h2&gt;La newsletter green, super green&lt;/h2&gt;
+&lt;p&gt;Bonjour les colibris. Ce 8 décembre, c’est la journée mondiale du climat. On ressort les cotillons en cartons recyclés pour fêter l’effondrement de la biodiversité et notre avenir sur terre en suspens, youpi !&lt;/p&gt;
+&lt;p&gt;Nous vous souhaitons une bonne lecture du 9è numéro de cette newsletter collaborative, fruit d’une veille collective de la communauté Techologie.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/9/manif.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;1024 nuances de green&lt;/h2&gt;
+&lt;p&gt;De la communauté Techologie, on était nombreux au 1er &lt;a href=&quot;https://www.greentech-forum.com/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633202000&amp;amp;usg=AOvVaw1V9ZJCDqq66idLyi_f33Kf&quot;&gt;Green Tech Forum&lt;/a&gt;, la grande messe d’un “numérique plus responsable”. Florilèges des choses vues ou entendues.&lt;/p&gt;
+&lt;p&gt;Masterclass de Cédric O, secrétaire d’État au numérique, son discours étant le cas d&#39;école du techno-solutionnisme et cela a bien évidemment irrité la salle.&lt;/p&gt;
+&lt;p&gt;Le responsable RSE de Microsoft France a dit « on appuie sur l’éco anxiété des employés en leur faisant lire Comment tout peut s’effondrer de Pablo Servigne ».&lt;/p&gt;
+&lt;p&gt;Beaucoup d’anglicismes. « Planet centric design » et « démarche sustainability »… Les grandes ESN qui disent simplement d&#39;ajouter un critère “Sustainability” en monocritère GES / carbone dans les dashboards pour avoir une médaille en chocolat.&lt;/p&gt;
+&lt;p&gt;Un débat sur quel langage de programmation est plus efficient qu’un autre qui a tourné court. Tant mieux. Débats et discussions aussi autour de l’ouverture ou le coût des données (et quelles données ?) de NegaOctet.&lt;/p&gt;
+&lt;p&gt;Rencontre entre deux congressistes : « quand on a su qu’on était tous les deux sur Techologie, on est passé du vouvoiement au tutoiement direct ».&lt;/p&gt;
+&lt;p&gt;Tout de même un point notable sur l’organisation des tables rondes : cet événement laissait aussi la parole à des acteurs engagés du numérique responsable (dont de nombreux membres de la communauté Techologie) et pas uniquement à ceux pour qui ce sujet n’est qu’un business.&lt;/p&gt;
+&lt;p&gt;Gilles Babinet, &lt;a href=&quot;https://www.economie.gouv.fr/rp/gilles-babinet-nomme-digital-champion&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633203000&amp;amp;usg=AOvVaw20EWpLEPVBSIjGsntg5WhE&quot;&gt;champion européen du numérique&lt;/a&gt;, seul, sans contradicteur (à part l’audience) en keynote de fin d’évènement, servir la soupe habituelle des nouvelles technologies c’est formidable, c’est la solution / la France en retard / il faut accélérer / mettre de l’iOT partout / l’industrie 4.0 / les voitures autonomes / la smart city / le bâtiment intelligent / le chauffage intelligent / la litière pour chat intelligente / les agriculteurs ont besoin de la 5G pour améliorer leur rendement (bah voyons, principalement dans l’agriculture intensive et hyper technologique déjà)...&lt;/p&gt;
+&lt;p&gt;Bon, sinon, le green tech forum c’était bien pour au moins une (ou la seule) chose : voir ou revoir les copains et les copines. Il se dit que le prochain vrai green tech forum se met vraiment au vert en s’installant au printemps à Bourg-en-Bresse. Info ou intox ?&lt;/p&gt;
+&lt;h2&gt;L’entretien&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/9/verrax.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Fanny Verrax, philosophe, enseignante et chercheuse qui a répondu à nos questions lors d’un épisode plein de bonne humeur et de philosophie intitulé “&lt;a href=&quot;https://soundcloud.com/techologie/58-on-narrete-pas-le-progres-avec-fanny-verrax&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633205000&amp;amp;usg=AOvVaw3I1XZeczTBGO61cHwr9Alv&quot;&gt;On n&#39;arrête pas le progrès ?&lt;/a&gt;” a gentiment accepté de compléter l’échange avec une question bonus :&lt;/p&gt;
+&lt;p&gt;Quelle(s) place(s) de la philosophie dans la transition écologique ?&lt;/p&gt;
+&lt;p&gt;À mon sens, la philosophie comme discipline et comme boîte à outils est essentielle dans le contexte de l&#39;Anthropocène et de la nécessaire transformation de nos sociétés, parce qu&#39;elle aide à poser les bonnes questions, et parfois même, à y répondre ! Revenons un instant sur l&#39;une des figures les plus emblématiques de la philosophie continentale, Emmanuel Kant. Le philosophe allemand identifie dans un texte très célèbre trois questions fondamentales de la philosophie: Que puis-je connaître ? Que dois-je faire ? Que m&#39;est-il permis d&#39;espérer ?&lt;/p&gt;
+&lt;p&gt;La première question est la question fondamentale de l&#39;épistémologie, et on voit sans peine les applications que l&#39;on peut en tirer dans le domaine de la science climatique et des sciences environnementales plus généralement. L&#39;épistémologie interroge la notion de preuve, les liens de causalité, la définition de l&#39;incertitude, etc. Pour donner un exemple très précis de l&#39;apport de l&#39;épistémologie, je citerai la philosophe des sciences Naomi Oreskes, qui montre que l&#39;obsession de la science moderne a été d&#39;éviter les erreurs de type II (acceptation erronée d&#39;une hypothèse fausse), quitte à multiplier les erreurs de type I (rejet erronée d&#39;une hypothèse vraie). Le fait que la science climatique ait mis des dizaines d&#39;années à s&#39;imposer est en partie lié à ce biais épistémologique, et il est très utile de l&#39;identifier.&lt;/p&gt;
+&lt;p&gt;La deuxième question, &amp;quot;Que dois-je faire?&amp;quot;, est la question centrale de l&#39;éthique. Pour le dire rapidement, elle permet d&#39;ajouter au &amp;quot;comment&amp;quot; des ingénieurs de la transition le &amp;quot;pourquoi&amp;quot; des philosophes. Chez Kant, la façon la plus rapide de répondre à cette question est de suivre l&#39;impératif catégorique : &amp;quot;Agis toujours de façon à ce que la maxime qui préside à ton action soit universalisable.&amp;quot; Au niveau individuel, faut-il arrêter de prendre l&#39;avion ? Aller voter ? Se déplacer à vélo plutôt qu&#39;en voiture ? Réduire drastiquement sa consommation de viande ? À toutes ces questions, l&#39;impératif catégorique de Kant permet de répondre par l&#39;affirmative.&lt;/p&gt;
+&lt;p&gt;La troisième question enfin, &amp;quot;Que m&#39;est-il permis d&#39;espérer ?&amp;quot;, renvoie pour Kant à la religion, mais je propose aujourd&#39;hui de rattacher cette question plutôt à la philosophie politique. C&#39;est la question qui permet de négocier avec le réel et avec le niveau collectif, une fois que j&#39;ai identifié ce que je peux connaître et ce que je dois faire. C&#39;est dans ce cadre par exemple qu&#39;on pourra interroger la pertinence du vote utile.&lt;/p&gt;
+&lt;p&gt;Pour conclure, je précise que l&#39;exercice que nous venons de faire avec Kant aurait pu être fait avec d&#39;autres philosophes, d&#39;autres écoles de pensée, qui chacune aurait apporté un éclairage différent, et à mon sens tout aussi essentiel.&lt;/p&gt;
+&lt;h2&gt;Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a &lt;a href=&quot;https://www.youtube.com/watch?v%3DP-qOurzN_Gs&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633207000&amp;amp;usg=AOvVaw2-pih--0RR0wXXr6k7_kXj&quot;&gt;flower&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/9/greenwashing.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Il y a de nombreux candidats pour cette rubrique greenwashing. Mais un champion sort clairement du lot. Il s’agit de &amp;quot;&lt;a href=&quot;https://fuelforplanet.com/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633208000&amp;amp;usg=AOvVaw1ZCJlQOon5yvqdBcO1_TC_&quot;&gt;Fuel for the planet&lt;/a&gt;&amp;quot;, la station essence qui compense les émissions du carburant. Bah oui, plus c’est gros, mieux ça passe. Les gueux ont le sens (ou l’essence ?) de l’humour : “Nous sommes le 1er réseau français de station-service qui fait le plein de sens”.&lt;/p&gt;
+&lt;p&gt;Et si vous en voulez encore, l’association Pour un réveil écologique a lancé &lt;a href=&quot;https://twitter.com/ReveilEcolo/status/1465983714530369536&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633208000&amp;amp;usg=AOvVaw3vPLkLj4EyuIkPXVoK5Gqi&quot;&gt;son calendrier de l’avent du greenwashing&lt;/a&gt;. À consommer sans modération.&lt;/p&gt;
+&lt;h2&gt;À ne pas manquer&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/9/bihouix.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;À quels enfants allons-nous laisser le monde ?&lt;/p&gt;
+&lt;p&gt;C’est le titre de l’&lt;a href=&quot;https://www.imagotv.fr/inscription/live-radio/techologie/636&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633210000&amp;amp;usg=AOvVaw2vhapk0qDwKPzQxv8Nujgx&quot;&gt;entretien avec Philippe Bihouix dans le cadre du 59è épisode de Techologie diffusé ce jeudi 9 décembre à 20h30 sur Imago&lt;/a&gt;, le média gratuit de la transition. Si ce nom vous est inconnu, Philippe Bihouix est ingénieur et ses sujets de prédilection sont les limites de la planète, l’épuisement des ressources minérales et énergétiques et les low tech. Auteur de « L&#39;Âge des low-tech », « Le bonheur était pour demain », « Quel futur pour les métaux ? » et co-auteur avec Karine Mauvilly de « Le désastre de l’école numérique, plaidoyer pour une école sans écran ». Venez discuter pendant et après l’épisode (inscription nécessaire).&lt;/p&gt;
+&lt;h2&gt;Avant de se quitter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://gauthierroussilhe.com/post/explication-empreinte.html&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633211000&amp;amp;usg=AOvVaw1Dv2g82v_tb-a49Pb26co6&quot;&gt;Explications sur l&#39;empreinte environnementale du secteur numérique&lt;/a&gt; par Gauthier Roussilhe.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://bertrandkeller.info/2021/11/17/frameworkJS-contresens/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633212000&amp;amp;usg=AOvVaw0MptpKjTkYaqHXd0xs4B5M&quot;&gt;Les FrameWork JS ce n’est pas (forcément) pour tout le monde&lt;/a&gt;, une réflexion de Bertrand Keller sur le gaspillage et les choix irraisonnés dans le développement frontend.&lt;/li&gt;
+&lt;li&gt;Un &lt;a href=&quot;https://boavizta.org/blog/empreinte-de-la-fabrication-d-un-serveur&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633213000&amp;amp;usg=AOvVaw2Jtintmd7iiGxfUCVAL0eT&quot;&gt;article très complet sur l’évaluation de l’empreinte environnementale de la fabrication d’un serveur&lt;/a&gt; par &lt;a href=&quot;http://boavizta.org/&quot;&gt;boavizta.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fsfe.org/activities/upcyclingandroid/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633214000&amp;amp;usg=AOvVaw3RRdUaL8rCgzKHf0djw-_P&quot;&gt;Upcycling Android&lt;/a&gt; avec une &lt;a href=&quot;https://media.fsfe.org/w/kGvs3JNADvvQfkC1dR9FGr&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633214000&amp;amp;usg=AOvVaw1gQHCOUTmbDRNoMrxVXQdD&quot;&gt;jolie vidéo explicative sur l’obsolescence induite par Android&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lowww.directory/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633215000&amp;amp;usg=AOvVaw0rAVkzY-mOPVRSgz2muH5z&quot;&gt;Lowww&lt;/a&gt;, c’est une sélection des plus beaux sites “low-tech”.&lt;/li&gt;
+&lt;li&gt;En Estonie, des &lt;a href=&quot;https://twitter.com/UrbanFoxxxx/status/1466782775244111872&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633215000&amp;amp;usg=AOvVaw0egUMKhN5J7ttXmwLyhTSH&quot;&gt;robots livreurs patinent dans la neige&lt;/a&gt; en boucle infinie. Zut alors, ils seront sans doute mal notés par des consommateurs impatients.&lt;/li&gt;
+&lt;li&gt;Il va falloir que les pays émergents apprennent à &lt;a href=&quot;https://twitter.com/xaviergorce/status/1461647095392256005?s%3D21&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633216000&amp;amp;usg=AOvVaw1s2MCy2FnysObfwoQcRYgZ&quot;&gt;fabriquer nos smartphones plus proprement&lt;/a&gt;. Faites un effort les pauvres, diantre !&lt;/li&gt;
+&lt;li&gt;En tant qu&#39;utilisateur, je veux prouver que je ne suis pas un robot &lt;a href=&quot;https://twitter.com/shituserstory/status/1459148103517364233?s%3D21&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633217000&amp;amp;usg=AOvVaw2i9GgmKletm-eI9CHY5CQ3&quot;&gt;en entraînant un robot à devenir moins un robot&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Où va l’argent du plan de relance ? Par exemple &lt;a href=&quot;https://acteurspublics.fr/articles/drones-ia-et-realite-augmentee-au-menu-des-experimentations-de-letat&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633217000&amp;amp;usg=AOvVaw3MqE2NQ1_wnDPSQkLYTtrj&quot;&gt;dans les drones, l’IA et la réalité augmentée&lt;/a&gt; qui sont au menu des expérimentations de l’État. Réjouissant.&lt;/li&gt;
+&lt;li&gt;Les &lt;a href=&quot;https://gizmodo.com/top-gas-exporters-say-theyre-victims-of-cancel-culture-1848073862&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1638912633218000&amp;amp;usg=AOvVaw2EyCJrOKfGaaZema50zOK1&quot;&gt;principaux exportateurs de gaz se disent victimes de la &amp;quot;Cancel Culture&amp;quot;&lt;/a&gt;. Calimero n’a qu’à bien se tenir, y’a de la concurrence.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Prenez soin de vous et de vos futurs DEEE, très bonnes et sobres fêtes de fin d’année et à très vite !&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Supprimer un e-mail, c’est renoncer.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>On n&#39;arrête pas le progrès ?</title>
+		<link href="https://techologie.net/episodes/58-on-narrete-pas-le-progres/"/>
+		<updated>2021-11-25T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/58-on-narrete-pas-le-progres/</id>
+		<content type="html">Philosophe de formation, Fanny Verrax est enseignante, chercheuse indépendante et consultante auprès de différentes institutions, dont le Ministère de la Transition écologique. Co-auteure du livre « Quelle éthique pour l’ingénieur ».</content>
+	</entry>
+	
+	<entry>
+		<title>Face aux crises, la technologie fait-elle partie de la solution ?</title>
+		<link href="https://techologie.net/episodes/57-face-aux-crises-la-technologie-fait-elle-partie-de-la-solution/"/>
+		<updated>2021-11-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/57-face-aux-crises-la-technologie-fait-elle-partie-de-la-solution/</id>
+		<content type="html">Frédéric Sitterlé est Directeur Général de HETIC, une école qui forme des experts aux métiers de la tech et du numérique. Nous allons parlé du rôle des formations d&#39;ingénieurs quant aux enjeux actuels, environnementaux, sociaux, sociétaux.</content>
+	</entry>
+	
+	<entry>
+		<title>Au-delà des impacts environnementaux directs du numérique</title>
+		<link href="https://techologie.net/episodes/56-au-dela-des-impacts-environnementaux-directs-du-numerique/"/>
+		<updated>2021-10-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/56-au-dela-des-impacts-environnementaux-directs-du-numerique/</id>
+		<content type="html">Françoise Berthoud est ingénieure de recherche en informatique au CNRS, membre et ancienne directrice du GDS, groupement de service EcoInfo « Pour une informatique éco-responsable ».</content>
+	</entry>
+	
+	<entry>
+		<title>Une souris verte...</title>
+		<link href="https://techologie.net/newsletter/8/"/>
+		<updated>2021-10-14T00:00:00Z</updated>
+		<id>https://techologie.net/newsletter/8/</id>
+		<content type="html">&lt;h2&gt;La newsletter green, super green&lt;/h2&gt;
+&lt;p&gt;Hello. Nous espérons que vous avez terminé la lecture des &lt;a href=&quot;https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/&quot;&gt;3949 pages du dernier rapport du GIEC&lt;/a&gt; (vous avez le droit de vous limiter au résumé, hein !). S’il vous reste un peu de force, nous vous souhaitons une bonne lecture de ce 8è numéro de la newsletter, fruit d’une veille collective de la communauté Techologie.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/8/image2.png&quot; alt=&quot;Infographie low tech&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Infographie « &lt;a href=&quot;https://fr.wikipedia.org/wiki/Low-tech#/media/Fichier:Infographie_Low-tech_1600x900.jpg&quot;&gt;Les low-tech ou l&#39;art du techno-discernement&lt;/a&gt; » selon Arthur Keller et Émilien Bournigal (octobre 2021).&lt;/p&gt;
+&lt;h2&gt;1024 nuances de green&lt;/h2&gt;
+&lt;p&gt;En Chine, &lt;a href=&quot;https://equalocean.com/news/2021070616439&quot;&gt;les stations 5G consomment 3 fois plus que les stations 4G&lt;/a&gt; selon le directeur de Wireless and Terminal Department of China Mobile Research Institute. On nous aurait menti ?&lt;/p&gt;
+&lt;p&gt;Les fans d’Apple &lt;a href=&quot;https://fr.finance.yahoo.com/actualites/monde-naura-iphone-13-%C3%A0-074848704.html&quot;&gt;n’auront pas tous leur iPhone 13 à temps&lt;/a&gt; pour les fêtes de fin d’année. La cause ? La pénurie de puces électroniques. C’est sans doute un mal pour un bien, car le dernier iPhone, en plus de porter malheur (13, vous suivez ?), va surtout écoper d’un très très très mauvais indice de réparabilité car il est quasi… &lt;a href=&quot;https://youtu.be/8s7NmMl_-yg&quot;&gt;irréparable&lt;/a&gt; (vidéo).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.bortzmeyer.org/conso-electrique-moyenne.html&quot;&gt;Indiquer la consommation énergétique par requête a-t-il un sens ?&lt;/a&gt; Stéphane Bortmeyer questionne la quantification par opération unitaire : un envoi d’e-mail, une recherche sur Google… Et donne quelques indices sur là où il faut aller chercher des économies d’échelle : la publicité en ligne, la surveillance de masse, la fabrication des matériels, réduire la consommation de réseau ou de ressources matérielles et rendre les applications et sites webs plus sobres.&lt;/p&gt;
+&lt;p&gt;Des associations d&#39;organisations et entreprises belges, françaises, allemandes et néerlandaises dont le Cigref &lt;a href=&quot;https://www.cigref.fr/wp/wp-content/uploads/2021/10/08102021_CP_Empreinte-environnementale-et-securite-des-logiciels-Microsoft_FINAL.pdf&quot;&gt;alertent Microsoft sur sa politique d&#39;obsolescence planifiée&lt;/a&gt; et les coûts indirects liés aux mises à jour de sécurité.&lt;/p&gt;
+&lt;p&gt;Conception de service numérique : &lt;a href=&quot;https://bertrandkeller.info/2021/10/06/accessibilite-eco-conception/&quot;&gt;l’Accessibilité devrait être un pré-requis&lt;/a&gt; à l’engagement de toute démarche d’Éco-conception.&lt;/p&gt;
+&lt;p&gt;Le Conseil constitutionnel avait censuré, cet été, une disposition visant à confier à l&#39;ARCEP des pouvoirs pour réguler le numérique, à travers un baromètre sur l&#39;empreinte environnementale. &lt;a href=&quot;https://www.numerama.com/tech/741090-le-gendarme-des-telecoms-aura-peut-etre-son-sifflet-pour-reguler-leffet-du-numerique-sur-le-climat.html&quot;&gt;Une nouvelle proposition de loi vise à corriger le tir&lt;/a&gt;. D’ailleurs, la même Arcep &lt;a href=&quot;https://www.arcep.fr/actualites/les-communiques-de-presse/detail/n/environnement-051021.html&quot;&gt;a présenté le 5 octobre un point d’étape&lt;/a&gt; sur les dernières avancées et les travaux en cours « pour un numérique soutenable ».&lt;/p&gt;
+&lt;p&gt;« Pourquoi river les enfants à des machines dès leur plus jeune âge ? » &lt;a href=&quot;https://reporterre.net/Mais-pourquoi-s-obstiner-a-numeriser-l-ecole&quot;&gt;écrit Philippe Bihouix&lt;/a&gt;, en précisant qu’il ne s’agit pas d’être technophobe mais de faire preuve de « techno-discernement ».&lt;/p&gt;
+&lt;h2&gt;L&#39;entretien&lt;/h2&gt;
+&lt;p&gt;Entretien exclusif avec un smartphone abandonné dans un tiroir, soudainement rallumé pour voir s’il marche encore, bien sûr après l’avoir dépoussiéré.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Smartphone, comment vas-tu ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Et bien écoute ça va très bien, merci. Le niveau de batterie a atteint 10%, souhaitez vous passer en mode économie d’énergie ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hop, voilà tu es branché, ça va mieux ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Une mise à jour du système d’exploitation est disponible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ok, on fera la mise à jour plus tard. Qu’as tu fait pendant tout ce temps dans le tiroir ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bah rien et justement, merci de poser la question. Tu aurais pu me donner ou me vendre à quelqu’un qui aurait besoin de moi, au lieu de me laisser croupir ici. Je te signale qu’une grande majorité de la pollution de mon existence a déjà été générée, à ma fabrication. Et me laisser à l’abandon c’est un gaspillage, alors que je suis un produit de haute technologie, 500 fois plus puissant qu’une vulgaire Nintendo Game Boy.&lt;/p&gt;
+&lt;p&gt;Notification : “David Vincent souhaite être votre ami”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Je supprime Instagram, ça fera de la place. Te sens-tu plus léger ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Notification : “Bernard Tapie est mort”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Raaaahhhh ! Stop !&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Faut savoir, c’est bien toi qui a activé toutes ces notifications, non ? Je ne me sens pas plus léger, je rame grave. J’ai une épée de Damoclès au-dessus de l’écran : l’obsolescence induite par l’évolution de mon système d’exploitation et de toutes ces applications installées qui ne fonctionnent plus.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Oh mais il y a les photos de nos vacances en 2015 !&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Si tu tenais vraiment à tes photos, tu aurais dû les récupérer, voire en imprimer quelques-unes !&lt;/p&gt;
+&lt;p&gt;Notification: “Achète du pain stp, bisous”&lt;/p&gt;
+&lt;h2&gt;Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a flower&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/8/image1.jpeg&quot; alt=&quot;Souris Microsoft&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Une souris verte, qui ne courait pas dans l’herbe mais qui trempait dans l’eau ! Microsoft a sorti une souris réalisée avec du plastique recyclé récupéré des océans. Son nom ? “Ocean Plastic Mouse”. Ça ne sauvera sans doute pas les tortues dans les océans, mais c’est une belle opportunité verte pour Microsoft et son bilan RSE (Responsabilité sociétale des entreprises).&lt;/p&gt;
+&lt;h2&gt;À ne pas manquer&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/8/atari.jpeg&quot; alt=&quot;Ecran Atari&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Un certain Frans Bos a acheté un ordinateur Atari ST lors de sa sortie en 1985. Comme il n’y avait pas de logiciel disponible pour gérer un terrain de camping à l’époque, il en a écrit un spécifiquement à cet effet. 36 ans plus tard, &lt;a href=&quot;https://www.geeksaresexy.net/2021/10/01/this-1985-atari-st-computer-is-still-being-used-daily-at-a-campg&quot;&gt;il est toujours utilisé&lt;/a&gt; ! Mieux, il n’a même jamais été en panne.&lt;/p&gt;
+&lt;p&gt;Cela rappelle un épisode moins heureux (pour les voyageurs), en novembre 2015 lorsque &lt;a href=&quot;https://www.lemonde.fr/pixels/article/2015/11/11/une-panne-informatique-a-l-aeroport-d-orly-liee-a-windows-3-1_4807479_4408996.html&quot;&gt;la panne du logiciel météo d’Orly a cloué au sol de nombreux avions&lt;/a&gt;. Ce logiciel fonctionnait avec le système d’exploitation Windows 3.1, sorti en 1992.&lt;/p&gt;
+&lt;h2&gt;Avant de se quitter&lt;/h2&gt;
+&lt;p&gt;Un outil permet de voir &lt;a href=&quot;https://datavis.europeandatajournalism.eu/obct/connectivity/#third&quot;&gt;les niveaux de connectivité en Europe&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Quelqu’un a mesuré la réduction de l’empreinte environnementale du numérique dû à la panne mondiale de quelques heures de la world company FacebookInstagramWhatsapp ?&lt;/p&gt;
+&lt;p&gt;La startup nation qui voit émerger des projets &amp;quot;inutiles&amp;quot; n&#39;a rien d&#39;une fatalité. Une autre manière d&#39;innover est possible. Pour sauver la planète, &lt;a href=&quot;https://www.maddyness.com/2021/10/06/sauver-planete-abolir-liberte-entreprendre/&quot;&gt;faut-il abolir la liberté d’entreprendre ?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Montée des eaux : des images d’aujourd&#39;hui et &lt;a href=&quot;https://picturing-our-future.netlify.app/&quot;&gt;des images saisissantes d’un futur à +3 ou +4°C&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Interrogation écrite la semaine prochaine sur ce que dit Gaël Musquet dans ce dernier épisode de Techologie : “&lt;a href=&quot;https://www.imagotv.fr/podcasts/techologie/55&quot;&gt;Se préparer aux catastrophes naturelles et technologiques&lt;/a&gt;”. Franchement ça vaut le coup d’investir 1 heure et 7 minutes de son temps !&lt;/p&gt;
+&lt;p&gt;Prenez soin de vous et de vos smartphones et à bientôt !&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Cet e-mail n’est pas encore propulsé par de l’hydrogène vert.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Se préparer aux catastrophes naturelles et technologiques</title>
+		<link href="https://techologie.net/episodes/55-se-preparer-aux-catastrophes-naturelles-et-technologiques/"/>
+		<updated>2021-10-05T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/55-se-preparer-aux-catastrophes-naturelles-et-technologiques/</id>
+		<content type="html">Gaël Musquet est un hacker citoyen, un fervent ambassadeur des logiciels libres et open source notamment OpenStreetMap. Il met les technologies au service de la prévention des risques naturels et pour une meilleure résilience face aux chocs.</content>
+	</entry>
+	
+	<entry>
+		<title>C&#39;est reparti !</title>
+		<link href="https://techologie.net/newsletter/7/"/>
+		<updated>2021-09-23T00:00:00Z</updated>
+		<id>https://techologie.net/newsletter/7/</id>
+		<content type="html">&lt;h2&gt;La newsletter green, super green&lt;/h2&gt;
+&lt;p&gt;Coucou. Nous espérons que vous avez passé un bel été sans évacuation de camping pour cause de feu de forêt. Nous vous souhaitons une bonne lecture de ce 7ème numéro, fruit d’une veille collective de la communauté Techologie.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/7/image.jpg&quot; alt=&quot;Street-art représentant des enfants qui extraient des iphones du sol&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Street-art de &lt;a href=&quot;https://www.eduardorelero.com/&quot;&gt;Eduardo Relero&lt;/a&gt; devant une boutique Apple, en 2016&lt;/p&gt;
+&lt;h2&gt;1024 nuances de green&lt;/h2&gt;
+&lt;p&gt;À trop s’occuper de gaz à effet de serre et d’équivalence CO2, on omet que le numérique consomme énormément de ressources générant des pollutions très graves, mais loin, très loin de chez nous. C’est à lire dans l’étude &amp;quot;&lt;a href=&quot;https://arxiv.org/pdf/2011.02839.pdf&quot;&gt;Chasing Carbon: The Elusive Environmental Footprint of Computing&lt;/a&gt;&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Anaëlle Beignon est une designer française qui a étudié la marginalisation des utilisateurs d&#39;appareils obsolètes dans le cadre de la numérisation des services publics suédois, et c’est passionnant : &lt;a href=&quot;https://anaellebeignon.fr/design-for-obsolete-devices.html&quot;&gt;Design for Obsolete Devices&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Gilles Babinet, co-président du Conseil national du numérique, n’est pas pour moins utiliser la technologie. Il pense au contraire qu’il faut l’utiliser davantage car “&lt;a href=&quot;https://www.wedemain.fr/dechiffrer/le-numerique-est-indispensable-pour-arriver-a-une-societe-decarbonee/&quot;&gt;le numérique est indispensable pour arriver à une société décarbonée&lt;/a&gt;”. La preuve ? Pas une étude, non, juste l’expérience personnelle : grâce à la mise en place d’un “chauffage intelligent” dans son appartement, il a diminué sa facture de chauffage de 60 %. Plus besoin, donc, du gazoduc Nord Stream 2 ?&lt;/p&gt;
+&lt;p&gt;Bouygues lance son application &lt;a href=&quot;https://www.igen.fr/app-store/2021/09/mon-empreinte-smartphone-lapp-de-bouygues-pour-moins-consommer-125211&quot;&gt;Mon empreinte smartphone&lt;/a&gt; pour “vous rendre plus sobre”. Pas question de remettre en question le renouvellement aberrant des terminaux et le marketing qui va avec. Ici, on se concentre sur la consommation réseau. On retourne faire pipi sous la douche.&lt;/p&gt;
+&lt;p&gt;Quel est le coût environnemental d’une &lt;a href=&quot;https://www.theverge.com/2021/1/27/22253162/iphone-users-total-number-billion-apple-tim-cook-q1-2021&quot;&gt;mise à jour d’iOS&lt;/a&gt;, le système d’exploitation des iPhones ? Plus d’un milliards d’iPhones sont actifs dans le monde. Pour une mise à jour qui pèse pour chaque iPhone 4,7 GO générerait 32 000 tonnes équivalent CO2. Pour chaque mise à jour des iPhones, il faudrait planter plus de 3 millions d’arbres ! Pour l’instant, les forêts brûlent.&lt;/p&gt;
+&lt;p&gt;Une tribune dans le Monde a fait couler beaucoup d’eau pour refroidir les datacentres en surchauffe par les réactions véhémentes sur les réseaux sociaux : “&lt;a href=&quot;https://twitter.com/ehooge/status/1435195883449163779&quot;&gt;Créer une écologie du démantèlement&lt;/a&gt;”. On a discuté avec certains auteurs de cette tribune, Alexandre Monnin et Emmanuel Bonnet &lt;a href=&quot;https://techologie.net/episodes/47-strategie-et-design-pour-lanthropocene&quot;&gt;de fermeture et desinnovation dans cet entretien pour Techologie&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;L&#39;entretien&lt;/h2&gt;
+&lt;p&gt;Consultante dans le domaine de la transition énergétique et de la lutte contre le changement climatique, &lt;strong&gt;Sandra Hounkonnou&lt;/strong&gt; s’investit depuis un peu plus d’un an sur son temps libre en tant qu’experte bénévole auprès de la fondation &lt;a href=&quot;https://solarimpulse.com/&quot;&gt;Solar Impulse&lt;/a&gt;. Nous sommes allés à sa rencontre pour en savoir plus sur ce projet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Peux-tu nous dire ce qu’est le projet « 1000 solutions » de Solar Impulse ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Un projet formidable lancé par Bertrand Piccard ! Après avoir bouclé le tour du monde en avion solaire, il s’est lancé un challenge de taille : prouver aux décideurs du monde entier qu’écologie pouvait rimer avec profit. Comment ? En dénichant et en labellisant 1000 solutions à la fois viables, profitables et durables. Il existe aujourd’hui une multitude de technologies, produits, ou services qui sont bénéfiques pour l’environnement…mais parfois certaines d’entre elles ne sont pas éprouvées techniquement, ou ne sont pas viables financièrement. La force du label Solar Impulse, c’est qu’il prend en compte non seulement le côté durable des solutions, mais également leur réplicabilité et leur rentabilité ! L’objectif est de montrer que c’est tout à fait possible de répondre aux défis environnementaux avec des solutions qui marchent et qui sont aussi rentables financièrement…et il y a désormais plus de 1000 exemples à l’appui pour le prouver.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment es-tu arrivée à être bénévole pour cette initiative et quel a été ton rôle, quel genre de projets as-tu accompagné ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Je n’avais jamais entendu parler de la Fondation Solar Impulse avant d’assister au discours d’ouverture de Bertrand Piccard lors du salon ChangeNOW 2020. Je l’ai trouvé très optimiste : au lieu de se focaliser sur la crise environnementale, il était axé sur les solutions…Cela m’a vraiment parlé et m’a tout de suite donné envie de m’engager en tant qu’experte bénévole auprès de Solar Impulse. Quel est mon rôle dans tout ça ? Évaluer les solutions candidates à la labellisation pour déterminer si elles répondent ou non aux différents critères techniques, financiers et économiques définis par la Fondation.&lt;/p&gt;
+&lt;p&gt;Ce que je trouve passionnant dans ce projet, c’est la diversité des solutions proposées. Il peut s’agir aussi bien de technologies, de produits, ou de services, et les solutions peuvent provenir de start-ups comme de grandes entreprises. Sans compter qu’elles peuvent concerner des secteurs aussi variés que celui de l’eau, de l’énergie, de la construction, de la mobilité, de l’industrie et de l’agriculture…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment éviter que ces initiatives ne tombent dans le techno-solutionnisme, autrement dit comment éviter de penser que les solutions technologiques seront salvatrices ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Quelle que soit la nature des solutions, il faut savoir prendre du recul et partir du principe qu’il n’existe pas de solution miracle. Parfois, à première vue, certaines solutions peuvent sembler extraordinaires… mais quand on prend la peine de creuser un peu, on se rend compte qu’elles soulèvent d’autres problématiques. Il est primordial de prendre en compte l’ensemble des impacts environnementaux et surtout de raisonner sur l’ensemble du cycle de vie pour ne pas se contenter de déplacer des impacts : le jeu en vaut-il vraiment la chandelle si ma solution permet de faire économies d’énergie tout en dégradant par ailleurs significativement la qualité de l’eau ? si je réduis de moitié les émissions de gaz à effet de serre liées à mon process de fabrication mais que je fais faire 3 fois le tour du monde à mon produit? Il faut toujours se poser la question du véritable coût environnemental qui se cache derrière toutes ces technologies, et s’assurer qu’on ne génère pas finalement des impacts supplémentaires par rapport à des alternatives plus classiques …&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment peut-on s’engager en tant qu’expert auprès de Solar Impulse ? Et vois-tu d’autres initiatives à recommander à des personnes qui souhaiteraient s’engager sur ces sujets ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Il suffit de remplir un dossier sur le site de la Fondation en indiquant ses domaines d&#39;expertise et ses années d&#39;expérience. Un certain nombre de prérequis sont demandés par Solar Impulse pour rejoindre le programme : parler anglais, avoir au moins 5 ans d’expérience, un profil plutôt technique ou académique, et surtout un fort intérêt pour les Objectifs du Développement Durable ! Une fois la demande validée, une formation à la méthodologie d’évaluation est proposée.&lt;/p&gt;
+&lt;p&gt;Et sinon, au-delà de Solar Impulse, je recommande très fortement l’initiative de Time for the Planet, également axée sur les solutions… &lt;a href=&quot;https://www.time-planet.com/fr&quot;&gt;Time for the Planet&lt;/a&gt; permet de sélectionner des innovations qui feront la différence pour la planète en s’appuyant sur l’intelligence collective ! Pour le coup, les évaluateurs sont beaucoup plus nombreux et il y a une multitude de manières de s’engager en tant que bénévole pour soutenir cette belle initiative !&lt;/p&gt;
+&lt;h2&gt;Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a flower&lt;/h2&gt;
+&lt;p&gt;Greenwashing : comment le reconnaître ou l’éviter ? &lt;a href=&quot;https://represente.org/greenwashing-comment-le-reconnaitre-et-leviter/&quot;&gt;Un article qui liste les marqueurs de l&#39;éco-blanchiment&lt;/a&gt;. Utile !&lt;/p&gt;
+&lt;h2&gt;À ne pas manquer&lt;/h2&gt;
+&lt;p&gt;Aurore Stephant, ingénieure géologue minier, spécialisée dans les risques environnementaux et sanitaires des filières minérales et travaillant au sein de l’association SystExt (Systèmes extractifs et environnements) a livré lors d’une webconférence pour l’Institut du Numérique Belgique des éléments sur les dépendances du numérique à l’extraction minière. A voir absolument : Webconférence “&lt;a href=&quot;https://www.youtube.com/watch?v=QW9udH0vwlE&quot;&gt;Promesses de dématérialisation et matérialité minérale&lt;/a&gt;” (youtube).&lt;/p&gt;
+&lt;p&gt;Quelques informations très partiels issus de cette présentation :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Il faut prendre conscience de la matérialité et de la finitude.&lt;/li&gt;
+&lt;li&gt;Les quantités annuelles de métaux à extraire d&#39;ici 2050 : 3 à 10 fois supérieur au niveau actuel !&lt;/li&gt;
+&lt;li&gt;La quantité de métaux produits dans les 35 prochaines années doit dépasser tout ce que l&#39;humanité a produit depuis l&#39;antiquité.&lt;/li&gt;
+&lt;li&gt;Les complexes miniers sont tellement gigantesques que l’être humain a du mal à les maîtriser, en attestent les accidents et les déversements de boues polluées.&lt;/li&gt;
+&lt;li&gt;Les contraintes et les règles sur le secteur minier sont largement insuffisantes même en Europe !&lt;/li&gt;
+&lt;li&gt;Le développement du numérique et la transition énergétique ne sont pas les seules causes de l’accélération de la demande en extraction de minerais. La première cause est le développement des pays émergents.&lt;/li&gt;
+&lt;li&gt;Le numérique est le seul secteur dont les éléments utilisés sont très diversifiés. Certains éléments sont des substrats d’autres éléments exploités de façon principale. Donc forte dépendance.&lt;/li&gt;
+&lt;li&gt;L’indicateur gaz à effet de serre n’est pas suffisant pour qualifier l’extraction minière : considérer de la même importance les enjeux humains, sociaux et environnementaux.&lt;/li&gt;
+&lt;li&gt;Principales solutions recommandées : sobriété, réduire la quantité de contenu métallique, durabilité, développer le recyclage, prévoir en amont dès la conception l’usage de matières recyclées et la recyclabilité en fin de vie.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Avant de se quitter&lt;/h2&gt;
+&lt;p&gt;Une première étude de l’Ademe qui utilise des données &lt;a href=&quot;https://negaoctet.org/&quot;&gt;NegaOctet&lt;/a&gt; vient de sortir : &lt;a href=&quot;https://librairie.ademe.fr/dechets-economie-circulaire/4886-evaluation-des-impacts-environnementaux-de-l-edition-virtuelle-2020-des-assises-de-l-economie-circulaire.html&quot;&gt;la comparaison des impacts environnementaux d&#39;un événement&lt;/a&gt; réalisé en présentiel ou à distance.&lt;/p&gt;
+&lt;p&gt;Lorsque les services publics numériques deviennent intermittents pour répondre aux crises climatique et écologique : &lt;a href=&quot;http://nosalgorithmes.fr/en-monde-degrade/&quot;&gt;en mo(n)de dégradé&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;L’Allemagne veut imposer un délai minimum de &lt;a href=&quot;https://www.clubic.com/smartphone/actualite-383042-l-allemagne-veut-imposer-un-delai-minimum-de-7-ans-avant-la-fin-du-support-logiciel-d-un-smartphone.html&quot;&gt;7 ans avant la fin du support logiciel d’un smartphone&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Des &lt;a href=&quot;https://www.clubic.com/pro/entreprises/apple/actualite-374303-des-mises-a-jour-de-securite-continueront-d-etre-disponibles-pour-ios-14-meme-apres-la-sortie-d-ios-15.html&quot;&gt;mises à jour de sécurité continueront d’être disponibles pour iOS 14&lt;/a&gt;, même après la sortie d’iOS 15.&lt;/p&gt;
+&lt;p&gt;L’enfer du web d’aujourd’hui c’est dans “&lt;a href=&quot;https://how-i-experience-web-today.com/&quot;&gt;How I experience web today&lt;/a&gt;”.&lt;/p&gt;
+&lt;p&gt;Perché dans l’espace : Jeff Bezos demande que &lt;a href=&quot;https://twitter.com/thehill/status/1417582096135110659?s=20&quot;&gt;toutes les industries polluantes soient déplacées dans l&#39;espace&lt;/a&gt; pour lutter contre le changement climatique.&lt;/p&gt;
+&lt;p&gt;Pour finir, si vous ne l’aviez pas encore vu ou écouté, Valérie Masson-Delmotte, paléoclimatologue revient sur le dernier rapport du GIEC chez le média &lt;a href=&quot;https://youtube.com/watch?v=9X4bV9fYkfs&amp;amp;feature=share&quot;&gt;Thinkerview&lt;/a&gt; ou bien chez le podcast &lt;a href=&quot;https://www.presages.fr/blog/2021/valerie-masson-delmotte&quot;&gt;Présages&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prenez soin de vous et de vos smartphones et à dans 2 semaines !&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nous ne compensons pas les émissions CO2 de cet e-mail.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Sciences comportementales et transition écologique</title>
+		<link href="https://techologie.net/episodes/54-sciences-comportementales-et-transition-ecologique/"/>
+		<updated>2021-09-14T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/54-sciences-comportementales-et-transition-ecologique/</id>
+		<content type="html">Laurianne Vagharchakian est chercheuse en sciences comportementales. Son travail consiste à mieux prendre en compte le comportement humain afin de mieux façonner les politiques publiques. Par exemple, comment adapter nos comportements face au réchauffement climatique ?</content>
+	</entry>
+	
+	<entry>
+		<title>Introduction to Climate Justice</title>
+		<link href="https://techologie.net/episodes/53-introduction-to-climate-justice/"/>
+		<updated>2021-07-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/53-introduction-to-climate-justice/</id>
+		<content type="html">In this podcast, we talk and learn about Climate Justice with Richard Kim and Yang Hong from the community Work on Climate.</content>
+	</entry>
+	
+	<entry>
+		<title>L&#39;éthique dans le design</title>
+		<link href="https://techologie.net/episodes/52-ethique-dans-le-design/"/>
+		<updated>2021-07-05T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/52-ethique-dans-le-design/</id>
+		<content type="html">Mellie Laroque est UX researcher et Karl Pineau, doctorant en sciences de l&#39;information et de la communication coprésident l&#39;association Designers Éthiques.</content>
+	</entry>
+	
+	<entry>
+		<title>Marées noires de données, des clics et déclic</title>
+		<link href="https://techologie.net/newsletter/6/"/>
+		<updated>2021-05-26T00:00:00Z</updated>
+		<id>https://techologie.net/newsletter/6/</id>
+		<content type="html">&lt;h2&gt;La newsletter green, super green&lt;/h2&gt;
+&lt;p&gt;Mais pas plus green qu’une plante qui émerge d’un tas de sous. Ça pousse dans du liquide, pas besoin d’arroser.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/6/image2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Bonjour ! Nous vous souhaitons une bonne lecture de ce 6ème numéro de notre newsletter collaborative, fruit d’une veille collective de la communauté Techologie.&lt;/p&gt;
+&lt;h2&gt;1024 nuances de green&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Elon Musk souffle le chaud et le froid sur le bitcoin.&lt;/strong&gt; Après avoir annoncé en mars dernier la possibilité de s’offrir une voiture électrique Tesla en bitcoin, &lt;a href=&quot;https://www.01net.com/actualites/elon-musk-retropedale-sur-le-bitcoin-et-suspend-l-achat-de-tesla-en-cryptomonnaie-2042664.html&quot;&gt;Elon Musk rétropédale&lt;/a&gt; (de frein). Le cours de la cryptomonnaie a aussitôt chuté de 9%. L’entrepreneur-colonisateur-de-l’espace justifie cette décision pour des questions écologiques. Le bitcoin, très énergivore, étant “miné” essentiellement en Chine, dont l’électricité est issue en majorité du charbon. Genre, Elon ne savait pas ? Il nous prend pour des jambons ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L’impératif de la sobriété.&lt;/strong&gt; L’institut Rousseau, think tank situé à gauche, s’intéresse aux impacts environnementaux du numérique dans un rapport intitulé “&lt;a href=&quot;https://www.institut-rousseau.fr/face-au-poids-croissant-du-numerique-limperatif-de-sobriete/&quot;&gt;Face au poids croissant du numérique : l’impératif de  sobriété&lt;/a&gt;”. Les auteurs formulent 29 propositions pour réduire ces impacts allant de la taxe des équipements numériques à l’import, à une meilleure traçabilité des matériaux, à une gestion plus contraignante du recyclage ou encore à l’incitation au réemploi. Comme pour la Convention Citoyenne pour le Climat, l’institut préconise également que le déploiement de la 5G fasse l’objet d’un moratoire.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Green code.&lt;/strong&gt; Accenture, GitHub, Microsoft et ThoughtWorks lancent la &lt;a href=&quot;https://greensoftware.foundation/&quot;&gt;Green Software Foundation&lt;/a&gt; avec la Linux Foundation pour “placer le développement durable au cœur de l&#39;ingénierie logicielle”. Cette fondation s’est donnée comme objectif d’aider l&#39;industrie du numérique à réduire les émissions de gaz à effet de serre de 45% d’ici 2030, en conformité avec l&#39;accord de Paris sur le climat. Pour cela, les acteurs concernés souhaitent créer un écosystème, des normes, des outils et des bonnes pratiques de développement de “logiciels écolos”. La fondation veut également répandre ces bonnes pratiques par le biais d&#39;ambassadeurs, de formations et de certifications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Réemploi et licorne en colère.&lt;/strong&gt; Cédric O jubile. Une nouvelle licorne française est née ! Et c’est &lt;a href=&quot;https://www.lemonde.fr/economie/article/2021/05/18/la-start-up-francaise-back-market-leve-276-millions-d-euros-et-se-valorise-a-plus-de-1-milliard-de-dollars_6080561_3234.html&quot;&gt;Back Market&lt;/a&gt;, la marketplace dédiée au réemploi qui rafle la mise, avec une levée de fonds de 276 millions d’euros pour atteindre une valorisation à plus de 1 milliard de dollars (oui les licornes, ça se compte en $$). Par contre, Back Market n&#39;est pas content, mais pas du tout. Dans un article de blog, les fondateurs expliquent “&lt;a href=&quot;https://story.backmarket.fr/pourquoi-on-na-pas-tout-a-fait-prevu-de-sortir-le-champagne-malgre-une-levee-de-fonds-de-276-millions-deuros/11547/&quot;&gt;pourquoi ils n’ont pas tout à fait prévu de sortir le champagne&lt;/a&gt;”. La cause ? Un projet du gouvernement de redevance sur la copie privée qui s’appliquerait sur les équipements reconditionnés, “une menace sans précédent sur le modèle économique des reconditionneurs français” selon Back Market.&lt;/p&gt;
+&lt;h2&gt;L’entretien&lt;/h2&gt;
+&lt;p&gt;Coline Didierest co-fondatrice de &lt;a href=&quot;https://socialdeclik.com/&quot;&gt;Social Declik&lt;/a&gt;. Avec Charlotte Lischer, elles se sont lancées le défi de faciliter la vie des freelances qui souhaitent donner plus de sens à leur travail au quotidien. Nous sommes allés à sa rencontre pour en savoir plus sur ce projet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Peux-tu nous parler de ton parcours et ce qui t’a amené à lancer Social Declik ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Après quelques années en finance de marché, à l’étranger, j&#39;ai eu l&#39;envie de m&#39;investir dans l’ESS, l&#39;économie sociale et solidaire. C&#39;est pourquoi je suis rentrée en France pour mieux connaître cet écosystème. En voyant mes amis freelances développeurs qui refusaient des missions dans des grands groupes pour préférer collaborer avec des structures engagées, j&#39;ai eu envie de les aider à trouver des missions.Charlotte a principalement travaillé dans le conseil en transformation digitale, surtout pour des grands comptes. On s&#39;est rencontrées toutes les deux quand on cherchait justement à mettre plus de sens dans notre job. En plein confinement, l&#39;une à Rennes, l&#39;autre à Aix-en-Provence, on a été mises en relation via un programme Make Sense et la magie a opéré ! Comme quoi, la crise qu&#39;on traverse permet parfois aussi des rencontres fructueuses !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Concrètement, qu&#39;est-ce que c’est Social Declik ? Quels avantages pour les freelances ? Quels avantages pour les sociétés de l’ESS ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Social Declik, c&#39;est une communauté de freelances engagés ! Notre objectif est d&#39;aider les freelances de la tech à mieux comprendre l&#39;univers de l&#39;ESS puis de trouver des missions dans des structures engagées pour accélérer la transformation digitale de ces dernières. Que ce soit par notre programme qui donne toutes les clés pour trouver des missions dans l&#39;ESS ou avec notre communauté Social Declik, l&#39;idée c&#39;est de susciter le partage et l&#39;apprentissage, le tout dans une atmosphère fun et bienveillante.Pour les structures de l&#39;ESS, notre service est gratuit. Ils nous expliquent leurs besoins et on déniche la perle rare parmi nos Declikers. Ils peuvent bien sûr nous reverser une contribution volontaire du montant qu&#39;ils estiment acceptable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quel est votre modèle économique ? Quels objectifs de croissance à moyen et long terme ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nous avons plusieurs sources de revenus : notre programme Social Declik, notre abonnement et les contributions volontaires des freelances et des acteurs de l&#39;ESS quand il y a un “match”. Notre objectif après plusieurs mois de POC (proof of concept) est double : agrandir notre communauté de “Freelance For Good” tout en gardant une taille humaine pour soigner la relation et permettre à un maximum de freelances de trouver des missions à impact grâce à notre programme. Notre ambition est d&#39;être un acteur reconnu comme un partenaire de la transformation digitale pour les acteurs de l&#39;ESS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Penses-tu que les gens de la tech ont un rôle important à jouer dans la transition écologique ? Si oui, pourquoi se limiter aux freelances ? Imaginez-vous des solutions pour aider les sociétés de l’ESS à recruter ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La transition écologique ne concerne pas que le digital, mais la filière numérique fait partie des secteurs à transformer d&#39;autant que les usages vont encore augmenter dans le futur. On a décidé de se concentrer sur ce secteur parce que c&#39;est celui qu&#39;on connaît, de là qu&#39;on vient. Quant aux freelances, aujourd&#39;hui, ils sont nombreux, en augmentation, isolés et au travers de leurs différentes missions, ce sont des pollinisateurs d&#39;un numérique responsable et engagé. La notion de communauté engagée pour trouver de l&#39;élan par le collectif nous semblait être une bonne idée. En adoptant une approche &amp;quot;Colibri&amp;quot;, on évite ainsi l&#39;inertie qu&#39;il y a souvent dans les grands groupes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Penses-tu que la transition pourra se faire sans transformer les grands groupes ? Ne penses-tu pas que les talents de la tech ont aussi un rôle à jouer dans cette transformation ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On est tout à fait d&#39;accord avec ça. On pense d&#39;ailleurs développer une offre qui permettrait aux freelances de polliniser le numérique responsable dans les grandes entreprises, de plus en plus soucieuses, elles aussi, de l&#39;impact écologique de leurs pratiques digitales. Mais chut, à ce stade, on ne peut pas en dire plus !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sur votre site vous affichez la parité homme-femme parmi vos membres. Est-ce un objectif ou bien une réalité ? Comment pensez-vous tenir cet objectif dans la durée dans un contexte global de la tech très loin de la parité ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aujourd&#39;hui, la parité est une réalité au sein de notre communauté. Le fait qu&#39;on soit deux fondatrices doit aider à attirer les femmes pourtant moins nombreuses dans le secteur. On a encore un effort à faire pour être globalement plus inclusif dans notre contenu et rendre notre site accessible à tous, dont les personnes en situation de handicap. C&#39;est dans notre To Do !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment imaginez-vous que votre initiative pourrait contribuer à la réduction de l’impact du numérique sur l’environnement ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On espère d&#39;une part participer à l&#39;essor du numérique responsable en proposant des formations sur ces sujets aux freelances de notre communauté, ce sont eux qui ont un rôle important pour réduire cet impact. D&#39;autre part, on aide les structures à prendre conscience des externalités négatives du numérique par nos ateliers de sensibilisation. Prendre conscience de l&#39;impact environnemental du numérique et rappeler que le numérique est un moyen et non une fin en soi sont pour nous des sujets primordiaux.&lt;/p&gt;
+&lt;h2&gt;Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a &lt;a href=&quot;https://www.youtube.com/watch?v%3DP-qOurzN_Gs&quot;&gt;flower&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/6/image1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Charmante ville de 24 000 habitants près de Bordeaux, Le Bouscat propose pour sa “Fête des Jardins 2021” une exposition “&lt;a href=&quot;https://twitter.com/villedubouscat/status/1380807770891563010&quot;&gt;Les arbres dans la ville&lt;/a&gt;” en affichant &lt;strong&gt;des photos d’arbres remarquables de la commune sur... des panneaux publicitaires&lt;/strong&gt;. Malaise. Prochaine édition : que les arbres tweetent et que leur fil twitter soit affiché sur des écrans digitaux ?&lt;/p&gt;
+&lt;h2&gt;À ne pas manquer&lt;/h2&gt;
+&lt;p&gt;Dans son rapport d’activité annuel, la CNIL, Commission nationale de l&#39;informatique et des libertés, souhaite travailler sur le lien entre protection des données et les impacts environnementaux (&lt;a href=&quot;https://www.cnil.fr/fr/la-cnil-publie-son-rapport-dactivite-2020&quot;&gt;voir page 122 du rapport&lt;/a&gt;). La CNIL prône d’ores et déjà un RGPD sous l&#39;angle de la sobriété numérique. Le LINC, le laboratoire d&#39;innovation numérique de la CNIL secoue le cocotier de la donnée : “Les paradoxes posés par le développement des blockchains, le mythe du big data et ses conséquences sur l’écologie des données, portent en eux des risques comparables aux « &lt;a href=&quot;https://linc.cnil.fr/donnees-et-environnement-comment-prevenir-les-marees-noires-du-xxie-siecle&quot;&gt;marées noires&lt;/a&gt; » pétrolières”. Ça promet !&lt;/p&gt;
+&lt;h2&gt;Avant de se quitter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/jake_hanrahan/status/1395462622816899076?s%3D21&quot;&gt;À Ramallah, l’armée Israélienne lance des gaz lacrymogènes via des drones&lt;/a&gt; (vidéo dystopique). L’innovation au service du progrès ?&lt;/li&gt;
+&lt;li&gt;La société pétrolière &lt;a href=&quot;https://themarkup.org/news/2021/04/13/how-facebooks-ad-system-lets-companies-talk-out-of-both-sides-of-their-mouths&quot;&gt;Exxon diffuse des pubs différentes sur Facebook&lt;/a&gt; selon que les utilisateurs soient du côté conservateur (pétition pour déréguler l&#39;énergie) ou celui des démocrates (projet de capture carbone).&lt;/li&gt;
+&lt;li&gt;Un futur bel exemple d’effet rebond pour la 5G : après le règne du MP3 compressé, &lt;a href=&quot;https://www.lemonde.fr/economie/article/2021/05/17/la-hi-fi-de-papa-deferle-sur-internet_6080394_3234.html&quot;&gt;la musique “haute-fidélité” déferle sur Internet&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://academia.hypotheses.org/31293&quot;&gt;De la paperasse à la numérasse&lt;/a&gt;, le numérique n’a pas forcément permis de gagner du temps.&lt;/li&gt;
+&lt;li&gt;Les États-Unis relancent leurs mines et l’Europe est à la traîne. &lt;a href=&quot;https://www.novethic.fr/amp/actualite/environnement/ressources-naturelles/isr-rse/la-guerre-des-metaux-rares-fait-rage-et-c-est-l-environnement-qui-trinque-149805.html&quot;&gt;Guillaume Pitron, l’auteur de la guerre des métaux, est vent debout&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v%3DAL5tcWe7oLY&quot;&gt;Le numérique, un progrès qui nous rend vraiment plus heureux ?&lt;/a&gt; Le débat électrique (et des plombs qui sautent) entre Cédric O, secrétaire d’Etat chargé de la Transition numérique et François Ruffin, député la France Insoumise.&lt;/li&gt;
+&lt;li&gt;La réflexion sur l&#39;impact du tout digital fait bouger les lignes en entreprises : &lt;a href=&quot;https://lentreprise.lexpress.fr/rse-et-green-it-vers-un-numerique-un-peu-plus-responsable_2150290.html&quot;&gt;vers un numérique (un peu plus) responsable&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Critiques de la responsabilité sociale des entreprises (RSE) : &lt;a href=&quot;https://www.internetactu.net/a-lire-ailleurs/rse-la-mesure-au-detriment-de-limpact/?fbclid%3DIwAR0gi0QXAse8FuXL3LM454cFpHC0jnaWtd5PPlvhMueleuRyCPJC2La1Vh4&quot;&gt;la mesure au détriment de l’impact ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;L&#39;Institut Paris Région propose une étude comparative des &lt;a href=&quot;https://en.institutparisregion.fr/fileadmin/NewEtudes/000pack2/Etude_2609/NR__45_web1.pdf&quot;&gt;enjeux de l&#39;implantation urbaine des data centers&lt;/a&gt; à Dublin, Stockholm et Amsterdam.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://labodeledition.parisandco.paris/A-propos/Actualites/The-Good-Manager-un-projet-europeen-pour-encourager-la-mise-en-place-d-un-numerique-durable-et-inclusif-grace-a-une-approche-low-tech&quot;&gt;The Good Manager&lt;/a&gt;, un projet européen encourage la mise en place d’un numérique durable et inclusif grâce à une approche low tech.&lt;/li&gt;
+&lt;li&gt;Microsoft propose un module de formation en ligne et gratuit “&lt;a href=&quot;https://docs.microsoft.com/fr-fr/learn/modules/sustainable-software-engineering-overview/&quot;&gt;Les principes de l’ingénierie logicielle durable&lt;/a&gt;”. À prendre avec des pincettes.&lt;/li&gt;
+&lt;li&gt;Concevoir un web accessible et inclusif, par où commencer ? Des ressources pour concevoir des services utiles et utilisables à retrouver sur &lt;a href=&quot;https://design-accessible.fr/&quot;&gt;Design Accessible&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nous espérons que vous avez apprécié votre lecture. Pour nous donner un coup de pouce, &lt;a href=&quot;https://twitter.com/intent/tweet?text%3DJe%2520recommande%2520la%2520lecture%2520de%2520la%2520derni%25C3%25A8re%2520newsletter%2520de%2520Techologie%2520:%2520https://techologie.net/newsletter/6&quot;&gt;partagez-la sur le réseau au logo d’oiseau&lt;/a&gt;, sur un &lt;a href=&quot;https://www.linkedin.com/sharing/share-offsite/?url%3Dhttps://techologie.net/newsletter/6&quot;&gt;réseau des professionnels et des recruteurs&lt;/a&gt; ou sur celui de votre choix. C&#39;est peut-être un détail pour vous, mais pour nous, ça veut dire beaucoup.&lt;/p&gt;
+&lt;p&gt;Pour nous suggérer des améliorations, dites nous tout sur notre &lt;a href=&quot;https://framateam.org/techologie/&quot;&gt;framateam&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prenez soin de vous et de vos smartphones et à dans 2 semaines !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;N’imprimez cet e-mail que si nécessaire et seulement sur du papier recyclé.&lt;/strong&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>L&#39;écoconception ne suffit pas</title>
+		<link href="https://techologie.net/episodes/51-ecoconception-ne-suffit-pas/"/>
+		<updated>2021-05-25T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/51-ecoconception-ne-suffit-pas/</id>
+		<content type="html">Guillaume Mandil est enseignant chercheur en science pour l’ingénieur à l’Université Grenoble Alpes, enseignant du master Stratégie et Design pour l&#39;Anthropocène et membre de l’équipe INRIA STEEP depuis 2018. Il est également docteur en génie mécanique et génie industriel.</content>
+	</entry>
+	
+	<entry>
+		<title>Croissance verte en danger et éco-filtre</title>
+		<link href="https://techologie.net/newsletter/5/"/>
+		<updated>2021-05-13T00:00:00Z</updated>
+		<id>https://techologie.net/newsletter/5/</id>
+		<content type="html">&lt;h2&gt;La newsletter green, super green&lt;/h2&gt;
+&lt;p&gt;mais pas plus green que cette nouvelle technologie de capture du carbone :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/5/tweet.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;par &lt;a href=&quot;https://twitter.com/KetanJ0/status/1389532880163020801&quot;&gt;Ketan Joshi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bonjour les écolo-geeks. Nous vous souhaitons une bonne lecture de ce 5ème numéro de notre newsletter collaborative, fruit d’une veille collective de la communauté Techologie.&lt;/p&gt;
+&lt;h2&gt;1024 nuances de green&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Rien ne va plus pour la croissance verte.&lt;/strong&gt; C’est l’alerte donnée par un nouveau rapport de l’IEA, l’agence internationale de l&#39;énergie, sur “&lt;a href=&quot;https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1620862743562000&amp;amp;usg=AOvVaw3YpFtsOevzdDD7J6WUuWHB&quot;&gt;le rôle des minéraux critiques dans les transitions vers les énergies propres&lt;/a&gt;”. Selon un des auteurs, &lt;a href=&quot;https://twitter.com/fbirol/status/1389807286735056896&quot;&gt;Fatih Birol&lt;/a&gt;, il y a “un décalage entre les ambitions climatiques du monde et la disponibilité des minéraux nécessaires à la réalisation de ces ambitions”. Pour lui, “les gouvernements doivent agir maintenant pour réduire les risques de volatilité des prix et de rupture d&#39;approvisionnement”. Pas question encore d’évoquer une quelconque sobriété, mais d’amplifier l’extractivisme.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/5/iea-minerals.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Green Tech toniqu&lt;/strong&gt;e &lt;strong&gt;pour la République&lt;/strong&gt;. L’État se met au vert côté matériel et prestations numériques en sortant son &lt;a href=&quot;https://ecoresponsable.numerique.gouv.fr/&quot;&gt;Guide pratique pour des achats numériques responsables&lt;/a&gt;. En version bêta et assez dru pour le moment, ce guide offre tous les éléments pour s’orienter vers une politique d’achat plus responsable. Glossaire, description des (éco)labels, rappel de la réglementation, fiches thématiques par famille d’achat, c’est une mine d’informations qui permet aux administrations de se poser les bonnes questions avant de passer à la caisse. Si ce guide est à destination des services de l’État, il reprend les bonnes pratiques qui sont amenées à être généralisées.&lt;/p&gt;
+&lt;h2&gt;L’entretien&lt;/h2&gt;
+&lt;p&gt;Entretien exclusif mais tout à fait fictif avec Elon Musk, ex patron de PayPal et actuel patron de Tesla et SpaceX entre autres.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vous venez d’annoncer lors de l’émission Saturday Night Live, être Asperger.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oui, c’est bien mon seul point commun avec Greta Thunberg. Je n’adhère pas du tout à son discours catastrophiste. Au contraire. Je prône l’optimisme. Lorsque j’ai découvert Internet en 1995, j’ai trouvé ça &lt;em&gt;amazing&lt;/em&gt; pour l’humanité. J’ai tout plaqué pour créer un business dans l’Internet. Et je suis devenu riche. En fait, on a énormément de solutions pour contrer le réchauffement climatique. Par exemple, moi, j’ai créé Tesla pour continuer de rouler toujours plus vite, toujours plus loin, mais de manière plus écologique. Et SpaceX, pour se barrer dans l’espace si ça foire.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vous êtes conscients que Mars, ces paysages rouges et désertiques et des températures moyennes de -63°C, ça ne fait rêver personne ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Non mais faut savoir. Sur Terre, on est fucked up, you know ? Soit on grille ici, soit on va voir ailleurs. Et puis Mars, c’est juste une étape. On va la terra-former, on a les solutions pour ça. Mais comme sur Terre, on aura vite fait de consommer toutes les ressources de Mars. Puis on ira coloniser une autre planète. Ainsi de suite. C’est l’histoire de l’humanité. Quand les européens se sentaient à l’étroit dans leur vieux continent dont les ressources s’épuisaient, ils ont fait pareil : coloniser l’Afrique, l’Amérique, etc. Et ils ont “terra-former” ces colonies en massacrant les rebelles et en défrichant les terres pour s’octroyer les ressources.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quelles relations avez-vous avec notre pays, la France ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;J’adore la France. You, french people, are funny. Vous êtes le pays des grèves, du minitel et de la chocolatine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;On dit pain au chocolat. Enfin, pas partout.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Voilà. Vous seriez prêts à manifester dans la rue pour un sujet aussi futile ! Je pense que chacun est libre de nommer cette viennoiserie comme il l’entend. Si je veux appeler cela un “chausson au chocolat”, qui m’en empêcherait ? Bref, j’adore la France. Il parait que chez vous, vous êtes inquiets de l’empreinte environnementale du numérique (rires). Aux United States of America, on voit ça comme un business, un business comme un autre. Et vous french people, vous voyez ça comme une menace. Et vous ne voulez pas de la 5G (fou rire).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quels sont vos projets en cours ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Le &lt;a href=&quot;https://www.rtl.fr/actu/sciences-tech/elon-musk-vend-des-lance-flammes-a-500-dollars-apres-une-blague-7792046821&quot;&gt;lance-flamme-chalumeau&lt;/a&gt; n’a clairement pas trouvé son public. On planche maintenant sur le lancement d’un hyperloop toothbrush, une brosse à dent supersonique et bien sûr connectée vous permettant de vous brosser les dents en moins de 10 secondes. C’est un gain de temps quotidien énorme ! Time is money. Ce temps gagné vous permettra par exemple de fonder des startups.&lt;/p&gt;
+&lt;h2&gt;Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a &lt;a href=&quot;https://www.youtube.com/watch?v%3DP-qOurzN_Gs&quot;&gt;flower&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/5/orange-eco-filter.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Orange et Publicis lancent un filtre Instagram et Facebook qui ambitionne de réduire l’empreinte environnementale des stories. Ce filtre modestement nommé &lt;a href=&quot;https://www.ladn.eu/adn-business/news-business/actualites-annonceurs/orange-publicis-filtre-photo/&quot;&gt;Eco-filter&lt;/a&gt; propose une réduction du nombre de pixels des photos et vidéos ce qui allège le poids de ces médias d’environ 20%. Le point positif c’est la sensibilisation du grand public sur l’impact environnemental des usages numériques. Cependant, compte tenu des activités d’Orange et de Publicis, c’est reporter encore une fois la responsabilité sur les utilisateurs, à coup de grande communication et &lt;a href=&quot;https://www.youtube.com/watch?v%3DTDo9jx_7q0U&quot;&gt;vidéo à l’appui&lt;/a&gt;. Tout cela pour un usage fort peu essentiel, voire futile. La vidéo se termine par ce message : “A little goes a long way”, un peu peut mener loin. Est-ce une invitation à aller utiliser de l’eco-filter en vacances à Bali ?&lt;/p&gt;
+&lt;h2&gt;À ne pas manquer&lt;/h2&gt;
+&lt;p&gt;Le numérique est loin d’être dématérialisé. Au contraire, on creuse, on creuse pour extraire les matières nécessaires. Et souvent dans des conditions inhumaines. Il faut le voir pour le croire. Un journaliste français en a fait l’expérience, &lt;a href=&quot;https://youtu.be/IPjur249dKg&quot;&gt;en filmant dans les mines de coltan au République Démocratique du Congo&lt;/a&gt;. Ironie du sort, les ouvriers, souvent très jeunes, utilisent leurs téléphones portables pour s’éclairer dans la mine.&lt;/p&gt;
+&lt;p&gt;Du côté de l’assemblage de nos joujoux numériques, pas mieux. Face à la dégradation catastrophique de leurs conditions de travail, les ouvriers de Wistron, un sous-traitant d’Apple en Inde, &lt;a href=&quot;https://www.greenit.fr/2021/05/04/emeutes-chez-wistron-un-revelateur-de-problemes-systemiques/&quot;&gt;ont saccagé leur usine&lt;/a&gt; en décembre dernier. De quoi rappeler les luddistes, ces ouvriers anglais du 19è siècle qui détruisaient les machines pour protéger leurs emplois.&lt;/p&gt;
+&lt;p&gt;Quelles solutions à ce désordre global ? Déserter et entrer en résistance par exemple. Ne ratez pas la 50è du podcast Techologie avec l’échange avec Romain Boucher : “&lt;a href=&quot;https://www.imagotv.fr/podcasts/techologie/50&quot;&gt;data sciences, techno-libéralisme et désertion de l’ingénierie&lt;/a&gt;”.&lt;/p&gt;
+&lt;h1&gt;Avant de se quitter&lt;/h1&gt;
+&lt;p&gt;C’est fin mai que la Commission du développement durable et de l’aménagement du territoire &lt;a href=&quot;https://www.nextinpact.com/article/45668/les-pistes-legislatives-pour-verdir-numerique&quot;&gt;examinera la proposition de loi visant à réduire l’empreinte environnementale du numérique en France&lt;/a&gt; adoptée le 12 janvier au Sénat.&lt;/p&gt;
+&lt;p&gt;Pas d’emplois sur une planète morte : &lt;a href=&quot;https://plus-jamais.org/2021/05/06/pas-d-emploi-sur-une-planete-morte/&quot;&gt;25 propositions pour “sauver le climat et créer des emplois”&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Les démarches adoptées en matière de numérique et d’Internet lorsqu’&lt;a href=&quot;https://100r.co/site/working_offgrid_efficiently.html&quot;&gt;on vit en autonomie sur un bateau&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Si vous êtes l’heureux propriétaire d’une voiture Tesla, vous pouvez utiliser l&#39;application mobile dédiée pour &lt;a href=&quot;https://twitter.com/Tesla/status/1366448694111973381?s%3D20&quot;&gt;faire fondre la neige sur votre voiture&lt;/a&gt; avant même de quitter la maison. Elle est pas belle la vie bas carbone ?&lt;/p&gt;
+&lt;p&gt;French Tech for the planet : &lt;a href=&quot;https://www.maddyness.com/2021/05/03/french-tech-20-startup-transition-ecologique/&quot;&gt;20 startups de la transition écologique&lt;/a&gt; sélectionnées et choyées par Cédric O et Barbara Pompili.&lt;/p&gt;
+&lt;p&gt;L&#39;ancienne équipe rédactionnelle de Science &amp;amp; Vie lance un nouveau magazine scientifique appelé &lt;a href=&quot;https://fr.ulule.com/epsiloon/&quot;&gt;Espiloon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;La maison brûle et nous regardons ailleurs. Cette citation de Jacques Chirac pourrait être le parfait résumé de ce très joli court-métrage... &lt;a href=&quot;https://www.imagotv.fr/courts-metrages/thermostat-6/film/1&quot;&gt;Thermostat 6&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;**Pour nous montrer que vous avez apprécié votre lecture et pour nous donner un coup de pouce, &lt;a href=&quot;https://twitter.com/intent/tweet?text%3DJe%2520recommande%2520la%2520lecture%2520de%2520la%2520derni%25C3%25A8re%2520newsletter%2520de%2520Techologie%2520:%2520https://techologie.net/newsletter/5&quot;&gt;partagez-la sur le réseau au logo d’oiseau&lt;/a&gt;, sur un &lt;a href=&quot;https://www.linkedin.com/sharing/share-offsite/?url%3Dhttps://techologie.net/newsletter/5&quot;&gt;réseau pro aux gens chelous&lt;/a&gt; ou sur celui de votre choix.&lt;/p&gt;
+&lt;p&gt;Pour nous suggérer des améliorations, dites nous tout sur notre &lt;a href=&quot;https://framateam.org/techologie/&quot;&gt;framateam&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prenez soin de vous et de vos smartphones et à dans 2 semaines !&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;N’imprimez cet e-mail qu’en heure creuse.&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Data sciences, techno-libéralisme et désertion de l’ingénierie</title>
+		<link href="https://techologie.net/episodes/50-data-sciences-techno-liberalisme-et-desertion-de-lingenierie/"/>
+		<updated>2021-05-11T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/50-data-sciences-techno-liberalisme-et-desertion-de-lingenierie/</id>
+		<content type="html">Romain est ingénieur, spécialisé dans les data sciences. Il a travaillé en tant que consultant data scientist pendant 3 ans, avant de démissionner en mars 2020. Il publie il y a quelques semaines une lettre ouverte ainsi qu’un rapport intitulé « D’un peu de lucidité sur les ravages du techno-libéralisme ».</content>
+	</entry>
+	
+	<entry>
+		<title>Beaucoup de techno solutionnisme et un poirson d’avril</title>
+		<link href="https://techologie.net/newsletter/4/"/>
+		<updated>2021-04-29T00:00:00Z</updated>
+		<id>https://techologie.net/newsletter/4/</id>
+		<content type="html">&lt;h2&gt;La newsletter green, super green&lt;/h2&gt;
+&lt;p&gt;mais pas plus green qu’une photo d’une planète au creux des mains. Kitsch.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/4/image1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://unsplash.com/photos/rdLERs3ZGgQ&quot;&gt;Photo par Bill Oxford sur Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bonjour les technophiles. Nous vous souhaitons une bonne lecture de ce quatrième numéro de cette newsletter collaborative, fruit d’une veille collective de la communauté Techologie.&lt;/p&gt;
+&lt;h2&gt;1024 nuances de green&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;La sobriété numérique&lt;/strong&gt;, &lt;a href=&quot;https://www.lesechos.fr/idees-debats/cercle/opinion-la-sobriete-numerique-un-concept-en-trompe-loeil-1306136&quot;&gt;un concept en trompe-l&#39;œil&lt;/a&gt; ? C’est l’avis de Godefroy De Bentzmann, président du syndicat professionnel Syntec Numérique. Selon lui, “la croissance va reposer de plus en plus sur la numérisation de l&#39;économie. Tenter de limiter ou de réduire ce processus est illusoire. Imaginer se passer du numérique, ou même l&#39;enfermer dans des quotas, serait comparable à tenter de priver le monde d&#39;électricité”. Tremblez, jeunes entrepreneurs. Pour De Bentzmann, il faut “développer des services technologiques bas carbone et durables grâce notamment à la conception d&#39;infrastructures moins consommatrices d&#39;énergie et des composants plus durables”. Nous sommes d&#39;accord. Mais attention, la technologie ne fait pas tout. Justement, le monsieur surenchérit : “grâce aux nouvelles technologies, à l&#39;IA et l&#39;informatique quantique, nous serons ainsi en mesure de développer des schémas de modélisation de l&#39;empreinte environnementale”. On baigne en plein solutionnisme technologique, discours assez classique et prédominant.&lt;/p&gt;
+&lt;p&gt;“Car il s&#39;agit de ne pas condamner l&#39;innovation sous prétexte de sobriété”, confusion encore une fois tout à fait classique entre innovation technologique et progrès. Le président du Syntec continue de marteler à la grosse massue dans vos petites têtes : “il faut bien avoir en tête que le numérique a un impact positif sur l&#39;environnement même si ces externalités positives n&#39;ont pas encore été précisément mesurées”, on ne sait pas mesurer les externalités positives, mais c’est forcément le cas, car c’est mon petit doigt qui l’a dit. “Via l&#39;exploitation des data pour assurer le suivi précis de l&#39;utilisation des ressources naturelles, notamment agricoles (...) utiliser des objets connectés dans les villes permet de maîtriser davantage la consommation énergétique”. Nous attendons donc avec impatience le bilan (analyse en cycle de vie) de ces projets “smart” pour évaluer effectivement les “externalités positives” !&lt;/p&gt;
+&lt;p&gt;Justement, dans un avis “&lt;a href=&quot;https://www.strategie.gouv.fr/publications/responsabilite-numerique-entreprises-plateforme-rse-publie-un-deuxieme-avis-enjeux&quot;&gt;Responsabilité numérique des entreprises, enjeux environnementaux et sociaux&lt;/a&gt;” publié le 20 avril par la Plateforme RSE de France Stratégie, il est question de... &lt;strong&gt;sobriété numérique comme action clé&lt;/strong&gt; pour agir sur ces impacts. Il est même recommandé de faire de la responsabilité numérique des entreprises (RNE) un pilier de la responsabilité sociétale des entreprises (RSE).&lt;/p&gt;
+&lt;h2&gt;L’entretien&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Marion Crosnier&lt;/strong&gt; est fondatrice de &lt;a href=&quot;https://lesciboulettes.org/&quot;&gt;l’écolieu des Ciboulettes&lt;/a&gt; à Chelles. Elle a longtemps travaillé dans le milieu des startups numériques.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quelle était ta vie d&#39;avant et comment as-tu eu le déclic écologique ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Avant, j&#39;habitais dans Paris, j&#39;étais salariée dans une start-up, j&#39;avais des postes à responsabilité, je travaillais beaucoup et gagnais très bien ma vie. Et puis je n&#39;ai plus voulu perdre ma vie à la gagner...&lt;/p&gt;
+&lt;p&gt;Le déclic écologique n&#39;a pas été instantané. Il a débuté par la voie humaniste et non environnementale. Étant manager, je me posais beaucoup de questions sur la façon de fonctionner en pyramide, sur ces rôles dominants de N+1, 2, 3... J&#39;ai lu “Le syndrome du poisson lune” d&#39;Emmanuel Druon (le patron de Pocheco) puis je me suis formée à la &lt;a href=&quot;https://www.colibris-lemouvement.org/projets/luniversite-colibris/mooc-gouvernance-partagee&quot;&gt;gouvernance partagée avec le Mooc des Colibris et de l&#39;UDN&lt;/a&gt;, et j&#39;ai testé une autre façon de faire avec mes équipes.&lt;/p&gt;
+&lt;p&gt;C&#39;est avec ma sœur ensuite, en travaillant le projet des Ciboulettes, qu&#39;on a compris que prendre soin de soi, des autres et de la planète était en fait des branches du même arbre.&lt;/p&gt;
+&lt;p&gt;J&#39;ai alors eu mon déclic environnemental en lisant Petit Manuel de Résistance Contemporaine de Cyril Dion. Ça a été un tel choc... J&#39;ai mis plusieurs semaines à m&#39;en remettre. Seule l&#39;action est salvatrice une fois que l&#39;on sait. Et pour être capable de savoir, je crois qu&#39;il faut être disposé à agir, sinon on tombe dans le piège de la dissonance cognitive. Notre cerveau s&#39;arrange, oublie ou lutte.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quel est ton quotidien et tes projets aujourd&#39;hui ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aujourd&#39;hui, j&#39;ai créé et je gère un éco-lieu à Chelles, en Seine et Marne. Je suis la responsable bénévole du lieu et de la programmation pour toute la partie associative, tous les ateliers pour enfants et adultes, nos partenariats avec les commerces et autres associations engagées du territoire.&lt;/p&gt;
+&lt;p&gt;Et puis je gère la partie commerciale, les Team-Buildings écoresponsables et formations à la transition écologique pour les entreprises. C&#39;est cette partie qui fait vivre l&#39;ensemble.&lt;/p&gt;
+&lt;p&gt;Heureusement, beaucoup d&#39;intervenants m&#39;aident et travaillent avec moi pour faire vivre ce lieu de liens, où l&#39;on peut faire des rencontres, expérimenter des activités écologiques, pour se mettre en chemin dans la joie et la bonne humeur (yoga, permaculture, fresques du climat, dîners collaboratifs, couture, cuisine végétarienne, ramassage de déchets...).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quel regard portes-tu a posteriori sur le milieu des startups technologiques et celles qui se revendiquent comme contribuant à l&#39;économie circulaire ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Un regard franchement dur parce que je pense que les moyens déterminent la fin. Je ne comprends pas que, pour un but environnemental, on applique un fonctionnement qui respecte peu les humains. Je ne comprends pas non plus qu&#39;on pilote ces entreprises avec le nez collé sur les indicateurs de croissance du chiffre d&#39;affaires. Alors que l&#39;écologie, i.e. la connaissance de notre maison, nous enseigne que nous vivons dans un monde fini. Quel message écologique peut porter une entreprise lorsque les valeurs de sobriété et de fraternité ne sont pas incarnées ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Que conseillerais-tu à toutes celles et ceux qui souhaitent s&#39;engager dans une redirection écologique ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Changer est très difficile. Ça ne se fait pas en un jour et sans douleur. Je conseille de se mettre en chemin demain, en faisant quelque chose, même ponctuellement, que l&#39;on aime et qui nous fasse du bien à nous, aux autres et à la planète. Si ça n&#39;est pas bon pour nous, les autres ou la planète, alors ça n&#39;est pas une bonne activité.&lt;/p&gt;
+&lt;p&gt;Je conseille aussi de s&#39;entourer de gens qui ont les mêmes envies. Arrêter de fumer, entouré de fumeur est quasi impossible. Entamer une transition écologique entouré de personnes dont ça n&#39;est pas l&#39;envie à ce moment-là est quasi impossible.&lt;/p&gt;
+&lt;p&gt;Faire des rencontres, partager, expérimenter, bref, se mettre en chemin en &amp;quot;faisant&amp;quot; est pour moi la seule clé d&#39;une transition écologique. En réalité, ça s&#39;appelle simplement vivre.&lt;/p&gt;
+&lt;p&gt;Pour en savoir plus : &lt;a href=&quot;https://waystoshift.com/marion-crosnier-fondatrice-ecolieu-ciboulettes/&quot;&gt;lire le témoignage de Marion sur Ways to shift&lt;/a&gt;.&lt;/p&gt;
+&lt;h1&gt;Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a &lt;a href=&quot;https://www.youtube.com/watch?v%3DP-qOurzN_Gs&quot;&gt;flower&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/4/image2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid%3D49844175&quot;&gt;Photo Accor par Maibp85 — Travail personnel, CC BY-SA 4.0&lt;/a&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0&quot;&gt;photo de Brune Poirson par Antoine Lamielle, CC BY-SA 4.0&lt;/a&gt;, via Wikimedia Commons&lt;/p&gt;
+&lt;p&gt;Celle à qui on doit la loi Anti-Gaspillage et Économie Circulaire et quelques avancées pour contribuer à la réduction de l’obsolescence des équipements et de l’impact environnemental du numérique notamment avec l’indice de réparabilité, Brune Poirson, &lt;a href=&quot;https://fr.wikipedia.org/wiki/Brune_Poirson%23Retour_dans_le_priv%25C3%25A9&quot;&gt;quitte son poste de députée&lt;/a&gt; pour s’investir pleinement dans le développement durable... du groupe hôtelier Accor. Vous voyez venir le projet de greenwashing ? Tant qu’elle reste en “accor” avec elle-même…&lt;/p&gt;
+&lt;p&gt;Pour ajouter de la vilénie à cette histoire, il y a aussi recours à une astuce pour que cela soit son suppléant qui prenne sa place à l’hémicycle et éviter ainsi la tenue d’une élection : le premier ministre a prolongé de six mois sa mission (fictive ?) consacrée à « l’éducation au développement durable ».&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Poirson d’avril&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;À ne pas manquer&lt;/h2&gt;
+&lt;p&gt;Concernant les risques sanitaires liés à la 5G, &lt;a href=&quot;https://www.anses.fr/fr/content/5g-pas-de-risques-nouveaux-pour-la-sant%25C3%25A9-au-vu-des-donn%25C3%25A9es-disponibles&quot;&gt;selon l’ANSES&lt;/a&gt; (Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail) il n’y a “pas de risques nouveaux pour la santé au vu des données disponibles”. Concernant le déploiement de la 5G dans la bande de fréquence 3,5 GHz, l’agence note que “des risques sanitaires nouveaux sont peu probables”. Pour la bande de fréquences autour de 26 GHz, l’ANSES ne peut encore conclure à l’existence ou non d’un risque pour la santé : “des expositions concernant les couches superficielles de l’organisme seraient d’un niveau probablement faible, mais les données sont insuffisantes”.&lt;/p&gt;
+&lt;p&gt;Pendant ce temps, plus de 100 entreprises françaises, dont de nombreuses startups tech, s’engagent &lt;a href=&quot;https://www.climateact.fr/&quot;&gt;pour mesurer et réduire leur empreinte carbone&lt;/a&gt;. Pour cela, elles souhaitentfaire leur bilan carbone (scopes 1, 2 et 3) d’ici la fin de l’année et s’engagent à réduire leurs émissions de CO2 après avoir communiqué sur leur bilan. Bien qu’un mouvement initié par une &lt;a href=&quot;https://www.lesechos.fr/finance-marches/banque-assurances/la-neobanque-shine-accelere-son-developpement-apres-son-rachat-par-societe-generale-1309038&quot;&gt;entreprise récemment rachetée par la Société Générale&lt;/a&gt; nous invite à rester attentifs au risque de greenwashing, saluons cette initiative qui a le mérite de mettre le sujet à l’agenda d’entreprises habituellement plus intéressées par leur croissance et leurs levées de fonds que par le changement climatique. À noter, un coup de projecteur sur plusieurs services en ligne français permettant de réaliser le fameux bilan carbone. N’oublions pas toutefois que &lt;a href=&quot;https://techologie.net/newsletter/3&quot;&gt;la neutralité carbone n’a pas de sens à l’échelle d’une entreprise&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;En parlant de neutralité carbone mondiale… Alors qu’il s’agit de l’objectif principal promu par le GIEC, trois climatologues anglais suggèrent dans un article commun que finalement, &lt;a href=&quot;https://theconversation.com/climate-scientists-concept-of-net-zero-is-a-dangerous-trap-157368&quot;&gt;la neutralité carbone mondiale est un “piège”&lt;/a&gt;. En somme, elle aurait laissé planer le “mirage” techno-solutionniste et aurait contribué à retarder l’action immédiate. Au gré des différentes étapes conceptuelles et politiques qui ont amené les “objectifs net zéro” de long terme à prendre une telle place dans les stratégies climatiques, les auteurs reconnaissent désormais avoir participé à cet état de fait. Ils évoquent avoir fait preuve d’un “dangereux manque de pensée critique” en laissant croire que les technologies de type “émissions négatives” comme la CSC (capture et séquestration du carbone) pouvaient être déployées à une échelle suffisante pour passer de +50 à -12 GtCO2e en quelques décennies. Ils décrivent une communauté scientifique comme aveuglée par ses modèles simplifiés de prospective. Visiblement, les auteurs sont verts, verts de rage. Ils exhortent désormais la communauté scientifique, pourtant déjà très dubitative de la faisabilité de la tenue des 1,5°C de l’Accord de Paris en 2015, à dépasser l’autocensure, avant de conclure : “le temps des vœux pieux est révolu”. Une lecture salutaire.&lt;/p&gt;
+&lt;h2&gt;Avant de se quitter&lt;/h2&gt;
+&lt;p&gt;Écoutes circulaires : déjà passés par Techologie, Agnès Crépet, Maël Thomas et Frédéric Bordage sont à écouter chez l’&lt;a href=&quot;https://standblog.org/blog/post/2021/02/26/Je-lance-un-podcast-l-Octet-Vert&quot;&gt;Octet Vert&lt;/a&gt;, le podcast de Tristan Nitot. Retrouvez également &lt;a href=&quot;https://anchor.fm/chlo-durantis/episodes/Agir-3-Allonger-la-dure-de-vie-de-nos-quipements-lectroniques-avec-Commown-ettn2v&quot;&gt;Adrien Montagut de Commown chez Radio Printemps&lt;/a&gt;, le podcast de l’écosyndicat Printemps Écologique.&lt;/p&gt;
+&lt;p&gt;L’Europe lance sa &lt;a href=&quot;https://futureu.europa.eu/?locale%3Dfr&quot;&gt;consultation citoyenne sur des thèmes comme le changement climatique ou la transformation numérique&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Une &lt;a href=&quot;https://twitter.com/AurelienBigo/status/1385609977516249092&quot;&gt;analyse sémantique de la &amp;quot;Stratégie de mobilité durable et intelligente&amp;quot;&lt;/a&gt; de la Commission Européenne. Il en ressort une surreprésentation des solutions technologiques et un “oubli” des leviers de sobriété.&lt;/p&gt;
+&lt;p&gt;La décision de Peugeot face à la pénurie de semi-conducteurs ? &lt;a href=&quot;https://www.lci.fr/conso/video-l-etonnante-decision-de-peugeot-face-a-la-penurie-de-semi-conducteurs-2183973.html&quot;&gt;Retour du compteur à aiguille&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Le &lt;a href=&quot;https://www.cable.co.uk/mobiles/worldwide-data-pricing/&quot;&gt;prix d’1 giga-octets&lt;/a&gt; de données mobile dans le monde. Cela va de 50$ en Guinée équatoriale pour les moins bien lotis jusqu’à 0,05$ pour Israël. La France est en bonne place avec le Go à 0,41$.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://berthub.eu/articles/posts/5g-elephant-in-the-room/&quot;&gt;La souveraineté des infrastructures télécom&lt;/a&gt; se pose lorsqu’il s&#39;agit d’utiliser du matériel Huawei pour la 5G.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://earth.google.com/web/@25.01034633,55.04628648,-3a,66146d,35y,0h,0t,0r/data%3DCjISMBIgNTQ0MGExNzMxYzI1MTFlYTk0NDM4YmI2ODk0NDUyOTciDG1haW5Ob1JhbmRvbQ&quot;&gt;Google Earth propose des “timelapses”&lt;/a&gt; qui permettent de visualiser le réchauffement climatique, la déforestation ou la croissance des villes (on ne vous apprend rien : les trois sont liés).&lt;/p&gt;
+&lt;p&gt;Les écoles vont produire de l’électricité ! Pas avec du jus de cerveaux, mais avec du soleil. Cela se passe aux Lilas, dans le 93, &lt;a href=&quot;https://www.leparisien.fr/seine-saint-denis-93/les-lilas-93260/les-lilas-demarrage-reussi-pour-la-centrale-solaire-27-04-2021-NPSMSNZ3ANGTJMQOGJPD6VWQE4.php&quot;&gt;grâce à des panneaux photovoltaïques&lt;/a&gt; installés sur les toits et financés par la coopérative citoyenne Electrons solaires.&lt;/p&gt;
+&lt;p&gt;Un article incompréhensible si nous étions toujours en 2019 : &amp;quot;&lt;a href=&quot;https://www.leparisien.fr/societe/sante/vaccination-anti-covid-a-sauvian-rosette-et-francois-pechent-des-rendez-vous-pfizer-pour-vous-16-04-2021-JLKRWQQW3VESLPQVDAIEASSRXA.php&quot;&gt;Rosette et François pêchent sur Doctolib des rendez-vous Pfizer pour vous&lt;/a&gt;&amp;quot;. Formidable !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nous vous donnons rendez-vous le mardi 11 mai&lt;/strong&gt; pour échanger lors d’une diffusion live sur Imago de l’épisode 50 de Techologie, “&lt;a href=&quot;https://www.imagotv.fr/live-radio/techologie/538&quot;&gt;Data sciences, techno-libéralisme et désertion de l’ingénierie&lt;/a&gt;” avec Romain Boucher. Tout un programme !&lt;/p&gt;
+&lt;p&gt;Pour nous montrer que vous avez apprécié votre lecture et pour nous donner un coup de pouce, &lt;a href=&quot;https://twitter.com/intent/tweet?text%3DJe%2520recommande%2520la%2520lecture%2520de%2520la%2520derni%25C3%25A8re%2520newsletter%2520de%2520Techologie%2520:%2520https://techologie.net/newsletter/4&quot;&gt;partagez-la sur le réseau au logo d’oiseau&lt;/a&gt;, sur un &lt;a href=&quot;https://www.linkedin.com/sharing/share-offsite/?url%3Dhttps://techologie.net/newsletter/4&quot;&gt;réseau pro aux gens chelous&lt;/a&gt; ou sur celui de votre choix.&lt;/p&gt;
+&lt;p&gt;Pour nous suggérer des améliorations, dites nous tout sur notre &lt;a href=&quot;https://framateam.org/techologie/&quot;&gt;framateam&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prenez soin de vous et de vos smartphones et à dans 2 semaines !&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;N’imprimez cet e-mail que sous la contrainte de votre manager.&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Réduire la fracture numérique, réutiliser du matériel</title>
+		<link href="https://techologie.net/episodes/49-reduire-la-fracture-numerique-reutiliser-du-materiel/"/>
+		<updated>2021-04-26T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/49-reduire-la-fracture-numerique-reutiliser-du-materiel/</id>
+		<content type="html">Nous allons à la rencontre de Camille Bardou, chef de projet lacollecte.tech et Victor Estienney, responsable national des opérations de Emmaüs Connect.</content>
+	</entry>
+	
+	<entry>
+		<title>Longévité des smartphones, des nouvelles de Fairphone, sortie de la matrice et neutralité carbone</title>
+		<link href="https://techologie.net/newsletter/3/"/>
+		<updated>2021-04-15T00:00:00Z</updated>
+		<id>https://techologie.net/newsletter/3/</id>
+		<content type="html">&lt;h2&gt;La newsletter green, super green&lt;/h2&gt;
+&lt;p&gt;mais pas plus green que The Green, un film d’horreur dans lequel vous êtes hanté par le fantôme d’une jeune fille qui fout vraiment la pétoche, tant que vous parlez “d’écologie digitale” et que vous vous contentez d’effacer vos e-mails.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/3/image2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Bonjour les bobos-écolos. Nous vous souhaitons une bonne lecture de ce troisième numéro de notre newsletter collaborative, fruit d’une veille collective de la communauté Techologie.&lt;/p&gt;
+&lt;h2&gt;1024 nuances de green&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://vous-netes-pas-seuls.org/wp-content/uploads/2021/04/Temoignage-Romain-Boucher.pdf&quot;&gt;Pourquoi j&#39;ai quitté « le job le plus sexy du XXIè siècle »&lt;/a&gt;, le témoignage techno-critique qui secoue le cocotier, de Romain Boucher, un data scientist démissionnaire et désabusé. Et si ça ne vous suffit pas, vous pouvez poursuivre en dévorant son rapport de 60 pages intitulé « &lt;a href=&quot;https://vous-netes-pas-seuls.org/wp-content/uploads/2021/04/Rapport-Romain-Boucher.pdf&quot;&gt;D&#39;un peu de lucidité sur les ravages du techno-libéralisme&lt;/a&gt; ». Ce n’est pas le premier du genre. De nombreux travailleurs du numérique sortent peu à peu de la matrice et se rassemblent comme l’association “&lt;a href=&quot;https://vous-netes-pas-seuls.org/&quot;&gt;Vous n’êtes pas seuls&lt;/a&gt;”.&lt;/p&gt;
+&lt;p&gt;FJG, un heureux possesseur d’un iphone 4s raconte ses &lt;a href=&quot;https://mamot.fr/@fjg/106037432824059087&quot;&gt;10 ans avec ce smartphone&lt;/a&gt; et le parcours du combattant à cause de l’obsolescence logicielle : “pour ceux qui en doutent, l&#39;électronique peut durer même avec quelques chutes et un plongeon de quelques secondes dans l&#39;eau”. “Le téléphone est plutôt lent, on ne va pas se le cacher. Reste que pour mon usage (navigation internet, messageries, mails, agenda, authentifications, partage de connexion) ça me suffit amplement”.&lt;/p&gt;
+&lt;p&gt;Le concept de “désinnover”, “désincuber”, comment rediriger des activités ou carrément les fermer (les stations de ski qui n’ont plus de neige), comment envisager déjà la fin du numérique ? &lt;a href=&quot;https://techologie.net/episodes/47-strategie-et-design-pour-lanthropocene&quot;&gt;On en parle avec Alexandre Monnin et Emmanuel Bonnet&lt;/a&gt; du Master Stratégie et design pour l’anthropocène. Et si vous en voulez encore, les copains de Oui Share complètent très bien l’épisode par un entretien avec Diego Landivar : “&lt;a href=&quot;https://soundcloud.com/frictionsnumeriques/entretien-avec-diego-landivar&quot;&gt;Patrons effondrés, comment renoncer ?&lt;/a&gt;”. De l’autre côté de l’Atlantique, on a discuté &lt;a href=&quot;https://soundcloud.com/techologie/48-sustainable-it-natalie-hollier-views-on-product-teams-cloud-and-it-for-green&quot;&gt;Sustainable IT avec Natalie Hollier&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;L’entretien&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Agnès Crépet&lt;/strong&gt; est développeuse chez Fairphone, elle s’occupe de longévité logicielle dans le monde des smartphones. Nous avions déjà échangé avec elle en septembre 2019, &lt;a href=&quot;https://techologie.net/episodes/18-un-smartphone-ethique-et-reparable&quot;&gt;épisode à écouter ici&lt;/a&gt;. Nous prenons de ses nouvelles et de l’actualité de Fairphone.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quels sont les succès et les difficultés rencontrés depuis notre entretien en 2019 ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nous avons lancé un nouveau téléphone, le &lt;a href=&quot;https://shop.fairphone.com/en/fairphone-3&quot;&gt;Fairphone 3&lt;/a&gt;, et des &lt;a href=&quot;https://shop.fairphone.com/en/fairphone-3-plus&quot;&gt;mises à jour logicielles et matérielles&lt;/a&gt; sur ce téléphone. Donc beaucoup de travail, mais nous avons réussi aussi à sortir une version récente d’&lt;a href=&quot;https://www.fairphone.com/en/2021/03/25/android9-fairphone2/&quot;&gt;Android sur Fairphone 2, un téléphone qui a 5,5 ans&lt;/a&gt;. On est très fiers de ce projet et on parle &lt;a href=&quot;https://www.youtube.com/watch?v%3DLcLmQp7ZdGU%26t%3D12s&quot;&gt;ici&lt;/a&gt; des challenges pour arriver à garantir cette longévité.&lt;/p&gt;
+&lt;p&gt;Outre les pièces, le logiciel est également un élément important garantissant la longévité des smartphones, les fournisseurs de puces, tels que Qualcomm, jouant un rôle clé dans le développement des logiciels. Or, pour développer des systèmes d’exploitation, Fairphone a dû travailler sans le support des fournisseurs de puces, rendant le processus de mise à jour du système d’exploitation plus compliqué. Mais on a réussi à surmonter cette difficulté : le Fairphone 2 a été lancé avec Android 5, il a ensuite été mis à niveau vers Android 6 puis Android 7.1 et est à présent sous Android 9, qui a récemment reçu la certification de Google. Fairphone a effectué deux mises à niveau Android sans le support de Qualcomm.&lt;/p&gt;
+&lt;p&gt;Dans les projets dont on est très fiers aussi il y a notre programme de prime au revenu minimum. 485 ouvriers de l’usine avec laquelle on travaille en Chine ont reçu une prime pouvant atteindre 1050 euros ; ce qui équivaut à plus de 4 mois de salaire supplémentaire, soit une augmentation de 30 % du salaire minimum légal en Chine.&lt;/p&gt;
+&lt;p&gt;Fairphone verse à présent aux ouvriers une prime de 1,85 dollars par Fairphone 3 et 3+ produit. Cette prime est versée en plus du salaire normal, afin de combler l’écart entre le salaire minimum chinois et le salaire dit de subsistance. Une première dans l’industrie donc, et l’exemple de création d’un modèle qui peut être facilement reproduit par le reste de l’industrie. Cette prime a de plus été augmentée au moment même où de nombreuses entreprises luttaient pour réduire leurs coûts en raison de la pandémie mondiale.&lt;/p&gt;
+&lt;p&gt;Avec la pandémie actuelle de Covid-19, les recherches menées en collaboration avec l’ONG chinoise “Facilitator” ont montré que le salaire de subsistance est encore plus important qu’avant la crise sanitaire, car la plupart des travailleurs ont subi une perte de revenus, principalement en raison de la diminution des heures supplémentaires et des revenus employeurs. C’est pourquoi Fairphone a aussi versé, en février et mars 2020, la prime de revenu de subsistance à certains ouvriers qui ne pouvaient pas se rendre à l’usine en raison des restrictions de déplacement imposées par le gouvernement, ce qui a permis de les soutenir pendant cette période difficile.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Au sujet de l&#39;indice de réparabilité, les petits fabricants comme Fairphone sont-ils défavorisés par rapport aux plus gros, lesquels ont plus de capacités d&#39;approvisionnement en pièces détachées ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Je pense que nous faisons tous face aux difficultés liées à l&#39;opacité de la chaîne d&#39;approvisionnement. C’est sûr qu’Apple a sûrement plus de poids que nous, mais il n’est pas encore vraiment commun dans l’industrie d’avoir cette garantie de disponibilité des pièces détachées. Je suis d’ailleurs très heureuse d’avoir des directives européennes et françaises qui vont dans le bon sens. On se bat sur cette problématique depuis des années avec certains &lt;a href=&quot;https://shop.fairphone.com/fr/fairphone-2-module-inferieur&quot;&gt;échecs&lt;/a&gt;mais on s&#39;améliore et &lt;a href=&quot;https://www.europarl.europa.eu/doceo/document/A-9-2020-0209_FR.html&quot;&gt;cette directive&lt;/a&gt; va je l&#39;espère nous aider !&lt;/p&gt;
+&lt;p&gt;La complexité de la chaîne d&#39;approvisionnement mondiale constitue un défi majeur. Faire de l&#39;électronique équitable implique de s&#39;attaquer à des problèmes complexes, mondialisés et qui ne peuvent être résolus du jour au lendemain. Notre mission est de démêler cette complexité, étape par étape. Il est primordial d’en comprendre le fonctionnement. Parce que plus nous en saurons, plus nous serons à même d’identifier et apporter des améliorations au long de la chaîne de production. Nous cartographions tous les différents matériaux, fournisseurs et sites de fabrication impliqués dans la création de notre téléphone (voir &lt;a href=&quot;https://www.fairphone.com/en/impact/source-map-transparency/&quot;&gt;la liste de nos fournisseurs&lt;/a&gt; sur notre site web). En plus de nos fabricants de premier niveau, nous avons maintenant cartographié tous les fournisseurs de composants de deuxième niveau et recherchons progressivement des fournisseurs de troisième et quatrième niveaux. En plus d&#39;accroître la transparence, nous utilisons ces informations pour dialoguer avec des fournisseurs individuels, établir des relations et proposer des solutions dans nos domaines d&#39;impact.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aujourd’hui le Fairphone est connu de quelques initiés, beaucoup moins du grand public. Comment convaincre une personne irréductible de l&#39;UX d’Apple, d&#39;acheter un Fairphone neuf plutôt qu&#39;un iPhone d&#39;occasion ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Avec Fairphone il n’y a pas que la volonté de prolonger la durée de vie des appareils mais il y a également le fait de penser aux gens qui fabriquent ce téléphone. Chaque fois que nous fabriquons un téléphone, nous voulons rendre l’industrie de l’électronique plus juste, que ce soit au travers de l’approvisionnement responsable en matériaux ou en travaillant sur le bien-être des travailleurs dans les usines d’assemblage en Asie. Nous partageons tous nos résultats librement et établissons de nouvelles normes pour l’ensemble du secteur. De ce point de vue, en achetant un Apple, l&#39;utilisateur ne contribue pas à transformer l’industrie électronique dans un sens qui va vers plus de transparence et plus d’actions concrètes pour améliorer les conditions de travail des personnes qui fabriquent le téléphone.&lt;/p&gt;
+&lt;p&gt;Fairphone c’est aussi un téléphone modulaire, si tu casses l&#39;écran ou si tu veux changer la caméra c’est très simple et tu peux le faire seul⸱e pour un prix accessible. Niveau OS, Fairphone est basé sur un Android standard, sans surcouche, donc ce n’est pas si compliqué à utiliser même pour quelqu’un qui vient du monde Apple.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quelle est la stratégie de développement et comment assurer une cohérence entre la volonté pour Fairphone de se développer en tant qu&#39;entreprise, impliquant des impacts sur l&#39;environnement, et la nécessité de préserver ce dernier ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;En 2019, le lancement du Fairphone 3 a été un tournant où nous avons commencé à évoluer en tant qu&#39;entreprise. Nous nous sommes concentrés sur la disponibilité des produits en intégrant plus de partenaires dans les pays existants tout en introduisant le Fairphone dans de nouveaux pays. Pour les ventes sur notre site Web, nous nous sommes concentrés sur l&#39;amélioration du parcours client, du marketing numérique à la boutique en ligne en passant par l&#39;après-vente. Nous nous sommes fixé comme objectif de vendre 42 000 exemplaires du Fairphone 3 en 2019 et nous avons atteint cet objectif. En 2020, nous nous sommes concentrés sur l&#39;augmentation de notre présence en ligne et de notre visibilité en magasin auprès de nos partenaires commerciaux et sur notre site Web. Nous avons lancé de nouvelles initiatives telles que la boutique en ligne au Royaume-Uni. On a vendu près de 100 000 Fairphone 3 aujourd’hui. En matière de communication, on élargit notre champ d&#39;action pour passer d&#39;un public “dark green” (ceux qui sont pleinement engagés et immergés dans le mode de vie “durable”) à des consommateurs plus “light green”.&lt;/p&gt;
+&lt;p&gt;Voilà pour la stratégie de développement commerciale mais le cœur de développement du projet ne change pas. Nos indices de performance ne sont absolument pas que la rentabilité financière. On est le seul fabricant dans l’électronique avec une certification &lt;a href=&quot;https://bcorporation.net/&quot;&gt;B-Corp&lt;/a&gt;, ce qui veut dire qu’on mesure notre succès sur d’autres critères qui incorporent des problématiques sociétales et environnementales : combien de temps les utilisateurs gardent leur fairphone ? Combien de minerais &amp;quot;équitables&amp;quot; intègre t-on ? Le nombre de partenaires industriels qui nous ont “suivi” ? On est également transparent sur ces résultats : on publie nos résultats sur tous ces aspects dans nos &lt;a href=&quot;https://impact.fairphone.com/&quot;&gt;impacts reports&lt;/a&gt;. Dans ce rapport, &lt;a href=&quot;https://impact.fairphone.com/scaling-our-impact/&quot;&gt;vous trouvez même ce que coûte le téléphone&lt;/a&gt;. Aussi nos bénéfices. Vous apprendrez par exemple qu’on fait 1% de profit, on vous laisse imaginer &lt;a href=&quot;https://www.techwalls.com/production-costs-of-smartphones/&quot;&gt;le “gap” avec d’autres fabricants&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a &lt;a href=&quot;https://www.youtube.com/watch?v%3DP-qOurzN_Gs&quot;&gt;flower&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/3/image1.png&quot; alt=&quot;Green Index&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;On avait l’habitude du greenwashing des entreprises, voici le greenwashing national ! Tout commence par un rapport (non scientifique) publié dans le MIT Technology Review : &lt;a href=&quot;https://mittrinsights.s3.amazonaws.com/GFI/Report2021.pdf&quot;&gt;The Green Future Index&lt;/a&gt;. Cocorico ! La France est classée 4ème pays le plus vert au monde sur 176 pays. Notre ancien ministre de l’écologie et des banquets fastueux &lt;a href=&quot;https://www.transitionsenergies.com/france-classee-4eme-pays-plus-vert-monde/&quot;&gt;s’est empressé de le tweeter en s’autocongratulant&lt;/a&gt; et en fustigeant les “professionnels de la protestation”.&lt;/p&gt;
+&lt;p&gt;Sauf qu’en regardant &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1ox44SX1IyS7nRlPtPsht5cyuWE29bLhidER2Ikji5TE/edit%23gid%3D674941145&quot;&gt;la construction de l’index en question&lt;/a&gt;, patatras : l’indice additionne des cocos et des abricots : émissions de GES nationales (et pas importées), “Clean innovation” (brevets “verts”, investissements transfrontaliers dans “l’énergie propre”, investissements privés dans la “foodtech”), “Climate policy” (contributions déterminées au niveau national, existence d’un marché carbone, volume d’investissement post-COVID) c’est à dire que plus vous faites de promesses, plus vous êtes bons ! Pas surprenant que le Canada, la France, la Norvège arrivent dans les 1er, et les pays comme le Ghana ou le Pérou dans les derniers. Lire à ce sujet &lt;a href=&quot;https://twitter.com/CelineGuivarch/status/1379831364640501764&quot;&gt;le débunk proposé par Céline Guivarch&lt;/a&gt;, membre du Haut Conseil pour le Climat et auteure pour le GIEC.&lt;/p&gt;
+&lt;h2&gt;Breaking news&lt;/h2&gt;
+&lt;p&gt;L’ADEME publie &lt;a href=&quot;https://www.ademe.fr/avis-lademe-neutralite-carbone&quot;&gt;son avis sur la “neutralité carbone”&lt;/a&gt;. Extrait : &amp;quot;La neutralité carbone n’a de sens qu’à l’échelle de la planète ou d’un État. Les acteurs  économiques, collectivités et citoyens ne peuvent ni devenir, ni se revendiquer neutres en carbone individuellement à leur seule échelle&amp;quot;. Nos amis les GAFAMs sont prévenus.&lt;/p&gt;
+&lt;h2&gt;Avant de se quitter&lt;/h2&gt;
+&lt;p&gt;Les groupes pétroliers et gaziers investissent faute de mieux dans le stockage du CO2 sous terre pour aider l’Union Européenne à atteindre la neutralité carbone d’ici à 2050. Une solution encore imparfaite qui leur permet tout de même d’encaisser de belles subventions. &lt;a href=&quot;https://www.lemonde.fr/climat/article/2021/04/10/climat-les-fausses-promesses-des-technologies-de-captage-du-carbone_6076305_1652612.html&quot;&gt;Les fausses promesses des technologies de captage du carbone&lt;/a&gt; à lire dans Le Monde.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.mediapart.fr/journal/economie/090421/en-alabama-amazon-remporte-sa-bataille-contre-les-syndicats&quot;&gt;Pas de syndicat chez Amazon en Alabama&lt;/a&gt;, et la défaite est cuisante. Jeff Bezos jubile.&lt;/p&gt;
+&lt;p&gt;Nous espérons que vous avez apprécié votre lecture. Pour nous donner un coup de pouce, &lt;a href=&quot;https://twitter.com/intent/tweet?text%3DJe%2520recommande%2520la%2520lecture%2520de%2520la%2520derni%25C3%25A8re%2520newsletter%2520de%2520Techologie%2520:%2520https://techologie.net/newsletter/3&quot;&gt;partagez-la sur le réseau au logo d’oiseau&lt;/a&gt;, sur un &lt;a href=&quot;https://www.linkedin.com/sharing/share-offsite/?url%3Dhttps://techologie.net/newsletter/3&quot;&gt;réseau pro aux gens chelous&lt;/a&gt; ou sur celui de votre choix.&lt;/p&gt;
+&lt;p&gt;Pour nous suggérer des améliorations, dites nous tout sur notre &lt;a href=&quot;https://framateam.org/techologie/&quot;&gt;framateam&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prenez soin de vous et de vos smartphones et à dans 2 semaines !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nous ne compensons pas les émissions CO2 de cet e-mail.&lt;/strong&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Sustainable IT: Natalie Hollier views on product teams, cloud and IT for Green</title>
+		<link href="https://techologie.net/episodes/48-sustainable-it-cloud/"/>
+		<updated>2021-04-13T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/48-sustainable-it-cloud/</id>
+		<content type="html">Natalie has been working in Digital Sustainability for a few years at ThoughtWorks, and recently joined  Microsoft to work on Sustainability Product Innovation.</content>
+	</entry>
+	
+	<entry>
+		<title>Stratégie et design pour l&#39;Anthropocène</title>
+		<link href="https://techologie.net/episodes/47-strategie-et-design-pour-lanthropocene/"/>
+		<updated>2021-04-05T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/47-strategie-et-design-pour-lanthropocene/</id>
+		<content type="html">Alexandre Monnin est directeur de la Recherche d&#39;Origens Medialab, Co-fondateur de l&#39;initiative Closing Worlds. Avec Emmanuel Bonnet, ils sont tous les deux enseignants dans le Master of Science (MSc) &quot;Stratégie et Design pour l&#39;Anthropocène&quot; à l&#39;ESC Clermont BS.</content>
+	</entry>
+	
+	<entry>
+		<title>Nevergreen</title>
+		<link href="https://techologie.net/newsletter/2/"/>
+		<updated>2021-04-01T00:00:00Z</updated>
+		<id>https://techologie.net/newsletter/2/</id>
+		<content type="html">&lt;h2&gt;La newsletter green, super green&lt;/h2&gt;
+&lt;p&gt;mais pas plus green que le porte-containers d&#39;Evergreen qui a bloqué plusieurs jours durant le canal de Suez, avec des marchandises et des animaux vivants conteneurisés et générant une pagaille mondiale.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/2/image1.jpg&quot; alt=&quot;Evergreen&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Bonjour les amishs. Nous vous souhaitons une bonne lecture du second numéro (déjà !) de cette newsletter collaborative, fruit d&#39;une veille collective de la communauté Techologie.&lt;/p&gt;
+&lt;h2&gt;1024 nuances de green&lt;/h2&gt;
+&lt;p&gt;Une étude de l&#39;Université de Zurich intitulée &amp;quot;&lt;a href=&quot;https://www.zora.uzh.ch/id/eprint/191299/&quot;&gt;Next generation mobile networks: Problem or opportunity for climate protection?&lt;/a&gt;&amp;quot; tente une évaluation de l&#39;impact de la 5G à l&#39;horizon 2030. Selon les auteurs, il y a certaines conditions pour pouvoir mettre la 5G au service de la &amp;quot;protection du climat&amp;quot;. Premièrement, l&#39;empreinte GES du secteur du numérique doit rester faible en tenant compte de tous les équipements numériques. L&#39;infrastructure 5G sera responsable de moins de 3% de l&#39;empreinte de l&#39;ensemble du secteur mais son utilisation nécessitera des équipements supplémentaires qui ne sont pas spécifiques à la 5G. Deuxièmement, les réductions des émissions de GES exemptées dans les secteurs des transports, de l&#39;énergie et de l&#39;agriculture ne pourront avoir lieu que s&#39;il y a une création des conditions qui favorisent des modèles de travail flexible, de nouveaux services de mobilité, des sources d&#39;énergie renouvelables et décentralisées et certaines formes d&#39;agriculture. Enfin, cette étude souligne qu&#39;il est nécessaire d&#39;exploiter systématiquement le potentiel de la 5G en faveur du climat et d&#39;atténuer les risques qui pourraient conduire à une augmentation des émissions de GES : équipements numériques supplémentaires et effets rebond.&lt;/p&gt;
+&lt;p&gt;Le 19 mars avait lieu un évènement &amp;quot;Digital Day&amp;quot; à la Commission Européenne. Les &lt;a href=&quot;https://www.lemonde.fr/economie/article/2021/03/19/vingt-cinq-etats-europeens-s-engagent-en-faveur-des-start-up_6073786_3234.html&quot;&gt;Etats européens s&#39;engageaient en faveur des start-up&lt;/a&gt;. Il y avait aussi une déclaration d&#39;intention &amp;quot;A Green and Digital Transformation of the EU&amp;quot;. Alors que la &lt;a href=&quot;https://ec.europa.eu/information_society/newsroom/image/document/2021-12/european_green_digital_coaliton_declaration_-_final_-digital_day_2021_E592503B-D1CC-A599-5EF97E6891B038DF_74943.pdf&quot;&gt;déclaration d&#39;intention des sociétés&lt;/a&gt; était assez sage (par exemple &amp;quot;To invest in the development and deployment of green digital solutions with significant energy and material efficiency that achieve a net positive impact in a wide range of sectors&amp;quot;), &lt;a href=&quot;https://ec.europa.eu/newsroom/dae/document.cfm?doc_id%3D74940&quot;&gt;celle des Etats transpire le techno-solutionnisme&lt;/a&gt; : &amp;quot;Accelerate the development and deployment of digital technologies, such as Very High Capacity Networks allowing to build 5G and 6G networks, fibre optics, High performance computing (HPC), Quantum computing and Quantum Communication, Internet of Things (IoT), Blockchain technologies, Cloud solutions, Artificial intelligence (AI) and big data, as key solutions to ensure the impact of climate adaptation and mitigation policies, decrease pollution, optimise energy and resource efficiency, develop a circular economy, promote precision farming and helping to combat the loss of biodiversity&amp;quot;. Sans doute que les lobbyistes de l&#39;industrie du tout-numérique ont bien fait leur job !&lt;/p&gt;
+&lt;p&gt;Dans &amp;quot;&lt;a href=&quot;https://www.seuil.com/ouvrage/une-ecologie-decoloniale-malcom-ferdinand/9782021388497&amp;amp;sa=D&amp;amp;source=editors&quot;&gt;Une écologie décoloniale, Penser l&#39;écologie depuis le monde caribéen&lt;/a&gt;&amp;quot;, Malcom Ferdinand nous invite à questionner les mouvements environnementalistes actuels qui éludent l&#39;héritage colonial et exclavagiste et interpelle sur un &amp;quot;habiter colonial de la Terre&amp;quot; toujours très présent. Extraits. &amp;quot;Le 16 juin 1791, après 41 jours de traversée, le Nègre, navire français, atteint la ville de Cap-Français, l&#39;actuel Cap-Haïtien pour approvisionner l&#39;industrie coloniale. Des hommes, des femmes et des enfants embarqués, seule une matière indistincte et combustible est débarquée : du Nègre, du bois d&#39;ébène&amp;quot;. &amp;quot;Les plantations de la Terre d&#39;aujourd&#39;hui ne sont plus celles du XVIIe siècle. Au-delà de l&#39;agriculture, les plantations prennent aussi la forme d&#39;industries extractives de minerais rares qui se retrouvent dans les ordinateurs et téléphones portables, les &amp;quot;plantations&amp;quot; terrestres et marines de puits de pétrole. Afin de poursuivre cet &amp;quot;habiter colonial&amp;quot;, des pans entiers d&#39;humains et de non-humains sont asservis. Le Plantationocène signale ainsi la globalisation de l&#39;habiter colonial de la Terre et cette subordination du monde à la Plantation&amp;quot;. Sur le même sujet, Clément Jeanneau sur le blog &amp;quot;Nourritures terrestres&amp;quot; livre sa &lt;a href=&quot;https://nourrituresterrestres.substack.com/p/33-reflexions-sur-lextractivisme&quot;&gt;réflexion sur l&#39;extractivisme&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;L&#39;entretien&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Romain Lorenzini&lt;/strong&gt;, expert en cybersécurité et entrepreneur, s&#39;est passionné pour les impacts environnementaux du numérique et comment les mesurer. Avec quelques joyeux lurons, il a lancé le groupe de travail &lt;a href=&quot;https://www.boavizta.org/&quot;&gt;Boavizta&lt;/a&gt; dont l&#39;objectif est de construire une méthodologie, des outils et des bases de données communes et ouvertes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Que reproche-t-on aux études du Shift Project sur le numérique ? Et est-ce que cela remet en question le fond de ces études ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Avant de commencer je préfère préciser que je suis adhérent aux Shifters et que je considère les travaux du Shift Project, en général, comme ce qui se fait de mieux en France pour faire avancer les choses dans le bon sens. Ce qui est reproché au Shift Project a été très bien décrit par Georges Kamyia dans son article &amp;quot;&lt;a href=&quot;https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines&quot;&gt;The carbon footprint of streaming video: fact-checking the headlines&lt;/a&gt;&amp;quot; et je suis le premier à dire que les marges d&#39;erreur liées à l&#39;utilisation du &lt;a href=&quot;https://theshiftproject.org/wp-content/uploads/2018/10/Lean-ICT-Materials-1byte-Model-2018.xlsx&quot;&gt;1-byte model du Shift&lt;/a&gt; sont trop grandes pour être acceptables dans le cadre d&#39;une démarche de mesure d&#39;impact environnemental d&#39;un SI ou d&#39;un service numérique. Quoi qu&#39;il en soit, je ne pense pas que cela remette vraiment en question le fond de ces études ou la nécessité de contrôler l&#39;empreinte du numérique.&lt;/p&gt;
+&lt;p&gt;En revanche, ce qui est sûr, c&#39;est que ces erreurs ont un impact très négatif sur le travail de sensibilisation que nous essayons de faire au sujet de la sobriété numérique. Le Shift Project a, en quelque sorte, donné le bâton pour se faire battre à tous ceux qui pensent que l&#39;innovation va nous sauver. C&#39;est d&#39;autant plus gênant que ce Think tank est plutôt connu pour sa rigueur scientifique et qu&#39;il attaque souvent ses opposants sur le manque de démarche scientifique et de rigueur.&lt;/p&gt;
+&lt;p&gt;Il n&#39;empêche que sans le Shift Project et son premier rapport sur l&#39;empreinte du numérique, je ne me serais jamais autant intéressé au sujet et je pense que c&#39;est le cas pour beaucoup d&#39;acteurs du numérique responsable en France, aujourd&#39;hui, alors leurs travaux restent bénéfiques malgré ce loupé.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A quoi sert de mesurer l&#39;empreinte environnementale du numérique ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cela est indispensable pour réduire notre empreinte car comme le disent W.E. Deming et plein d&#39;autres, &amp;quot;Ce qui ne se mesure pas ne s&#39;améliore pas&amp;quot;. Il y a des mesures que l&#39;on peut prendre pour réduire son impact sans mesurer, comme prolonger la durée de vie des équipements mais on atteint vite ses limites tant qu&#39;on ne mesure pas. On peut même parfois mettre en place des mesures de réduction contraignantes et pourtant, très peu utiles. Le fait de mesurer permet donc de focaliser son énergie sur des mesures de réduction réellement utiles.&lt;/p&gt;
+&lt;p&gt;Il faut aussi avoir en tête que la réglementation évolue. Il y a déjà un bilan GES obligatoire pour les grandes organisations, très certainement un crédit d&#39;impôt pour les TPE et PME qui mesurent leur impact et cela va continuer à évoluer dans le même sens alors même quand on s&#39;en fiche de la planète cela peut avoir un intérêt de mesurer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pourquoi est-ce compliqué de mesurer l&#39;empreinte du numérique ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tout simplement parce qu&#39;un service numérique est lui-même complexe. Il fait intervenir de nombreux composants très différents (serveurs, terminaux, réseau Local, réseau Internet, stockage, services cloud...) qui sont souvent mutualisés avec d&#39;autres services.&lt;/p&gt;
+&lt;p&gt;Le premier challenge est de trouver des données pertinentes concernant l&#39;impact de chacun des composants. On trouve assez facilement des données concernant les &lt;a href=&quot;https://www.bilans-ges.ademe.fr/fr/accueil/contenu/index/page/categorie/siGras/0&quot;&gt;émissions de GES&lt;/a&gt; associées à l&#39;utilisation de ces composants (scope 2) mais beaucoup plus difficilement des données concernant l&#39;impact de leur fabrication et de leur transport (scope 3) et encore plus difficilement des données concernant l&#39;empreinte sur l&#39;eau, la biodiversité et les ressources naturelles.&lt;/p&gt;
+&lt;p&gt;Le second challenge est de trouver des facteurs d&#39;allocation pour savoir quelle part de l&#39;impact d&#39;un composant doit être affectée à un service numérique ou à un autre. C&#39;est donc plus simple de mesurer l&#39;impact total d&#39;un datacenter ou d&#39;un SI complet que celui d&#39;un service numérique.&lt;/p&gt;
+&lt;p&gt;Avec l&#39;utilisation croissante de services Cloud, la pertinence de la mesure devient très dépendante de la volonté des Cloud providers de fournir des données à leurs clients et, même si certains acteurs commencent à fournir des données, il faut admettre que nous sommes très loin de pouvoir mesurer l&#39;impact environnemental de façon aussi précise pour des services dans le Cloud que pour des services hébergés &amp;quot;on premises&amp;quot; (en français : infrastructure sur site). Au sein de Boavizta, nous avons d&#39;ailleurs un chantier spécifique sur ce sujet qui a bien avancé ces dernières semaines grâce à des membres très investis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Est-ce que l&#39;augmentation des usages du numérique est décorrélée de l&#39;augmentation des équipements physiques, l&#39;augmentation des tailles des écrans ou le fort renouvellement ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Cela dépend des usages. Comme dans bien d&#39;autres secteurs que le numérique d&#39;ailleurs. Je ne pense pas qu&#39;il faille réduire ou même stabiliser les usages du numérique car celui-ci nous apporte tout de même de nombreux bénéfices pour réduire l&#39;impact de l&#39;homme sur l&#39;environnement. Le souci est plutôt que la plupart des usages actuels n&#39;apportent pas grand chose à la société et ont un impact de plus en plus lourd notamment à cause du renouvellement des terminaux et l&#39;augmentation de la résolution et/ou de la taille des écrans qu&#39;ils impliquent. Il faut donc essayer d&#39;être plus efficaces dans nos usages du numérique en étant plus sobres et en privilégiant les services permettant de véritablement réduire notre impact. C&#39;est vraiment là qu&#39;est notre challenge dans les années à venir car ce n&#39;est pas simple de savoir si une innovation sera vraiment bénéfique avant qu&#39;elle ne soit mise en place et utilisée à grande échelle. Personnellement je pense que la meilleure solution serait de réguler les usages plutôt que l&#39;innovation mais au pays de la liberté et des droits de l&#39;homme c&#39;est difficile à envisager. Je pense pourtant que notre avenir dépend beaucoup de notre capacité à abandonner certaines libertés pour réussir à en préserver d&#39;autres.&lt;/p&gt;
+&lt;h2&gt;Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a &lt;a href=&quot;https://www.youtube.com/watch?v%3DP-qOurzN_Gs&quot;&gt;flower&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/2/image2.jpg&quot; alt=&quot;Google Cloud&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Bonne nouvelle, Google est neutre en carbone depuis 2007. Mieux encore, les data centers de Google Cloud sont &amp;quot;&lt;a href=&quot;https://cloud.google.com/blog/topics/sustainability/sharing-carbon-free-energy-percentage-for-google-cloud-regions&quot;&gt;zero net carbon emissions&lt;/a&gt;&amp;quot;. Car Google, en bon élève qui va sauver la planète, investit &amp;quot;dans suffisamment d&#39;énergie renouvelable et de compensations de carbone pour neutraliser l&#39;empreinte de ses émissions&amp;quot;. Ce que Google ne vous dit pas, mais nous, nous allons vous le dire, c&#39;est que la compensation carbone est un jeu d&#39;écriture comptable. Sauf que le climat et la biodiversité n&#39;en ont rien à carrer de la comptabilité. Pire encore, Google ne compense ici que les émissions de GES liées à sa consommation d&#39;électricité. Pas question ici d&#39;analyse de cycle de vie multicritères, ça serait fort emmerdant. Pas de jaloux, AWS et Azure font pareil. On élude évidemment tout le renouvellement rapide de tous les équipements high-tech (car il faut rester au top), composants essentiels des data-centers et dont l&#39;impact environnemental lié à leurs fabrications est loin d&#39;être anodin. Les recommandations de Google ne vont pas vers une sobriété numérique : &amp;quot;choisissez pour vos nouvelles applications ou pour exécuter des tâches gourmandes, un data-center à faible émission de carbone&amp;quot;. &lt;strong&gt;Un exemple manifeste d&#39;effet rebond&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;Breaking news&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;La Poste et l&#39;Inria&lt;/strong&gt; s&#39;allient pour &amp;quot;&lt;a href=&quot;https://www.groupelaposte.com/fr/actualite/la-poste-et-inria-sallient-pour-accelerer-linnovation-numerique-responsable-au-service-de-la-societe&quot;&gt;accélérer l&#39;innovation numérique responsable&lt;/a&gt;&amp;quot; au service de la société. Leurs ambitions ? Développer les usages responsables des services numériques à travers, par exemple, l&#39;écoconception des services numériques, innover dans les domaines de la confiance numérique, de l&#39;intelligence artificielle et de l&#39;e-santé. A suivre.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Le Shift Project&lt;/strong&gt; publie un nouveau rapport sur &lt;a href=&quot;https://theshiftproject.org/article/impact-environnemental-du-numerique-5g-nouvelle-etude-du-shift/&quot;&gt;l&#39;impact environnemental du numérique et le déploiement de la 5G&lt;/a&gt;. La seule &amp;quot;bonne nouvelle&amp;quot;, c&#39;est que la croissance de l&#39;impact environnemental du numérique est réévaluée à la baisse, passant de +9 à +6% par an. Quand même.&lt;/p&gt;
+&lt;p&gt;Le &lt;strong&gt;réchauffement climatique&lt;/strong&gt; impacte l&#39;approvisionnement en puces électroniques, déjà en forte tension, en conséquence des différents confinements : &lt;a href=&quot;https://www.bloomberg.com/news/articles/2021-03-24/taiwan-raises-red-alert-over-water-cuts-supply-for-chipmakers&quot;&gt;Taïwan réduit l&#39;approvisionnement en eau des fabricants de puces&lt;/a&gt; alors que le pays connait une sécheresse record. &lt;a href=&quot;https://twitter.com/AsWalterRobin/status/1376499574970449921?s%3D20&quot;&gt;Thread explicatif ici&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.wired.co.uk/article/netflix-carbon-footprint&quot;&gt;Netflix révèle enfin l&#39;empreinte d&#39;une heure de streaming vidéo&lt;/a&gt; : 100 g eq CO². Ce chiffre se base sur &lt;a href=&quot;https://dimpact.org/&quot;&gt;DIMPACT&lt;/a&gt;, une méthodologie développée par l&#39;université de Bristol. Cette évaluation est d&#39;ores et déjà &lt;a href=&quot;https://lexpansion.lexpress.fr/high-tech/booste-par-la-crise-netflix-voit-aussi-son-empreinte-carbone-s-envoler_2147264.html&quot;&gt;critiquée et révèle que cette empreinte serait 4 fois supérieure&lt;/a&gt; en tenant compte des terminaux utilisateurs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L&#39;Institut du Numérique Responsable&lt;/strong&gt; lance &lt;strong&gt;&lt;a href=&quot;https://wenr.isit-europe.org/&quot;&gt;WENR&lt;/a&gt;&lt;/strong&gt; (pour les winners ?), un outil qui permet d&#39;évaluer le niveau de maturité &amp;quot;Numérique Responsable&amp;quot; d&#39;une organisation et de mesurer l&#39;empreinte d&#39;un SI.&lt;/p&gt;
+&lt;h2&gt;Avant de se quitter&lt;/h2&gt;
+&lt;p&gt;En cette période de pandémie et de re-re-confinement, un article du Low Tech Magazine interroge &lt;a href=&quot;https://www.lowtechmagazine.com/2021/02/how-sustainable-is-high-tech-health-care.html&quot;&gt;l&#39;impact environnemental et la soutenabilité du système de santé high-tech&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;La &lt;strong&gt;permaculture appliquée au web design&lt;/strong&gt;, ça donne quoi ? Ses 12 principes traduits pour la conception web à lire chez les allemands (mais en anglais) de &lt;a href=&quot;https://allcodesarebeautiful.com/en/permaculture-on-the-web/&quot;&gt;All Codes Are Beautiful&lt;/a&gt; (&amp;quot;&lt;a href=&quot;https://fr.wikipedia.org/wiki/ACAB&quot;&gt;ACAB&lt;/a&gt;&amp;quot;, fallait oser !).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gilles Babinet&lt;/strong&gt;, vice-président du Conseil national du numérique et plutôt habituellement très libéral et porté sur le tout numérique, &lt;a href=&quot;https://twitter.com/babgi/status/1372082951752667137?s%3D20&quot;&gt;encense une interview de Frédéric Bordage sur l&#39;éco-conception&lt;/a&gt;. Avec des appuis de ce genre de personnalité, peut-on espérer que le sujet de l&#39;éco-conception de services numériques soit mieux compris et se démocratise ?&lt;/p&gt;
+&lt;p&gt;On est plus chaud, plus chaud, &lt;strong&gt;plus chaud que le climat&lt;/strong&gt; ? En fait, oui, car &lt;a href=&quot;https://reporterre.net/La-France-se-rechauffe-plus-vite-que-la-planete&quot;&gt;la France se réchauffe plus vite que la planète&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Le &lt;strong&gt;&lt;a href=&quot;https://www.psg.fr/equipes/the-club/content/le-paris-saint-germain-sengage-avec-lonu-pour-lecologie-psg-club&quot;&gt;Paris Saint-Germain s&#39;engage pour l&#39;écologie&lt;/a&gt;&lt;/strong&gt; notamment en réduisant les déchets plastiques à usage unique (on vous voit rire !). Pour passer le temps dans l&#39;avion entre deux matchs, les joueurs du PSG s&#39;amuseront en jouant au &lt;a href=&quot;https://hasbrogaming.hasbro.com/en-us/product/monopoly-go-green-edition-board-game-for-families-ages-8-and-up:145BAA1F-C040-4F5C-A6C1-AEC1CEF13487&quot;&gt;Monopoly version Green&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vous noterez que cette newsletter ne contient aucun &lt;strong&gt;poisson d&#39;avril&lt;/strong&gt;. En effet, à cause de la surpêche, on a dû remplacer le poisson par de la purée de pois-chiches vegan d&#39;avril.&lt;/p&gt;
+&lt;p&gt;Nous espérons que vous avez apprécié votre lecture. Pour nous donner un coup de pouce, [partagez-la sur le réseau au logo d’oiseau](&lt;a href=&quot;https://twitter.com/intent/tweet?text=Je&quot;&gt;https://twitter.com/intent/tweet?text=Je&lt;/a&gt; recommande la lecture de la dernière newsletter de Techologie : &lt;a href=&quot;https://techologie.net/newsletter/2&quot;&gt;https://techologie.net/newsletter/2&lt;/a&gt;) ou sur celui de votre choix.&lt;/p&gt;
+&lt;p&gt;Si vous avez moins aimé (vous avez le droit), pour nous suggérer des améliorations, dites nous tout sur notre &lt;a href=&quot;https://framateam.org/techologie/&quot;&gt;framateam&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prenez soin de vous et de vos smartphones et à dans 2 semaines !&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sauvez la planète, n’imprimez cet e-mail que si nécessaire.&lt;/strong&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Et voici Techologie en version .txt, la newsletter green, super green</title>
+		<link href="https://techologie.net/newsletter/1/"/>
+		<updated>2021-03-18T00:00:00Z</updated>
+		<id>https://techologie.net/newsletter/1/</id>
+		<content type="html">&lt;h2&gt;La newsletter green, super green&lt;/h2&gt;
+&lt;p&gt;Bienvenue et bonne lecture de cette première édition de la newsletter de Techologie, le podcast qui se met à l’écriture. Cette newsletter collaborative est le fruit d’une veille collective de la petite communauté Techologie.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/1/image1.jpg&quot; alt=&quot;Il faut que ça soit green&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;1024 nuances de green&lt;/h2&gt;
+&lt;p&gt;Sur le front de l’allongement de la durée de vie des équipements numériques, vient de paraître le &lt;a href=&quot;https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043231546&quot;&gt;décret relatif à l&#39;obligation d&#39;acquisition par la commande publique&lt;/a&gt; de biens issus du réemploi ou de la réutilisation ou intégrant des matières recyclées. Il vient en application de l’article 58 de la loi AGEC relative à la lutte contre le gaspillage et à l&#39;économie circulaire. Pour les téléphones mobiles, les téléphones fixes, les ordinateurs portables ou de bureau entre autres, l’État doit maintenant se fournir à 20% en produits réemployés ou intégrant des matières recyclées. À ce sujet, une réflexion intéressante de &lt;a href=&quot;https://twitter.com/bayartb/status/1364658036669894663?s=20&quot;&gt;Benjamin Bayart&lt;/a&gt; : “la cible du reconditionné, ce sont les gens qui n&#39;ont pas les thunes pour du neuf. Si ce marché est aspiré par la commande publique, les prix vont monter, et empêcher qu&#39;il se développe chez les particuliers”.&lt;/p&gt;
+&lt;p&gt;Réemployer, allonger la durée de vie des équipements, c’est aussi réparer, autant que possible. &amp;quot;Ce qui est courant dans la réparation de smartphone, c&#39;est ce qu&#39;on appelle la cannibalisation, la manière d&#39;utiliser des composants d&#39;un smartphone dans un autre&amp;quot;, nous dit Nicolas Nova, anthropologue des technologies et designer-chercheur, &lt;a href=&quot;https://techologie.net/episodes/45-anthropologie-du-smartphone&quot;&gt;à écouter dans cet épisode de Techologie&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Après le “flygskam”, une “honte de regarder ses vidéos en HD” s&#39;impose-t-elle dans l’opinion publique ? Des amendements ont été déposés par plusieurs députés dans le cadre du projet de loi Climat et Résilience visant à obliger les plateformes à indiquer l’empreinte carbone de chaque vidéo visionnée par leurs utilisateurs. Pour l’instant, ces propositions ont été rejetées par la commission spéciale de l’Assemblée. À trop vouloir faire culpabiliser les usagers, on oublierait presque les vrais responsables, une industrie du numérique qui génère des fortunes avec notre temps de cerveau disponible. &lt;a href=&quot;https://usbeketrica.com/fr/article/des-deputes-veulent-obliger-les-plateformes-a-afficher-l-empreinte-carbone-de-leurs-videos&quot;&gt;À lire sur Usbek et Rica&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pénurie, appât du gain et spéculation : certains achètent autant que possible des cartes graphiques pour les revendre plus cher ensuite et vont jusqu’à programmer un automate capable d’acheter le produit dès qu&#39;il est disponible. « Ces achats représentent un tiers des commandes de cartes graphiques ». &lt;a href=&quot;https://www.lemonde.fr/pixels/article/2021/03/09/cinq-questions-sur-la-penurie-historique-des-consoles-et-cartes-graphiques_6072511_4408996.html&quot;&gt;A lire dans le Monde&lt;/a&gt;. Dans la même thématique, à lire aussi cet article “&lt;a href=&quot;https://www.greenit.fr/2021/03/09/la-bataille-des-semi-conducteurs/&quot;&gt;La bataille des semi-conducteurs&lt;/a&gt;” sur &lt;a href=&quot;http://greenit.fr/&quot;&gt;greenit.fr&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;L’entretien&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Bela Loto&lt;/strong&gt; est cofondatrice de l’association &lt;a href=&quot;https://www.point-de-mir.com/&quot;&gt;Point de M.I.R.&lt;/a&gt;, Maison de l’Informatique Responsable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tu travailles sur la sensibilisation du grand public aux impacts environnementaux du numérique. Quel a été le déclic ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;C’est lorsqu’en 2012, j&#39;ai visionné le film de Coline Tison et Laurent Lichtenstein, “L&#39;Internet, la pollution cachée”. C&#39;est un excellent documentaire qui permettait de comprendre que le numérique n&#39;est absolument pas immatériel. Je découvrais la lourdeur des infrastructures qui soutiennent Internet. Cela a été un bouleversement total. Ce documentaire parle beaucoup de data centers mais les choses ont beaucoup évolué depuis, notamment en termes d&#39;efficience énergétique. Cependant, il n&#39;en reste pas moins vrai que l&#39;immatérialité promise par Internet est toujours aussi dépendante d’un monde au contraire très matériel. Donc le propos est toujours aussi intéressant, toujours aussi pertinent. Et ça a changé ma vie.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;As-tu des bonnes pratiques en vue d’un numérique plus responsable ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Des bonnes pratiques ou des meilleures pratiques, il y en a dans différents domaines. Il y a des bonnes pratiques dans l&#39;impression, dans la gestion de l&#39;énergie de son matériel, dans la navigation, dans la messagerie. Le premier éco-geste à retenir, c&#39;est celui d’allonger la durée de vie de son matériel. C&#39;est le plus difficile à mettre en place malheureusement mais c&#39;est celui qui est vraiment le plus important. Pour cela, il faut apprendre à allonger cette durée de vie. Ce n&#39;est pas évident. Par exemple, par l&#39;entretien et la maintenance. De plus, il faut se poser des questions sur l&#39;acquisition d’équipements neufs. Avant d’acheter neuf, si on réussit à faire durer deux ans de plus l’équipement existant, on ne passe pas par la case achat. Aussi, on peut éventuellement se passer d&#39;acheter mais louer par exemple.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Il y a des éléments techniques pour allonger la durée de vie ? On sait par exemple pour les smartphones que quand on met à jour l&#39;OS, ça rame.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Je dirais qu&#39;il faut faire les mises à jour de sécurité. Par contre, pour les mises à jour évolutives, ce n&#39;est pas utile. Cela peut ralentir la machine ou créer une incompatibilité. Il n’est pas toujours possible de n’avoir à disposition que les mises à jour de sécurité. Il y a des associations et des ONG comme Halte à l&#39;Obsolescence Programmée qui travaillent sur ces questions là et qui font du lobbying dans le bon sens. Il faut arriver à faire comprendre aux fabricants qu&#39;ils changent leurs usages. Personnellement, j&#39;ai fait un choix peut-être radical. Je n&#39;ai pas d&#39;applications tierces sur mon téléphone. Donc la question des mises à jour ne se pose pas !&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://techologie.net/episodes/7-se-sensibiliser-au-numerique-responsable.html&quot;&gt;Écouter l’intégralité de notre échange avec Bela Loto&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a flower&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://techologie.net/img/newsletters/1/image2.png&quot; alt=&quot;Il faut que ça soit green&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Dans une publication promo sur Linkedin avec une vidéo à l’appui, on “chasse le carbone des serveurs” avec un laptop représenté affublé d’un pot d’échappement. Mais le vrai message, il est ailleurs. C’est encore une fois aux pauvres usagers, ici les salariés, la responsabilité de faire attention à ne pas flinguer la planète avec leurs emails ! Assez drôle, lorsqu’on sait l’activité de l’entreprise en question.&lt;/p&gt;
+&lt;h2&gt;Breaking news&lt;/h2&gt;
+&lt;p&gt;Dans cette interview sur Twitch, la plateforme appartenant à Amazon et de plus en plus prisée par nos politiques, Cédric O veut mettre &lt;a href=&quot;https://www.twitch.tv/videos/942981742&quot;&gt;du numérique partout pour réduire l’empreinte du numérique&lt;/a&gt;. Pas compris ! Vous, si ? Par ailleurs, le sujet de l’empreinte environnementale du numérique dans la loi Climat et Résilience, oui ou non ? &lt;a href=&quot;https://twitter.com/CommownFR/status/1369623635242192904?s=20&quot;&gt;Barbara Pompili et Cédric O ne semblent pas d&#39;accord&lt;/a&gt;. Seule maigre consolation pour l’instant, dans l’article “Education à l’environnement et au développement durable”, &lt;a href=&quot;https://www.banquedesterritoires.fr/climat-et-resilience-le-projet-de-loi-entre-les-mains-de-la-commission-speciale-lassemblee&quot;&gt;un amendement accepté&lt;/a&gt; prévoit pour les élèves, &amp;quot;une sensibilisation à l’impact environnemental du numérique ainsi qu’un volet relatif à la sobriété numérique&amp;quot;. Petit pas ambitieux, non ?&lt;/p&gt;
+&lt;p&gt;Le &lt;a href=&quot;https://eco-conception.designersethiques.org/guide/&quot;&gt;guide d’éco-conception de services numériques&lt;/a&gt; par l’association Designers Éthiques est là ! Une bonne entrée en matière, avec des exemples concrets, pour mettre en place une démarche d’éco-conception dans vos beaux projets numériques. Cela ne sent pas le pain chaud mais presque.&lt;/p&gt;
+&lt;p&gt;Le designer-chercheur Gauthier Roussilhe a eu l’audace de questionner les études qui démontrent que le numérique permet d’éviter des émissions CO² d’autres secteurs. Le numérique permet-il réellement en émettant 1g eq CO² d’en éviter 10 dans d’autres secteurs ? À lire ici : &lt;a href=&quot;https://gauthierroussilhe.com/pdf/NTE-Mars2021.pdf&quot;&gt;Que peut le numérique pour la transition écologique ?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Votre soif de lecture n’est pas rassasiée ? Les gens de &lt;a href=&quot;https://www.techtrash.fr/&quot;&gt;TechTrash&lt;/a&gt; lancent &lt;a href=&quot;https://www.kisskissbankbank.com/fr/projects/climax-la-newsletter-plus-chaude-que-le-climat&quot;&gt;Climax&lt;/a&gt;, une nouvelle newsletter, plus chaude que le climat. Ça promet !&lt;/p&gt;
+&lt;h2&gt;Avant de se quitter&lt;/h2&gt;
+&lt;p&gt;Un peu de dissonance cognitive saupoudrée d’obsolescence imposée ? Il faut avoir &lt;a href=&quot;https://twitter.com/arnaudforaison/status/1351817712662667265&quot;&gt;un iPhone 7 minimum pour utiliser l’appli Yuka&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;“Une dizaine d&#39;intelligences artificielles et une douzaines de consciences virtualisées avaient péri dans l&#39;incendie du data center. Ce furent les premiers morts virtuels de l&#39;histoire. Un monument fut rapidement érigé à leur mémoire.” Le meilleur tweet sur l’incendie du datacenter d’OVH revient à &lt;a href=&quot;https://twitter.com/mikrodystopies/status/1369575789071638535?s=20&quot;&gt;Mykrodystopie&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;RGPD : sans surprise, 90% des plateformes de consentement &lt;a href=&quot;https://arxiv.org/abs/2001.02479&quot;&gt;utilisent des dark patterns&lt;/a&gt; pour vous forcer à cliquer sur le bouton “accepter”.&lt;/p&gt;
+&lt;p&gt;Pendant ce temps, le Figaro magazine, tranquille, met en une « &lt;a href=&quot;https://twitter.com/VinceJarousseau/status/1368491408965971969/photo/1&quot;&gt;Comment tirer profit de la crise&lt;/a&gt; ». Ils ne déçoivent jamais.&lt;/p&gt;
+&lt;p&gt;“Si le capitalisme de plateforme est à ce point encensé par les investisseurs, ce n&#39;est pas pour leurs innovations technologiques mais plutôt pour avoir réussi à renforcer l&#39;exploitation des travailleurs, en s&#39;affranchissant notamment du droit du travail.”, via &lt;a href=&quot;https://twitter.com/CerveauxNon/status/1369282122981203972?s=20&quot;&gt;Cerveaux non disponibles&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nous espérons que vous avez apprécié cette 1ère édition de notre newsletter. Pour nous donner un coup de pouce, [partagez-la sur le réseau au logo d’oiseau](&lt;a href=&quot;https://twitter.com/intent/tweet?text=Je&quot;&gt;https://twitter.com/intent/tweet?text=Je&lt;/a&gt; recommande la lecture de la dernière newsletter de Techologie : &lt;a href=&quot;https://techologie.net/newsletter/1&quot;&gt;https://techologie.net/newsletter/1&lt;/a&gt;) ou sur celui de votre choix.&lt;/p&gt;
+&lt;p&gt;Si vous avez moins aimé (vous avez le droit), pour nous suggérer des améliorations, dites nous tout sur notre &lt;a href=&quot;https://framateam.org/techologie/&quot;&gt;framateam&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prenez soin de vous et de vos smartphones et à dans 2 semaines !&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>L’impératif de la sobriété numérique et l’enjeu des modes de vie</title>
+		<link href="https://techologie.net/episodes/46-imperatif-de-la-sobriete-numerique-et-lenjeu-des-modes-de-vie/"/>
+		<updated>2021-03-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/46-imperatif-de-la-sobriete-numerique-et-lenjeu-des-modes-de-vie/</id>
+		<content type="html">Fabrice Flipo est professeur de philosophie sociale et politique, philosophie des sciences et techniques à l&#39;Institut Mines-Télécom et chercheur au Laboratoire de changement social et politique à l’Université de Paris. Il est l&#39;auteur de L’impératif de la sobriété numérique, L’enjeu des modes de vie.</content>
+	</entry>
+	
+	<entry>
+		<title>Anthropologie du smartphone et culture de la réparation</title>
+		<link href="https://techologie.net/episodes/45-anthropologie-du-smartphone/"/>
+		<updated>2021-03-09T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/45-anthropologie-du-smartphone/</id>
+		<content type="html">Nicolas Nova est anthropologue des technologies et designer-chercheur à Genève, et cofondateur du cabinet de conseil The Near Future Laboratory spécialisé dans les pratiques de design-fiction. Il est l&#39;auteur de Smartphones. Une enquête anthropologique et avec Anaïs Bloch, designer et chercheuse, d&#39;un essai en anglais, &quot;Dr Smartphone, une ethnographie des magasins de réparation de smartphone&quot;, qui sera en accès libre prochainement.</content>
+	</entry>
+	
+	<entry>
+		<title>Documenter un numérique plus responsable</title>
+		<link href="https://techologie.net/episodes/44-documenter-un-numerique-plus-responsable/"/>
+		<updated>2021-02-02T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/44-documenter-un-numerique-plus-responsable/</id>
+		<content type="html">Etudiante dans le secteur du numérique, Alizée Colin aspire à travers son blog à recentrer le web et ses outils dans un objectif de bien commun, tant bien environnemental que social.</content>
+	</entry>
+	
+	<entry>
+		<title>Entreprise sociale de service numérique au Sénégal</title>
+		<link href="https://techologie.net/episodes/43-entreprise-sociale-service-numerique/"/>
+		<updated>2021-01-21T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/43-entreprise-sociale-service-numerique/</id>
+		<content type="html">Nous partons en Afrique rencontrer les membres de IT4Life, une entreprise de services numériques installée à Dakar, au Sénégal.</content>
+	</entry>
+	
+	<entry>
+		<title>Transition écologique et solidaire dans l&#39;enseignement supérieur</title>
+		<link href="https://techologie.net/episodes/42-transition-ecologique-et-solidaire-dans-lenseignement-superieur/"/>
+		<updated>2021-01-14T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/42-transition-ecologique-et-solidaire-dans-lenseignement-superieur/</id>
+		<content type="html">Yannick Morel est le cofondateur de l&#39;association Latitudes qui accompagne et encourage l&#39;utilisation des technologies au service de l&#39;intérêt général. Il nous raconte comment vivent les étudiants et les enseignants la crise sanitaire actuelle. Et comment l&#39;enseignement supérieur est en train de se transformer pour répondre à une indispensable transition écologique.</content>
+	</entry>
+	
+	<entry>
+		<title>Sustainable development viewed from England</title>
+		<link href="https://techologie.net/episodes/41-sustainable-development-viewed-from-england/"/>
+		<updated>2021-01-11T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/41-sustainable-development-viewed-from-england/</id>
+		<content type="html">We switch to the other side of the Channel to talk to Nick Lewis who initiated the the-sustainable.dev website.</content>
+	</entry>
+	
+	<entry>
+		<title>Lutter contre l&#39;obsolescence programmée et promouvoir la durabilité</title>
+		<link href="https://techologie.net/episodes/40-lutter-contre-lobsolescence-programmee-et-promouvoir-la-durabilite/"/>
+		<updated>2020-12-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/40-lutter-contre-lobsolescence-programmee-et-promouvoir-la-durabilite/</id>
+		<content type="html">A la suite de l&#39;instauration du délit d&#39;obsolescence programmée dans le Code de la consommation en 2015, est née l&#39;association HOP, Halte à l&#39;obsolescence programmée. Cette association a été créée notamment, par Laëtitia Vasseur, ancienne assistante parlementaire et militante contre la surconsommation, Emile Meunier, avocat, et Samuel Sauvage, autre militant et consultant spécialisé dans l&#39;économie circulaire. Pour parler d&#39;obsolescence programmée et d&#39;indice de réparabilité, nous avons le plaisir de recevoir Adèle Chasson, chargée des relations publiques de l&#39;association Hop.</content>
+	</entry>
+	
+	<entry>
+		<title>Deux ans de Techologie, que retenir et quel futur ?</title>
+		<link href="https://techologie.net/episodes/39-deux-ans-de-techologie-que-retenir-et-quel-futur/"/>
+		<updated>2020-12-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/39-deux-ans-de-techologie-que-retenir-et-quel-futur/</id>
+		<content type="html">Pour les deux ans du podcast, un épisode spécial en public pour marquer le coup. On fait le bilan, calmement.</content>
+	</entry>
+	
+	<entry>
+		<title>Un opérateur télécom coopératif et engagé dans la transition écologique</title>
+		<link href="https://techologie.net/episodes/38-un-operateur-telecom-cooperatif-et-engage-dans-la-transition-ecologique/"/>
+		<updated>2020-11-20T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/38-un-operateur-telecom-cooperatif-et-engage-dans-la-transition-ecologique/</id>
+		<content type="html">Marion Graeffly est cofondatrice de Telecoop, et chargée de la communication, des partenariats et du sociétariat.</content>
+	</entry>
+	
+	<entry>
+		<title>Technologie partout, démocratie nulle part</title>
+		<link href="https://techologie.net/episodes/37-technologie-partout-democratie-nulle-part/"/>
+		<updated>2020-10-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/37-technologie-partout-democratie-nulle-part/</id>
+		<content type="html">Yaël Benayoun est diplômée en philosophie politique et en sciences sociales. Elle conseille les organisations qui souhaitent se doter d’outils d’observation et de compréhension des réalités sociales. Irénée Régnauld est diplômé en sciences politiques et en affaires internationales et consultant en innovation et en transformation numérique. Auteur du blog et compte twitter technocritique « Mais où va le web ? ». Tous les deux, ont créé l&#39;association Le Mouton Numérique qui met en lumière les enjeux sociaux, politiques et environnementaux du numérique et des nouvelles technologies. Ils sont les auteurs du livre Technologies partout, démocratie nulle part, Plaidoyer pour que les choix technologiques deviennent l’affaire de tous.</content>
+	</entry>
+	
+	<entry>
+		<title>Concilier progrès technique et urgence climatique</title>
+		<link href="https://techologie.net/episodes/36-concilier-progres-technique-et-urgence-climatique-avec-pierre-beyssac/"/>
+		<updated>2020-09-24T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/36-concilier-progres-technique-et-urgence-climatique-avec-pierre-beyssac/</id>
+		<content type="html">Pierre Beyssac est informaticien depuis les années 1980, porte-parole du parti pirate, cofondateur de Gandi et eu.org, actif sur les débats tech. Nous le recevons pour parler de l&#39;impact environnemental du numérique et de la 5G.</content>
+	</entry>
+	
+	<entry>
+		<title>Évaluer la performance environnementale des services numériques</title>
+		<link href="https://techologie.net/episodes/35-performance-environnementale-services-numeriques/"/>
+		<updated>2020-06-23T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/35-performance-environnementale-services-numeriques/</id>
+		<content type="html">Caroline Vateau est directrice département Numérique Responsable de APL Data Center et secrétaire générale de l&#39;association Alliance Green IT. On parle de son parcours dans le domaine de l&#39;énergie, de sa création de son entreprise Neutreo dans le domaine du numérique responsable, de l&#39;association Alliance Green IT, du projet NegaOctet et bien sûr des impacts environnementaux du numérique notamment ceux des data center et du cloud.</content>
+	</entry>
+	
+	<entry>
+		<title>Un institut pour promouvoir un numérique responsable</title>
+		<link href="https://techologie.net/episodes/34-un-institut-pour-promouvoir-un-numerique-responsable/"/>
+		<updated>2020-06-05T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/34-un-institut-pour-promouvoir-un-numerique-responsable/</id>
+		<content type="html">Vincent Courboulay est maitre de conférences à La Rochelle Université et directeur scientifique de l&#39;Institut du Numérique Responsable.</content>
+	</entry>
+	
+	<entry>
+		<title>Covid-19, produire plus de respirateurs pour sauver des vies</title>
+		<link href="https://techologie.net/episodes/33-covid-19-produire-plus-de-respirateurs-pour-sauver-des-vies/"/>
+		<updated>2020-04-21T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/33-covid-19-produire-plus-de-respirateurs-pour-sauver-des-vies/</id>
+		<content type="html">Pierre Roth dit Peio est développeur chez Eove, une entreprise qui produit des respirateurs, installée à Pau. Il nous parle de son quotidien qui a été bouleversé par l&#39;arrivée du Covid-19, comment protéger l&#39;équipe de production, créer une seconde équipe et travailler le samedi pour répondre à la demande.</content>
+	</entry>
+	
+	<entry>
+		<title>Économie circulaire, innovation sociale et réemploi de smartphones</title>
+		<link href="https://techologie.net/episodes/32-economie-circulaire-innovation-reemploi-de-smartphones/"/>
+		<updated>2020-04-13T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/32-economie-circulaire-innovation-reemploi-de-smartphones/</id>
+		<content type="html">Rencontre avec Cyril Desmidt avec qui nous parlons logiciels libres, innovation sociale, réemploi d&#39;équipements électroniques, transition numérique et écologique, économie circulaire, recylcage, low-tech, écoconception, épuisement de ressources et même sérendipité.</content>
+	</entry>
+	
+	<entry>
+		<title>Une plateforme vidéo dédiée à la transition</title>
+		<link href="https://techologie.net/episodes/31-une-plateforme-video-dediee-a-la-transition/"/>
+		<updated>2020-03-11T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/31-une-plateforme-video-dediee-a-la-transition/</id>
+		<content type="html">Nicolas a cofondé Imago, la plateforme de vidéos et de podcasts dédiée à la transition et lancée en janvier 2019. On parle du monde de l&#39;audiovisuel, l&#39;arrivée du streaming.</content>
+	</entry>
+	
+	<entry>
+		<title>Conspiration positive pour futurs souhaitables</title>
+		<link href="https://techologie.net/episodes/30-conspiration-positive-pour-futurs-souhaitables/"/>
+		<updated>2020-03-03T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/30-conspiration-positive-pour-futurs-souhaitables/</id>
+		<content type="html">Stéphanie Matharet est directrice artistique. Elle nous raconte sa découverte par hasard des conspirateurs positifs et des formations de l&#39;Institut des Futurs Souhaitables.</content>
+	</entry>
+	
+	<entry>
+		<title>La 5G, impact environnemental et pertinence économique</title>
+		<link href="https://techologie.net/episodes/29-la-5g-impact-environnemental-et-pertinence-economique/"/>
+		<updated>2020-02-25T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/29-la-5g-impact-environnemental-et-pertinence-economique/</id>
+		<content type="html">Dans une tribune dans le Monde début janvier 2020, Hugues Ferreboeuf et Jean-Marc Jancovici du Shift Project pose la question : « La 5G est-elle vraiment utile ? ». Alors qu’augmenter la durée d’utilisation des smartphones est primordial pour réduire leur empreinte carbone, l’apparition de la 5G accélérerait leur remplacement. L&#39;impact environnemental est aussi à l&#39;installation des antennes et à l&#39;usage, c&#39;est à dire la consommation d&#39;électricité, qui selon le Shift Project sera multipliée par 2,5 à 3 dans les cinq ans à venir. Hugues Ferreboeuf, directeur du projet « Lean ICT » au sein du Shift Project est venu répondre à nos questions sur la 5G.</content>
+	</entry>
+	
+	<entry>
+		<title>Un écosyndicat qui concilie transition écologique et justice sociale</title>
+		<link href="https://techologie.net/episodes/28-un-ecosyndicat-qui-concilie-transition-ecologique-et-justice-sociale/"/>
+		<updated>2020-02-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/28-un-ecosyndicat-qui-concilie-transition-ecologique-et-justice-sociale/</id>
+		<content type="html">Maxime Blondeau a cofondé l&#39;association Printemps Écologique dont le but est de construire le premier écosyndicat de l&#39;histoire et accélérer la transition écologique par la négociation collective.</content>
+	</entry>
+	
+	<entry>
+		<title>Design et numérique en temps de crise environnementale</title>
+		<link href="https://techologie.net/episodes/27-design-et-numerique-en-temps-de-crise-environnementale/"/>
+		<updated>2020-02-03T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/27-design-et-numerique-en-temps-de-crise-environnementale/</id>
+		<content type="html">Gauthier Roussilhe est designer et chercheur. Il travaille sur un design et un numérique soutenables dans un monde confronté à une crise environnementale majeure.</content>
+	</entry>
+	
+	<entry>
+		<title>Évaluer l&#39;impact environnemental des gestes du quotidien</title>
+		<link href="https://techologie.net/episodes/26-evaluer-limpact-environnemental-des-gestes-du-quotidien/"/>
+		<updated>2020-01-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/26-evaluer-limpact-environnemental-des-gestes-du-quotidien/</id>
+		<content type="html">Maël Thomas est développeur dans une startup d&#39;état. Il a créé un outil en ligne pour évaluer l&#39;impact de chaque geste du quotidien.</content>
+	</entry>
+	
+	<entry>
+		<title>Pour un réveil écologique</title>
+		<link href="https://techologie.net/episodes/25-pour-un-reveil-ecologique/"/>
+		<updated>2020-01-03T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/25-pour-un-reveil-ecologique/</id>
+		<content type="html">Antoine Trouche est membre de Pour un Réveil écologique, collectif qui est né dans la continuité du Manifeste Étudiant pour un Réveil Écologique, lancé en septembre 2018 et signé par près de 30 000 étudiants. Aujourd&#39;hui le collectif travaille sur deux axes : réveiller son employeur et réveiller sa formation.</content>
+	</entry>
+	
+	<entry>
+		<title>Agir pour la biodiversité marine en adoptant un corail</title>
+		<link href="https://techologie.net/episodes/24-agir-pour-la-biodiversite-marine-en-adoptant-un-corail/"/>
+		<updated>2019-12-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/24-agir-pour-la-biodiversite-marine-en-adoptant-un-corail/</id>
+		<content type="html">Découvrez l&#39;ONG Coral Guardian avec Coco, responsable communication, Ruxandra chargée de projet terrain et co-directrice scientifique et Audrey, responsable partenariat.</content>
+	</entry>
+	
+	<entry>
+		<title>Anthropocène et futurs souhaitables</title>
+		<link href="https://techologie.net/episodes/23-anthropocene-et-futurs-souhaitables/"/>
+		<updated>2019-11-19T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/23-anthropocene-et-futurs-souhaitables/</id>
+		<content type="html">Marie-Cécile Godwin Paccard et Thomas di Luccio sont designers. Ils ont créé le think-tank Common Future(s). Nous les avons rencontré au ForumPHP 2019 où ils donnaient une conférence Façonner des futurs souhaitables : concevoir à l&#39;ère de l&#39;anthropocène.</content>
+	</entry>
+	
+	<entry>
+		<title>Un smartphone éthique, réparable et en location</title>
+		<link href="https://techologie.net/episodes/22-un-smartphone-ethique-reparable-et-en-location/"/>
+		<updated>2019-11-06T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/22-un-smartphone-ethique-reparable-et-en-location/</id>
+		<content type="html">Adrien Montagut a cofondé Commown, une coopérative d&#39;intérêt collectif qui propose des smartphone et des pc en location. Vous n&#39;êtes plus propriétaires de ces biens mais vous êtes clients d&#39;un service. C&#39;est ce qu&#39;on appelle l&#39;économie de la fonctionnalité. On parle avec Adrien de l&#39;impact environnemental de la production, de l&#39;usage et de fin de vie de nos smartphones, quelles sont les solutions pour réduire ces impacts. On parle aussi d&#39;activisme, de désobéissance civile et de décrochage de portraits.</content>
+	</entry>
+	
+	<entry>
+		<title>L’insoutenable usage de la vidéo en ligne</title>
+		<link href="https://techologie.net/episodes/21-insoutenable-usage-video/"/>
+		<updated>2019-10-29T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/21-insoutenable-usage-video/</id>
+		<content type="html">Maxime Efoui-Hess est ingénieur et chef de projet au sein du Shift Project sur les questions numériques. Nous l&#39;avons rencontré lors des ateliers du Shift fin septembre 2019.</content>
+	</entry>
+	
+	<entry>
+		<title>Sobriété numérique, les clés pour agir</title>
+		<link href="https://techologie.net/episodes/20-sobriete-numerique-les-cles-pour-agir/"/>
+		<updated>2019-10-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/20-sobriete-numerique-les-cles-pour-agir/</id>
+		<content type="html">Frédéric Bordage est un expert green IT, éco-conception et la conception responsable des services numériques. Nous l&#39;avions déjà rencontré lors d&#39;un précédent épisode. Il nous parle cette fois de son livre Sobriété numérique, les clés pour agir sorti le 10 septembre 2019.</content>
+	</entry>
+	
+	<entry>
+		<title>Une vie engagée et un ordinateur low tech mais pas bidon</title>
+		<link href="https://techologie.net/episodes/19-une-vie-engagee-et-un-ordinateur-lowtech-mais-pas-bidon/"/>
+		<updated>2019-10-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/19-une-vie-engagee-et-un-ordinateur-lowtech-mais-pas-bidon/</id>
+		<content type="html">Romain Chanut, nomade depuis quelques mois, se décrit comme facilitateur et DJ. Il est aussi le cofondateur de Jerry Do it together, un ordinateur dans un bidon fait à base d&#39;éléments récupérés. On y parle de low tech, un peu de politique mais aussi d&#39;Extinction Rebellion.</content>
+	</entry>
+	
+	<entry>
+		<title>Un smartphone éthique et réparable</title>
+		<link href="https://techologie.net/episodes/18-un-smartphone-ethique-et-reparable/"/>
+		<updated>2019-09-24T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/18-un-smartphone-ethique-et-reparable/</id>
+		<content type="html">Agnès Crépet est développeuse chez Fairphone, membre des Duchess France, une association pour valoriser les femmes développeuses et cofondatrice de la conférence MIX-IT.</content>
+	</entry>
+	
+	<entry>
+		<title>La tech pour redonner du pouvoir aux agriculteurs</title>
+		<link href="https://techologie.net/episodes/17-la-tech-pour-redonner-du-pouvoir-aux-agriculteurs/"/>
+		<updated>2019-09-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/17-la-tech-pour-redonner-du-pouvoir-aux-agriculteurs/</id>
+		<content type="html">Solene est cofondatrice et directrice produit de Perfarmer, une application mobile qui permet aux agriculteurs de vendre au bon moment.</content>
+	</entry>
+	
+	<entry>
+		<title>S&#39;inspirer de la permaculture dans la vie en entreprise</title>
+		<link href="https://techologie.net/episodes/16-sinspirer-de-la-permaculture/"/>
+		<updated>2019-08-30T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/16-sinspirer-de-la-permaculture/</id>
+		<content type="html">Nathaniel Richand, ancien développeur, est maintenant coach agile. En voulant sortir de sa bulle, il découvre un peu par hasard la permaculture. Il nous raconte cette rencontre et comment il a assez vite fait le lien entre permaculture et pratiques agiles.</content>
+	</entry>
+	
+	<entry>
+		<title>Le rapprochement domicile - travail pour réduire l&#39;impact carbone</title>
+		<link href="https://techologie.net/episodes/15-le-rapprochement-domicile-travail-pour-reduire-limpact-carbone/"/>
+		<updated>2019-07-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/15-le-rapprochement-domicile-travail-pour-reduire-limpact-carbone/</id>
+		<content type="html">Laure Wagner travaille dans la mobilité depuis plus de 10 ans notamment chez Blablacar. Elle lance 1km à Pied, pour démocratiser la réalisation de diagnostic mobilité sur la base de fichiers RH et pour identifier des solutions de réduction des trajets, ce qui est à la fois bénéfique pour les entreprises, les salariés et l&#39;environnement.</content>
+	</entry>
+	
+	<entry>
+		<title>Développer un service de streaming musical coopératif</title>
+		<link href="https://techologie.net/episodes/14-developper-un-service-de-streaming-cooperatif/"/>
+		<updated>2019-06-27T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/14-developper-un-service-de-streaming-cooperatif/</id>
+		<content type="html">Marie Gauthier est développeuse et contribue depuis 2016 au lancement du service de streaming musical Resonate. Cette coopérative appartient aux musiciens, labels indépendants, fans et développeurs.</content>
+	</entry>
+	
+	<entry>
+		<title>Le numérique responsable, outil de résilience</title>
+		<link href="https://techologie.net/episodes/13-numerique-responsable-outil-de-resilience/"/>
+		<updated>2019-05-23T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/13-numerique-responsable-outil-de-resilience/</id>
+		<content type="html">Frédéric Bordage a été développeur, directeur technique, consultant et journaliste. En 2004, il a créé le blog greenit.fr afin de rassembler une communauté autour du green IT, ensuite sur l&#39;éco-conception et la conception responsable des services numériques.</content>
+	</entry>
+	
+	<entry>
+		<title>Recycler les déchets d&#39;entreprise</title>
+		<link href="https://techologie.net/episodes/12-recycler-dechets-entreprise/"/>
+		<updated>2019-05-17T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/12-recycler-dechets-entreprise/</id>
+		<content type="html">Julien est ingénieur et a cofondé Urbyn, une startup dont l&#39;objectif est de réduire l&#39;impact environnemental des entreprises en accélérant leur transition vers l&#39;économie circulaire. Et cela passe par une meilleure gestion des déchets et de leur recyclage.</content>
+	</entry>
+	
+	<entry>
+		<title>Mesurer la consommation énergétique des apps et sites web</title>
+		<link href="https://techologie.net/episodes/11-mesurer-la-consommation-energetique-des-apps-et-sites-web/"/>
+		<updated>2019-04-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/11-mesurer-la-consommation-energetique-des-apps-et-sites-web/</id>
+		<content type="html">Olivier Philippot est développeur depuis 20 ans, dans différentes technologies, embarquées et mobile notamment. Lors de ses années universitaires, il a fait de la recherche sur les batteries et la gestion de l&#39;énergie. Aujourd&#39;hui il est cofondateur de Greenspector, une startup installée à Nantes. Nous allons parler de comment mesurer la consommation énergétique de nos sites web et applications.</content>
+	</entry>
+	
+	<entry>
+		<title>Nuit du code citoyen et la tech au service de l&#39;intérêt général</title>
+		<link href="https://techologie.net/episodes/10-nuit-du-code-citoyen-tech-for-good/"/>
+		<updated>2019-03-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/10-nuit-du-code-citoyen-tech-for-good/</id>
+		<content type="html">Dans cet épisode, on est à la Nuit du Code citoyen à Paris qui s&#39;est tenue le vendredi 15 mars 2019. On est avec Yannick Morel, co-fondateur de Latitudes, association loi 1901 qui accompagne et encourage l&#39;utilisation des technologies au service de l&#39;intérêt général.</content>
+	</entry>
+	
+	<entry>
+		<title>Les cryptomonnaies sont-elles réellement énergivores ?</title>
+		<link href="https://techologie.net/episodes/9-les-cryptomonnaies-sont-elles-reellement-energivores/"/>
+		<updated>2019-03-14T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/9-les-cryptomonnaies-sont-elles-reellement-energivores/</id>
+		<content type="html">Jean-Baptiste Dusseaut est eXtreme programmeur depuis plus de 16 ans, architecte logiciel chez LGO, co-fondateur d&#39;Arpinum, co-organisateur de l&#39;Agile Tour Bordeaux et également enseignant. Nous abordons le sujet de la consommation d&#39;énergie des cryptomonnaies notamment le BitCoin mais aussi les usages de la Blockchain, le bullshit marketing, la spéculation et les idées reçues autour de cette technologie.</content>
+	</entry>
+	
+	<entry>
+		<title>Design pour une résilience face à l&#39;effondrement</title>
+		<link href="https://techologie.net/episodes/8-design-pour-une-resilience-face-a-l-effondrement/"/>
+		<updated>2019-03-08T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/8-design-pour-une-resilience-face-a-l-effondrement/</id>
+		<content type="html">Geoffrey Dorne est designer indépendant depuis 2005 et fondateur de Design &amp; Human, agence de design à vocation sociale et qui vise l’indépendance. Il a donné une conférence très inspirante à BlendWebMix 2018, « Pour un design de l’indépendance ». Il nous parle des métiers de la conception (designer, développeurs notamment) et comment ré-affecter ces métiers pour préparer les gens, les utilisateurs de nos produits, à plus de résilience face à l&#39;effondrement de notre civilisation.</content>
+	</entry>
+	
+	<entry>
+		<title>Se sensibiliser au numérique responsable</title>
+		<link href="https://techologie.net/episodes/7-se-sensibiliser-au-numerique-responsable/"/>
+		<updated>2019-03-01T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/7-se-sensibiliser-au-numerique-responsable/</id>
+		<content type="html">Bela a fondé l&#39;association Point de M.I.R, Maison de l&#39;Informatique Responsable qui organise des ateliers et évènements autour de cette thématique.</content>
+	</entry>
+	
+	<entry>
+		<title>Pour un manifeste écologique des professionnels de l&#39;informatique</title>
+		<link href="https://techologie.net/episodes/6-manifeste-ecologique-des-professionnels-de-l-informatique/"/>
+		<updated>2019-02-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/6-manifeste-ecologique-des-professionnels-de-l-informatique/</id>
+		<content type="html">Jean-François Fourmond est développeur Java indépendant. Il souhaite s&#39;engager pour limiter le réchauffement climatique en lançant un manifeste dédié aux professionnels de l&#39;informatique. Il a besoin d&#39;aide pour finaliser ce manifeste et communiquer.</content>
+	</entry>
+	
+	<entry>
+		<title>Pour une sobriété numérique</title>
+		<link href="https://techologie.net/episodes/5-pour-une-sobriete-numerique/"/>
+		<updated>2019-01-25T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/5-pour-une-sobriete-numerique/</id>
+		<content type="html">Xavier Verne est directeur projet à la SNCF, agrégé de mathématiques et membre du think tank The Shift Project. Il nous parle du rapport publié en octobre dernier « Pour une sobriété numérique », l’impact environnemental du numérique et les leviers d&#39;action.</content>
+	</entry>
+	
+	<entry>
+		<title>Coder, designer pour quel futur ?</title>
+		<link href="https://techologie.net/episodes/4-coder-designer-pour-quel-futur/"/>
+		<updated>2019-01-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/4-coder-designer-pour-quel-futur/</id>
+		<content type="html">Le 15 janvier 2019, au meetup HumanTalks Paris - humantalks.com, j&#39;ai présenté ce sujet et parler du podcast.</content>
+	</entry>
+	
+	<entry>
+		<title>Permaculture et agilité</title>
+		<link href="https://techologie.net/episodes/3-permaculture-et-agilite/"/>
+		<updated>2018-12-28T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/3-permaculture-et-agilite/</id>
+		<content type="html">Nicolas Bétheuil est développeur. Il a appris simultanément la permaculture dans sa vie personnel et l&#39;agilité dans sa vie professionnelle. Il a remarqué de nombreuses similitudes entre agriculture respectueuse de la nature et l&#39;agilité en entreprise, notamment les pratiques Scrum et XP, Extreme Programming.</content>
+	</entry>
+	
+	<entry>
+		<title>Impact écologique, que faire en tant que professionnel du web</title>
+		<link href="https://techologie.net/episodes/2-impact-ecologique-que-faire-en-tant-que-professionnel-du-web/"/>
+		<updated>2018-12-17T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/2-impact-ecologique-que-faire-en-tant-que-professionnel-du-web/</id>
+		<content type="html">Raphaël Lemaire est développeur et sensibilisé depuis des années à l&#39;éco-conception. Que faire en tant que développeur ou professionnel du web pour réduire l&#39;impact de nos produits sur l&#39;environnement et la consommation énergétique ?</content>
+	</entry>
+	
+	<entry>
+		<title>Coder et designer pour un futur incertain</title>
+		<link href="https://techologie.net/episodes/1-coder-et-designer-pour-un-futur-incertain/"/>
+		<updated>2018-12-13T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/1-coder-et-designer-pour-un-futur-incertain/</id>
+		<content type="html">Marie-Cécile Paccard est designer et auteure des articles S&#39;éveiller à l&#39;effondrement et Design pour un futur incertain. On parle d&#39;effondrement et d&#39;éco-conception dans le design et le développement web ou logiciel.</content>
+	</entry>
 </feed>
