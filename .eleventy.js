@@ -42,6 +42,11 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
   });
 
+  eleventyConfig.addCollection('episodesAndNewsletters', function(collectionApi) {
+    return [...collectionApi.getFilteredByTag('newsletter'), ...collectionApi.getFilteredByTag('episode')].sort(function(a, b){
+      return new Date(b.date) - new Date(a.date);
+    });
+  });
 
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {

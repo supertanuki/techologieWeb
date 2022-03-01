@@ -15,13 +15,13 @@ eleventyExcludeFromCollections: true
     "url": "{{ metadata.author.url }}"
   },
   "items": [
-    {%- for post in collections.posts | reverse %}
+    {%- for post in collections.episodesAndNewsletters %}
     {%- set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset -%}
     {
       "id": "{{ absolutePostUrl }}",
       "url": "{{ absolutePostUrl }}",
       "title": "{{ post.data.title }}",
-      "content_html": {% if post.templateContent %}{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | dump | safe }}{% else %}""{% endif %},
+      "content_html": {% if post.data.description or post.templateContent %}{{ post.data.description or post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | dump | safe }}{% else %}""{% endif %},
       "date_published": "{{ post.date | rssDate }}"
     }
     {%- if not loop.last -%}
