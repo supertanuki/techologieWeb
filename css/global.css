@@ -123,7 +123,7 @@ main .label span {
 .episodes li .description {
     padding: 10px;
 }
-.episodes li h2 {
+.episodes li h2, .episodes li h3 {
 	font-size: 21px;
 	font-weight: bold;
 	margin: 0;

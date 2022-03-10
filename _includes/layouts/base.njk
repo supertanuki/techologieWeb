@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="{% if lang == 'en' %}en{% else %}fr{% endif %}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -49,11 +49,14 @@
           <li>
             <a href="{{ '/a-propos/' | url }}" {% if '/a-propos/' == page.url %}aria-current="page"{% endif %}>À propos</a>
           </li>
+          <li>
+            <a href="{{ '/en/' | url }}" {% if '/en/' == page.url %}aria-current="page"{% endif %}>English</a>
+          </li>
         </ul>
       </nav>
     </header>
 
-    <main class="{% if page.url != '/episodes/' %}centered{% endif %}">
+    <main class="{% if page.url not in ['/episodes/', '/en/'] %}centered{% endif %}">
       {{ content | safe }}
     </main>
 

@@ -7,7 +7,11 @@ layout: layouts/base.njk
 <h1>{{title}}</h1>
 
 <p class="published">
-  Épisode {{episode_number}} publié le {{date | toFrenchDate}}
+  {% if lang == 'en' %}
+    <a href="/en">Episodes</a> &gt; published on {{date | readableDate}}
+  {% else %}
+    Épisode {{episode_number}} publié le {{date | toFrenchDate}}
+  {% endif %}
 </p>
 
 <p>
@@ -21,22 +25,25 @@ layout: layouts/base.njk
 <p>{{description | safe}}</p>
 
 <p class="listen">
-  <span role="img" aria-label="">
-    🎧
-  </span>
-  <a
-    href="{{audio_link | safe}}"
-    title="Écouter l'épisode {{title | safe}} sur Soundcloud"
-  >
-    Écouter
-  </a>
+  {% if lang == 'en' %}
+    <a href="{{audio_link | safe}}" title="Listen {{title | safe}} on Soundcloud" class="focus">
+      Listen
+    </a>
+  {% else %}
+    <a href="{{audio_link | safe}}" title="Écouter l'épisode {{title | safe}} sur Soundcloud" class="focus">
+      Écouter
+    </a>
+  {% endif %}
 </p>
 
 {{ content | safe }}
 
 <p>
-  En écoutant cet épisode, vous téléchargerez
-  {{audio_size_in_megabyte}} Mo de données.
+  {% if lang == 'en' %}
+    By listening to this episode, you will download {{audio_size_in_megabyte}} MB of data.
+  {% else %}
+    En écoutant cet épisode, vous téléchargerez {{audio_size_in_megabyte}} Mo de données.
+  {% endif %}
 </p>
 
 {# "/" final à supprimer dans page.url

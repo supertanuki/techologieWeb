@@ -4,6 +4,7 @@ title: "Sustainable development viewed from England"
 people: "Nick Lewis"
 description: "We switch to the other side of the Channel to talk to Nick Lewis who initiated the the-sustainable.dev website."
 date: 2021-01-11
+lang: en
 image: "/img/episodes/41-nick-lewis.jpg"
 audio_link: "https://soundcloud.com/techologie/41-sustainable-development-viewed-from-england-with-nick-lewis"
 audio_size_in_megabyte: 21
