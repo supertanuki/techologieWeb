@@ -10,14 +10,14 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
-      "id": "https://techologie.net/episodes/64-materialite-du-numerique-et-externalites-minieres/",
-      "url": "https://techologie.net/episodes/64-materialite-du-numerique-et-externalites-minieres/",
-      "title": "Matérialité du numérique et externalités minières",
-      "content_html": Aurore Stéphant est ingénieure géologue minier, spécialisée dans les risques environnementaux et sanitaires de l&#39;industrie minière. Elle est cofondatrice de l&#39;association SystExt(Systèmes extractifs et Environnements) qui regroupe des professionnels en activité ayant un intérêt commun pour les systèmes extractifs, en particulier miniers, et des compétences pour s&#39;approprier les problématiques techniques associées à ces activités. Nous avons discuté de ce qu&#39;est l&#39;industrie minière et les particularités liés aux métaux nécessaires au numérique.,
-      "date_published": "2022-03-17T00:00:00Z"
-    },{
       "id": "https://techologie.net/episodes/65-enjeux-environnementaux-de-la-souverainete-numerique/",
       "url": "https://techologie.net/episodes/65-enjeux-environnementaux-de-la-souverainete-numerique/",
+      "title": "Enjeux environnementaux de la souveraineté numérique et interdépendance",
+      "content_html": Ophélie Coelho est chercheuse indépendante en géopolitique du numérique, à l&#39;Institut Rousseau.,
+      "date_published": "2022-03-29T00:00:00Z"
+    },{
+      "id": "https://techologie.net/episodes/64-materialite-du-numerique-et-externalites-minieres/",
+      "url": "https://techologie.net/episodes/64-materialite-du-numerique-et-externalites-minieres/",
       "title": "Matérialité du numérique et externalités minières",
       "content_html": Aurore Stéphant est ingénieure géologue minier, spécialisée dans les risques environnementaux et sanitaires de l&#39;industrie minière. Elle est cofondatrice de l&#39;association SystExt(Systèmes extractifs et Environnements) qui regroupe des professionnels en activité ayant un intérêt commun pour les systèmes extractifs, en particulier miniers, et des compétences pour s&#39;approprier les problématiques techniques associées à ces activités. Nous avons discuté de ce qu&#39;est l&#39;industrie minière et les particularités liés aux métaux nécessaires au numérique.,
       "date_published": "2022-03-17T00:00:00Z"
