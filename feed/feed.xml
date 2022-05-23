@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2022-04-25T08:23:45Z</updated>
+	<updated>2022-05-23T19:46:19Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Pour une écologie décoloniale du numérique</title>
+		<link href="https://techologie.net/episodes/67-pour-une-ecologie-decoloniale-du-numerique/"/>
+		<updated>2022-05-24T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/67-pour-une-ecologie-decoloniale-du-numerique/</id>
+		<content type="html">David Maenda Kithoko est cofondateur et président de Génération Lumière, une association écologiste et de solidarité internationale qui agit en France et dans la région des Grands Lacs en Afrique de l&#39;Est. Originaire de la République Démocratique du Congo, il est réfugié politique en France. Il nous raconte son histoire et ses combats pour une prise de conscience des liens entre numérique, colonialisme, minerais de sang et conflits en République Démocratique du Congo et plus largement en Afrique.</content>
+	</entry>
 	
 	<entry>
 		<title>Actions des régulateurs des télécoms sur l&#39;empreinte du numérique</title>
