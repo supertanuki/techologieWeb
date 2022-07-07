@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/68-limites-efficacite-energetique/",
+      "url": "https://techologie.net/episodes/68-limites-efficacite-energetique/",
+      "title": "Les limites à l&#39;efficacité énergétique",
+      "content_html": Anne-Cécile Orgerie est chargée de Recherche CNRS à l&#39;IRISA de Rennes (Institut de Recherche en Informatique et Systèmes Aléatoires). Membre d&#39;EcoInfo, ses principaux sujets de recherche sont l&#39;efficacité énergétique dans les systèmes distribués, le cloud computing, les réseaux et les smart grids.,
+      "date_published": "2022-07-06T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/67-pour-une-ecologie-decoloniale-du-numerique/",
       "url": "https://techologie.net/episodes/67-pour-une-ecologie-decoloniale-du-numerique/",
       "title": "Pour une écologie décoloniale du numérique",

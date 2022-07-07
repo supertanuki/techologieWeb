@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2022-06-05T10:21:27Z</updated>
+	<updated>2022-07-07T19:19:09Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Les limites à l&#39;efficacité énergétique</title>
+		<link href="https://techologie.net/episodes/68-limites-efficacite-energetique/"/>
+		<updated>2022-07-06T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/68-limites-efficacite-energetique/</id>
+		<content type="html">Anne-Cécile Orgerie est chargée de Recherche CNRS à l&#39;IRISA de Rennes (Institut de Recherche en Informatique et Systèmes Aléatoires). Membre d&#39;EcoInfo, ses principaux sujets de recherche sont l&#39;efficacité énergétique dans les systèmes distribués, le cloud computing, les réseaux et les smart grids.</content>
+	</entry>
 	
 	<entry>
 		<title>Pour une écologie décoloniale du numérique</title>
