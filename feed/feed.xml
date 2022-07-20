@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2022-07-12T19:11:53Z</updated>
+	<updated>2022-07-20T10:16:09Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Guide d&#39;écoconception de services numériques</title>
+		<link href="https://techologie.net/episodes/69-guide-decoconception-de-services-numeriques/"/>
+		<updated>2022-07-13T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/69-guide-decoconception-de-services-numeriques/</id>
+		<content type="html">Anne Faubry et Aurélie Baton sont toutes les deux designers, membres de l&#39;association Designers Ethiques. Elles nous présentent leur bifurcation professionnelle et les travaux sur le guide d&#39;écoconception de services numériques.</content>
+	</entry>
 	
 	<entry>
 		<title>Les limites à l&#39;efficacité énergétique</title>

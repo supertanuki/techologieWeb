@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/69-guide-decoconception-de-services-numeriques/",
+      "url": "https://techologie.net/episodes/69-guide-decoconception-de-services-numeriques/",
+      "title": "Guide d&#39;écoconception de services numériques",
+      "content_html": Anne Faubry et Aurélie Baton sont toutes les deux designers, membres de l&#39;association Designers Ethiques. Elles nous présentent leur bifurcation professionnelle et les travaux sur le guide d&#39;écoconception de services numériques.,
+      "date_published": "2022-07-13T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/68-limites-efficacite-energetique/",
       "url": "https://techologie.net/episodes/68-limites-efficacite-energetique/",
       "title": "Les limites à l&#39;efficacité énergétique",
