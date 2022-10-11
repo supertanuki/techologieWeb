@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/70-techno-luttes-les-nouveaux-visages-de-la-technocritique/",
+      "url": "https://techologie.net/episodes/70-techno-luttes-les-nouveaux-visages-de-la-technocritique/",
+      "title": "Techno-luttes, les nouveaux visages de la technocritique",
+      "content_html": Nicolas Celnik est journaliste et co-auteur avec Fabien Benoit de Techno-luttes, enquête sur ceux qui résistent à la technologie, aux éditions du Seuil en partenariat avec Reporterre.,
+      "date_published": "2022-10-07T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/69-guide-decoconception-de-services-numeriques/",
       "url": "https://techologie.net/episodes/69-guide-decoconception-de-services-numeriques/",
       "title": "Guide d&#39;écoconception de services numériques",

@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2022-10-11T21:15:29Z</updated>
+	<updated>2022-10-11T21:21:17Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Techno-luttes, les nouveaux visages de la technocritique</title>
+		<link href="https://techologie.net/episodes/70-techno-luttes-les-nouveaux-visages-de-la-technocritique/"/>
+		<updated>2022-10-07T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/70-techno-luttes-les-nouveaux-visages-de-la-technocritique/</id>
+		<content type="html">Nicolas Celnik est journaliste et co-auteur avec Fabien Benoit de Techno-luttes, enquête sur ceux qui résistent à la technologie, aux éditions du Seuil en partenariat avec Reporterre.</content>
+	</entry>
 	
 	<entry>
 		<title>Guide d&#39;écoconception de services numériques</title>
