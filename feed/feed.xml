@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2022-10-11T21:25:38Z</updated>
+	<updated>2022-12-03T13:57:50Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Un ordinateur réparable</title>
+		<link href="https://techologie.net/episodes/71-ordinateur-reparable/"/>
+		<updated>2022-11-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/71-ordinateur-reparable/</id>
+		<content type="html">François Marthaler est un ancien Conseiller d’État vert vaudois en Suisse et fondateur de Why! Open Computing, une entreprise qui propose des ordinateurs réparables.</content>
+	</entry>
 	
 	<entry>
 		<title>Techno-luttes, les nouveaux visages de la technocritique</title>

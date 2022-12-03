@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/71-ordinateur-reparable/",
+      "url": "https://techologie.net/episodes/71-ordinateur-reparable/",
+      "title": "Un ordinateur réparable",
+      "content_html": François Marthaler est un ancien Conseiller d’État vert vaudois en Suisse et fondateur de Why! Open Computing, une entreprise qui propose des ordinateurs réparables.,
+      "date_published": "2022-11-22T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/70-techno-luttes-les-nouveaux-visages-de-la-technocritique/",
       "url": "https://techologie.net/episodes/70-techno-luttes-les-nouveaux-visages-de-la-technocritique/",
       "title": "Techno-luttes, les nouveaux visages de la technocritique",
