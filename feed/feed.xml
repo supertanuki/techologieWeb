@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2022-12-03T13:58:12Z</updated>
+	<updated>2023-01-11T08:10:54Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Enjeux environnementaux des sujets émergents</title>
+		<link href="https://techologie.net/episodes/72-enjeux-environnementaux-des-sujets-emergents/"/>
+		<updated>2023-01-10T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/72-enjeux-environnementaux-des-sujets-emergents/</id>
+		<content type="html">Adélaïde Albouy-Kissi est cheffe du Département Informatique Graphique de l&#39;IUT du Puy en Velay de l&#39;Université Clermont Auvergne. Elle est aussi chargée de la Prospective et Sujets Émergents à l&#39;Institut du Numérique Responsable France.</content>
+	</entry>
 	
 	<entry>
 		<title>Un ordinateur réparable</title>

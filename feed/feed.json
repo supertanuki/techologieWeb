@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/72-enjeux-environnementaux-des-sujets-emergents/",
+      "url": "https://techologie.net/episodes/72-enjeux-environnementaux-des-sujets-emergents/",
+      "title": "Enjeux environnementaux des sujets émergents",
+      "content_html": Adélaïde Albouy-Kissi est cheffe du Département Informatique Graphique de l&#39;IUT du Puy en Velay de l&#39;Université Clermont Auvergne. Elle est aussi chargée de la Prospective et Sujets Émergents à l&#39;Institut du Numérique Responsable France.,
+      "date_published": "2023-01-10T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/71-ordinateur-reparable/",
       "url": "https://techologie.net/episodes/71-ordinateur-reparable/",
       "title": "Un ordinateur réparable",
