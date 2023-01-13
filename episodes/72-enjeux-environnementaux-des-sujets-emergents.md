@@ -55,7 +55,7 @@ C'est d'abord une prise de de conscience au travers de différentes lectures et 
 Et aujourd'hui, en fait, je navigue entre deux eaux, je continue à travailler à l'INR sur les questions de d'impact environnemenral du numérique pour le developpement logiciel, centré sur l'IA notamment. Et au sein de mon propre département, je forme les étudiants à l'informatique graphique et aussi à
 l'écoconception
 
-## Tu parlais de lecture. Quel genre de lecture t'ont ouvert les yeux.
+### Tu parlais de lecture. Quel genre de lecture t'ont ouvert les yeux.
 
 Des lectures académiques, typiquement, le dernier livre, d'un chercheur australien qui parle du jeu vidéo au travers du changement climatique. En fait, ça a été très compliqué pour nous dans le secteur de la 3D temps réel et du jeu vidéo de l'informatique graphique de s'y mettre, parce que on a été très longtemps bercé par tout un tas de travaux de sciences de l'éducation où on pouvait changer un monde au travers du jeu.
 
@@ -116,7 +116,7 @@ Il va falloir faire des choix au niveau du jeu vidéo. Il va falloir peut-être 
 
 Et l'utilité sociale, elle doit aussi se voir en miroir avec les problématiques médicales qui sont liés notamment aux addictions aux jeux vidéo notamment. Et aussi aux problèmes qu'on peut rencontrer, lié à des usages persistant de casques notamment de réalité virtuelle dont on sait qu'ils sont un impact réel aussi sur la santé.
 
-## Toi, tu passes combien de temps par jour avec un casque virtuel ?
+### Toi, tu passes combien de temps par jour avec un casque virtuel ?
 
 Je dirais plutôt que je passe du temps et ce temps-là, lui, plutôt par mois. En fait, ce n'est que quelques heures, parce que dans la création d'environnements virtuels avec des moteurs de jeu type Unity ou Unreal, il y a tout un travail de fait d'abord sur PC avant d'arriver en environnement avec un casque. En fait, on travaille le casque, mais en fait en fin, comment dire, quand on a avancé dans la réalisation de l'environnement. Sur l'année universitaire, combien d'heures que je passe dans un casque virtuel, c'est quelques heures.
 
