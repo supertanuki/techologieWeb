@@ -55,7 +55,7 @@ C'est d'abord une prise de de conscience au travers de différentes lectures et 
 Et aujourd'hui, en fait, je navigue entre deux eaux, je continue à travailler à l'INR sur les questions de d'impact environnemenral du numérique pour le developpement logiciel, centré sur l'IA notamment. Et au sein de mon propre département, je forme les étudiants à l'informatique graphique et aussi à
 l'écoconception
 
-### Tu parlais de lecture. Quel genre de lecture t'ont ouvert les yeux.
+### Tu parlais de lecture. Quel genre de lectures t'ont ouvert les yeux ?
 
 Des lectures académiques, typiquement, le dernier livre, d'un chercheur australien qui parle du jeu vidéo au travers du changement climatique. En fait, ça a été très compliqué pour nous dans le secteur de la 3D temps réel et du jeu vidéo de l'informatique graphique de s'y mettre, parce que on a été très longtemps bercé par tout un tas de travaux de sciences de l'éducation où on pouvait changer un monde au travers du jeu.
 
