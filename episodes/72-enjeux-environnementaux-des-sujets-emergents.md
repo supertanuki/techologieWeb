@@ -42,7 +42,7 @@ Bonjour à toutes et tous. Richard Hanna, pour le podcast Techologie. Nous somme
 
 ### Est-ce que tu veux compléter cette présentation et peut-être nous parler ce que c'est l'informatique graphique?
 
-Je me positionne comme une intellectuelle organique, un dans la définition de Gramsci, c'est-à-dire que je modélise tout un tas choses. On en parlera tout à l'heure, mais je travaille aussi de manière concrète dans des lieux avec les gens, et je fais beaucoup d'expérimentations. C'est important pour moi de travailler en proximité. Et donc dans ce cadre-là, j'ai une activité académique, lié à mon statut de maître de conférences en informatique appliquée.
+Je me positionne comme une intellectuelle organique, dans la définition de Gramsci, c'est-à-dire que je modélise tout un tas choses. On en parlera tout à l'heure, mais je travaille aussi de manière concrète dans des lieux avec les gens, et je fais beaucoup d'expérimentations. C'est important pour moi de travailler en proximité. Et donc dans ce cadre-là, j'ai une activité académique, lié à mon statut de maître de conférences en informatique appliquée.
 
 Je travaille aussi en tant qu'expert auprès de la commission européenne sur les questions d'innovation et à l'INR, l'Institut du Numérique Responsable où je vais m'intéresser aux sujets émergents comme l'industrie, produire local, la question des tiers-lieux, aussi la question des communs associés au tiers-lieu, l'IA et l'inclusion numérique.
 
