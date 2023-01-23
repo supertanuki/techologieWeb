@@ -8,8 +8,22 @@ const markdownIt = require("markdown-it");
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     'img': 'img',
-    'css': 'css',
     'CNAME': 'CNAME'
+  });
+
+  eleventyConfig.addTemplateFormats("css");
+  const CleanCSS = require("clean-css");
+  eleventyConfig.addExtension("css", {
+    outputFileExtension: "css",
+    compile: async (inputContent) => {
+      return async () => {
+        return new Promise(resolve => {
+          new CleanCSS({ inline: ['remote'] }).minify(inputContent, (_, data) => {
+            resolve(data.styles)
+          });
+        });
+      };
+    }
   });
 
   // Add plugins
