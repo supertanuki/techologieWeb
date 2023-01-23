@@ -16,14 +16,19 @@ Comment nous, professionnels dans la tech ou dans l'économie du numérique, dé
 
 Le code source de ce site est disponible sur <a href="https://github.com/supertanuki/techologieWeb">Github</a> et les épisodes du podcast sont publiés sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/fr/">Creative Commons CC BY-NC-SA 3.0</a>.
 
+## Quelques stats
+
+* 2022 : 28600 écoutes
+* 2021 : 23600 écoutes
+* 2020 : 20600 écoutes
+* 2019 : 14000 écoutes
 
 <div class="block">
-<p>Comment suivre et donner un coup de pouce à ce podcast ?</p>
+<h2>Comment suivre et donner un coup de pouce à ce podcast ?</h2>
 <ul>
 <li>
 Suivre le podcast sur
-<a href="https://twitter.com/techologieAudio">Twitter</a> ou sur
-<a href="https://www.facebook.com/techologieAudio">Facebook</a>.
+<a href="https://piaille.fr/@techologie">Mastodon</a>.
 </li>
 <li>S'abonner et noter le podcast sur votre plateforme préférée.</li>
 <li>Partager aux amis, collègues, voisins...</li>
