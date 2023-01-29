@@ -20,6 +20,26 @@ Y a t-il d'autres voies professionnelles que celles d'alimenter l'économie de l
 
 Pour parler de tous ces sujets, nous recevons Isabelle Huynh, ingénieur mécanique, qui a fait un pas de côté. Ou peut être même un grand bond de côté, elle va nous raconter cela. Elle a quitté son travail afin de faire le tour du monde des initiatives alternatives et positives. Elle parle "d'ingénierie positive". Dès lors, ce qui l'anime, c'est sensibiliser et accompagner les ingénieurs à changer de voie vers des emplois en phase avec la nécessaire transition écologique et solidaire.
 
+## Sommaire
+
+- Son parcours
+- A quoi ressemble des projets qui font sens ?
+- Qu'est ce que l'ingénierie positive ?
+- Comment répliquer une bonne idée ?
+- Déconstruction de la logique startup, même dans le domaine environnemental et social - se cramer en visant le gain financier à la revente
+- Le statut d'une entreprise, est-ce important ?
+- 90% des ingénieurs travaillent pour le bien être de 10% de la population
+- L'Institut Transitions
+- Bilan de compétences ?
+- Combien coûte une formation, un accompagnement par l'Institut Transitions ?
+- Uniquement ouvert aux lyonnais ? Autres initiatives similaires ailleurs qu'à Lyon ?
+- "Transition", ce terme a toujours un sens ?
+- Pour qui et pour quoi travailler ?
+- Désertion des ingénieurs ?
+- Quel salaire dans la transition écologique et solidaire ?
+- Femmes ingénieures, transition écologique très féminisée
+- Quelles perspectives ?
+
 ## En savoir plus
 
 - Institut Transitions : https://www.instituttransitions.org/
@@ -31,7 +51,6 @@ Pour parler de tous ces sujets, nous recevons Isabelle Huynh, ingénieur mécani
 ## Transcription
 
 ### Extrait
-
 
 Il y avait un manque d'acculturation, d'une certaine façon. Souvent je disais que ça vaudrait la peine de vous immerger dans le milieu de la transition, de comprendre de quoi on parle, quand on parle d'inégalités, de discrimination, de justice écologique, de justice sociale, des choses comme ça, et tout simplement pour que vous soyez à l'aise et pertinent dans ces milieux professionnels.
 
