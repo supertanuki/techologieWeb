@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2023-01-23T12:11:33Z</updated>
+	<updated>2023-01-31T17:41:40Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Accompagner la transition professionnelle écologique et solidaire</title>
+		<link href="https://techologie.net/episodes/73-institut-transitions/"/>
+		<updated>2023-02-01T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/73-institut-transitions/</id>
+		<content type="html">Isabelle Huynh, ingénieur mécanique, a lancé l&#39;Institut Transitions pour tous les profils notamment les ingénieurs qui souhaitent travailler dans le domaine de la transition écologique et solidaire.</content>
+	</entry>
 	
 	<entry>
 		<title>Enjeux environnementaux des sujets émergents</title>

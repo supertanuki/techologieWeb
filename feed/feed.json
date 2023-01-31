@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/73-institut-transitions/",
+      "url": "https://techologie.net/episodes/73-institut-transitions/",
+      "title": "Accompagner la transition professionnelle écologique et solidaire",
+      "content_html": Isabelle Huynh, ingénieur mécanique, a lancé l&#39;Institut Transitions pour tous les profils notamment les ingénieurs qui souhaitent travailler dans le domaine de la transition écologique et solidaire.,
+      "date_published": "2023-02-01T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/72-enjeux-environnementaux-des-sujets-emergents/",
       "url": "https://techologie.net/episodes/72-enjeux-environnementaux-des-sujets-emergents/",
       "title": "Enjeux environnementaux des sujets émergents",
