@@ -8,7 +8,7 @@ image: /img/newsletters/11/robocop.jpg
 
 ## La newsletter green, super green
 
-Coucou, c'est re-nous ! Nous nous étions quittés... l'année dernière. Douze mois sans newsletter, ça va, vous l'avez bien vécu ? Nous, oui. En relisant le précédent numéro de la newsletter, on redécouvre l'entretien exclusif avec l'année 2022 ([https://techologie.net/newsletter/10/)](https://techologie.net/newsletter/10/)) qui annonçait non pas le développement des algorithmes d'intelligence artificielle génératrice de contenus mais bien du retour du walkman-cassettes. L'année 2022 s'est bien plantée, à vrai dire. Bon, on va pas se mentir, il aurait été tentant de réaliser ce numéro en le générant par des robots tout en sirotant une bière de Noël, mais on a préféré faire ça à l'ancienne, avec nos petits doigts à tapoter sur le clavier, le plaid sur les jambes. Bonne lecture et kiffez la life !
+Coucou, c'est re-nous ! Nous nous étions quittés... l'année dernière. Douze mois sans newsletter, ça va, vous l'avez bien vécu ? Nous, oui. En relisant [le précédent numéro de la newsletter, on redécouvre l'entretien exclusif avec l'année 2022](https://techologie.net/newsletter/10/) qui annonçait non pas le développement des algorithmes d'intelligence artificielle génératrice de contenus mais bien du retour du walkman-cassettes. L'année 2022 s'est bien plantée, à vrai dire. Bon, on va pas se mentir, il aurait été tentant de réaliser ce numéro en le générant par des robots tout en sirotant une bière de Noël, mais on a préféré faire ça à l'ancienne, avec nos petits doigts à tapoter sur le clavier, le plaid sur les jambes. Bonne lecture et kiffez la life !
 
 ## 1024 nuances de green
 
@@ -18,7 +18,7 @@ Selon [une étude de la Wild Code School](https://www.lemondeinformatique.fr/act
 
 ### Quitter ou rester ?
 
-Dans [un récent épisode de Techologie, nous discutions avec Isabelle Huynh](https://techologie.net/episodes/73-institut-transitions/)](https://techologie.net/episodes/73-institut-transitions/), ingénieure en mécanique. Isabelle a lancé l'Institut Transitions pour tous les profils (notamment les ingénieurs) qui souhaitent travailler dans le domaine de la transition écologique et solidaire. Sur le site de l'Institut Transitions se trouve un article, ou plutôt un outil d'aide à la décision : [Faut-il déserter ? 4 questions à se poser pour savoir si on doit quitter son job](https://www.instituttransitions.org/transition\_ecologique\_4\_questions/).
+Dans [un récent épisode de Techologie, nous discutions avec Isabelle Huynh](https://techologie.net/episodes/73-institut-transitions/), ingénieure en mécanique. Isabelle a lancé l'Institut Transitions pour tous les profils (notamment les ingénieurs) qui souhaitent travailler dans le domaine de la transition écologique et solidaire. Sur le site de l'Institut Transitions se trouve un article, ou plutôt un outil d'aide à la décision : [Faut-il déserter ? 4 questions à se poser pour savoir si on doit quitter son job](https://www.instituttransitions.org/transition\_ecologique\_4\_questions/).
 
 ### Techno-optimisme irresponsable
 
@@ -73,6 +73,8 @@ Nous sommes en 2023, vers une trajectoire entre +2 et +4 degrés à la fin de ce
 
 ## À ne pas manquer
 
+![RoboCop]({{ image }})
+
 Arte diffusait il y a quelques jours **RoboCop**, film américain réalisé par le néerlandais Paul Verhoeven, sorti en 1987. Ce film (note de l’auteur : que je n’avais jamais vu et pourtant j’ai baigné dans le cinéma des années 90 et les locations de cassettes !) et que je pensais bien bourrin, s’avère être, contre toute attente, un objet techno-critique, mais bourrin quand même par moments, faut pas déconner. Il mérite vraiment le détour car il contient pas mal de moments intéressants concernant l’impact des technologies et la façon dont les puissants les utilisent à leur avantage.
 
 Vous allez aimé, entre autres :
@@ -93,3 +95,5 @@ _À la fin du xxe siècle aux États-Unis, l'Omni Cartel des Produits (OCP), un 
 * Saviez-vous qu'il existe une [**Coupe du monde Excel**](https://www.radiofrance.fr/franceculture/podcasts/les-nouvelles-du-meilleur-des-mondes/la-coupe-du-monde-de-microsoft-excel-evenement-planetaire-7865113) ? Des défis tableau croisé dynamique et 128 compétiteurs, diffusée en direct.
 
 _N'imprimez cet e-mail que si vous souhaitez tracter la newsletter Techologie en manifestation contre la réforme des retraites._
+
+**Si vous avez aimé, partagez !**
