@@ -77,7 +77,7 @@ Nous sommes en 2023, vers une trajectoire entre +2 et +4 degrés à la fin de ce
 
 Arte diffusait il y a quelques jours **RoboCop**, film américain réalisé par le néerlandais Paul Verhoeven, sorti en 1987. Ce film (note de l’auteur : que je n’avais jamais vu et pourtant j’ai baigné dans le cinéma des années 90 et les locations de cassettes !) et que je pensais bien bourrin, s’avère être, contre toute attente, un objet techno-critique, mais bourrin quand même par moments, faut pas déconner. Il mérite vraiment le détour car il contient pas mal de moments intéressants concernant l’impact des technologies et la façon dont les puissants les utilisent à leur avantage.
 
-Vous allez aimé, entre autres :
+Vous allez aimer, entre autres :
 
 * la scène dans l'escalier avec le robot ED-209 poursuivant RoboCop pour le tuer, mais est incapable de descendre les marches,
 * le dénouement final, avec l'astucieuse désactivation de la "directive" empêchant RoboCop d'arrêter ou de tuer un patron de l'OCP, l'entreprise qui a créé le robot-policier.
