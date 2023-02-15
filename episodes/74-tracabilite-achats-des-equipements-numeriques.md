@@ -38,12 +38,12 @@ Dans cet épisode, nous recevons deux actrices de la traçabilité de l'approvis
 
 ## En savoir plus
 
-- Articles de Brigitte Demeure sur GreenIT https://www.greenit.fr/author/brigittedemeure/
-- Good Electronics Network https://goodelectronics.org/
-- Guide achat numérique responsable https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/
-- Respect des droits de l’homme au travail : un guide pratique pour les acheteurs publics https://www.economie.gouv.fr/dae/respect-des-droits-de-lhomme-au-travail-un-guide-pratique-pour-les-acheteurs-publics
-- Artisans du monde https://artisansdumonde.org/
-- Éthique sur l'étiquette https://ethique-sur-etiquette.org/
+- [Articles de Brigitte Demeure sur GreenIT](https://www.greenit.fr/author/brigittedemeure/)
+- [Good Electronics Network](https://goodelectronics.org/)
+- [Guide achat numérique responsable](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)
+- [Respect des droits de l’homme au travail : un guide pratique pour les acheteurs publics](https://www.economie.gouv.fr/dae/respect-des-droits-de-lhomme-au-travail-un-guide-pratique-pour-les-acheteurs-publics)
+- [Artisans du monde](https://artisansdumonde.org/)
+- [Éthique sur l'étiquette](https://ethique-sur-etiquette.org/)
 
 ## Transcription
 
