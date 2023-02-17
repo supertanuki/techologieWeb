@@ -9,7 +9,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     'img': 'img',
     'css': 'css',
-    'CNAME': 'CNAME'
+    'CNAME': 'CNAME',
+    'favicon.ico' : 'favicon.ico',
+    'site.webmanifest': 'site.webmanifest'
   });
 
   // Add plugins
