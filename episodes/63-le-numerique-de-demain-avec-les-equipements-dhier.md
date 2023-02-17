@@ -7,6 +7,7 @@ date: 2022-02-03
 image: "/img/episodes/63-benjamin-ninassi.jpg"
 audio_link: https://soundcloud.com/techologie/63-le-numerique-de-demain-avec-les-equipements-dhier-avec-benjamin-ninassi
 audio_size_in_megabyte: 34
+transcribed: true
 ---
 
 ## Sommaire

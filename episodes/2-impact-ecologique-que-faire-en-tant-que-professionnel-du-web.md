@@ -7,6 +7,7 @@ date: 2018-12-17
 image: "/img/episodes/2-lemaire.jpg"
 audio_link: "https://soundcloud.com/techologie/2-impact-ecologique-que-faire-en-tant-que-professionnel-du-web"
 audio_size_in_megabyte: 21
+transcribed: true
 ---
 
 <p><strong>Transcript réalisé par Raphaël Lemaire lui-même (mille mercis !)</strong></p>

@@ -7,6 +7,7 @@ date: 2019-01-16
 image: "/img/episodes/4-talk.jpg"
 audio_link: "https://soundcloud.com/techologie/4-coder-designer-pour-quel-futur-talk"
 audio_size_in_megabyte: 12
+transcribed: true
 ---
 
 <h2>Transcript</h2>

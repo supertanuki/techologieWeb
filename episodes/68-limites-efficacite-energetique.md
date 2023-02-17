@@ -7,6 +7,7 @@ date: 2022-07-06
 image: "/img/episodes/68-orgerie.jpg"
 audio_link: https://soundcloud.com/techologie/68-limites-efficacite-energetique-anne-cecile-orgerie
 audio_size_in_megabyte: 23
+transcribed: true
 ---
 
 Cet épisode a été enregistré en public au Diapason, sur le campus de Beaulieu à Rennes. Nous remercions Philippe Quemerais, enseignant à l'ENSSAT d'avoir rendu cet épisode possible !

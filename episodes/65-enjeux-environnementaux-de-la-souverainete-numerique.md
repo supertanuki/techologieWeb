@@ -7,6 +7,7 @@ date: 2022-03-29
 image: "/img/episodes/65-ophelie-coelho.jpg"
 audio_link: https://soundcloud.com/techologie/enjeux-environnementaux-de-la-souverainete-numerique-avec-ophelie-coelho
 audio_size_in_megabyte: 34
+transcribed: true
 ---
 
 ## Sommaire

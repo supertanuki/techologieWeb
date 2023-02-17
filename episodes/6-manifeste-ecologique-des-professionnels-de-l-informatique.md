@@ -7,6 +7,7 @@ date: 2019-02-12
 image: "/img/episodes/6-fourmond.jpg"
 audio_link: "https://soundcloud.com/techologie/6-manifeste-ecologique-des-professionnels-de-l-informatique"
 audio_size_in_megabyte: 12
+transcribed: true
 ---
 
 Pour participer au manifeste, rendez-vous ici : [github.com/climanifeste/climanifeste](https://github.com/climanifeste/climanifeste)
