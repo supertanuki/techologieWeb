@@ -1,4 +1,5 @@
 ---
+alias: /episodes/4-tracabilite-achats-des-equipements-numeriques/
 episode_number: 74
 title: Traçabilité des achats d'équipements numériques
 people: Brigitte Demeure et Malika Kessous
