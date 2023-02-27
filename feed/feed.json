@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/75-les-impacts-de-linternet-des-objets/",
+      "url": "https://techologie.net/episodes/75-les-impacts-de-linternet-des-objets/",
+      "title": "Les impacts de l&#39;internet des objets",
+      "content_html": Dans cet épisode, nous allons parler de smart city, smart building, industrie 4.0 et derrière ces concepts, il y a des objets, l&#39;internet des objets et des impacts de ces objets sur les 4 dimensions : technique, économique, environnementale et sociale. Et pour parler de ces sujets, nous avons avec nous Gillo Alain Malpart qui est dirigeant de l&#39;entreprise Mavana, installée à Toulouse et qui propose d’aider les organisations à réduire leur empreinte environnementale grâce à des objets connectés.,
+      "date_published": "2023-02-28T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/74-tracabilite-achats-des-equipements-numeriques/",
       "url": "https://techologie.net/episodes/74-tracabilite-achats-des-equipements-numeriques/",
       "title": "Traçabilité des achats d&#39;équipements numériques",
