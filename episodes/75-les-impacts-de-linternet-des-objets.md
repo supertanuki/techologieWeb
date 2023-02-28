@@ -5,7 +5,7 @@ people: Gillo Alain Malpart
 description: "Dans cet épisode, nous allons parler de smart city, smart building, industrie 4.0 et derrière ces concepts, il y a des objets, l'internet des objets et des impacts de ces objets sur les 4 dimensions : technique, économique, environnementale et sociale. Et pour parler de ces sujets, nous avons avec nous Gillo Alain Malpart qui est dirigeant de l'entreprise Mavana, installée à Toulouse et qui propose d’aider les organisations à réduire leur empreinte environnementale grâce à des objets connectés."
 date: 2023-02-28
 image: "/img/episodes/75-gillot-malpart.jpg"
-audio_link: https://soundcloud.com/techologie/74-tracabilite-achats-des-equipements-numeriques-avec-brigitte-demeure-et-malika-kessous
+audio_link: https://soundcloud.com/techologie/75-les-impacts-de-linternet-des-objets-avec-gillo-malpart
 audio_size_in_megabyte: 39
 transcribed: true
 ---
