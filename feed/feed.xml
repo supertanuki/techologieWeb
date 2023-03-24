@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2023-02-28T07:57:30Z</updated>
+	<updated>2023-03-24T08:10:45Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Collectivisons et convivialisons Internet</title>
+		<link href="https://techologie.net/episodes/76-collectivisons-et-convivialisons-internet/"/>
+		<updated>2023-03-24T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/76-collectivisons-et-convivialisons-internet/</id>
+		<content type="html">L&#39;internet, à ses débuts, espace de liberté a laissé place aux services proposés par les méga entreprises, les GAFAM : Google, Apple, Facebook, Amazon et Microsoft. Ces services gratuits reposent sur de la publicité et la monétisation des données utilisateurs. Face au capitalisme de surveillance, la résistance s&#39;organise. Des ilots émergent proposant un autre numérique, un autre moyen de voir l&#39;Internet et ses outils, en mettant au coeur de leur raison d&#39;être, les enjeux sociaux et écologiques. C&#39;est le cas notamment de Framasoft. Pour parler de ces sujets, nous avons avec nous Angie Gaudion, Chargée de relations publiques et Pierre-Yves Gosset, Délégué Général de l&#39;association Framasoft.</content>
+	</entry>
 	
 	<entry>
 		<title>Les impacts de l&#39;internet des objets</title>
