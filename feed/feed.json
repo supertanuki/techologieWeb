@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/77-alternatives-emancipatrices/",
+      "url": "https://techologie.net/episodes/77-alternatives-emancipatrices/",
+      "title": "Alternatives émancipatrices face au capitalisme technologique",
+      "content_html": Comment peut-on imaginer une ville intelligente avec des technologies émancipatrices ? Le point de vue africain de l&#39;architecte togolais Sénamé Koffi Agbodjinou.,
+      "date_published": "2023-05-16T00:00:00Z"
+    },{
       "id": "https://techologie.net/newsletter/13/",
       "url": "https://techologie.net/newsletter/13/",
       "title": "En route vers l’an 2000",

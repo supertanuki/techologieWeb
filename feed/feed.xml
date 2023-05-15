@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2023-05-12T08:13:48Z</updated>
+	<updated>2023-05-15T16:18:29Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Alternatives émancipatrices face au capitalisme technologique</title>
+		<link href="https://techologie.net/episodes/77-alternatives-emancipatrices/"/>
+		<updated>2023-05-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/77-alternatives-emancipatrices/</id>
+		<content type="html">Comment peut-on imaginer une ville intelligente avec des technologies émancipatrices ? Le point de vue africain de l&#39;architecte togolais Sénamé Koffi Agbodjinou.</content>
+	</entry>
 	
 	<entry>
 		<title>En route vers l’an 2000</title>
