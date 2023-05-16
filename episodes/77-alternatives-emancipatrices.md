@@ -5,7 +5,7 @@ people: Sénamé Koffi Agbodjinou
 description: "Comment peut-on imaginer une ville intelligente avec des technologies émancipatrices ? Le point de vue africain de l'architecte togolais Sénamé Koffi Agbodjinou."
 date: 2023-05-16
 image: "/img/episodes/77-sename-koffi.jpg"
-audio_link: https://soundcloud.com/techologie/76-collectivisons-et-convivialisons-internet
+audio_link: https://soundcloud.com/techologie/77-alternatives-emancipatrices-avec-sename-koffi
 audio_size_in_megabyte: 23
 transcribed: true
 ---
