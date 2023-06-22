@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2023-06-22T21:57:33Z</updated>
+	<updated>2023-06-22T22:05:55Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Redirection écologique joyeuse</title>
+		<link href="https://techologie.net/episodes/78-redirection-ecologique-joyeuse/"/>
+		<updated>2023-06-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/78-redirection-ecologique-joyeuse/</id>
+		<content type="html">Sheila est coach écosystémique, co-créatrice de la fresque du textile, référente fresque du climat USA et B-Corp leader. Elle veut faciliter le changement pour un monde plus juste, résilient et plein de joie.</content>
+	</entry>
 	
 	<entry>
 		<title>Alternatives émancipatrices face au capitalisme technologique</title>
