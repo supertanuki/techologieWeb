@@ -25,7 +25,7 @@ Techologie c'est aussi une communauté bienveillante avec un [espace de discussi
 
 Pour nous contacter par e-mail : hannarichard at protonmail .com
 
-Le code source de ce site est disponible sur <a href="https://github.com/supertanuki/techologieWeb">Github</a> et les épisodes du podcast sont publiés sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/fr/">Creative Commons CC BY-NC-SA 3.0</a>.
+Le code source de ce site est disponible sur <a href="https://github.com/supertanuki/techologieWeb">Github</a> et les épisodes du podcast sont publiés sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/fr/">Creative Commons CC BY-NC-SA 3.0</a>. Le logo de Techologie a été créé par [Stéphanie Matharet](https://www.behance.net/matharet). 
 
 ## Quelques stats
 
