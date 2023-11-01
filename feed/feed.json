@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/80-pour-un-numerique-acceptable-et-dinteret-general/",
+      "url": "https://techologie.net/episodes/80-pour-un-numerique-acceptable-et-dinteret-general/",
+      "title": "Pour un numérique acceptable et d&#39;intérêt général",
+      "content_html": Louis Derrac est consultant, concepteur, chef de projet et formateur indépendant dans le domaine de l’éducation au numérique et bénévole auprès des associations Framasoft et Resnumerica. Il a écrit un manifeste pour un alternumérisme radical et un autre pour un numérique acceptable. Arnaud Levy est co-fondateur et développeur au sein de la coopérative Noesya. Il est également directeur des études et maître de conférences associé à l&#39;IUT Bordeaux Montaigne. Il propose un cadre de référence pour un Numérique d&#39;Intérêt Général, le NIG.,
+      "date_published": "2023-11-02T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/79-sortir-enfermement-technologique-decarbonation/",
       "url": "https://techologie.net/episodes/79-sortir-enfermement-technologique-decarbonation/",
       "title": "Sortir de l&#39;enfermement technologique de la décarbonation",
