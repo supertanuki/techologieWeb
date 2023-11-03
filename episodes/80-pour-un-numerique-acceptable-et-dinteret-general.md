@@ -20,6 +20,10 @@ transcribed: true
 - Quel alternumérisme pour contrer les Gafam et autres numérique au service du capitalisme et de la surveillance de masse ?
 - Comment aller au delà des convaincus, convaincre des CTO et des décideurs ?
 
+## Erratum
+
+Il est indiqué durant l'échange que Mon Espace Santé est hébergé par Microsoft. Il s'agissait du Health Data Hub et non pas de Mon Espace Santé qui est hébergé par [Atos et Worldline au travers de sa filiale Santeos comme indiqué sur la page Protection des données personnelles](https://www.monespacesante.fr/protection-donnees-personnelles).
+
 ## En savoir plus
 
 - [Kate Raworth - La théorie du donut](https://www.oxfamfrance.org/actualite/la-theorie-du-donut-une-nouvelle-economie-est-possible/)
