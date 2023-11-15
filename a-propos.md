@@ -23,7 +23,7 @@ Créé en 2018 par [Richard Hanna](https://richardhanna.dev/), Techologie est un
 
 Techologie c'est aussi une communauté bienveillante avec un [espace de discussion sur Framateam](https://framateam.org/techologie/) et une [newsletter](/newsletter/) au ton humoristique (enfin on essaye) dont la fréquence de publication est aussi irrégulière que l'engagement écologique du Président de la République.
 
-Pour nous contacter par e-mail : hannarichard at protonmail .com
+Pour nous contacter par e-mail : contact at techologie .net
 
 Le code source de ce site est disponible sur <a href="https://github.com/supertanuki/techologieWeb">Github</a> et les épisodes du podcast sont publiés sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/fr/">Creative Commons CC BY-NC-SA 3.0</a>. Le logo de Techologie a été créé par [Stéphanie Matharet](https://www.behance.net/matharet). 
 
