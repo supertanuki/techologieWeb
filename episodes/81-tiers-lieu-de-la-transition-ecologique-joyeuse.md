@@ -5,7 +5,7 @@ people: Marion Crosnier
 description: Marion Crosnier a créé le tiers-lieu Les Ciboulettes dédié à accompagner la transition écologique des personnes, entreprises et collectivités vers un monde désirable et durable. Son local est atypique car il prend place dans une gare RER à Chelles en Seine et Marne. Au micro du podcast Techologie, retour sur son parcours, sur sa vision des tiers-lieux, son regard sur le monde de la tech, comment sortir de l'entre-soi dont les initiatives écologistes sont victimes, comment aller plus et plus vite, ...
 date: 2023-11-16
 image: "/img/episodes/81-marion-crosnier.jpg"
-audio_link: https://soundcloud.com/techologie/81-tiers-lieu-de-la-transition-ecologique-joyeuse-avec-marion-crosnier-les-ciboulettes/
+audio_link: https://on.soundcloud.com/toXE2
 audio_size_in_megabyte: 17
 transcribed: true
 ---
