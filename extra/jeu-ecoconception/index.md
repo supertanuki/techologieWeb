@@ -1,6 +1,8 @@
 ---
 layout: layouts/post.njk
 title: Jeu de l'écoconception 100% anti-greenwashing
+description: Répondez à ces 16 questions pour savoir si vous êtes green, super green tout en évitant de tomber dans du greenwashing !
+image: /img/extra/apercu-quiz-ecoconception.png
 extrajs: /js/quiz/quiz.js
 ---
 
