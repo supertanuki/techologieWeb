@@ -2,8 +2,8 @@
 layout: layouts/post.njk
 title: À propos
 eleventyNavigation:
-key: À propos
-order: 3
+    key: À propos
+    order: 3
 ---
 
 L'urgence écologique est là et il faut l'avouer, à tous les niveaux de notre société, peu de choses bougent. La part des activités numériques dans ce désordre environnemental est importante. Elle représente par exemple 2 à 4% des émissions de gaz à effet de serre mondial, et bien des dommages sur les ressources qui s'amenuisent à grande vitesse, la biodiversité et les humains.

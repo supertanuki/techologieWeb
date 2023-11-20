@@ -9,6 +9,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     'img': 'img',
     'css': 'css',
+    'js': 'js',
     'CNAME': 'CNAME',
     'favicon.ico' : 'favicon.ico',
     'site.webmanifest': 'site.webmanifest'
