@@ -87,7 +87,7 @@
                     "isRight": true
                 }
             ],
-            "answerInformation": "Le mode sombre n'a que peu ou pas d'effet sur les impacts environnementaux d'un service numérique."
+            "answerInformation": "Le mode sombre n'a que peu ou pas d'effet sur les impacts environnementaux d'un service numérique. Dans certains cas et dans certains contextes techniques, il y a tout de même un impact sur la décharge de batterie par exemple pour les écrans AMOLED. En revanche, le mode sombre est surtout un confort d'utilisation (<a href=\"https://plume.deuxfleurs.fr/~/PiedDeVent/Le%20mode%20sombre%20est%20une%20mode%20d%C3%A9testable/\" target=\"_blank\">ou pas</a>)."
         },
         {
             "question": "Avez-vous une page 404 sur votre site web ?",
@@ -106,7 +106,7 @@
             "answerInformation": "Avoir une page 404 est une bonne pratique de qualité web. Ne pas en avoir ou rediriger vers la page d'accueil est non seulement une très mauvaise pratique mais en plus, cela ne changera pas grand chose à l'impact environnemental de votre service numérique."
         },
         {
-            "question": "Quelles sont les logiques coloniales (accaparement des ressources, asservissement des personnes) sur lesquelles peuvent reposer un service numérique ?",
+            "question": "Sur quelles logiques coloniales (accaparement des ressources, asservissement des personnes) reposent un service numérique ?",
             "answers" : [
                 {
                     "title": "Avoir un équipement assez performant pour pouvoir y accéder"
@@ -205,17 +205,17 @@
             "question": "J'ai généré mon site web à l'aide de ChatGPT ou de Github Copilot.",
             "answers" : [
                 {
-                    "title": "En effet, il faut savoir utiliser les dernières innovations pour le bien du Green IT"
+                    "title": "En effet, il faut savoir utiliser les dernières innovations pour le bien du Green IT."
                 },
                 {
-                    "title": "Par acquis de conscience, je ne devrais plus",
+                    "title": "Par acquis de conscience, je ne devrais plus le faire.",
                     "isRight": true
                 },
                 {
-                    "title": "Je l'indique dans les mentions légales"
+                    "title": "Je l'indique dans les mentions légales."
                 },
                 {
-                    "title": "Je licencie toute l'équipe de développement et je m'abonne à OpenAI"
+                    "title": "Je licencie toute l'équipe de développement et je m'abonne à OpenAI."
                 }
             ],
             "answerInformation": "Les outils utilisant un Large language model ou grand modèle de langage, plus communément appelé par le terme marketing \"Intelligence Artificielle\" sont très consommateurs de ressources et reposent sur la modération effectuée par des milliers de \"petites mains\" esclavagisées dans les pays pauvres."
