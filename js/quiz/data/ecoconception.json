@@ -106,7 +106,7 @@
             "answerInformation": "Avoir une page 404 est une bonne pratique de qualité web. Ne pas en avoir ou rediriger vers la page d'accueil est non seulement une très mauvaise pratique mais en plus, cela ne changera pas grand chose à l'impact environnemental de votre service numérique."
         },
         {
-            "question": "Sur quelles logiques coloniales (accaparement des ressources, asservissement des personnes) reposent un service numérique ?",
+            "question": "Sur quelles logiques coloniales (accaparement des ressources, asservissement des personnes) repose un service numérique ?",
             "answers" : [
                 {
                     "title": "Avoir un équipement assez performant pour pouvoir y accéder"
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "question": "Dans ma démarche d'écoconception, je ne tiens pas compte de l'accessibilité car mon service ne concerne pas les personnes en situation d'handicap.",
+            "question": "Dans ma démarche d'écoconception, je ne tiens pas compte de l'accessibilité car mon service ne concerne pas les personnes en situation de handicap.",
             "answers" : [
                 {
                     "title": "Et puis l'accessibilité, ça coûte cher"
@@ -158,10 +158,10 @@
                     "title": "Être transparent sur la gestion de ses équipements" 
                 },
                 {
-                    "title": "Le service est redondant que lorsque nécessaire"
+                    "title": "Le service n'est redondant que lorsque nécessaire"
                 }
             ],
-            "answerInformation": "Être neutre en carbone n'a pas de réalité physique à l'échelle d'une organisation <a href=\"https://librairie.ademe.fr/changement-climatique-et-energie/4524-avis-de-l-ademe-la-neutralite-carbone.html\" target=\"_blank\">selon un avis de l'ADEME</a>. C'est très souvent utilisé par les acteurs du numérique comme un argument commercial qui se heurte à la réalité : ces acteurs augmentent de plus en plus leurs impacts en augmentant leurs activités et en implantant de plus en plus de centre de données partout dans le monde. Bref, c'est du greenwashing. La compensation carbone ne devrait être utilisée que pour atténuer les émissions résiduelles. On parle d'ailleurs de contribution et non de compensation."
+            "answerInformation": "Être neutre en carbone n'a pas de réalité physique à l'échelle d'une organisation <a href=\"https://librairie.ademe.fr/changement-climatique-et-energie/4524-avis-de-l-ademe-la-neutralite-carbone.html\" target=\"_blank\">selon un avis de l'ADEME</a>. C'est très souvent utilisé par les acteurs du numérique comme un argument commercial qui se heurte à la réalité : ces acteurs augmentent de plus en plus leurs impacts en augmentant leurs activités et en implantant de plus en plus de centres de données partout dans le monde. Bref, c'est du greenwashing. La compensation carbone ne devrait être utilisée que pour atténuer les émissions résiduelles. On parle d'ailleurs de contribution et non de compensation."
         },
         {
             "question": "Parmi les offres d’hébergement suivantes, laquelle choisissez-vous pour votre site web et votre blog ?",
@@ -208,7 +208,7 @@
                     "title": "En effet, il faut savoir utiliser les dernières innovations pour le bien du Green IT."
                 },
                 {
-                    "title": "Par acquis de conscience, je ne devrais plus le faire.",
+                    "title": "Par acquit de conscience, je ne devrais plus le faire.",
                     "isRight": true
                 },
                 {
@@ -218,7 +218,7 @@
                     "title": "Je licencie toute l'équipe de développement et je m'abonne à OpenAI."
                 }
             ],
-            "answerInformation": "Les outils utilisant un Large language model ou grand modèle de langage, plus communément appelé par le terme marketing \"Intelligence Artificielle\" sont très consommateurs de ressources et reposent sur la modération effectuée par des milliers de \"petites mains\" esclavagisées dans les pays pauvres."
+            "answerInformation": "Les outils utilisant un Large Language Model ou grand modèle de langage, plus communément appelé par le terme marketing \"Intelligence Artificielle\" sont très consommateurs de ressources et reposent sur la modération effectuée par des milliers de \"petites mains\" esclavagisées dans les pays pauvres."
         },
         {
             "question": "Quelle expression je ne dois jamais utiliser en parlant de l'écoconception ?",
