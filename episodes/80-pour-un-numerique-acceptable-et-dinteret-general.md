@@ -30,6 +30,7 @@ Il est indiqué durant l'échange que Mon Espace Santé est hébergé par Micros
 - [Numérique d'Intérêt Général, NIG, un cadre de référence](https://www.numeriqueinteretgeneral.org/)
 - [Manifeste pour un alternumérisme radical](https://louisderrac.com/2023/10/manifeste-pour-un-alternumerisme-radical-v1/)
 - [Numérique acceptable](https://louisderrac.com/2022/08/le-numerique-acceptable/)
+- [L'illustration ou meme mentionné dans l'épisode décrivant une utilisation absurde de l'IA](https://louisderrac.com/2023/11/bullshiat-job/)
 
 ## Transcription
 
