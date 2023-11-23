@@ -1,0 +1,280 @@
+{
+    "questions": [
+        {
+            "question": "The eco-design of a digital service is first and foremost...",
+            "answers" : [
+                {
+                    "title": "Minimalist design"
+                },
+                {
+                    "title": "Optimising performance"
+                },
+                {
+                    "title": "Code Efficiency"
+                },
+                {
+                    "title": "An interrogation of needs",
+                    "isRight": true
+                }
+            ]
+        },
+        {
+            "question": "The first question to ask in an eco-design approach is...",
+            "answers" : [
+                {
+                    "title": "Is the digital service useful in meeting the need?",
+                    "isRight": true
+                },
+                {
+                    "title": "How many style sheets will I have?"
+                },
+                {
+                    "title": "Should I ban videos?"
+                },
+                {
+                    "title": "Which hosting package should I choose?"
+                }
+            ]
+        },
+        {
+            "question": "The main aim of eco-design is to...",
+            "answers" : [
+                {
+                    "title": "Reducing Cloud usage costs"
+                },
+                {
+                    "title": "Reduce network usage"
+                },
+                {
+                    "title": "Reduce the carbon emissions of a website"
+                },
+                {
+                    "title": "Reducing equipment obsolescence",
+                    "isRight": true
+                },
+                {
+                    "title": "Increase return on investment"
+                }
+            ]
+        },
+        {
+            "question": "The eco-design approach is relevant whatever the service",
+            "answers" : [
+                {
+                    "title": "True"
+                },
+                {
+                    "title": "False",
+                    "isRight": true
+                }
+            ],
+            "answerInformation": "If the aim of the digital service is to sell more and more useless products, in that case, rather than eco-designing it, it would be appropriate to sabotage it."
+        },
+        {
+            "question": "What colour is the background of your website or application?",
+            "answers": [
+                {
+                    "title": "Black"
+                },
+                {
+                    "title": "White"
+                },
+                {
+                    "title": "Yellow and red stripes"
+                },
+                {
+                    "title": "We don't care",
+                    "isRight": true
+                }
+            ],
+            "answerInformation": "Dark mode has little or no effect on the environmental impact of a digital service. In certain cases and in certain technical contexts, it does have an impact on battery discharge, for example with AMOLED screens. On the other hand, dark mode is above all a convenience for some people, not all."
+        },
+        {
+            "question": "On what colonial logics (monopolisation of resources, enslavement of people) is a digital service based?",
+            "answers": [
+                {
+                    "title": "Have good enough equipment to be able to access it"
+                },
+                {
+                    "title": "Sell a useless product or service there"
+                },
+                {
+                    "title": "Brain time hogging"
+                },
+                {
+                    "title": "Theft of personal data"
+                },
+                {
+                    "title": "All these proposals",
+                    "isRight": true
+                }
+            ]
+        },
+        {
+            "question": "In my eco-design approach, I don't take accessibility into account because my service doesn't concern people with disabilities.",
+            "answers" : [
+                {
+                    "title": "And accessibility costs a lot of money"
+                },
+                {
+                    "title": "Accessibility is less bankable than eco-design"
+                },
+                {
+                    "title": "I have planned an accessible and minimalist version of my service"
+                },
+                {
+                    "title": "I'm an idiot",
+                    "isRight": true
+                }
+            ]
+        },
+        {
+            "question": "For a web host, which proposal is not good practice?",
+            "answers" : [
+                {
+                    "title": "Provide environmental or at least usage indicators"
+                },
+                {
+                    "title": "Publish your carbon neutrality declaration",
+                    "isRight": true
+                },
+                {
+                    "title": "Be transparent about the management of your equipment"
+                },
+                {
+                    "title": "The service is only redundant when necessary"
+                }
+            ],
+            "answerInformation": "Being carbon neutral has no physical reality on the scale of an organisation. It's very often used by digital players as a sales argument that clashes with reality: these players are increasingly increasing their impact by expanding their activities and setting up more and more data centres around the world. In short, it's greenwashing. Carbon offsetting should only be used to mitigate residual emissions. What's more, we're talking about contribution, not compensation."
+        },
+        {
+            "question": "Which of the following hosting packages would you choose for your website and blog?",
+            "answers": [
+                {
+                    "title": "100 MB and no database",
+                    "isRight": true
+                },
+                {
+                    "title": "100 GB and 1024 databases"
+                },
+                {
+                    "title": "1 TB and unlimited number of databases"
+                },
+                {
+                    "title": "Elastic Cloud offer but limited by the amount of money you can put in"
+                }
+            ],
+            "answerInformation": "It is perfectly possible to host one or more so-called static websites, i.e. without a database, and therefore without on-the-fly generation of web pages."
+        },
+        {
+            "question": "I've eco-designed my digital service but I can't reveal what goes on behind the scenes as it's based on a revolutionary patented technology.",
+            "answers": [
+                {
+                    "title": "I'm right not to talk about it, there's a risk that this patented and revolutionary technology will be stolen from me"
+                },
+                {
+                    "title": "I proudly display an \"eco-designed\" badge in the header and footer of my site, along with the carbon footprint assessment."
+                },
+                {
+                    "title": "I run the risk of losing credibility with my peers and being seen as an ugly greenwashers.",
+                    "isRight": true
+                },
+                {
+                    "title": "I'm offering my services as an expert in this patented and revolutionary technology so that others can benefit from it."
+                }
+            ],
+            "answerInformation": "One of the criteria of the french ecodesign framework \"RGESN\" is to publish an ecodesign declaration explaining the efforts made. Having an ecodesign approach, advertising it but not wanting to share the details of the approach is akin to greenwashing."
+        },
+        {
+            "question": "I generated my website using ChatGPT or Github Copilot.",
+            "answers": [
+                {
+                    "title": "Indeed, you need to know how to use the latest innovations for the good of Green IT."
+                },
+                {
+                    "title": "As a matter of conscience, I shouldn't do it any more",
+                    "isRight": true
+                },
+                {
+                    "title": "I indicate this in the legal notice."
+                },
+                {
+                    "title": "I'm firing the entire development team and subscribing to OpenAI."
+                }
+            ],
+            "answerInformation": "Tools using a Large Language Model, more commonly known by the marketing term \"Artificial Intelligence\" are very resource-intensive and rely on moderation by thousands of low-paid worker enslaved in poor countries."
+        },
+        {
+            "question": "What expression should I never use when talking about eco-design?",
+            "answers" : [
+                {
+                    "title": "This website is saving the planet."
+                },
+                {
+                    "title": "This website reduces its carbon emissions."
+                },
+                {
+                    "title": "This site is low-tech."
+                },
+                {
+                    "title": "Modesty is your best asset. All these expressions should be avoided.",
+                    "isRight": true
+                }
+            ]
+        },
+        {
+            "question": "What is the rebound effect?",
+            "answers": [
+                {
+                    "title": "The marketing indicator that measures the percentage of Internet users who entered a web page and left the site afterwards, without consulting any other pages."
+                },
+                {
+                    "title": "What is effective is used more, so instead of decreasing the impact, it increases",
+                    "isRight": true
+                },
+                {
+                    "title": "The problem linked to the fact that a web page emits more carbon when in contact with a chloride solution."
+                },
+                {
+                    "title": "This refers to catching the ball after a miss and before it hits the floor, especially in basketball."
+                }
+            ]
+        },
+        {
+            "question": "Why should we eco-design a useful digital service?",
+            "answers" : [
+                {
+                    "title": "Reducing CO2 emissions"
+                },
+                {
+                    "title": "Reduce the rebound effect"
+                },
+                {
+                    "title": "Combating over-consumption of digital media"
+                },
+                {
+                    "title": "Making it available on older equipment is first and foremost a social issue",
+                    "isRight": true
+                }
+            ]
+        },
+        {
+            "question": "I can't find any useful digital services that deserve to be eco-designed, what should I do?",
+            "answers" : [
+                {
+                    "title": "I'm helping a local association to dematerialise its management in order to save on its wage bill, among other things."
+                },
+                {
+                    "title": "I'm putting my convictions on hold and I'm going to implement eco-design in a prestigious bank."
+                },
+                {
+                    "title": "I'm eco-designing the website dedicated to Tigger, my tabby cat, and proudly displaying the carbon emissions avoided."
+                },
+                {
+                    "title": "I'm taking a step back, working less or stopping working for a sector that destroys life and I'm trying to retrain",
+                    "isRight": true
+                }
+            ]
+        }
+    ]
+}
