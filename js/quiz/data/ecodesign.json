@@ -32,7 +32,7 @@
                     "title": "Should I ban videos?"
                 },
                 {
-                    "title": "Which hosting package should I choose?"
+                    "title": "Which hosting plan should I choose?"
                 }
             ]
         },
@@ -90,6 +90,22 @@
             "answerInformation": "Dark mode has little or no effect on the environmental impact of a digital service. In certain cases and in certain technical contexts, it does have an impact on battery discharge, for example with AMOLED screens. On the other hand, dark mode is above all a convenience for some people, not all."
         },
         {
+            "question": "Do you have a 404 page on your website?",
+            "answers": [
+                {
+                    "title": "Yes",
+                    "isRight": true
+                },
+                {
+                    "title": "No"
+                },
+                {
+                    "title": "I redirect to the home page"
+                }
+            ],
+            "answerInformation": "Having a 404 page is good web quality practice. Not having one or redirecting to the home page is not only a very bad practice, but it won't make much difference to the environmental impact of your digital service."
+        },
+        {
             "question": "On what colonial logics (monopolisation of resources, enslavement of people) is a digital service based?",
             "answers": [
                 {
@@ -129,7 +145,7 @@
             ]
         },
         {
-            "question": "For a web host, which proposal is not good practice?",
+            "question": "For a web host, which proposal is not a good practice?",
             "answers" : [
                 {
                     "title": "Provide environmental or at least usage indicators"
@@ -139,16 +155,16 @@
                     "isRight": true
                 },
                 {
-                    "title": "Be transparent about the management of your equipment"
+                    "title": "Be transparent about the management of your equipments"
                 },
                 {
                     "title": "The service is only redundant when necessary"
                 }
             ],
-            "answerInformation": "Being carbon neutral has no physical reality on the scale of an organisation. It's very often used by digital players as a sales argument that clashes with reality: these players are increasingly increasing their impact by expanding their activities and setting up more and more data centres around the world. In short, it's greenwashing. Carbon offsetting should only be used to mitigate residual emissions. What's more, we're talking about contribution, not compensation."
+            "answerInformation": "Being carbon neutral has no physical reality on the scale of an organisation. It's very often used by digital players as a sales argument that clashes with reality: these players are increasing their impact by expanding their activities and setting up more and more data centres around the world. In short, it's greenwashing. Carbon offsetting should only be used to mitigate residual emissions. What's more, we're talking about contribution, not compensation."
         },
         {
-            "question": "Which of the following hosting packages would you choose for your website and blog?",
+            "question": "Which of the following hosting plans would you choose for your website and blog?",
             "answers": [
                 {
                     "title": "100 MB and no database",
@@ -161,7 +177,7 @@
                     "title": "1 TB and unlimited number of databases"
                 },
                 {
-                    "title": "Elastic Cloud offer but limited by the amount of money you can put in"
+                    "title": "Elastic Cloud plan but limited by the amount of money you can put in"
                 }
             ],
             "answerInformation": "It is perfectly possible to host one or more so-called static websites, i.e. without a database, and therefore without on-the-fly generation of web pages."
@@ -189,14 +205,14 @@
             "question": "I generated my website using ChatGPT or Github Copilot.",
             "answers": [
                 {
-                    "title": "Indeed, you need to know how to use the latest innovations for the good of Green IT."
+                    "title": "Indeed, you need to know how to use the latest innovations for the good of green web."
                 },
                 {
                     "title": "As a matter of conscience, I shouldn't do it any more",
                     "isRight": true
                 },
                 {
-                    "title": "I indicate this in the legal notice."
+                    "title": "I indicate this in the website legal notice."
                 },
                 {
                     "title": "I'm firing the entire development team and subscribing to OpenAI."
@@ -244,16 +260,16 @@
             "question": "Why should we eco-design a useful digital service?",
             "answers" : [
                 {
-                    "title": "Reducing CO2 emissions"
+                    "title": "Reducing CO2 emissions."
                 },
                 {
-                    "title": "Reduce the rebound effect"
+                    "title": "Reduce the rebound effect."
                 },
                 {
-                    "title": "Combating over-consumption of digital media"
+                    "title": "Combating over-consumption of digital media."
                 },
                 {
-                    "title": "Making it available on older equipment is first and foremost a social issue",
+                    "title": "Making it available on older equipment. So it is first and foremost a social issue.",
                     "isRight": true
                 }
             ]
@@ -268,7 +284,7 @@
                     "title": "I'm putting my convictions on hold and I'm going to implement eco-design in a prestigious bank."
                 },
                 {
-                    "title": "I'm eco-designing the website dedicated to Tigger, my tabby cat, and proudly displaying the carbon emissions avoided."
+                    "title": "I'm eco-designing the website dedicated to Tigger, my cat, and proudly displaying the carbon emissions avoided."
                 },
                 {
                     "title": "I'm taking a step back, working less or stopping working for a sector that destroys life and I'm trying to retrain",

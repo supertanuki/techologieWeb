@@ -1,5 +1,41 @@
+const uiTranslations = {
+    'replay': {
+        'fr': 'Refaire le quiz',
+        'en': 'Redo the quiz'
+    },
+    'submitAnswer': {
+        'fr': 'Valider ma réponse',
+        'en': 'Submit my answer'
+    },
+    'nextQuestion': {
+        'fr': 'Question suivante',
+        'en': 'Next question'
+    },
+    'rightAnswer': {
+        'fr': 'Vous aviez la bonne réponse :',
+        'en': 'You had the right answer:'
+    },
+    'wellDone': {
+        'fr': 'Bien joué !',
+        'en': 'Well done!'
+    },
+    'correctAnswerWas': {
+        'fr': 'La bonne réponse est :',
+        'en': 'The correct answer was:'
+    },
+    'allOver': {
+        'fr': 'C\'est fini !',
+        'en': 'It\'s all over now!'
+    },
+    'yourScore': {
+        'fr': 'Votre score final est de :',
+        'en': 'Your final score is:'
+    }
+}
+
 const quizForm = document.querySelector('[data-quiz-json]');
 const jsonUrl = quizForm.attributes['data-quiz-json'].value;
+const lang = quizForm.attributes['data-quiz-lang'].value || 'fr';
 
 readJsonFile(jsonUrl, runQuiz);
 
@@ -40,7 +76,7 @@ function renderStep() {
         </div>
     </fieldset>
     <div class="form-group">
-        <button type="submit" class="btn">Valider ma réponse</button>
+        <button type="submit" class="btn">${getUiTranslation('submitAnswer', lang)}</button>
     </div>`;
 }
 
@@ -62,26 +98,30 @@ function checkAnswer(userAnswer) {
     quizForm.innerHTML = `<p class="fieldset__legend">${(quizStep+1)}. ${question.question}</p>`
     + (userAnswer === rightAnswer
         ? `<div class="alert alert--success">
-            <p class="alert__title">Bien joué !</p>
-            <p>La bonne réponse est bien : « ${rightAnswer} »</p>
+            <p class="alert__title">${getUiTranslation('wellDone', lang)}</p>
+            <p>${getUiTranslation('rightAnswer', lang)} «&nbsp;${rightAnswer}&nbsp;»</p>
             <p>${question.answerInformation ? question.answerInformation : ''}</p>
         </div>`
         : `<div class="alert alert--error">
-            <p class="alert__title">Mauvaise réponse.</p>
-            <p>La bonne réponse est : « ${rightAnswer} »</p>
+            <p class="alert__title">Wrong answer !</p>
+            <p>${getUiTranslation('correctAnswerWas', lang)} «&nbsp;${rightAnswer}&nbsp;»</p>
             <p>${question.answerInformation ? question.answerInformation : ''}</p>
         </div>`
     )
     + (jsonData.questions[quizStep+1]
         ? `<div class="form-group">
-            <button type="submit" class="btn">Question suivante</button>
+            <button type="submit" class="btn">${getUiTranslation('nextQuestion', lang)}</button>
         </div>`
         : `<div class="alert alert--info">
-            <p class="alert__title">C'est fini !</p>
-            <p>Votre score final est de : ${score} / ${quizStep+1}</p>
-            <p><button type="submit" class="btn btn--secondary">Refaire le questionnaire</button></p>
+            <p class="alert__title">${getUiTranslation('allOver', lang)}</p>
+            <p>${getUiTranslation('yourScore', lang)} ${score} / ${quizStep+1}</p>
+            <p><button type="submit" class="btn btn--secondary">${getUiTranslation('replay', lang)}</button></p>
         </div>`
     );
+}
+
+function getUiTranslation(key, lang) {
+    return uiTranslations[key][lang];
 }
 
 function submitQuiz(event) {
