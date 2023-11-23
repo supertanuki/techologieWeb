@@ -278,7 +278,7 @@ border: 1px solid green;
 border: 1px solid red;
 }
 			
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1000px) {
     .logo { width: 600px; margin: 0 auto; display: block; }
 
 	h1 {
@@ -354,7 +354,7 @@ border: 1px solid red;
 	}
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 999px) {
 	.focus {
 		font-size: 20px;
 		padding: 10px;
