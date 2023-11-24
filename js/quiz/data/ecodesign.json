@@ -2,7 +2,7 @@
     "questions": [
         {
             "question": "The eco-design of a digital service is first and foremost...",
-            "answers" : [
+            "answers": [
                 {
                     "title": "Minimalist design"
                 },
@@ -20,7 +20,7 @@
         },
         {
             "question": "The first question to ask in an eco-design approach is...",
-            "answers" : [
+            "answers": [
                 {
                     "title": "Is the digital service useful in meeting the need?",
                     "isRight": true
@@ -38,7 +38,7 @@
         },
         {
             "question": "The main aim of eco-design is to...",
-            "answers" : [
+            "answers": [
                 {
                     "title": "Reducing Cloud usage costs"
                 },
@@ -59,7 +59,7 @@
         },
         {
             "question": "The eco-design approach is relevant whatever the service",
-            "answers" : [
+            "answers": [
                 {
                     "title": "True"
                 },
@@ -103,7 +103,7 @@
                     "title": "I redirect to the home page"
                 }
             ],
-            "answerInformation": "Having a 404 page is good web quality practice. Not having one or redirecting to the home page is not only a very bad practice, but it won't make much difference to the environmental impact of your digital service."
+            "answerInformation": "Having a 404 page is a web quality practice. A dead link that needs to be corrected should not be confused with a 404 page, which should be used to welcome visitors who have mistyped a URL or come across a dead link. They should be told that the page does not exist. And not automatically send them to another page without any further information. The quality approach goes beyond the eco-design approach, even though the two approaches are not contradictory. Not having a 404 page won't make much difference to the environmental impact of your digital service."
         },
         {
             "question": "On what colonial logics (monopolisation of resources, enslavement of people) is a digital service based?",
@@ -128,7 +128,7 @@
         },
         {
             "question": "In my eco-design approach, I don't take accessibility into account because my service doesn't concern people with disabilities.",
-            "answers" : [
+            "answers": [
                 {
                     "title": "And accessibility costs a lot of money"
                 },
@@ -142,11 +142,12 @@
                     "title": "I'm an idiot",
                     "isRight": true
                 }
-            ]
+            ],
+            "answerInformation": "How can you be sure that your service does not concern people with disabilities? Many disabilities are not visible. Disability is defined as any limitation of activity or restriction of participation in society experienced by a person in his or her environment due to a substantial, lasting or permanent impairment of one or more physical, sensory, mental, cognitive or psychological functions, a multiple disability or a disabling health condition. Before embarking on any eco-design approach, make sure you first improve the accessibility of your service."
         },
         {
             "question": "For a web host, which proposal is not a good practice?",
-            "answers" : [
+            "answers": [
                 {
                     "title": "Provide environmental or at least usage indicators"
                 },
@@ -222,7 +223,7 @@
         },
         {
             "question": "What expression should I never use when talking about eco-design?",
-            "answers" : [
+            "answers": [
                 {
                     "title": "This website is saving the planet."
                 },
@@ -258,7 +259,7 @@
         },
         {
             "question": "Why should we eco-design a useful digital service?",
-            "answers" : [
+            "answers": [
                 {
                     "title": "Reducing CO2 emissions."
                 },
@@ -276,7 +277,7 @@
         },
         {
             "question": "I can't find any useful digital services that deserve to be eco-designed, what should I do?",
-            "answers" : [
+            "answers": [
                 {
                     "title": "I'm helping a local association to dematerialise its management in order to save on its wage bill, among other things."
                 },
