@@ -19,6 +19,10 @@ const uiTranslations = {
         'fr': 'Bien joué !',
         'en': 'Well done!'
     },
+    'wrongAnswer': {
+        'fr': 'Mauvaise réponse !',
+        'en': 'Wrong answer!'
+    },
     'correctAnswerWas': {
         'fr': 'La bonne réponse est :',
         'en': 'The correct answer was:'
@@ -103,7 +107,7 @@ function checkAnswer(userAnswer) {
             <p>${question.answerInformation ? question.answerInformation : ''}</p>
         </div>`
         : `<div class="alert alert--error">
-            <p class="alert__title">Wrong answer !</p>
+            <p class="alert__title">${getUiTranslation('wrongAnswer', lang)}</p>
             <p>${getUiTranslation('correctAnswerWas', lang)} «&nbsp;${rightAnswer}&nbsp;»</p>
             <p>${question.answerInformation ? question.answerInformation : ''}</p>
         </div>`
