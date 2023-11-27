@@ -1,297 +1,297 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "question": "L'écoconception d'un service numérique c'est d'abord...",
+      "answers": [
         {
-            "question": "L'écoconception d'un service numérique c'est d'abord...",
-            "answers": [
-                {
-                    "title": "Un design épuré"
-                },
-                {
-                    "title": "L'optimisation des performances"
-                },
-                {
-                    "title": "L'efficacité du code"
-                },
-                {
-                    "title": "Une interrogation des besoins",
-                    "isRight": true
-                }
-            ]
+          "title": "Un design épuré"
         },
         {
-            "question": "La première question à se poser dans une démarche d'écoconception, c'est...",
-            "answers": [
-                {
-                    "title": "Le service numérique est-il utile pour répondre au besoin ?",
-                    "isRight": true
-                },
-                {
-                    "title": "Combien de feuilles de styles j'aurai ?"
-                },
-                {
-                    "title": "Dois-je interdire les vidéos ?"
-                },
-                {
-                    "title": "Quelle offre d'hébergement choisir ?"
-                }
-            ]
+          "title": "L'optimisation des performances"
         },
         {
-            "question": "L'écoconception a pour objectif principal de...",
-            "answers": [
-                {
-                    "title": "Réduire la facture d'usage du Cloud"
-                },
-                {
-                    "title": "Réduire les usages du réseau"
-                },
-                {
-                    "title": "Réduire les émissions carbone d'un site web"
-                },
-                {
-                    "title": "Réduire l'obsolescence des équipements",
-                    "isRight": true
-                },
-                {
-                    "title": "Augmenter le retour sur investissement"
-                }
-            ]
+          "title": "L'efficacité du code"
         },
         {
-            "question": "La démarche d'écoconception est pertinente quel que soit le service.",
-            "answers": [
-                {
-                    "title": "Vrai"
-                },
-                {
-                    "title": "Faux",
-                    "isRight": true
-                }
-            ],
-            "answerInformation": "Si le service numérique a pour objectif de vendre toujours plus de produits inutiles, dans ce cas, plutôt que de l'éco-concevoir, il serait pertinent de le saboter."
-        },
-        {
-            "question": "De quelle couleur est le fond de votre site web ou de votre application ?",
-            "answers": [
-                {
-                    "title": "Noir"
-                },
-                {
-                    "title": "Blanc"
-                },
-                {
-                    "title": "Rayures jaune et rouge"
-                },
-                {
-                    "title": "On s'en fiche",
-                    "isRight": true
-                }
-            ],
-            "answerInformation": "Le mode sombre n'a que peu ou pas d'effet sur les impacts environnementaux d'un service numérique. Dans certains cas et dans certains contextes techniques, il y a tout de même un impact sur la décharge de batterie par exemple pour les écrans AMOLED. En revanche, le mode sombre est surtout un confort d'utilisation (<a href=\"https://plume.deuxfleurs.fr/~/PiedDeVent/Le%20mode%20sombre%20est%20une%20mode%20d%C3%A9testable/\" target=\"_blank\">ou pas</a>)."
-        },
-        {
-            "question": "Avez-vous une page 404 sur votre site web ?",
-            "answers": [
-                {
-                    "title": "Oui",
-                    "isRight": true
-                },
-                {
-                    "title": "Non"
-                },
-                {
-                    "title": "Je redirige vers la page d'accueil"
-                }
-            ],
-            "answerInformation": "<a href=\"https://checklists.opquast.com/fr/assurance-qualite-web/le-serveur-envoie-une-page-derreur-404-personnalisee\" target=\"_blank\">Avoir une page 404 est une bonne pratique de qualité web</a>. Il ne faut pas confondre un lien mort qui doit être corrigé et une page 404 qui doit accueillir les internautes qui auraient mal saisi une url ou qui seraient tombés sur un lien mort. Il faut les informer que la page n'existe pas. Et pas les renvoyer automatiquement sur une autre page sans plus d'informations. La démarche qualité outrepasse la démarche d'écoconception même si les deux démarches ne sont pas contradictoires. Ne pas avoir de page 404 ne changera pas grand chose à l'impact environnemental de votre service numérique."
-        },
-        {
-            "question": "Sur quelles logiques coloniales (accaparement des ressources, asservissement des personnes) repose un service numérique ?",
-            "answers": [
-                {
-                    "title": "Avoir un équipement assez performant pour pouvoir y accéder"
-                },
-                {
-                    "title": "Y vendre un produit ou un service inutile"
-                },
-                {
-                    "title": "Accaparement du temps de cerveau"
-                },
-                {
-                    "title": "Vol des données personnelles"
-                },
-                {
-                    "title": "Toutes ces propositions",
-                    "isRight": true
-                }
-            ]
-        },
-        {
-            "question": "Dans ma démarche d'écoconception, je ne tiens pas compte de l'accessibilité car mon service ne concerne pas les personnes en situation de handicap.",
-            "answers": [
-                {
-                    "title": "Et puis l'accessibilité, ça coûte cher"
-                },
-                {
-                    "title": "L'accessibilité est moins bankable que l'écoconception"
-                },
-                {
-                    "title": "J'ai prévu une version \"light\" accessible de mon service"
-                },
-                {
-                    "title": "Je suis un imbécile",
-                    "isRight": true
-                }
-            ],
-            "answerInformation": "Comment êtes-vous sûr que votre service ne concerne pas les personnes en situation de handicap ? De nombreux handicaps ne sont pas visibles. Le handicap est défini comme toute limitation d’activité ou restriction de participation à la vie en société subie dans son environnement par une personne en raison d’une altération substantielle, durable ou définitive d’une ou plusieurs fonctions physiques, sensorielles, mentales, cognitives ou psychiques, d’un polyhandicap ou d’un trouble de santé invalidant. Avant toute démarche d'écoconception, veillez d'abord à améliorer l'accessibilité de votre service."
-        },
-        {
-            "question": "Pour un hébergeur, quelle proposition n'est pas une bonne pratique ?",
-            "answers": [
-                {
-                    "title": "Fournir des indicateurs environnementaux ou au moins d'usage"
-                },
-                {
-                    "title": "Publier sa déclaration de neutralité carbone",
-                    "isRight": true
-                },
-                {
-                    "title": "Être transparent sur la gestion de ses équipements" 
-                },
-                {
-                    "title": "Le service n'est redondant que lorsque nécessaire"
-                }
-            ],
-            "answerInformation": "Être neutre en carbone n'a pas de réalité physique à l'échelle d'une organisation <a href=\"https://librairie.ademe.fr/changement-climatique-et-energie/4524-avis-de-l-ademe-la-neutralite-carbone.html\" target=\"_blank\">selon un avis de l'ADEME</a>. C'est très souvent utilisé par les acteurs du numérique comme un argument commercial qui se heurte à la réalité : ces acteurs augmentent de plus en plus leurs impacts en augmentant leurs activités et en implantant de plus en plus de centres de données partout dans le monde. Bref, c'est du greenwashing. La compensation carbone ne devrait être utilisée que pour atténuer les émissions résiduelles. On parle d'ailleurs de contribution et non de compensation."
-        },
-        {
-            "question": "Parmi les offres d’hébergement suivantes, laquelle choisissez-vous pour votre site web et votre blog ?",
-            "answers": [
-                {
-                    "title": "100 Mo et pas de base de données",
-                    "isRight": true
-                },
-                {
-                    "title": "100 Go et 1024 bases de données"
-                },
-                {
-                    "title": "1 To et nombre de bases de données illimité"
-                },
-                {
-                    "title": "Offre Cloud élastique mais limitée par l'argent que vous pouvez y mettre"
-                }
-            ],
-            "answerInformation": "Il est tout à fait possible d'héberger un ou des sites web dit \"statique\" c'est à dire sans base de données, et donc sans génération à la volée des pages web."
-        },
-        {
-            "question": "J'ai éco-conçu mon service numérique mais je ne peux pas dévoiler les dessous car cela repose sur une technologie brevetée et révolutionnaire.",
-            "answers": [
-                {
-                    "title": "J'ai raison de ne pas en parler, on risque de me piquer cette technologie brevetée et révolutionnaire"
-                },
-                {
-                    "title": "J'affiche fièrement un badge \"éco-conçu\" dans l'entête et le pied de page de mon site, accompagné de l'évaluation de l'empreinte carbone."
-                },
-                {
-                    "title": "Je risque de me décrédibiliser auprès de mes pairs et passer pour un vilain greenwasheur.",
-                    "isRight": true
-                },
-                {
-                    "title": "Je propose mes services en tant qu'expert de cette technologie brevetée et révolutionnaire afin d'en faire profiter à d'autres."
-                }
-            ],
-            "answerInformation": "Un des critères du RGESN est de publier une déclaration d'écoconception explicitant les efforts réalisés. Avoir une démarche d'écoconception, en faire la publicité mais ne pas vouloir partager le détail de la démarche s'apparente à du greenwashing."
-        },
-        {
-            "question": "J'ai généré mon site web à l'aide de ChatGPT ou de Github Copilot.",
-            "answers": [
-                {
-                    "title": "En effet, il faut savoir utiliser les dernières innovations pour le bien du Green IT."
-                },
-                {
-                    "title": "Par acquit de conscience, je ne devrais plus le faire.",
-                    "isRight": true
-                },
-                {
-                    "title": "Je l'indique dans les mentions légales."
-                },
-                {
-                    "title": "Je licencie toute l'équipe de développement et je m'abonne à OpenAI."
-                }
-            ],
-            "answerInformation": "Les outils utilisant un Large Language Model ou grand modèle de langage, plus communément appelé par le terme marketing \"Intelligence Artificielle\" sont très consommateurs de ressources et reposent sur la modération effectuée par des milliers de \"petites mains\" esclavagisées dans les pays pauvres."
-        },
-        {
-            "question": "Quelle expression je ne dois jamais utiliser en parlant de l'écoconception ?",
-            "answers": [
-                {
-                    "title": "Ce site Internet sauve la planète."
-                },
-                {
-                    "title": "Ce site réduit ses émissions de carbone."
-                },
-                {
-                    "title": "Ce site est low-tech."
-                },
-                {
-                    "title": "La modestie est votre meilleur atout. Toutes ces expressions sont à éviter.",
-                    "isRight": true
-                }
-            ]
-        },
-        {
-            "question": "L'effet rebond, qu'est ce que c'est ?",
-            "answers": [
-                {
-                    "title": "L'indicateur marketing qui mesure le pourcentage d'internautes qui sont entrés sur une page Web et qui ont quitté le site après, sans consulter d'autres pages."
-                },
-                {
-                    "title": "Ce qui est efficace est davantage utilisé, et donc au lieu de diminuer les impacts, ceux-ci augmentent.",
-                    "isRight": true
-                },
-                {
-                    "title": "Le problème lié au fait qu'une page web émet davantage de carbone au contact d'une solution chlorydrique."
-                },
-                {
-                    "title": "Cela désigne le fait de capter la balle après un tir manqué et avant que celle-ci ne touche le sol, notamment au basket-ball."
-                }
-            ]
-        },
-        {
-            "question": "Pourquoi doit-on écoconcevoir un service numérique utile ?",
-            "answers": [
-                {
-                    "title": "Réduire les émissions de CO2"
-                },
-                {
-                    "title": "Réduire l'effet rebond"
-                },
-                {
-                    "title": "Lutter contre la surconsommation du numérique"
-                },
-                {
-                    "title": "Le rendre disponible sur les équipements les plus anciens et c'est donc d'abord un enjeu social.",
-                    "isRight": true
-                }
-            ]
-        },
-        {
-            "question": "Je ne trouve aucun service numérique utile qui mérite d'être éco-conçu, que faire ?",
-            "answers": [
-                {
-                    "title": "J'aide une association locale à dématérialiser sa gestion afin notamment de faire des économies de masse salariale."
-                },
-                {
-                    "title": "Je mets en pause mes convictions et je vais mettre en place l'écoconception dans une banque prestigieuse."
-                },
-                {
-                    "title": "J'éco-conçois le site web dédié à Tigrou, mon chat tigré et j'affiche fièrement les émissions carbone évitées."
-                },
-                {
-                    "title": "Je lève le pied, je travaille moins ou j'arrête de travailler pour un secteur destructeur du vivant et je tente une reconversion.",
-                    "isRight": true
-                }
-            ]
+          "title": "Une interrogation des besoins",
+          "isRight": true
         }
-    ]
+      ]
+    },
+    {
+      "question": "La première question à se poser dans une démarche d'écoconception, c'est...",
+      "answers": [
+        {
+          "title": "Le service numérique est-il utile pour répondre au besoin ?",
+          "isRight": true
+        },
+        {
+          "title": "Combien de feuilles de styles j'aurai ?"
+        },
+        {
+          "title": "Dois-je interdire les vidéos ?"
+        },
+        {
+          "title": "Quelle offre d'hébergement choisir ?"
+        }
+      ]
+    },
+    {
+      "question": "L'écoconception a pour objectif principal de...",
+      "answers": [
+        {
+          "title": "Réduire la facture d'usage du Cloud"
+        },
+        {
+          "title": "Réduire les usages du réseau"
+        },
+        {
+          "title": "Réduire les émissions carbone d'un site web"
+        },
+        {
+          "title": "Réduire l'obsolescence des équipements",
+          "isRight": true
+        },
+        {
+          "title": "Augmenter le retour sur investissement"
+        }
+      ]
+    },
+    {
+      "question": "La démarche d'écoconception est pertinente quel que soit le service.",
+      "answers": [
+        {
+          "title": "Vrai"
+        },
+        {
+          "title": "Faux",
+          "isRight": true
+        }
+      ],
+      "answerInformation": "Si le service numérique a pour objectif de vendre toujours plus de produits inutiles, dans ce cas, plutôt que de l'éco-concevoir, il serait pertinent de le saboter."
+    },
+    {
+      "question": "De quelle couleur est le fond de votre site web ou de votre application ?",
+      "answers": [
+        {
+          "title": "Noir"
+        },
+        {
+          "title": "Blanc"
+        },
+        {
+          "title": "Rayures jaune et rouge"
+        },
+        {
+          "title": "On s'en fiche",
+          "isRight": true
+        }
+      ],
+      "answerInformation": "Le mode sombre n'a que peu ou pas d'effet sur les impacts environnementaux d'un service numérique. Dans certains cas et dans certains contextes techniques, il y a tout de même un impact sur la décharge de batterie par exemple pour les écrans AMOLED. En revanche, le mode sombre est surtout un confort d'utilisation (<a href=\"https://plume.deuxfleurs.fr/~/PiedDeVent/Le%20mode%20sombre%20est%20une%20mode%20d%C3%A9testable/\" target=\"_blank\">ou pas</a>)."
+    },
+    {
+      "question": "Avez-vous une page 404 sur votre site web ?",
+      "answers": [
+        {
+          "title": "Oui",
+          "isRight": true
+        },
+        {
+          "title": "Non"
+        },
+        {
+          "title": "Je redirige vers la page d'accueil"
+        }
+      ],
+      "answerInformation": "<a href=\"https://checklists.opquast.com/fr/assurance-qualite-web/le-serveur-envoie-une-page-derreur-404-personnalisee\" target=\"_blank\">Avoir une page 404 est une bonne pratique de qualité web</a>. Il ne faut pas confondre un lien mort qui doit être corrigé et une page 404 qui doit accueillir les internautes qui auraient mal saisi une url ou qui seraient tombés sur un lien mort. Il faut les informer que la page n'existe pas. Et pas les renvoyer automatiquement sur une autre page sans plus d'informations. La démarche qualité outrepasse la démarche d'écoconception même si les deux démarches ne sont pas contradictoires. Ne pas avoir de page 404 ne changera pas grand chose à l'impact environnemental de votre service numérique."
+    },
+    {
+      "question": "Sur quelles logiques coloniales (accaparement des ressources, asservissement des personnes) repose un service numérique ?",
+      "answers": [
+        {
+          "title": "Avoir un équipement assez performant pour pouvoir y accéder"
+        },
+        {
+          "title": "Y vendre un produit ou un service inutile"
+        },
+        {
+          "title": "Accaparement du temps de cerveau"
+        },
+        {
+          "title": "Vol des données personnelles"
+        },
+        {
+          "title": "Toutes ces propositions",
+          "isRight": true
+        }
+      ]
+    },
+    {
+      "question": "Dans ma démarche d'écoconception, je ne tiens pas compte de l'accessibilité car mon service ne concerne pas les personnes en situation de handicap.",
+      "answers": [
+        {
+          "title": "Et puis l'accessibilité, ça coûte cher"
+        },
+        {
+          "title": "L'accessibilité est moins bankable que l'écoconception"
+        },
+        {
+          "title": "J'ai prévu une version \"light\" accessible de mon service"
+        },
+        {
+          "title": "Je suis un imbécile",
+          "isRight": true
+        }
+      ],
+      "answerInformation": "Comment êtes-vous sûr que votre service ne concerne pas les personnes en situation de handicap ? De nombreux handicaps ne sont pas visibles. Le handicap est défini comme toute limitation d’activité ou restriction de participation à la vie en société subie dans son environnement par une personne en raison d’une altération substantielle, durable ou définitive d’une ou plusieurs fonctions physiques, sensorielles, mentales, cognitives ou psychiques, d’un polyhandicap ou d’un trouble de santé invalidant. Avant toute démarche d'écoconception, veillez d'abord à améliorer l'accessibilité de votre service."
+    },
+    {
+      "question": "Pour un hébergeur, quelle proposition n'est pas une bonne pratique ?",
+      "answers": [
+        {
+          "title": "Fournir des indicateurs environnementaux ou au moins d'usage"
+        },
+        {
+          "title": "Publier sa déclaration de neutralité carbone",
+          "isRight": true
+        },
+        {
+          "title": "Être transparent sur la gestion de ses équipements"
+        },
+        {
+          "title": "Le service n'est redondant que lorsque nécessaire"
+        }
+      ],
+      "answerInformation": "Être neutre en carbone n'a pas de réalité physique à l'échelle d'une organisation <a href=\"https://librairie.ademe.fr/changement-climatique-et-energie/4524-avis-de-l-ademe-la-neutralite-carbone.html\" target=\"_blank\">selon un avis de l'ADEME</a>. C'est très souvent utilisé par les acteurs du numérique comme un argument commercial qui se heurte à la réalité : ces acteurs augmentent de plus en plus leurs impacts en augmentant leurs activités et en implantant de plus en plus de centres de données partout dans le monde. Bref, c'est du greenwashing. La compensation carbone ne devrait être utilisée que pour atténuer les émissions résiduelles. On parle d'ailleurs de contribution et non de compensation."
+    },
+    {
+      "question": "Parmi les offres d’hébergement suivantes, laquelle choisissez-vous pour votre site web et votre blog ?",
+      "answers": [
+        {
+          "title": "100 Mo et pas de base de données",
+          "isRight": true
+        },
+        {
+          "title": "100 Go et 1024 bases de données"
+        },
+        {
+          "title": "1 To et nombre de bases de données illimité"
+        },
+        {
+          "title": "Offre Cloud élastique mais limitée par l'argent que vous pouvez y mettre"
+        }
+      ],
+      "answerInformation": "Il est tout à fait possible d'héberger un ou des sites web dit \"statique\" c'est à dire sans base de données, et donc sans génération à la volée des pages web."
+    },
+    {
+      "question": "J'ai éco-conçu mon service numérique mais je ne peux pas dévoiler les dessous car cela repose sur une technologie brevetée et révolutionnaire.",
+      "answers": [
+        {
+          "title": "J'ai raison de ne pas en parler, on risque de me piquer cette technologie brevetée et révolutionnaire"
+        },
+        {
+          "title": "J'affiche fièrement un badge \"éco-conçu\" dans l'entête et le pied de page de mon site, accompagné de l'évaluation de l'empreinte carbone."
+        },
+        {
+          "title": "Je risque de me décrédibiliser auprès de mes pairs et passer pour un vilain greenwasheur.",
+          "isRight": true
+        },
+        {
+          "title": "Je propose mes services en tant qu'expert de cette technologie brevetée et révolutionnaire afin d'en faire profiter à d'autres."
+        }
+      ],
+      "answerInformation": "Un des critères du RGESN est de publier une déclaration d'écoconception explicitant les efforts réalisés. Avoir une démarche d'écoconception, en faire la publicité mais ne pas vouloir partager le détail de la démarche s'apparente à du greenwashing."
+    },
+    {
+      "question": "J'ai généré mon site web à l'aide de ChatGPT ou de Github Copilot.",
+      "answers": [
+        {
+          "title": "En effet, il faut savoir utiliser les dernières innovations pour le bien du Green IT."
+        },
+        {
+          "title": "Par acquit de conscience, je ne devrais plus le faire.",
+          "isRight": true
+        },
+        {
+          "title": "Je l'indique dans les mentions légales."
+        },
+        {
+          "title": "Je licencie toute l'équipe de développement et je m'abonne à OpenAI."
+        }
+      ],
+      "answerInformation": "Les outils utilisant un Large Language Model ou grand modèle de langage, plus communément appelé par le terme marketing \"Intelligence Artificielle\" sont très consommateurs de ressources et reposent sur la modération effectuée par des milliers de \"petites mains\" esclavagisées dans les pays pauvres."
+    },
+    {
+      "question": "Quelle expression je ne dois jamais utiliser en parlant de l'écoconception ?",
+      "answers": [
+        {
+          "title": "Ce site Internet sauve la planète."
+        },
+        {
+          "title": "Ce site réduit ses émissions de carbone."
+        },
+        {
+          "title": "Ce site est low-tech."
+        },
+        {
+          "title": "La modestie est votre meilleur atout. Toutes ces expressions sont à éviter.",
+          "isRight": true
+        }
+      ]
+    },
+    {
+      "question": "L'effet rebond, qu'est ce que c'est ?",
+      "answers": [
+        {
+          "title": "L'indicateur marketing qui mesure le pourcentage d'internautes qui sont entrés sur une page Web et qui ont quitté le site après, sans consulter d'autres pages."
+        },
+        {
+          "title": "Ce qui est efficace est davantage utilisé, et donc au lieu de diminuer les impacts, ceux-ci augmentent.",
+          "isRight": true
+        },
+        {
+          "title": "Le problème lié au fait qu'une page web émet davantage de carbone au contact d'une solution chlorydrique."
+        },
+        {
+          "title": "Cela désigne le fait de capter la balle après un tir manqué et avant que celle-ci ne touche le sol, notamment au basket-ball."
+        }
+      ]
+    },
+    {
+      "question": "Pourquoi doit-on écoconcevoir un service numérique utile ?",
+      "answers": [
+        {
+          "title": "Réduire les émissions de CO2"
+        },
+        {
+          "title": "Réduire l'effet rebond"
+        },
+        {
+          "title": "Lutter contre la surconsommation du numérique"
+        },
+        {
+          "title": "Le rendre disponible sur les équipements les plus anciens et c'est donc d'abord un enjeu social.",
+          "isRight": true
+        }
+      ]
+    },
+    {
+      "question": "Je ne trouve aucun service numérique utile qui mérite d'être éco-conçu, que faire ?",
+      "answers": [
+        {
+          "title": "J'aide une association locale à dématérialiser sa gestion afin notamment de faire des économies de masse salariale."
+        },
+        {
+          "title": "Je mets en pause mes convictions et je vais mettre en place l'écoconception dans une banque prestigieuse."
+        },
+        {
+          "title": "J'éco-conçois le site web dédié à Tigrou, mon chat tigré et j'affiche fièrement les émissions carbone évitées."
+        },
+        {
+          "title": "Je lève le pied, je travaille moins ou j'arrête de travailler pour un secteur destructeur du vivant et je tente une reconversion.",
+          "isRight": true
+        }
+      ]
+    }
+  ]
 }
