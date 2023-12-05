@@ -46,7 +46,7 @@ Peut-être qu'avec ces obligations là, les fabricants seront incités à rendre
 
 Romuald :
 
-Il faut nuancer entre l'équipement type dispositif médical et puis nos vieux écrans cathodiques dont personne ne va se servir qui vont être envoyés sous régime de biens d'occasion et qui seront pour le coup de l'explort illégal de déchets sous couvert de de biens d'occasion.
+Il faut nuancer entre l'équipement type dispositif médical et puis nos vieux écrans cathodiques dont personne ne va se servir qui vont être envoyés sous régime de biens d'occasion et qui seront pour le coup de l'export illégal de déchets sous couvert de de biens d'occasion.
 
 
 ### Qu'est-ce qu'un DEEE ?
