@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2023-11-30T15:48:16Z</updated>
+	<updated>2023-12-05T12:40:32Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Enjeux du recyclage des déchets électriques et électroniques</title>
+		<link href="https://techologie.net/episodes/82-enjeux-du-recyclage-des-dechets-electriques-et-electroniques/"/>
+		<updated>2023-12-05T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/82-enjeux-du-recyclage-des-dechets-electriques-et-electroniques/</id>
+		<content type="html">Tess Pozzi est administratrice de la FEDEREC, Fédération des entreprises du recyclage et responsable des relations institutionnelles Derichebourg Environnement. Romuald Ribault est directeur Marketing de Ecologic, éco-organisme agréé pour la gestion des déchets électriques et électroniques et vice-président de l’AGIT, Alliance Green IT. Avec nos deux interlocuteurs, nous avons échangé sur le fonctionnement du traitement et du recyclage des déchets électroniques ainsi que sur les enjeux actuels et à venir comme l&#39;export illégal vers des pays pauvres.</content>
+	</entry>
 	
 	<entry>
 		<title>Tiers-lieu de la transition écologique joyeuse</title>
