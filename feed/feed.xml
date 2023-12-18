@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2023-12-15T09:21:05Z</updated>
+	<updated>2023-12-18T10:12:19Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Cinq ans de Techologie - des jeux et des surprises</title>
+		<link href="https://techologie.net/episodes/84-cinq-ans-de-techologie/"/>
+		<updated>2023-12-19T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/84-cinq-ans-de-techologie/</id>
+		<content type="html">Animé par Richard Hanna et avec la participation de Agnès Crepet, Sophie Provost, Gillo Alain Malpart, Louis Derrac et Marie-Cécile Paccard.</content>
+	</entry>
 	
 	<entry>
 		<title>Bombes carbones et usages de la data et de l&#39;IA</title>
