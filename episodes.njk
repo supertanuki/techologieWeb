@@ -9,7 +9,7 @@ eleventyNavigation:
 
 <h1>{{ title }}</h1>
 
-<p><a href="/episodes-retranscrits/">Voir les épisodes retranscrits</a></p>
+<p><a href="/episodes-retranscrits/">Voir uniquement les épisodes retranscrits</a></p>
 
 {% set episodes = collections.episode %}
 {% set currentYear = null %}
@@ -34,7 +34,7 @@ eleventyNavigation:
       </div>
       <div class="description">
         <p class="episode-label">
-          Épisode {{ episode.data.episode_number }}
+          #{{ episode.data.episode_number }}
         </p>
         <h2>
           <a href="{{ episode.url | url }}">{{ episode.data.title }}</a>
