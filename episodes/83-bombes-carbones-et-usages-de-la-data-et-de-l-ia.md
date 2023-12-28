@@ -216,8 +216,7 @@ Et c'est déjà prévu potentiellement dans la future suite du projet que ça pe
 
 Et donc, factuellement, dans le seuil qu'on a mis, qui définit une bombe carbone, ça pourrait devenir une bombe carbone.
 
-C'est absolument majeur EACOP comme projet. Ça a des impacts monstrueux, notamment beaucoup plus que d'autres sur ce que ça traverse tellement de pays
-avec une distance tellement longue qu'en fait, il y a des impacts monstrueux locaux, sociaux, biodiversité. Et après, c'est quand même un énorme site d'extraction qui sont reliés à ça.
+C'est absolument majeur EACOP comme projet. Ça a des impacts monstrueux, notamment beaucoup plus que d'autres sur ce que ça traverse tellement de pays avec une distance tellement longue qu'en fait, il y a des impacts monstrueux locaux, sociaux, biodiversité. Et après, c'est quand même un énorme site d'extraction qui sont reliés à ça.
 
 Mais en tout cas, on a choisi pour rester justement sous cette méthodologie qui avait été fixée par les scientifiques, de garder ce seuil de 1 milliard de tonnes de CO2. Dans ce cercle très restreint, EACOP n'est pas représenté.
 
@@ -333,7 +332,7 @@ La technolucidité, c'est aussi ça, c'est juste accepter de ne pas tout savoir 
 
 Parce qu'en pratique, ce qu'on voit, c'est qu'il y a une telle bulle en ce moment sur le sujet. Est-ce que c'est une bulle ? Est-ce que c'est une vague ? Est-ce que ça va continuer dans ce sens-là ?
 
-A priori, quand même, ça continue à bien accélérer. Le fait qu'on n'a pas le choix, nous citoyens, de l'utiliser, ça commence à être mis dans tous nos outils.Et la recherche sur Google est déjà plein d'IA générative à l'intérieur.
+A priori, quand même, ça continue à bien accélérer. Le fait qu'on n'a pas le choix, nous citoyens, de l'utiliser, ça commence à être mis dans tous nos outils. Et la recherche sur Google est déjà plein d'IA générative à l'intérieur.
 
 Quand on va avoir cette possibilité de confort qui sera amenée par l'IA générative, par exemple, parce qu'on va avoir des résumés automatiques de nos réunions quand on travaille et qui est peut-être le truc le plus embêtant de la Terre, que d'écrire pour rappeler qui doit faire quoi, je pense ça, à partir du moment où c'est dans les usages, plus personne n'arrivera à s'en passer.
 
