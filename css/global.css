@@ -135,7 +135,7 @@ main .label span {
 	padding: 10px;
 	display: inline-block;
 	z-index: 1000;
-	border-bottom: 1px solid #000;
+	border-bottom: 6px solid #083c30;
 }
 
 .episodes {
@@ -226,7 +226,7 @@ footer a:visited {
 }
 
 .minimal-menu a[aria-current] {
-	border-bottom: 1px solid #fff;
+	border-bottom: 10px solid #083c30;
 }
 
 .minimal-menu ul,
@@ -250,11 +250,6 @@ footer a:visited {
 .minimal-menu > ul > li > a {
 	border-bottom: 1px solid transparent;
 	color: #fff;
-}
-
-.minimal-menu > ul > li:hover > a,
-.minimal-menu > ul > li.current > a {
-	border-bottom: 1px solid #fff;
 }
 
 .form-group {
