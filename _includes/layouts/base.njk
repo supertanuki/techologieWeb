@@ -48,7 +48,7 @@
         <ul>
           {% if lang != 'en' %}
           <li>
-            <a href="{{ '/' | url }}" {% if '/' == page.url %}aria-current="page"{% endif %}>Techologie</a>
+            <a href="{{ '/' | url }}" {% if '/' == page.url %}aria-current="page"{% endif %}>Accueil</a>
           </li>
           <li>
             <a href="{{ '/episodes/' | url }}" {% if '/episodes/' == page.url %}aria-current="page"{% endif %}>Épisodes</a>
@@ -67,7 +67,7 @@
           </li>
           {% else %}
             <li>
-              <a href="{{ '/en/' | url }}" {% if '/en/' == page.url %}aria-current="page"{% endif %}>Techologie episodes</a>
+              <a href="{{ '/en/' | url }}" {% if '/en/' == page.url %}aria-current="page"{% endif %}>Episodes</a>
             </li>
             <li>
               <a href="{{ '/en/extra/ecodesign-game/' | url }}" {% if '/en/extra/ecodesign-game/' == page.url %}aria-current="page"{% endif %}>Ecodesign game</a>
@@ -80,7 +80,7 @@
       </nav>
     </header>
 
-    <main class="{% if page.url not in ['/episodes/', '/episodes-retranscrits/', '/en/'] %}centered{% endif %}">
+    <main class="{% if page.url not in ['/', '/episodes/', '/episodes-retranscrits/', '/en/'] %}centered{% endif %}">
       {{ content | safe }}
     </main>
 
