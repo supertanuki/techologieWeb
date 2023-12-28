@@ -1,12 +1,18 @@
 body {
 	margin: 0;
 	font-family: Arial, sans-serif;
-	background: #111111;
-	color: #eee;
+	background: #eee;
+	color: #222;
 }
 
-body.home {
+.logo {
 	background: #083c30;
+	color: #fff;
+}
+
+.logo img {
+	width: 100%;
+	max-width: 500px;
 }
 
 h1 {
@@ -41,6 +47,10 @@ main {
 	font-size: 21px;
 }
 
+body.home main {
+	padding: 0;
+}
+
 main ul {
 	margin-bottom: 50px;
 }
@@ -48,10 +58,9 @@ main ul {
 main ul li {
 	max-width: 700px;
 	list-style-type: square;
-	color: #ccc;
 	margin-bottom: 10px;
 }
-main p { font-size: 21px; max-width: 700px; color: #ccc; }
+main p { font-size: 21px; max-width: 700px; color: #333; }
 
 main .episodes p {
 	font-size: 15px;
@@ -59,20 +68,19 @@ main .episodes p {
 
 .published {
 	font-size: 15px;
-	color: #ccc;
 }
 
 main .episodes p.episode-label {
 	font-size: 13px;
-	color: #4a7145;
+	color: #95e28a;
 	font-weight: bold;
 	margin: 0 0 6px;
 }
-.logo { width: 100% }
 
 footer {
 	background: #000;
 	padding: 20px;
+	color: #eee;
 }
 
 footer p {
@@ -86,23 +94,38 @@ footer a {
 
 footer a:hover {
     color: #ccc;
-    transition: color .5s;
 }
 
 .listen { font-size: 30px; font-weight: bold; margin: 50px 0; }
 
-.focus { background-color: #000; font-size: 30px; font-weight: bold; padding: 20px 50px; }
+.focus {
+	background-color: #083c30;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 20px 50px;
+	color: #fff;
+}
+
+.focus:hover {
+	background-color: #0f7059;
+	color: #fff;
+}
+
+.focus:visited {
+	color: #eee890;
+}
 
 main .label {
 	margin: -30px 0 0 0;
 	font-size: 17px;
 }
 main .label span {
-	background: white;
+	background: #fff;
 	color: black;
 	padding: 10px;
 	display: inline-block;
 	z-index: 1000;
+	border-bottom: 1px solid #000;
 }
 
 .episodes {
@@ -138,21 +161,36 @@ main .label span {
 	display: block;
 }
 
+.episodes a {
+	color: #fff;
+}
+
+.episodes a:hover {
+    color: #aaa;
+}
+
+.episodes a:visited {
+	color: #eee890;
+}
+
+.episodes p {
+	color: #ccc;
+}
+
 .episodes img {
     width: 100%;
 }
 
 main a {
-    color: #fff;
+    color: #000;
 }
 
 main a:hover {
-    color: #ccc;
-    transition: color .5s;
+    color: #333;
 }
 
-main a:visited, footer a:visited {
-    color: #f9f871;
+footer a:visited {
+    color: #ccc;
 }
 
 .minimal-menu {
@@ -258,7 +296,7 @@ cursor: pointer;
 }
 
 .radio-rich input[type="radio"]:checked + label {
-box-shadow: inset 0 0 0 1px yellow;
+box-shadow: inset 0 0 0 1px #ccc;
 }
 
 .alert {
@@ -279,7 +317,7 @@ border: 1px solid red;
 }
 			
 @media only screen and (min-width: 1000px) {
-    .logo { width: 600px; margin: 0 auto; display: block; }
+    .logo img { width: 600px; margin: 0 auto; display: block; }
 
 	h1 {
 		margin: 50px 0 30px 0px;
