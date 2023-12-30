@@ -24,20 +24,7 @@ title: Épisodes avec transcriptions
       <ul class="episodes">
     {% endif %}
 
-    <li class="enlarge-link">
-      <div class="image">
-        <img src="{{ episode.data.image }}" alt="{{ episode.data.people }}" loading="lazy" />
-      </div>
-      <div class="description">
-        <p class="episode-label">
-          Épisode {{ episode.data.episode_number }}
-        </p>
-        <h2>
-          <a href="{{ episode.url | url }}">{{ episode.data.title }}</a>
-        </h2>
-        <p>{{ episode.data.people }}</p>
-      </div>
-    </li>
+    {% include "episodeslist.njk" %}
   {% endif %}
   {% endfor %}
 </ul>

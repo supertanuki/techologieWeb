@@ -16,20 +16,7 @@ lang: en
 <ul class="episodes">
 {% for episode in episodes | reverse %}
   {% if episode.data.lang == 'en' %}
-  <li class="enlarge-link">
-    <div class="image">
-      <img src="{{ episode.data.image }}" alt="{{ episode.data.people }}" loading="lazy" />
-    </div>
-    <div class="description">
-      <p class="episode-label">
-        {{ episode.data.date | readableDate }}
-      </p>
-      <h3>
-        <a href="{{ episode.url | url }}">{{ episode.data.title }}</a>
-      </h3>
-      <p>{{ episode.data.people }}</p>
-    </div>
-  </li>
+    {% include "episodeslist.njk" %}
   {% endif %}
 {% endfor %}
 </ul>

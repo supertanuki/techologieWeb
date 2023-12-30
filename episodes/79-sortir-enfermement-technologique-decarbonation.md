@@ -8,6 +8,7 @@ image: "/img/episodes/79-helene-grosbois.webp"
 audio_link: https://soundcloud.com/techologie/79-sortir-enfermement-technologique-decarbonation
 audio_size_in_megabyte: 57
 transcribed: true
+top: true
 ---
 
 ## Sommaire

@@ -1,0 +1,18 @@
+<li class="enlarge-link">
+    <div class="image">
+        <img src="{{ episode.data.image }}" alt="{{ episode.data.people }}" loading="lazy" />
+    </div>
+    <div class="description">
+        <p class="episode-label">
+        {% if episode.data.lang == 'en' %}
+            {{ episode.data.date | readableDate }}
+        {% else %}
+            #{{ episode.data.episode_number }}
+        {% endif %}
+        </p>
+        <h3>
+        <a href="{{ episode.url | url }}">{{ episode.data.title }}</a>
+        </h3>
+        <p>{{ episode.data.people }}</p>
+    </div>
+</li>

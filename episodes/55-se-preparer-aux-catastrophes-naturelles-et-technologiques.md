@@ -7,6 +7,7 @@ date: 2021-10-05
 image: "/img/episodes/55-gael-musquet.jpg"
 audio_link: https://soundcloud.com/techologie/55-se-preparer-aux-catastrophes-naturelles-et-technologiques-avec-gael-musquet
 audio_size_in_megabyte: 46
+top: true
 ---
 
 ## Les sujets abordés

@@ -29,6 +29,7 @@ Le code source de ce site est disponible sur <a href="https://github.com/superta
 
 ## Quelques stats
 
+* 2023 : 13 épisodes et 32200 écoutes
 * 2022 : 11 épisodes et 28600 écoutes
 * 2021 : 20 épisodes et 23600 écoutes
 * 2020 : 16 épisodes et 20600 écoutes
@@ -39,13 +40,6 @@ Le code source de ce site est disponible sur <a href="https://github.com/superta
 
 ## Comment suivre et donner un coup de pouce à ce podcast ?
 
-<ul>
-<li>
-Suivre le podcast sur
-<a href="https://piaille.fr/@techologie">Mastodon</a>.
-</li>
-<li>S'abonner et noter le podcast sur votre plateforme préférée.</li>
-<li>Partager aux amis, collègues, voisins...</li>
-</ul>
-</div>
-</div>
+- Suivre le podcast sur [Mastodon](https://piaille.fr/@techologie)
+- S'abonner et noter le podcast sur votre plateforme préférée.
+- Partager aux amis, collègues, voisins...

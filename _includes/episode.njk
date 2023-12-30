@@ -49,19 +49,20 @@ layout: layouts/base.njk
   {% endif %}
 </p>
 
-{{ content | safe }}
-
-<hr />
-
 <p>
+  <small>
   {% if lang == 'en' %}
     By listening to this episode, you will download {{audio_size_in_megabyte}} MB of data.
   {% else %}
     En écoutant cet épisode, vous téléchargerez {{audio_size_in_megabyte}} Mo de données.
   {% endif %}
+  </small>
 </p>
 
+{{ content | safe }}
+
 {# "/" final à supprimer dans page.url
+<hr>
 <p>
   <a
     href="https://github.com/supertanuki/techologieWeb/blob/master/src{{ page.url }}.md"
