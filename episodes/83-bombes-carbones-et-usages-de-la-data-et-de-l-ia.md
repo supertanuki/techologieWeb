@@ -118,8 +118,7 @@ Pareil, du travail aussi incroyable réalisé par des ONG comme Reclaim Finance 
 
 Et nous, ce qu'on a voulu faire, c'est vraiment avec notre expertise de la donnée, essayer d'interconnecter ces différentes bases de données pour leur donner un sens nouveau et construire des outils qui vont être accessibles au grand public et qui vont les permettre de se saisir en fait de ce sujet-là et de le comprendre.
 
-Très concrètement, ce qu'on a fait, c'est qu'on a connecté trois bases de données. Donc une première base de données qui est un papier de recherche
-qui identifie les 425 bombes carbone dans le monde, qui a été portée par un chercheur qui s'appelle Kjell Kühne.
+Très concrètement, ce qu'on a fait, c'est qu'on a connecté trois bases de données. Donc une première base de données qui est un papier de recherche qui identifie les 425 bombes carbone dans le monde, qui a été portée par un chercheur qui s'appelle Kjell Kühne.
 
 Une deuxième base de données qui, elle, s'appelle Global Energy Monitor et qui va répertorier plein de sites dans le monde et qui va nous permettre de faire le lien entre les projets et les entreprises.
 
@@ -133,8 +132,7 @@ Et donc d'apporter en fait une vision beaucoup plus macro et globale des enjeux 
 
 Théo Alves Da Costa :
 
-En gros, on comprend bien en général dans le monde, et encore, mais en tout cas la compréhension, elle est plutôt au niveau de la fin de la chaîne de valeur,
-c'est-à-dire ce qu'on consomme, les empreintes carbone, de tel secteur, d'activité, etc.
+En gros, on comprend bien en général dans le monde, et encore, mais en tout cas la compréhension, elle est plutôt au niveau de la fin de la chaîne de valeur, c'est-à-dire ce qu'on consomme, les empreintes carbone, de tel secteur, d'activité, etc.
 
 Mais on se pose rarement la question d'où vient la base au tout début de la chaîne de valeur, c'est-à-dire la production des gaz à effet de serre et notamment du coup sur les énergies fossiles qui représentent encore aujourd'hui 80% de notre système énergétique.
 
@@ -236,8 +234,7 @@ Donc, ça veut dire que même si on arrive à arrêter ces 425 projets, il en re
 
 On a beaucoup hésité sur le terme "bombe carbone", "bombe climatique" et on s'est rendu compte que des bombes climatiques, voire même des bombes environnementales, en pratique, les gens disent "bombe climatique" à la place de "bombe écologique" parce que le mot climatique dans le langage, et il y a des études sociologiques qui le montrent, c'est ce que les gens comprennent comme associé à l'écologie.
 
-Donc ça permet de rassembler tout. Et des bombes climatiques, il y en a plein d'autres, la déforestation, les énormes sites d'extraction minière sous-marine
-pour des métaux, des projets qui vont complètement détruire des espaces naturels.
+Donc ça permet de rassembler tout. Et des bombes climatiques, il y en a plein d'autres, la déforestation, les énormes sites d'extraction minière sous-marine pour des métaux, des projets qui vont complètement détruire des espaces naturels.
 
 Ce qui était hyper important pour nous, c'est d'avoir la neutralité scientifique derrière ce sujet-là. Ce qu'on n'a pas, en fait, il n'y a pas encore d'études assez claires qui vont donner des critères pour définir ce que c'est qu'une bombe climatique.
 
