@@ -39,7 +39,7 @@ transcribed: true
 
 Lou Welgryn :
 
-Une bombe carbone, c'est un projet d'exploitation fossile qui va générer plus de 1 milliard de tonnes de CO2 pendant sa durée de vie. 1 milliard de tonnes, il faut dire que c'est vraiment quelque chose de gigantesque. C'est par exemple les émissions de la fausse pendant 3 ans.
+Une bombe carbone, c'est un projet d'exploitation fossile qui va générer plus de 1 milliard de tonnes de CO2 pendant sa durée de vie. 1 milliard de tonnes, il faut dire que c'est vraiment quelque chose de gigantesque. C'est par exemple les émissions de la France pendant 3 ans.
 
 Théo Alves Da Costa :
 
