@@ -8,9 +8,10 @@ image: "/img/episodes/29-hugues-ferreboeuf.jpg"
 audio_link: "https://soundcloud.com/techologie/29-la-5g-impact-environnemental-et-pertinence-economique"
 audio_size_in_megabyte: 26
 top: true
+transcribed: true
 ---
 
-Au sommaire :
+## Sommaire
 
 * Son parcours, son rôle au sein du Shift Project
 * L'attribution des fréquences est planifiée pour avril 2020 selon l'ARCEP, l'autorité de régulation des communications électronique. N'est-il pas trop tard pour s'attaquer à la 5G ?
@@ -22,6 +23,14 @@ Au sommaire :
 * Risques cybersécurité
 * Qu'est ce que la Smart City et en a t-on vraiment besoin ?
 * Comment concilier progrès et transition énergétique / transition écologique ?
+
+## En savoir plus
+
+* [The Shift Project / Lean ICT - Les impacts environnementaux du Numérique](https://theshiftproject.org/lean-ict/)
+* [Tribune « La 5G est-elle vraiment utile ? » dans le Monde](https://www.lemonde.fr/idees/article/2020/01/09/5g-ne-sommes-nous-pas-en-train-de-confondre-ce-qui-est-nouveau-avec-ce-qui-est-utile-ce-qui-semble-urgent-avec-ce-qui-est-important_6025291_3232.html) ou [en accès libre ici](https://jancovici.com/publications-et-co/articles-de-presse/faut-il-faire-la-5g/).
+
+
+## Transcription
 
 **Quel est ton parcours et ton rôle au sein du Shift Project ?**
 
@@ -110,12 +119,3 @@ Je dirai qu'on ne peut pas arrêter le progrès mais on peut essayer de le redé
 **Quelles sont les prochaines actualités du Shift Project ?**
 
 Sur les travaux sur le numérique, on passera des constats aux propositions. L'évolution de l'empreinte environnementale du numérique est devenue un problème. Les solutions ont consisté à comprendre comment on peut modifier nos usages, nos comportements, pour revenir sur une trajectoire compatible avec les engagements de la COP21. Cela sera l'objectif du rapport qui devrait être publié en juin 2020. Ce ne seront pas des recettes de cuisine mais ce rapport tentera d'outiller les acteurs, que ce soit des entreprises, les collectivités locales, les politiques publiques ou le grand public, pour que le principe de sobriété numérique puisse être mis en œuvre.
-
-<div class="block">
-
-En savoir plus :
-
-* [The Shift Project / Lean ICT - Les impacts environnementaux du Numérique](https://theshiftproject.org/lean-ict/)
-* Tribune « La 5G est-elle vraiment utile ? » dans [le Monde](https://www.lemonde.fr/idees/article/2020/01/09/5g-ne-sommes-nous-pas-en-train-de-confondre-ce-qui-est-nouveau-avec-ce-qui-est-utile-ce-qui-semble-urgent-avec-ce-qui-est-important_6025291_3232.html) ou [en accès libre ici](https://jancovici.com/publications-et-co/articles-de-presse/faut-il-faire-la-5g/).
-
-</div>

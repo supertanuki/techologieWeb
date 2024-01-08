@@ -9,7 +9,7 @@ audio_link: "https://soundcloud.com/techologie/30-conspiration-positive-pour-fut
 audio_size_in_megabyte: 18.5
 ---
 
-Au sommaire :
+## Au sommaire
 
 * Son parcours, son déclic féministe et écologique
 * Sa rencontre avec l'institut des futurs souhaitables
@@ -21,14 +21,10 @@ Au sommaire :
 * Projet en groupe
 * Sa vision de son métier dans 10 ans.
 
-<div class="block">
-
-En savoir plus :
+## En savoir plus
 
 * Son [portfolio](https://stephaniematharet.myportfolio.com/)
 * [Institut des futurs souhaitables](https://www.futurs-souhaitables.org/)
 * [Deep Time Walk](https://www.deeptimewalk.org/)
 * [Post-R](http://futurs-souhaitables.org/post-r/), comprendre et à s’interroger sur le monde tel qu’il fonctionne et sur ses limites (biodiversité, sécurité alimentaire, démographie, santé…)
 * [The Simple Life](https://www.thesimplelife.fr/)
-
-</div>

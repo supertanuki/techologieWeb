@@ -22,13 +22,8 @@ audio_size_in_megabyte: 19
 * Feux de forêts en Amazonie et en Afrique. La production de soja pour l'élevage bovin est pointé du doigt. Qu'est ce que cela t'évoque ?
 * Es-tu plutôt positive ou négative face à l'avenir de l'agriculture ?
 
-## Transcript
 
-_À venir._
 
-<div class="block">
-En savoir plus :
+## En savoir plus :
 
 * [Perfarmer](https://www.perfarmer.com)
-
-</div>

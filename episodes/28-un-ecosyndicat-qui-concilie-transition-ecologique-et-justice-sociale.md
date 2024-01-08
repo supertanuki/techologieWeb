@@ -9,7 +9,7 @@ audio_link: "https://soundcloud.com/techologie/28-un-ecosyndicat-qui-concilie-tr
 audio_size_in_megabyte: 22
 ---
 
-## Au sommaire :
+## Au sommaire
 
 * Pourquoi avoir créé cette association ?
 * La cible est principalement les acteurs du numérique ?
@@ -22,12 +22,9 @@ audio_size_in_megabyte: 22
 * Pour une entreprise comme une SCOP, une SCIC ou un indépendant, freelance, qu'est ce que cela apporterait de se syndiquer ?
 * Quelles sont les prochaines actions de Printemps Écologique ?
 
-<div class="block">
 
-En savoir plus :
+## En savoir plus
 
 * [Printemps Écologique](https://www.printemps-ecologique.fr)
 * Suivre Printemps Écologique sur [Facebook](https://www.facebook.com/ecosyndicat), sur [Twitter](https://www.twitter.com/ecosyndicat) ou sur [Linkedin](https://www.linkedin.com/company/37387288)
 * [Tribune de mars 2019 "Contrat social 2020"](https://medium.com/@maximblondeau/contrat-social-reloaded-2e2b24c7b347)
-
-</div>

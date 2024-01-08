@@ -9,9 +9,7 @@ audio_link: "https://soundcloud.com/techologie/31-une-plateforme-video-dediee-a-
 audio_size_in_megabyte: 32
 ---
 
-Entretien enregistré en novembre 2019.
-
-Au sommaire
+## Au sommaire
 
 * Qu'est ce que Imago ?
 * Qu'appelle t'on transition ?
@@ -29,10 +27,6 @@ Au sommaire
 * Futur d'Imago
 * Matomo et RGPD
 
-<div class="block">
-
-En savoir plus :
+## En savoir plus
 
 [Imago](https://www.imagotv.fr/)
-
-</div>

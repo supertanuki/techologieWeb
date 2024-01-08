@@ -21,15 +21,8 @@ top: true
 * Le projet /e/ (https://e.foundation) et ce qu'elle en pense.
 * Un retour vers une téléphone plus sobre avec un plus petit écran ?
 
-## Transcript
-
-_À venir._
-
-<div class="block">
-En savoir plus :
+## En savoir plus :
 
 * Son site [agnescrepet.org](https://agnescrepet.org/)
 * [Fairphone](https://www.fairphone.com/fr/)
 * [e foundation](https://e.foundation/?lang=fr)
-
-</div>

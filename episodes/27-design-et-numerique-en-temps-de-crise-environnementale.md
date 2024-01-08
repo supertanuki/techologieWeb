@@ -22,13 +22,9 @@ audio_size_in_megabyte: 27
 * Des passoires énergétiques dans les sites web
 * Modèle économique sans vendre du temps
 
-<div class="block">
-
-En savoir plus :
+## En savoir plus
 
 * [gauthierroussilhe.com](http://gauthierroussilhe.com)
 * [David Egderton, Quoi de neuf ? Du rôle des techniques dans l’histoire globale](https://journals.openedition.org/lectures/11712)
 * [Jean-Baptiste Fressoz, L'apocalypse joyeuse](http://www.seuil.com/ouvrage/l-apocalypse-joyeuse-jean-baptiste-fressoz/9782021056983)
 * [André Leroi-Gourhan, L'homme et la matière](https://www.albin-michel.fr/ouvrages/lhomme-et-la-matiere-9782226062130)
-
-</div>

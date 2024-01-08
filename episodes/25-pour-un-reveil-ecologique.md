@@ -9,9 +9,7 @@ audio_link: "https://soundcloud.com/techologie/25-pour-un-reveil-ecologique-avec
 audio_size_in_megabyte: 31
 ---
 
-Entretien enregistré le 14 novembre 2019.
-
-## Au sommaire :
+## Au sommaire
 
 * Son parcours
 * Comment est né le manifeste Pour un réveil écologique ?
@@ -29,11 +27,7 @@ Entretien enregistré le 14 novembre 2019.
 * Comment convaincre certains jeunes qui ne s'intéressent pas au sens de leur travail et aux enjeux écologiques ?
 * Low tech ou smart tech ?
 
-<div class="block">
-
-En savoir plus :
+## En savoir plus
 
 * [Pour un réveil écologique](https://pour-un-reveil-ecologique.org/fr/)
 * [Quelles technologies pour une société durable ?](https://atterrissage.org/technologies-societe-durable-65514b474700)
-
-</div>

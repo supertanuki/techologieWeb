@@ -11,8 +11,6 @@ audio_size_in_megabyte: 26
 
 ## Sujets abordés
 
-Au sommaire :
-
 * Son parcours
 * Digital nomad
 * Permaculture
@@ -32,15 +30,8 @@ Au sommaire :
 * Ceux qui veulent s'engager sont un peu bloqué par le système, par la vie de famille et les crédits à payer.
 * Destination Mauritanie.
 
-## Transcript
-
-_À venir._
-
-<div class="block">
-En savoir plus :
+## En savoir plus
 
 * [Jerry DIT](https://youandjerrycan.org/)
 * [Emmabuntüs](https://fr.wikipedia.org/wiki/Emmabunt%C3%BCs)
 * [Disco soupe](http://discosoupe.org/)
-
-</div>

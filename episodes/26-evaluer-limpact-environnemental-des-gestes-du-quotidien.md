@@ -9,7 +9,7 @@ audio_link: "https://soundcloud.com/techologie/26-evaluer-limpact-environnementa
 audio_size_in_megabyte: 25
 ---
 
-## Au sommaire :
+## Au sommaire
 
 * Parcours de Maël
 * Des startups d'état à dimension environnementale ?
@@ -27,11 +27,8 @@ audio_size_in_megabyte: 25
 * Impact environnemental des évènements et conférences
 * Continuer à regarder Netflix, passer en HD, partager des fichiers ?
 
-<div class="block">
 
-En savoir plus :
+## En savoir plus
 
 * https://futur.eco/
 * https://climateaction.tech/
-
-</div>
