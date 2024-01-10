@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/85-logiciel-libre-pour-un-numerique-plus-soutenable/",
+      "url": "https://techologie.net/episodes/85-logiciel-libre-pour-un-numerique-plus-soutenable/",
+      "title": "Le logiciel libre pour un numérique plus soutenable ?",
+      "content_html": Mathilde Longuet est ingénieure informatique issue de l’UTC Compiègne, technologue, croisant sciences, techniques et études de leurs impacts sociaux. Elle a contribué à divers projets en appliquant les philosophies du libre. Aujourd’hui, elle porte le projet de la fondation Owntech, sous l’égide de la fondation CNRS, dans le domaine de l’énergie. Pierre-Yves Gibello est directeur général de la communauté du logiciel libre OW2. Cela fait plus de 25 ans qu’il s&#39;implique dans l’open-source. Pour le Conseil des logiciels libres et la DINUM, il a piloté une étude “Apports du logiciel libre à la durabilité des équipements” en lien avec la future mise en place de l’indice de durabilité des équipements. Enregistrement de cet épisode en direct et en public durant l’évènement Open Source Experience 2023 et animé par Richard Hanna.,
+      "date_published": "2024-01-11T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/84-cinq-ans-de-techologie/",
       "url": "https://techologie.net/episodes/84-cinq-ans-de-techologie/",
       "title": "Cinq ans de Techologie - des jeux et des surprises",
