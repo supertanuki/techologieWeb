@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Take a break, break a Techno-optimist</title>
+    <style>
+      body {
+        background-color: #000;
+        margin: 0;
+        overflow: hidden;
+        font-family: 'Courier New', Courier, monospace
+      }
+
+      canvas {
+        position: absolute;
+        backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
+        -moz-backface-visibility: hidden;
+        -ms-backface-visibility: hidden;
+      }
+
+      img {
+        position: absolute;
+        cursor: pointer;
+      }
+
+      #container {
+        position: absolute;
+        width: 1500px;
+        height: 900px;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+      }
+
+      #info {
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bolder;
+        font-size: 100px;
+        padding: 40px;
+        background: white;
+        color: #000;
+        display: none;
+      }
+
+      #info p {
+        margin: 0;
+      }
+
+      #info input[type=button] {
+        border: 1px solid #000;
+        background: #eee;
+        color: #000;
+        font-size: 60px;
+        font-family: 'Courier New', Courier, monospace;
+        cursor: pointer;
+        margin: 100px 0 0 0;
+        padding: 50px 100px;
+        box-shadow: 20px 20px #999;
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <div id="info">
+        <p>Take a break<br>Break a Techno-optimist</p>
+        <p><input id="start" type="button" value="Start breaking"></p>
+      </div>
+    </div>
+    <script src="js/delaunay.js"></script>
+    <script src="js/TweenMax.min.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
