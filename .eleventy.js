@@ -7,6 +7,7 @@ const markdownIt = require("markdown-it");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
+    'extra/take-a-break': 'extra/take-a-break',
     'img': 'img',
     'css': 'css',
     'js': 'js',
