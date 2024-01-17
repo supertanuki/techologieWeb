@@ -320,6 +320,16 @@ border: 1px solid green;
 .alert--error {
 border: 1px solid red;
 }
+
+.quote-highlight {
+	border-left: 1rem solid green;
+	margin: 2rem 0 2rem 2rem;
+	padding: 0 3rem 0 2rem;
+}
+
+.quote-highlight p {
+	font-size: 120%;
+}
 			
 @media only screen and (min-width: 1000px) {
     .logo img { width: 600px; margin: 0 auto; display: block; }
