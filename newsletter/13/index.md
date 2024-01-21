@@ -3,7 +3,7 @@ type: newsletter
 number: 13
 title: En route vers l’an 2000
 date: 2023-05-12
-image: /img/newsletters/12/soprano.jpg
+image: /img/newsletters/13/2000-barbier.jpg
 ---
 
 ## La newsletter green, super green
