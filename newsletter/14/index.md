@@ -123,7 +123,7 @@ C'est là où on doit pointer du doigt ce gain de richesse qu'on fait, qui pour 
 
 Mais ça pose des questions. Qu'est-ce qu’est le travail aujourd'hui ? Est-ce que c'est la production qu'on doit maintenir ?
 
-**L'[intégralité de l'entretien passionnant avec** ](https://techologie.net/episodes/85-logiciel-libre-pour-un-numerique-plus-soutenable/)[Mathilde Longuet et Pierre-Yves Gibello](https://techologie.net/episodes/85-logiciel-libre-pour-un-numerique-plus-soutenable/)** est à lire sur Techologie et bien sûr à écouter au format podcast. **Abonnez-vous sur votre plateforme de podcast préférée pour être sûr·e de ne manquer aucun épisode**, sinon vous serez atteint du [syndrome ](https://fr.wikipedia.org/wiki/Syndrome_FOMO)[*Fear of missing out*](https://fr.wikipedia.org/wiki/Syndrome_FOMO) sur 3 générations !
+**L'[intégralité de l'entretien passionnant avec Mathilde Longuet et Pierre-Yves Gibello](https://techologie.net/episodes/85-logiciel-libre-pour-un-numerique-plus-soutenable/)** est à lire sur Techologie et bien sûr à écouter au format podcast. **Abonnez-vous sur votre plateforme de podcast préférée pour être sûr·e de ne manquer aucun épisode**, sinon vous serez atteint du [syndrome *Fear of missing out*](https://fr.wikipedia.org/wiki/Syndrome_FOMO) sur 3 générations !
 
 ## Greenwashing, greenwashing, you rince it 3 times, you smell, it smells like a flower
 
