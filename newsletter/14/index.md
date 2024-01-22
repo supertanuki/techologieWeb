@@ -95,7 +95,7 @@ Je sors peut-être un peu de la question, mais j'allais dire que plein de gens d
 
 Moi, j'ai plutôt tendance à dire que le capitalisme financiarisé qui fait n'importe quoi, c'est mal.
 
-Borges, je crois qui avait dit que c'était le spectacle et l'économie qui se développent pour elles-mêmes ou un truc comme ça.
+Je crois que Guy Debord avait dit que c'était le spectacle et l'économie qui se développent pour elles-mêmes ou un truc comme ça.
 
 Ce qui n'est pas bon, c'est l'économie qui se développe pour elle-même.
 
