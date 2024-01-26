@@ -522,193 +522,75 @@ Quand on a un produit fini, à savoir un produit métallique, ou qui contient du
 
 ### Et quels sont les indicateurs environnementaux qui sont utilisés justement pour, comment dire, qualifier la mine ? Est-ce que c'est des équivalents CO2 pour les gaz à effet de serre ? On parle d'équivalents anti-moines, est-ce qu'il y a d'autres indicateurs ?
 
+Alors l'équivalent anti-moines, effectivement, aujourd'hui à ma connaissance, il n'y a pas d'autres d'équivalents, enfin en tous les cas, éprouvés.
 
-Alors l'équivalent anti-moines, effectivement, c'est aujourd'hui, à ma connaissance,
-il n'y en a pas d'autres d'équivalents, enfin en tous les cas éprouvés.
-C'est-à-dire que dans les travaux de recherche, quand vous voyez ce qui est fait,
-il existe en fait certaines méthodes ou certains calculs ou certaines modélisations à ma connaissance,
-et je dis bien à ma connaissance parce que je ne suis pas une experte de tout ce qui est les calculs,
-les analyses de cycles de vie et autres, mais à ma connaissance, il n'y a pas d'équivalent de l'anti-moine,
-enfin justement de l'équivalent anti-moine.
-Et d'ailleurs, j'en tiens pour preuve que récemment, enfin l'année dernière, j'ai discuté avec un industriel,
-un très gros industriel, qui me disait que lui-même recherchait pour les dispositifs
-sur lesquels il travaillait un équivalent, il a mis une équipe de plusieurs personnes dessus,
-et il me disait en fait qu'il ne trouve pas, donc vous voyez c'était 2021,
-il ne trouve pas aujourd'hui autre chose que l'équivalent anti-moine,
-et l'équivalent anti-moine, mais qui est à des milliers de lieux de quantifier l'impact minier,
-à des milliers de lieux, c'est-à-dire qu'on ne quantifie pas du tout, ou très très mal,
-la réalité des impacts aujourd'hui de la mine, on n'arrive pas à les quantifier en fait.
-Alors, à la fois ça s'explique, et à la fois ça se comprend, je vais expliquer pourquoi.
-Déjà, quand on parle de la mine, on le disait précédemment, on parle d'un grand nombre de sites miniers différents,
-exploités par des opérateurs différents.
-Donc dans le monde on parle de dizaines à centaines de milliers de sites différents,
-on parle de dizaines de substances différentes, si on s'accorde sur les 60 métaux les plus connus admettons,
-donc on parle de dizaines de substances différentes, donc de dizaines de produits finis différents,
-entre les concentrés, les métaux finis, etc.
-Une fois que vous avez extrait votre, donc on l'a dit votre minerai, il faut le traiter longuement,
-puis après vous allez avoir différentes étapes, parce que c'est entre le moment où vous allez passer du minerai
-et au moment où vous allez arriver dans votre voiture, le métal qui est utilisé sous forme d'alliage dans la voiture,
-mais il y a tant et tant d'étapes, étapes qui peuvent être faites un peu partout dans le monde.
-C'est-à-dire que par exemple, je prends cet exemple là pour changer un peu de métaux, prenons l'étain,
-bon l'un des grands producteurs d'étain c'est effectivement, il est connu l'Indonésie, mais pas que,
-si on prend par exemple la République démocratique du Congo, il y a des producteurs d'étain,
-donc des mines d'étain en République démocratique du Congo, ce qui sort des sites miniers c'est du concentré de cascithérites,
-c'est-à-dire du concentré d'oxyde d'étain, donc c'est toujours pas de l'étain,
-c'est ce concentré-là qui part à l'autre bout de la planète, à savoir en Asie,
-pour être ensuite transformé sous forme d'étain pur, donc en fait de l'étain métallique quoi,
-donc qui vient déjà de se déplacer dans une fonderie qui elle-même accueille des mines d'étain d'autres endroits dans le monde,
-et ensuite cet étain métallique va repartir dans d'autres usines pour pouvoir faire des alliages d'étain,
-par exemple un étain-plomb qui est utilisé pour la brasure sur les circuits imprimés par exemple,
-voilà, c'est un des gros usages de l'étain, donc c'est pour ça que j'en parle,
-et ça va repartir, et ensuite ça va repartir, donc du coup on va refaire des alliages,
-parce que pour l'instant on n'avait que de l'étain, donc si vous voulez faire de l'étain-plomb,
-il vous faut une nouvelle usine pour faire de l'étain-plomb, parce que la brasure c'est à base d'étain-plomb,
-et je ne parle pas des nouvelles brasures qui peuvent accueillir jusqu'à 5 métaux différents en alliage,
-et ces trucs-là ils repartent pour faire des composants, enfin vous vous rendez compte
-de la difficulté aujourd'hui qu'on aurait à tracer ces dizaines de milliers de sites,
-ces centaines de milliers de produits semi-finis ou finis, c'est infernal cette histoire,
-en tous les cas à l'échelle internationale.
-Donc ça veut dire que votre capacité à quantifier les impacts pour une substance donnée,
-c'est souvent effectivement que moi, il y a des gens qui reviennent vers moi pour me dire
-"Est-ce que vous pourriez me donner équivalent du nombre de quantités ?"
-Alors je voudrais avoir la surface moyenne impactée par une mine d'étain en sol,
-je voudrais avoir la quantité d'eau contaminée moyenne,
-mais c'est délirant de poser des questions comme ça, en fait c'est délirant, pourquoi ?
-Parce qu'en fait on n'en sait rien, on va dire clairement,
-même à l'échelle du site minier aujourd'hui on ne le sait pas.
-Donc forcément qu'à l'échelle de la filière ça va être encore plus compliqué
-compte tenu des éléments que je vous ai donnés précédemment.
+C'est-à-dire que dans les travaux de recherche, quand vous voyez ce qui est fait, il existe en fait certaines méthodes ou certains calculs ou certaines modélisations à ma connaissance, et je dis bien à ma connaissance parce que je ne suis pas une experte des calculs, les analyses de cycles de vie et autres.
+
+Et d'ailleurs, j'en tiens pour preuve que récemment, j'ai discuté avec un industriel, un très gros industriel, qui me disait que lui-même recherchait pour les dispositifs sur lesquels il travaillait un équivalent, il a mis une équipe de plusieurs personnes dessus, et il me disait en fait qu'il ne trouve pas, donc vous voyez c'était 2021, il ne trouve pas aujourd'hui autre chose que l'équivalent anti-moine, et l'équivalent anti-moine, mais qui est à des milliers de lieux de quantifier l'impact minier, c'est-à-dire qu'on ne quantifie pas du tout, ou très très mal, la réalité des impacts aujourd'hui de la mine, on n'arrive pas à les quantifier en fait.
+
+Alors, à la fois ça s'explique, et à la fois ça se comprend, je vais expliquer pourquoi. Déjà, quand on parle de la mine, on le disait précédemment, on parle d'un grand nombre de sites miniers différents, exploités par des opérateurs différents. Dans le monde on parle de dizaines à centaines de milliers de sites différents, on parle de dizaines de substances différentes, si on s'accorde sur les 60 métaux les plus connus admettons, donc on parle de dizaines de substances différentes, donc de dizaines de produits finis différents, entre les concentrés, les métaux finis, etc.
+
+Une fois que vous avez extrait votre minerai, il faut le traiter longuement. Après vous allez avoir différentes étapes, parce que c'est entre le moment où vous allez passer du minerai et au moment où vous allez arriver dans votre voiture, le métal qui est utilisé sous forme d'alliage dans la voiture, mais il y a tant et tant d'étapes, étapes qui peuvent être faites un peu partout dans le monde.
+
+Par exemple, je prends cet exemple là pour changer un peu de métaux, prenons l'étain. L'un des grands producteurs d'étain, c'est connu, c'est l'Indonésie, mais pas que, si on prend par exemple la République démocratique du Congo, il y a des producteurs d'étain. Ce qui sort des sites miniers c'est du concentré de cascithérites, c'est-à-dire du concentré d'oxyde d'étain, donc c'est toujours pas de l'étain, c'est ce concentré-là qui part à l'autre bout de la planète, à savoir en Asie, pour être ensuite transformé sous forme d'étain pur, donc en fait de l'étain métallique quoi, donc qui vient déjà de se déplacer dans une fonderie qui elle-même accueille des mines d'étain d'autres endroits dans le monde. Ensuite cet étain métallique va repartir dans d'autres usines pour pouvoir faire des alliages d'étain, par exemple un étain-plomb qui est utilisé pour la brasure sur les circuits imprimés par exemple. C'est un des gros usages de l'étain, donc c'est pour ça que j'en parle, et ça va repartir, et ensuite ça va repartir, donc du coup on va refaire des alliages, parce que pour l'instant on n'avait que de l'étain.
+
+Si vous voulez faire de l'étain-plomb, il vous faut une nouvelle usine pour faire de l'étain-plomb, parce que la brasure c'est à base d'étain-plomb, et je ne parle pas des nouvelles brasures qui peuvent accueillir jusqu'à 5 métaux différents en alliage, et ces trucs-là ils repartent pour faire des composants, enfin vous vous rendez compte de la difficulté aujourd'hui qu'on aurait à tracer ces dizaines de milliers de sites, ces centaines de milliers de produits semi-finis ou finis, c'est infernal cette histoire, en tous les cas à l'échelle internationale.
+
+Il y a des gens qui reviennent vers moi pour me dire "Est-ce que vous pourriez me donner équivalent du nombre de quantités ?".
+
+Alors je voudrais avoir la surface moyenne impactée par une mine d'étain en sol, je voudrais avoir la quantité d'eau contaminée moyenne, mais c'est délirant de poser des questions comme ça, en fait c'est délirant, pourquoi ?
+
+Parce qu'en fait on n'en sait rien, on va dire clairement, même à l'échelle du site minier aujourd'hui on ne le sait pas. Donc forcément qu'à l'échelle de la filière ça va être encore plus compliqué compte tenu des éléments que je vous ai donnés précédemment.
+
 Et puis alors à l'échelle du produit fini, mais alors n'en parlons même pas.
-Lors de, effectivement, tu mentionnais Richard une interview que j'ai proposée récemment dans Thinkerview,
-j'ai parlé effectivement des véhicules électriques,
-et puis alors du coup j'ai eu plein de retours sur les véhicules électriques,
-parce qu'il y a des gens qui étaient, alors j'ai eu beaucoup de retours positifs,
-et puis dans tous les retours j'ai des gens qui travaillent dans le secteur des véhicules électriques,
-je ne mentionnerai pas d'où ils proviennent, et nombreux sont ceux qui m'ont dit,
-mais ça fait des années que je dis qu'on considère pas,
-on n'a pas de cartographie métallique déjà du véhicule électrique,
-c'est-à-dire on ne sait pas la quantité de métal, quel type de métaux,
-quel type d'alléage il y a dans un véhicule électrique,
-ça fait des années que je le dis, personne ne m'écoute, tout le monde s'en fiche.
-Et ensuite ces mêmes personnes, et il y en a plusieurs,
-je ne vous parle pas d'une personne et que j'utilise en espèce de symbole,
-c'est que là j'ai eu au moins une vingtaine de retours de gens qui travaillent dans des secteurs,
-dans des industries ou pour des entreprises différentes on va dire,
-ou dans des cadres différents, mais qui travaillent tous sur les véhicules électriques,
-qui vous disent j'ai déjà même pas la cartographie complète de la quantité de métal
-et du type de métaux qui est dans un véhicule électrique,
-et c'est valable aussi pour un téléphone portable, on ne sait même pas ce qu'il y a dedans.
-Alors autant vous dire qu'ensuite, déjà on ne sait pas ce qu'il y a dedans,
-ensuite on ne sait pas quel est l'impact.
-C'est-à-dire que vous avez des mines qui sont très très impactantes,
-qui sont très impactantes, pourquoi ?
-Parce que par exemple elles sont très riches en arsenic,
-donc vous avez des contaminations en arsenic ou en plomb par exemple,
+
+Effectivement, tu mentionnais Richard une interview que j'ai proposée récemment dans Thinkerview dans laquelle j'ai parlé effectivement des véhicules électriques. Et puis alors du coup j'ai eu plein de retours sur les véhicules électriques, parce qu'il y a des gens qui étaient, alors j'ai eu beaucoup de retours positifs, et puis dans tous les retours j'ai des gens qui travaillent dans le secteur des véhicules électriques, je ne mentionnerai pas d'où ils proviennent, et nombreux sont ceux qui m'ont dit, mais ça fait des années que je dis qu'on considère pas, on n'a pas de cartographie métallique déjà du véhicule électrique, c'est-à-dire on ne sait pas la quantité de métal, quel type de métaux, quel type d'alléage il y a dans un véhicule électrique. Cela fait des années que je le dis, personne ne m'écoute, tout le monde s'en fiche.
+
+Et ensuite ces mêmes personnes, et il y en a plusieurs, je ne vous parle pas d'une personne et que j'utilise en espèce de symbole, c'est que là j'ai eu au moins une vingtaine de retours de gens qui travaillent dans des secteurs, dans des industries ou pour des entreprises différentes on va dire, ou dans des cadres différents, mais qui travaillent tous sur les véhicules électriques, qui vous disent j'ai déjà même pas la cartographie complète de la quantité de métal et du type de métaux qui est dans un véhicule électrique.
+
+Et c'est valable aussi pour un téléphone portable, on ne sait même pas ce qu'il y a dedans. Ensuite on ne sait pas quel est l'impact. C'est-à-dire que vous avez des mines qui sont très très impactantes, parce que par exemple elles sont très riches en arsenic. Donc vous avez des contaminations en arsenic ou en plomb par exemple,
 qui sont gigantesques, d'autres qui le sont moins.
-Ensuite il y en a qui sont très impactantes pour l'air,
-d'autres qui sont très impactantes pour l'eau,
-alors en général tous les milieux sont impactés,
-mais le niveau de contamination va différer en fonction de quoi ?
-En fonction de l'intensité de votre exploitation,
-en fonction de la façon dont vous vous traitez,
-et puis en fonction des métaux qui étaient initialement dans le gisement.
-Tout ça fait que vous avez quasiment un système quantique,
-c'est-à-dire que la variabilité est énorme.
-Il faut absolument par contre aujourd'hui pousser pour que,
-malgré cette hétérogénéité sur laquelle vous voyez,
-je vous l'ai décrite longuement pour bien vous montrer que j'en ai la pleine conscience,
-mais qui dit hétérogénéité ne dit pas possibilité de faire des hypothèses
-qui nous permettent d'obtenir des modèles ou des évaluations,
-alors certes il y aura des hypothèses,
-on travaille avec des hypothèses malheureusement dans le monde de la science et ainsi,
-qui nous permettront justement d'appréhender sainement les choses.
-Je vous donne cet exemple-là, je vais vous donner qu'un exemple, uniquement un.
-On sait par exemple aujourd'hui que l'un des très gros émetteurs,
-l'un des principaux émetteurs de dioxyde de soufre à l'échelle internationale,
-ce sont les fonderies de métaux.
-Les fonderies, c'est-à-dire les espèces de fours qui vont passer du concentré
-qui va sortir de la mine pour obtenir un métal pur.
-Vraiment si je le dis de façon très schématique,
-parce que dans le détail ce n'est pas exactement ça.
-Mais peu importe, c'est les fonderies.
-Vous avez une fonderie qui se trouve actuellement en Russie,
-vous avez un énorme site minier, c'est un énorme complexe,
-qui va de la mine jusqu'à l'obtention du produit fini,
-qui est un des principaux producteurs de nickel et de platinoïdes au monde,
-qui s'appelle Norilsk, qui se trouve en Russie.
-D'après les estimations que l'on peut faire,
-Norilsk émet, donc le site si vous voulez complet,
-le complexe si vous voulez, qui comprend toute cette industrie minière et métallurgique,
-émettrait autant voire plus de dioxyde de soufre que la France.
-Tous secteurs confondus.
-Ce site, ce site, émettrait, on est dans les environs,
-on est autour de 2 à 3 millions de tonnes,
-donc voilà, on est autant par an par an.
-On est autant en termes d'émissions que la France.
-Directement dans l'atmosphère.
-C'est les émissions de dioxyde de soufre qui sont liées à ce complexe métallurgique.
-Que la France !
-Qui quantifie ça sur le nickel qui vient de Norilsk ?
-Personne.
-Alors oui, il y a des gens qui vont le quantifier.
-Par exemple, les chercheurs que j'ai étudiés,
-Fioletov et Hall, pour mémoire,
-effectivement ont fait une reconnaissance, à partir des données satellites,
-des plus gros centres d'émissions de dioxyde de soufre
-dans lequel, effectivement, ils identifient clairement les fonderies.
-C'est ce qui va leur permettre de vous donner les chiffres que je vous présente aujourd'hui,
-ou qui vous permet d'identifier par exemple les sites de torchage,
-les sites de gazier qui sont aussi des gros émetteurs de dioxyde de soufre.
-Ou les centrales à charbon, voilà.
-Mais globalement, qui va se dire, alors attention,
-j'ai dans le pare-choc de ma voiture, du nickel.
-Supposons, j'ai du nickel.
-D'où vient ce nickel ? Aucune idée.
-Est-ce que c'est du nickel de Norilsk qui pollue comme un fou en termes...
-Alors là encore, je vous ai donné 2, un peu entre 2 et 2,5.
-Ça dépend des années.
-Là, Fioletof est à l'histoire qu'ils annoncent 2,3, je crois.
-C'est des données de 2016, 2,3 millions de tonnes.
-Qui prend ça ? Mais personne. Mais personne.
-Mais alors absolument personne.
-Quand on parle par exemple de l'eau.
-Parce qu'on a dit, bon, la mine, il s'avère que c'est en souterrain.
-Donc soit on l'exploite à ciel ouvert, soit on l'exploite en souterrain.
-C'est-à-dire avec des galeries, des puits, etc.
-On pompe les eaux.
-Oui, parce qu'on ne va pas emmener les mineurs avec des tubas et des palmes.
-Pour miner, ça va être compliqué.
-Donc oui, on pompe. On pompe.
-Donc on va créer, si vous voulez, des drains pour pouvoir extraire les eaux
-de façon à ce que les mineurs puissent travailler.
-Les quantités d'eau qui sont pompées, c'est gigantesque.
-C'est gigantesque. Vraiment, mais c'est gigantesque.
-Quand je vous dis gigantesque, c'est qu'on n'arrive pas à le représenter.
-Puisqu'on parle de millions de m3 par an, ça n'a aucun sens.
-Ça n'a plus de sens.
-Donc, en fait, ces eaux, si vous voulez, vous les pompez.
-Or, je vous l'ai dit, au tout départ, ce dont il fallait se souvenir,
-c'était que dans la mine, il y avait des métaux.
-Ça veut dire que les eaux qui vont circuler dans ces sites miniers souterrains,
-que ce soit en ciel ouvert, ils vont se contaminer
-au contact de ces facettes minéralisées qu'on exploite.
-La question qu'on pourrait me poser, ça va être de dire,
-je vois tout de suite la question arrivée, en me disant,
-oui, mais de toute façon, les métaux, ils étaient présents avant,
-donc qu'on creuse ou qu'on creuse pas, de toute façon, les eaux,
-elles auraient été contaminées, c'est ça qui est merveilleux, mais non.
-C'est-à-dire que par le fait que vous ayez creusé,
-que vous ayez perturbé le souterrain, vous avez oxygéné et amené,
-et vous avez modifié la circulation des eaux,
-c'est-à-dire que vous avez mis à nu des zones
-qui étaient complètement préservées de l'oxygène et de l'eau,
-et là, tout d'un coup, vous leur amenez les deux.
-Donc, ça s'oxyde massivement, donc ça contamine des eaux.
-Donc, on génère des volumes incroyables d'eau contaminée,
-contaminée en métaux et contaminée aussi en matière en suspension,
-qu'il faut gérer, quoi. Alors qu'on gère plus ou moins bien,
-la méthode la plus répandue étant de prendre les eaux
-et de les mettre dans l'environnement, ça va plus vite et ça coûte rien du tout.
+
+Ensuite il y en a qui sont très impactantes pour l'air, d'autres qui sont très impactantes pour l'eau, alors en général tous les milieux sont impactés, mais le niveau de contamination va différer en fonction de l'intensité de votre exploitation, en fonction de la façon dont vous vous traitez, et puis en fonction des métaux qui étaient initialement dans le gisement.
+
+Tout ça fait que vous avez quasiment un système quantique, c'est-à-dire que la variabilité est énorme. Il faut absolument par contre aujourd'hui pousser pour que, malgré cette hétérogénéité sur laquelle vous voyez, je vous l'ai décrite longuement pour bien vous montrer que j'en ai la pleine conscience, mais qui dit hétérogénéité ne dit pas possibilité de faire des hypothèses qui nous permettent d'obtenir des modèles ou des évaluations.
+
+Alors certes il y aura des hypothèses, on travaille avec des hypothèses malheureusement dans le monde de la science et ainsi, qui nous permettront justement d'appréhender sainement les choses.
+
+Je vais vous donner qu'un exemple, uniquement un. On sait par exemple aujourd'hui que l'un des très gros émetteurs, l'un des principaux émetteurs de dioxyde de soufre à l'échelle internationale, ce sont les fonderies de métaux c'est-à-dire les espèces de fours qui vont passer du concentré qui va sortir de la mine pour obtenir un métal pur, vraiment si je le dis de façon très schématique, parce que dans le détail ce n'est pas exactement ça.
+
+Mais peu importe, c'est les fonderies. Vous avez une fonderie qui se trouve actuellement en Russie, vous avez un énorme site minier, c'est un énorme complexe, qui va de la mine jusqu'à l'obtention du produit fini, qui est un des principaux producteurs de nickel et de platinoïdes au monde, qui s'appelle Norilsk, qui se trouve en Russie.
+
+D'après les estimations que l'on peut faire, le site, le complexe de Norilsk complet qui comprend toute cette industrie minière et métallurgique, émettrait autant voire plus de dioxyde de soufre que la France. Tous secteurs confondus.
+
+Ce site émettrait dans les environs de 2 à 3 millions de tonnes par an. On est autant en termes d'émissions que la France. Directement dans l'atmosphère.
+
+Qui quantifie ça sur le nickel qui vient de Norilsk ? Personne.
+
+Alors oui, il y a des gens qui vont le quantifier. Par exemple, les chercheurs que j'ai étudiés, Fioletov et al., pour mémoire, ont fait une reconnaissance, à partir des données satellites, des plus gros centres d'émissions de dioxyde de soufre dans lequel, ils identifient clairement les fonderies.
+
+C'est ce qui va leur permettre de vous donner les chiffres que je vous présente aujourd'hui, ou qui vous permet d'identifier par exemple les sites de torchage, les sites de gazier qui sont aussi des gros émetteurs de dioxyde de soufre. Ou les centrales à charbon.
+
+Alors attention, j'ai dans le pare-choc de ma voiture, du nickel. Supposons, j'ai du nickel. D'où vient ce nickel ? Aucune idée.
+
+Est-ce que c'est du nickel de Norilsk qui pollue comme un fou en termes... Alors là encore, je vous ai donné entre 2 et 2,5. Ça dépend des années. Là, Fioletof et al. annoncent 2,3, je crois. C'est des données de 2016, 2,3 millions de tonnes. Qui prend ça ? Mais personne. Mais alors absolument personne.
+
+Quand on parle par exemple de l'eau. Parce qu'on a dit, la mine s'avère que c'est en souterrain. Donc soit on l'exploite à ciel ouvert, soit on l'exploite en souterrain. C'est-à-dire avec des galeries, des puits, etc. On pompe les eaux.
+
+Oui, parce qu'on ne va pas emmener les mineurs avec des tubas et des palmes. Pour miner, ça va être compliqué. Donc oui, on pompe. Donc on va créer, si vous voulez, des drains pour pouvoir extraire les eaux de façon à ce que les mineurs puissent travailler.
+
+Les quantités d'eau qui sont pompées, c'est gigantesque. Vraiment. Quand je vous dis gigantesque, c'est qu'on n'arrive pas à le représenter. Puisqu'on parle de millions de m3 par an, ça n'a aucun sens. Ça n'a plus de sens.
+
+En fait, ces eaux, si vous voulez, vous les pompez. Or, je vous l'ai dit, au tout départ, ce dont il fallait se souvenir, c'était que dans la mine, il y avait des métaux.
+
+Ça veut dire que les eaux qui vont circuler dans ces sites miniers souterrains, que ce soit en ciel ouvert, ils vont se contaminer au contact de ces facettes minéralisées qu'on exploite.
+
+La question qu'on pourrait me poser, oui, mais de toute façon, les métaux, ils étaient présents avant, donc qu'on creuse ou qu'on creuse pas, de toute façon, les eaux, elles auraient été contaminées, c'est ça qui est merveilleux, mais non.
+
+C'est-à-dire que par le fait que vous ayez creusé, que vous ayez perturbé le souterrain, vous avez oxygéné et amené, et vous avez modifié la circulation des eaux, c'est-à-dire que vous avez mis à nu des zones qui étaient complètement préservées de l'oxygène et de l'eau, et là, tout d'un coup, vous leur amenez les deux.
+
+Donc, ça s'oxyde massivement, donc ça contamine des eaux. Donc, on génère des volumes incroyables d'eau contaminée en métaux et contaminée aussi en matière en suspension, qu'il faut gérer. Alors qu'on gère plus ou moins bien, la méthode la plus répandue étant de prendre les eaux et de les mettre dans l'environnement, ça va plus vite et ça coûte rien du tout.
+
 De plus en plus, maintenant, on dit aux gens,
 arrêtez de faire ça quand même,
 ne rejetez pas des eaux contaminées dans l'environnement,
