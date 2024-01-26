@@ -33,7 +33,8 @@ transcribed: true
 
 ## En savoir plus
 
-- [Que la transition écologique soit, et la transition numérique fut. Marie GARIN et Achille BAUCHER, 2023](https://polaris.imag.fr/romain.couillet/docs/articles/Achille_Marie_GRETSI2023.pdf)
+- [Article préliminaire Que la transition écologique soit, et la transition numérique fut. Marie GARIN et Achille BAUCHER, 2023](https://polaris.imag.fr/romain.couillet/docs/articles/Achille_Marie_GRETSI2023.pdf)
+- [Que la transition écologique soit, et la transition numérique fut. Marie GARIN](https://shs.hal.science/halshs-04411108)
 - [Pourquoi et comment démanteler le numérique ? Romain COUILLET, Grégoire POISSONNIER, 2023](https://polaris.imag.fr/romain.couillet/docs/articles/gretsi_demantelement.pdf)
 - [Les émissions évitées de la numérisation, Gauthier Roussilhe](https://gauthierroussilhe.com/articles/les-emissions-evitees-de-la-numerisation)
 - [Au-delà des impacts environnementaux directs du numérique avec Françoise Berthoud, épisode 56 de Techologie](/episodes/56-au-dela-des-impacts-environnementaux-directs-du-numerique/)
