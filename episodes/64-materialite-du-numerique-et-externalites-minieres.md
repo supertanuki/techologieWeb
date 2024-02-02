@@ -591,320 +591,209 @@ C'est-à-dire que par le fait que vous ayez creusé, que vous ayez perturbé le 
 
 Donc, ça s'oxyde massivement, donc ça contamine des eaux. Donc, on génère des volumes incroyables d'eau contaminée en métaux et contaminée aussi en matière en suspension, qu'il faut gérer. Alors qu'on gère plus ou moins bien, la méthode la plus répandue étant de prendre les eaux et de les mettre dans l'environnement, ça va plus vite et ça coûte rien du tout.
 
-De plus en plus, maintenant, on dit aux gens,
-arrêtez de faire ça quand même,
-ne rejetez pas des eaux contaminées dans l'environnement,
-s'il vous plaît, essayez de les traiter. Je ferme la parenthèse.
-Mais personne ne se rend compte de la quantité des perturbations
-qui sont associées aux eaux souterraines.
-Même quand vous êtes à l'échelle du site,
-à l'échelle du site, on ne connaît pas les perturbations.
-C'est-à-dire, on ne sait pas quel est le volume contaminé,
-on fait des estimations.
-Et on ne sait pas quel est l'impact de ce pompage.
-Parce que quand vous pompez comme ça,
-sur des millions et des millions de mètres cubes, quoi,
-à la fin de la vie de la mine, vous croyez que ça se passe bien ?
-Que les eaux, elles retrouvent leur équilibre facilement ?
-Mais pas du tout. C'est la catastrophe !
-Du coup, vous avez des eaux souterraines qui sont perturbées,
-les niveaux initiaux ne sont pas atteints,
-voire vous avez des perturbations, c'est-à-dire que vous n'avez pas
-une eau qui est remontée bien plus haut que où elle était avant.
-Par endroits, elle est bien plus bas, du coup vous avez des sources
-qui se tarissent et d'autres qui naissent.
-Enfin, c'est un bazar pas possible, personne ne quantifie ça.
-À l'échelle, si vous voulez, de la quantité, par exemple,
-je vais continuer à trouver des métaux différents
-pour qu'on arrête de parler que des terres rares.
-Tiens, alors quel est ce que vous pourrez prendre
-comme métal qui serait chouette ?
-Par exemple, à l'échelle du cobalt.
-À l'échelle du cobalt, qu'est-ce que, enfin,
-est-ce qu'on pourrait avoir un équivalent, s'il vous plaît,
-de une tonne de cobalt ?
-Une tonne, ça me paraît beaucoup quand même.
-Soyons, peut-être, on va prendre, allez, un kilo.
-Un kilo de cobalt, c'est combien d'eau contaminée ?
-Il n'y a personne aujourd'hui qui est capable de vous répondre.
-À l'échelle internationale.
-Ce serait qu'à l'échelle nationale, ce ne serait pas grave.
-À l'échelle internationale.
-Parce qu'il y a trop de sites miniers différents,
-parce que le métal transite par trop d'endroits
-et que du coup, ce qu'il faudrait faire,
-c'est comme une espèce d'immense base de données
-dans laquelle on regrouperait le maximum d'informations sur tous les sites
-et on ferait plein d'hypothèses qui nous permettraient justement
-de répondre à des questions comme, est-ce qu'on peut quantifier ?
-Oui, à peu près, alors à la louche, on s'en fiche.
-Ce qui compte, ce qui compte, c'est pas d'avoir une valeur très précise,
-c'est pas grave en fait, c'est d'avoir un équivalent.
-Et de se rendre compte aussi quels sont les métaux
-qui sont plus ou moins compliqués.
-Donc effectivement, oui, on s'en doute,
-l'or va être plus compliqué que les autres parce qu'effectivement,
-aujourd'hui, on l'exploite à des teneurs qui sont à gramme par tonne, oui.
-Voire en dessous, vous avez des gisements, on est à moins de 1 gramme par tonne.
-Moi, j'ai travaillé sur un site mini, on est à 0.2 gramme par tonne.
-0.2 gramme par tonne.
-0.2 gramme par tonne, je le répète parce que je pense qu'on...
-C'est vraiment rentable.
-C'est vraiment rentable.
-C'est très rentable.
-Je te propose qu'on passe à la suite.
-Donc on a vu, mais vraiment entrevue j'imagine,
-les impacts environnementaux, sociaux, humains, etc.
-Quelles sont les évolutions?
-Tu disais dans un webinaire pour l'Institut du Numérique Responsable Belgique,
-que les quantités annuelles de métaux à extraire d'ici 2050,
-pour la transition énergétique et pour le développement aussi des pays en voie de développement,
-qui seraient d'ici 2050, 3 à 10 fois supérieurs au niveau actuel.
-Et donc ces quantités de métaux, en fait, on allait dépasser
-tout ce que l'humanité a produit depuis l'Antiquité.
-Oui.
-C'est fou.
-C'est incroyable.
-C'est fou.
-Donc déjà, là, on se rend compte qu'on n'arrive pas à gérer ce que...
-Donc les impacts environnementaux, on imagine, mais comment on peut rendre ça soutenable?
+De plus en plus, maintenant, on dit aux gens : arrêtez de faire ça quand même, ne rejetez pas des eaux contaminées dans l'environnement, s'il vous plaît, essayez de les traiter.
+
+Mais personne ne se rend compte de la quantité des perturbations qui sont associées aux eaux souterraines.
+
+Même quand vous êtes à l'échelle du site, à l'échelle du site, on ne connaît pas les perturbations. On ne sait pas quel est le volume contaminé, on fait des estimations.
+
+Et on ne sait pas quel est l'impact de ce pompage. Parce que quand vous pompez comme ça, sur des millions et des millions de mètres cubes, à la fin de la vie de la mine, vous croyez que ça se passe bien ? Que les eaux, elles retrouvent leur équilibre facilement ? Mais pas du tout. C'est la catastrophe !
+
+Du coup, vous avez des eaux souterraines qui sont perturbées, les niveaux initiaux ne sont pas atteints, voire vous avez des perturbations, c'est-à-dire que vous n'avez pas une eau qui est remontée bien plus haut que où elle était avant.
+
+Par endroits, elle est bien plus bas, du coup vous avez des sources qui se tarissent et d'autres qui naissent. Enfin, c'est un bazar pas possible, personne ne quantifie ça.
+
+À l'échelle, si vous voulez, de la quantité, par exemple, je vais continuer à trouver des métaux différents pour qu'on arrête de parler que des terres rares.
+
+Par exemple, à l'échelle du cobalt, est-ce qu'on pourrait avoir un équivalent de une tonne de cobalt ? Une tonne, ça me paraît beaucoup quand même. Soyons, peut-être, on va prendre, allez, un kilo.
+
+Un kilo de cobalt, c'est combien d'eau contaminée ? Il n'y a personne aujourd'hui qui est capable de vous répondre.
+
+Ce serait qu'à l'échelle nationale, ce ne serait pas grave. À l'échelle internationale parce qu'il y a trop de sites miniers différents, parce que le métal transite par trop d'endroits et que du coup, ce qu'il faudrait faire, c'est comme une espèce d'immense base de données dans laquelle on regrouperait le maximum d'informations sur tous les sites et on ferait plein d'hypothèses qui nous permettraient justement de répondre à des questions comme : est-ce qu'on peut quantifier ? Oui, à peu près, alors à la louche, on s'en fiche.
+
+Ce qui compte, c'est pas d'avoir une valeur très précise, c'est pas grave en fait, c'est d'avoir un équivalent. Et de se rendre compte aussi quels sont les métaux qui sont plus ou moins compliqués.
+
+Donc effectivement, oui, on s'en doute, l'or va être plus compliqué que les autres parce qu'effectivement, aujourd'hui, on l'exploite à des teneurs qui sont au gramme par tonne, oui. Voire en dessous. Vous avez des gisements, on est à moins de 1 gramme par tonne.
+
+J'ai travaillé sur un site minier où on est à 0.2 gramme par tonne.
+
+### On a entrevu j'imagine, les impacts environnementaux, sociaux, humains, etc. Quelles sont les évolutions ? Tu disais dans un webinaire pour l'Institut du Numérique Responsable Belgique, que les quantités annuelles de métaux à extraire d'ici 2050, pour la transition énergétique et pour le développement aussi des pays en voie de développement, qui seraient d'ici 2050, 3 à 10 fois supérieurs au niveau actuel. Et donc ces quantités de métaux, en fait, on allait dépasser tout ce que l'humanité a produit depuis l'Antiquité.
+
+Oui. C'est fou. C'est incroyable.
+
+Donc déjà, là, on se rend compte qu'on n'arrive pas à gérer les impacts environnementaux, mais comment on peut rendre ça soutenable ?
+
 Insoutenable, les modèles actuels sont insoutenables.
-Donc effectivement, ces chiffres que tu mentionnais,
-c'est-à-dire que les quantités annuelles de métaux devraient être produits d'ici 2050,
-c'est 3 à 10 fois les niveaux actuels.
-C'est-à-dire qu'au cours des 35 prochaines années, à peu près, là, ils nous auront...
-Mais on aura tous des voitures électriques.
-Tous, mais pas moi.
-Ça, je le précise.
-Je continue à le préciser, je n'aurai pas de voiture électrique.
-Véhicules hybrides légers, peut-être.
-Véhicules hybrides rechargeables au niveau du fonctionnement, peut-être.
-Ça, je m'y intéresse de plus en plus à ces véhicules, mais électriques, certainement pas.
-Effectivement, c'est la quantité cumulée qu'on extrait depuis l'Antiquité.
-Ça n'a aucun sens.
-Mais cette tendance, on l'avait déjà observée,
-c'est-à-dire qu'on a une accélération du processus.
-Et c'est extrêmement inquiétant.
-C'est-à-dire que là, on en parle maintenant,
-mais en fait, au cours des 25 dernières années,
-on l'avait déjà fait, ça.
-Et ça, les gens ne l'ont pas en tête.
-On arrive aujourd'hui en 2022,
-et on se dit qu'il va falloir exploiter de ouf d'ici les 2050.
-Mais en fait, si on se met de l'autre côté, c'est-à-dire moins 25 ans,
-on avait déjà extrait plus de métaux pendant les 25 dernières années
-que pendant toute l'histoire de l'humanité.
-Et on va recommencer une deuxième fois, en cumulant en plus.
-Vous vous rendez compte ?
-Je ne pense pas que ce soit exponentiel.
-Là, je pense que c'est en loi puissance, à mon avis, mathématiquement.
-Ça se gère comment, en fait ? C'est les industriels qui sont vraiment libres là-dessus,
-ou c'est une stratégie ?
-Quelle est la gouvernance par rapport à ça ?
-C'est les États qui dirigent ça, ou pas du tout ?
-C'est vraiment les industriels qui...
-Ben voilà, c'est un business comme un autre,
-et il faut juste continuer,
-ou au contraire accélérer de façon exponentielle pour répondre à la demande.
-Alors, effectivement, il y a une double gouvernance, je dirais.
-Il y a une gouvernance déjà qui est supranationale.
-Les chiffres dont nous venons de parler,
-ce sont des chiffres qui avaient été annoncés par la Banque mondiale en 2017.
-C'est des chiffres qui ont été rappelés par l'Agence internationale de l'énergie en 2021.
-C'est des chiffres qui sont assumés par la Commission européenne.
-Moi, je n'assume pas. Je ne sais pas comment ils font pour assumer.
-Je ne sais pas comment ils font pour se regarder dans la glace le matin, eux.
-Moi, je n'assume pas du tout des chiffres comme ça.
-Je ne sais pas comment ils font pour assumer.
-Il y a déjà effectivement, c'est très important cette question,
-c'est-à-dire qu'il y a une gouvernance internationale.
-Gouvernance internationale qui est liée au fait qu'effectivement,
-des grands organismes comme la Banque mondiale, par exemple,
-ont tout intérêt à ce qu'on continue comme en 40.
-C'est-à-dire qu'on continue à exploiter des métaux,
-à faire du profit dessus parce qu'on fait certainement plus d'argent sur le métal
-qu'on ne fait de métal, finalement.
-L'intérêt, il n'est pas dans la production de métal, finalement.
-C'est presque un épiphénomène.
-Moi, j'ai beaucoup de contacts dans l'ingénierie minière,
-de jeunes, moins jeunes qui travaillent en tant qu'ingénieurs miniers,
-qui n'arrêtent pas de me répéter.
-Moi, on m'a toujours appris plus à faire de l'argent qu'à produire du métal.
-Bon, petite anecdote.
-Donc, en fait, ce qu'il faut effectivement se dire,
-c'est que le premier niveau de gouvernance, pour moi,
-il est à l'échelle supranationale.
+
+Donc effectivement, ces chiffres que tu mentionnais, c'est-à-dire que les quantités annuelles de métaux devraient être produits d'ici 2050, c'est 3 à 10 fois les niveaux actuels.
+
+C'est-à-dire qu'au cours des 35 prochaines années, à peu près, on aura tous des voitures électriques. Tous, mais pas moi. Ça, je le précise. Je continue à le préciser, je n'aurai pas de voiture électrique.
+
+Véhicules hybrides légers, peut-être. Véhicules hybrides rechargeables au niveau du fonctionnement, peut-être. Ça, je m'y intéresse de plus en plus à ces véhicules, mais électriques, certainement pas.
+
+Effectivement, c'est la quantité cumulée qu'on extrait depuis l'Antiquité. Ça n'a aucun sens.
+
+Mais cette tendance, on l'avait déjà observée, c'est-à-dire qu'on a une accélération du processus. Et c'est extrêmement inquiétant.
+
+Mais en fait, au cours des 25 dernières années, on l'avait déjà fait, et ça, les gens ne l'ont pas en tête.
+
+On arrive aujourd'hui en 2022, et on se dit qu'il va falloir exploiter de ouf d'ici 2050.
+
+Mais en fait, si on se met de l'autre côté, c'est-à-dire moins 25 ans, on avait déjà extrait plus de métaux pendant les 25 dernières années que pendant toute l'histoire de l'humanité.
+
+Et on va recommencer une deuxième fois, en cumulant en plus. Vous vous rendez compte ?
+
+Je ne pense pas que ce soit exponentiel. Là, je pense que c'est en loi puissance, à mon avis, mathématiquement.
+
+### L'industrie minière se gère comment, en fait ? Ce sont les industriels qui sont vraiment libres là-dessus, ou c'est une stratégie ? Quelle est la gouvernance par rapport à ça ? C'est les États qui dirigent ça, ou pas du tout ?
+
+C'est un business comme un autre, et il faut juste continuer, ou au contraire accélérer de façon exponentielle pour répondre à la demande.
+
+Alors, effectivement, il y a une double gouvernance, je dirais. Il y a une gouvernance déjà qui est supranationale.
+
+Les chiffres dont nous venons de parler, ce sont des chiffres qui avaient été annoncés par la Banque mondiale en 2017.
+
+C'est des chiffres qui ont été rappelés par l'Agence internationale de l'énergie en 2021, des chiffres qui sont assumés par la Commission européenne.
+
+Moi, je n'assume pas. Je ne sais pas comment ils font pour assumer. Je ne sais pas comment ils font pour se regarder dans la glace le matin, eux.
+
+Il y a déjà effectivement une gouvernance internationale qui est liée au fait qu'effectivement, des grands organismes comme la Banque mondiale, par exemple, ont tout intérêt à ce qu'on continue comme en 40. C'est-à-dire qu'on continue à exploiter des métaux, à faire du profit dessus parce qu'on fait certainement plus d'argent sur le métal qu'on ne fait de métal, finalement.
+
+L'intérêt, il n'est pas dans la production de métal, finalement. C'est presque un épiphénomène.
+
+J'ai beaucoup de contacts dans l'ingénierie minière, de jeunes, moins jeunes qui travaillent en tant qu'ingénieurs miniers, qui n'arrêtent pas de me répéter : on m'a toujours appris plus à faire de l'argent qu'à produire du métal.
+
+En fait, ce qu'il faut effectivement se dire, c'est que le premier niveau de gouvernance, pour moi, il est à l'échelle supranationale.
+
 C'est-à-dire ces très grandes institutions qui promeuvent un modèle dit de développement.
-Alors là, il va falloir mettre des énormes guillemets au regard de ce que j'ai présenté précédemment,
-puisque, par exemple, vous avez des économistes comme Campbell,
-pour ceux qui connaissent Bonnie Campbell, qui a travaillé très tôt, bien avant les années 2010.
-Elle disait très tôt, en fait, que non, la mine n'était pas un moteur de développement,
-ou que c'était un moteur de développement extrêmement controversé,
-parce qu'il n'y a pas de reversement de la manne financière acquise par quelques-uns.
-Enfin bon, il y a énormément d'économistes qui travaillent là-dessus.
-Je ne vais pas développer aujourd'hui, mais en l'occurrence, voilà.
-Donc, ce n'est pas un modèle de développement, mais en tous les cas, ce qu'est-ce qui est annoncé,
-il y a déjà ce premier enjeu métallique.
-Ensuite, il y a un enjeu de modèle de développement qui est drainé,
-à la fois par ces institutions que j'appelle supranationales ou internationales,
-et puis ensuite, vous avez aussi les propres États qui vont diriger ça, pardon pour l'anglicisme,
-qui vont diriger ça, c'est-à-dire qu'ils vont dire, moi je veux effectivement avoir un modèle de développement,
-tu en parlais précédemment, donc on peut revenir dessus,
-voilà, moi je veux que mon parc automobile soit 100% électrique, point barre.
+
+Alors là, il va falloir mettre des énormes guillemets au regard de ce que j'ai présenté précédemment, puisque, par exemple, vous avez des économistes comme Bonnie Campbell qui disait très tôt, en fait, que non, la mine n'était pas un moteur de développement, ou que c'était un moteur de développement extrêmement controversé.
+
+Parce qu'il n'y a pas de reversement de la manne financière acquise par quelques-uns. Ce n'est pas un modèle de développement.
+
+Mais en tous les cas, ce qui est annoncé, il y a déjà ce premier enjeu métallique.
+
+Ensuite, il y a un enjeu de modèle de développement qui est drainé, à la fois par ces institutions que j'appelle supranationales ou internationales, et puis ensuite, vous avez aussi les propres États qui vont diriger ça. C'est-à-dire qu'ils vont dire : moi je veux effectivement avoir un modèle de développement, je veux que mon parc automobile soit 100% électrique, point barre.
+
 Mais ça donne du coup des chiffres comme ceux-là.
-C'est-à-dire que, alors oui, il faut quand même nuancer mon discours,
-et il faut tout de suite le nuancer, au risque de dire de grosses bêtises.
-Effectivement, je l'ai dit, dans les 25 dernières années, avant maintenant là,
-on avait déjà extrait plus de métal que dans toute l'histoire de l'humanité.
-Donc ça veut dire qu'on avait déjà engagé le processus avant même de vouloir foutre des éoliennes,
-des panneaux solaires et des véhicules électriques tous les quatre mètres carrés.
-Donc il y avait déjà cette tendance, et cette tendance elle est liée à un modèle, un modèle de développement.
-C'est-à-dire qu'on fait le choix de développer nos économies sur des activités dites de services,
-notamment, qui ont une matérialité gigantesque.
-Donc on a à la fois un modèle de développement en termes de construction, en termes d'habitabilité,
-c'est pour ça que je disais, soyons vigilants, parce qu'effectivement les transitions,
-avec des énormes guillemets autour de transitions énergétiques et numériques,
-j'ai jamais compris ce que c'est que la transition numérique, peut-être qu'un jour on m'expliquera,
-donc ces évolutions en termes énergétiques, la dématérialisation, moins de papier,
-on n'a jamais eu autant de matérialité numérique à cause du métal,
-mais on dit qu'il y a moins de papier alors tout le monde est rassuré, c'est tellement ironique.
+
+Il faut quand même nuancer mon discours, au risque de dire de grosses bêtises.
+
+Effectivement, je l'ai dit, dans les 25 dernières années, on avait déjà extrait plus de métal que dans toute l'histoire de l'humanité. Donc ça veut dire qu'on avait déjà engagé le processus avant même de vouloir foutre des éoliennes, des panneaux solaires et des véhicules électriques tous les quatre mètres carrés.
+
+Donc il y avait déjà cette tendance, et cette tendance elle est liée à un modèle, un modèle de développement. C'est-à-dire qu'on fait le choix de développer nos économies sur des activités dites de services, notamment, qui ont une matérialité gigantesque.
+
+On a à la fois un modèle de développement en termes de construction, en termes d'habitabilité, c'est pour ça que je disais, soyons vigilants, parce qu'effectivement les transitions, avec des énormes guillemets autour de transitions énergétiques et numériques, j'ai jamais compris ce que c'est que la transition numérique, peut-être qu'un jour on m'expliquera.
+
+Ces évolutions en termes énergétiques, la dématérialisation, moins de papier, on n'a jamais eu autant de matérialité numérique à cause du métal, mais on dit qu'il y a moins de papier alors tout le monde est rassuré, c'est tellement ironique.
+
 Mais du coup, effectivement, on va quand même garder le terme, comme ça on sera cohérent.
-Juste avant, tu parlais, du coup les panneaux solaires et les éoliennes, pour toi, c'est pas du tout soutenable ?
-C'est pas du tout souhaitable par rapport aux impacts ?
-En fait c'est comme le véhicule électrique, c'est comme tout, pour moi, que ce soit,
-et si ce texte là-dessus est assez clair je crois, c'est de dire, il n'y a pas de problème avec le panneau solaire,
-il n'y a pas de problème avec les panneaux solaires, avec les éoliennes en soi en fait,
-c'est qu'il faut replacer l'usage au regard de ce qu'il peut offrir.
-C'est-à-dire qu'on sait, par exemple, qu'aujourd'hui c'est intelligent, intéressant, adapté,
-par exemple, d'assurer une électrification type panneaux solaires sur un habitat individuel.
-On sait que c'est adapté.
-Ce qui n'a plus de sens, c'est le moment où, par exemple, on veut électrifier des sites miniers
-au regard des injonctions de décarbonisation, en anglais, de décarbonisation,
-enfin bref, en gros de limiter les émissions de gaz à effet de serre, par exemple.
-Oui, neutralité carbone, tout ça.
-Les mines, elles sont neutrant carbone, on est d'accord.
+
+### Juste avant, tu parlais, du coup les panneaux solaires et les éoliennes, pour toi, c'est pas du tout soutenable ? C'est pas du tout souhaitable par rapport aux impacts ?
+
+En fait c'est comme le véhicule électrique, c'est comme tout, pour moi, il n'y a pas de problème avec les panneaux solaires, avec les éoliennes en soi en fait, c'est qu'il faut replacer l'usage au regard de ce qu'il peut offrir.
+
+C'est-à-dire qu'on sait, par exemple, qu'aujourd'hui c'est intelligent, intéressant, adapté, par exemple, d'assurer une électrification type panneaux solaires sur un habitat individuel. On sait que c'est adapté.
+
+Ce qui n'a plus de sens, c'est le moment où, par exemple, on veut électrifier des sites miniers au regard des injonctions de décarbonisation, enfin bref, en gros de limiter les émissions de gaz à effet de serre, par exemple. Oui, neutralité carbone, tout ça.
+
+Les mines, elles sont neutre en carbone, on est d'accord.
+
 C'est un des secteurs les plus énergivores, les secteurs miniers c'est 8 à 10% de l'énergie primaire mondiale.
-Du coup, là où ça n'a plus de sens, c'est de dire, par exemple, au Chili,
-parce qu'effectivement il faut atteindre la neutralité carbone sur les sites miniers,
-on va mettre des milliers d'hectares, des centaines d'hectares, voire des milliers d'hectares de panneaux solaires
-pour dire, vous avez vu, moi je suis tout propre, j'ai mis plein de panneaux solaires,
-mais c'est quoi cette histoire ?
-Ou de dire, on va prendre des véhicules électriques, j'en parlais il n'y a pas si longtemps
-qu'un organisme qui a pignon sur rue sur l'évaluation des externalités carbone au niveau du véhicule électrique,
-c'est quoi cette histoire de faire des espèces de boeufs électriques
-dans lesquels vous avez une batterie qui pèse je ne sais pas combien de centaines de kilos
-pour pouvoir faire Paris-Marseille ?
-Ça n'a aucun sens, déjà ça n'a pas de sens de prendre une voiture pour faire Paris-Marseille.
-Déjà de base, ça n'a aucun sens.
-Je me souviens que j'avais discuté avec une personne sur les questions du véhicule électrique
-"Oh, vous n'êtes pas gentil avec les véhicules électriques."
-Mais ce n'est pas une question de ne pas être gentil avec les véhicules électriques,
-j'ai un problème avec la mobilité individuelle de base.
-Avant même le véhicule électrique, j'ai déjà un problème avec la mobilité individuelle.
-Quand je fais, on va dire, je vais prendre ma moyenne, je sais peut-être 46 ou 47 kilos,
-est-ce que quand je prends ma voiture, une voiture individuelle,
-on va dire quoi, 1.5 tonnes, on s'accorde Richard ?
-1.5 tonnes d'accord, un véhicule cyclique ?
-Oui, oui, dans ces ordres-là.
-Quand je fais Paris-Marseille, sachant que je fais 46 kilos dans ma bagnole,
-l'essence que je mets, c'est pour transporter quoi, 1.5 tonnes ou 45 kilos ?
-C'est pour transporter 1.5 tonnes.
-1.5 tonnes + 45 kilos.
-Oui, ben voilà, on s'entend.
+
+Du coup, là où ça n'a plus de sens, c'est de dire, par exemple, au Chili, parce qu'effectivement il faut atteindre la neutralité carbone sur les sites miniers, on va mettre des milliers d'hectares, des centaines d'hectares, voire des milliers d'hectares de panneaux solaires pour dire, vous avez vu, moi je suis tout propre, j'ai mis plein de panneaux solaires, mais c'est quoi cette histoire ?
+
+Ou de dire, on va prendre des véhicules électriques, j'en parlais il n'y a pas si longtemps qu'un organisme qui a pignon sur rue sur l'évaluation des externalités carbone au niveau du véhicule électrique, c'est quoi cette histoire de faire des espèces de boeufs électriques dans lesquels vous avez une batterie qui pèse je ne sais pas combien de centaines de kilos pour pouvoir faire Paris-Marseille ?
+
+Ça n'a aucun sens, déjà ça n'a pas de sens de prendre une voiture pour faire Paris-Marseille. Déjà de base, ça n'a aucun sens.
+
+Je me souviens que j'avais discuté avec une personne sur les questions du véhicule électrique : "Oh, vous n'êtes pas gentil avec les véhicules électriques".
+
+Mais ce n'est pas une question de ne pas être gentil avec les véhicules électriques, j'ai un problème avec la mobilité individuelle de base.
+
+Quand je fais, on va dire, je vais prendre ma moyenne, je sais peut-être 46 kilos, est-ce que quand je prends ma voiture, une voiture individuelle, on va dire quoi, 1.5 tonnes, on s'accorde Richard ? Quand je fais Paris-Marseille, sachant que je fais 46 kilos dans ma bagnole, l'essence que je mets, c'est pour transporter quoi, 1.5 tonnes ou 45 kilos ?
+
+C'est pour transporter 1.5 tonnes. 1.5 tonnes + 45 kilos. Oui, ben voilà, on s'entend.
+
 C'est comme mon gramme par tonne quasiment dans mes gisements.
+
 C'est limite, c'est les mêmes ordres de grandeur que mes teneurs en métaux et métalloïdes dans les gisements.
+
 Donc en fait, c'est ça qui n'a pas de sens.
-Tu prônes d'être casanier.
-Je prône en fait de dire, il y a des dispositifs qui ont un sens par rapport à un usage.
-Et donc en fait, il faut respecter cet usage-là.
-Et ne pas aller dans une espèce de développement massif juste pour dire,
-vous avez vu, j'ai mis des panneaux photovoltaïques partout, je suis propre.
+
+### Tu prônes d'être casanier ?
+
+Je prône en fait de dire, il y a des dispositifs qui ont un sens par rapport à un usage. Et donc en fait, il faut respecter cet usage-là.
+
+Et ne pas aller dans une espèce de développement massif juste pour dire, vous avez vu, j'ai mis des panneaux photovoltaïques partout, je suis propre.
+
 Mais ça n'a rien de propre, un panneau photovoltaïque.
-Rappelons quand même qu'il faut produire les métaux et métalloïdes qui s'y trouvent,
-enfin métaux principalement d'ailleurs,
-générer les composants et le gérer en fin de vie.
+
+Rappelons quand même qu'il faut produire les métaux et métalloïdes qui s'y trouvent, enfin métaux principalement d'ailleurs, générer les composants et le gérer en fin de vie.
+
 Et Dieu sait que dans le domaine, il y a encore beaucoup d'améliorations à faire.
-Bien que, bien que, j'ai récemment lu des publications
-qui disent qu'on s'améliore de plus en plus dans le recyclage des panneaux solaires.
-Donc c'est quand même, voilà.
+
+Bien que, j'ai récemment lu des publications qui disent qu'on s'améliore de plus en plus dans le recyclage des panneaux solaires.
+
 Donc oui, par rapport aux panneaux solaires, c'est vrai que c'est un peu emblématique.
-Poser un panneau solaire sur 103, pas de problème pour toi ?
+
+### Poser un panneau solaire sur son toit, pas de problème pour toi ?
+
 Globalement, le bilan reste positif malgré le fait qu'on a besoin d'extraire des métaux, etc.
+
 Moi, je ne suis pas énergéticienne, donc je ne vais pas prétendre avoir un métier qui n'est pas le mien.
+
 Mais je m'entoure et je discute avec beaucoup de personnes dont c'est le métier.
-Et moi, de ce que j'écoute, de ce qu'ils m'expliquent,
-je trouve que c'est complètement cohérent.
-C'est-à-dire que c'est un usage précautionneux où effectivement,
-on va avoir besoin de métal, de toute façon on a besoin de métal pour tout.
-Mais on a effectivement un panneau solaire qui alimente une maison, voilà.
-De là à dire qu'il faut laisser, qu'il faut consommer plus que plus d'électricité, non.
-C'est-à-dire qu'il faut avoir un usage raisonné au niveau du métal.
-Mais en fait, le problème qu'on va avoir, c'est l'équilibre entre la quantité de métal et d'énergie
-pour pouvoir générer le dispositif et le gain énergétique que vous avez dans le dispositif.
-Il y a des moments, ça n'a plus de sens.
-Donc moi, j'ai vu des champs, mais c'est des champs à perte de vue de panneaux solaires
-pour alimenter des broyeurs dans des mines, mais ça n'a aucun sens.
-Mais pour revenir à cette évolution qui va en accélérant de façon exponentielle,
-par rapport à, c'est un peu d'actualité là, le coût de l'énergie est de plus en plus cher, etc.
-On sait qu'on a besoin d'énormément d'énergie pour extraire, voilà, la mine, tu disais,
-entre 8 et 10% de la consommation d'énergie primaire mondiale.
-Mais comment on peut continuer comme ça ? Enfin, à un moment donné, ça sera plus rentable ?
-Alors effectivement, à bien des égards, ce ne sera plus rentable.
-On fait comment ? Alors de toute façon, il va y avoir des limites.
-Donc déjà, la première limite qu'il faut rappeler, parce qu'on ne l'a pas rappelée depuis le début.
-Je rappelle quand même que le stock de métal, il est fini sur Terre.
-Il faut quand même l'avoir en tête.
-Comment ça, ça ne se renouvelle pas ?
+
+Et moi, de ce que j'écoute, de ce qu'ils m'expliquent, je trouve que c'est complètement cohérent.
+
+C'est-à-dire que c'est un usage précautionneux où effectivement, on va avoir besoin de métal, de toute façon on a besoin de métal pour tout.
+
+Mais on a effectivement un panneau solaire qui alimente une maison, voilà. De là à dire qu'il faut laisser, qu'il faut consommer plus que plus d'électricité, non.
+
+C'est-à-dire qu'il faut avoir un usage raisonné au niveau du métal. Mais en fait, le problème qu'on va avoir, c'est l'équilibre entre la quantité de métal et d'énergie pour pouvoir générer le dispositif et le gain énergétique que vous avez dans le dispositif.
+
+Il y a des moments, ça n'a plus de sens. J'ai vu des champs à perte de vue de panneaux solaires pour alimenter des broyeurs dans des mines, mais ça n'a aucun sens.
+
+### Pour revenir à cette évolution qui va en accélérant de façon exponentielle, et c'est un peu d'actualité, le coût de l'énergie est de plus en plus cher, etc. On sait qu'on a besoin d'énormément d'énergie pour extraire, voilà, la mine, tu disais, entre 8 et 10% de la consommation d'énergie primaire mondiale. Mais comment on peut continuer comme ça ? Enfin, à un moment donné, ça ne sera plus rentable ?
+
+Alors effectivement, à bien des égards, ce ne sera plus rentable. On fait comment ? Alors de toute façon, il va y avoir des limites.
+
+Donc déjà, la première limite qu'il faut rappeler, je rappelle quand même que le stock de métal, il est fini sur Terre.
+
+### Comment ça, ça ne se renouvelle pas ?
+
 Non mais justement, c'est une très bonne question.
-Je me posais la question un peu naïve, je n'y connais rien.
-Tu disais, gisement de cobalt au Maroc, ça, c'est depuis quand la Terre s'est formée
-ou c'est dû aux activités de la croûte terrestre, enfin voilà, sur des millions, des milliards d'années,
-ça s'est formé ou c'est vraiment à la création, quand la Terre s'est amalgamée,
-que tout ça s'est formé ou c'est vraiment dû à l'activité terrestre ?
-En fait, il y a deux processus.
-Je vais être extrêmement schématique sur les processus géologiques.
-Oui, très rapide.
-On ne peut pas du tout insulter le monde de la géologie.
-On ne part pas sur une heure ou deux.
-Schématiquement, quand la Terre s'est formée, elle avait en son sein un certain nombre de métaux,
-qui effectivement aujourd'hui, plus on descend profond dans la Terre jusqu'au noyau
-et plus il y a de quantités de métaux importantes.
-Et puis, il y a des processus géologiques qui ont concentré localement le métal dans certains endroits,
-dans la croûte terrestre ou proche de la surface.
-C'est ça, c'est en général les gisements qu'on exprime.
-C'est-à-dire que, aujourd'hui, on peut aller très profond.
-Il y a des gisements d'or, notamment en Afrique du Sud, qui descendent à 4 km de profondeur,
-mais en général, on s'entend qu'on parle du centaine de mètres au kilomètre de profondeur.
-Au départ, il y avait du métal et on l'a concentré dans la croûte terrestre à certains endroits.
-C'est ça qu'on appelle un gisement.
-Effectivement, il faut compter des millions ou des dizaines de millions d'années.
-Le gisement de Chukikamata, qui est un très gros gisement de cuivre au Chili,
-on estime que le temps de mise en place du gisement, c'est 35 millions d'années.
-Ah, ça va !
-C'est relu de la distance de la dizaine de millions d'années, donc on n'y est pas.
-Effectivement, le stock est fini.
-Ça veut dire que toutes les économies métalliques qu'on pourra…
-En gros, quand aujourd'hui on nous annonce, pour revenir à ce que tu disais,
-quand on nous dit qu'il va falloir exploiter plus que ce qui n'a jamais été exploité par l'humanité,
-c'est Skinner en 1979, qui est un géologue américain, qui disait
-« Est-ce qu'on peut déjà commencer à rappeler qu'on a un stock fini de métal ? »
-Ça, c'est le premier enjeu.
-C'est-à-dire qu'on pourra, de toute façon, on exploite, on exploite, on exploite,
-mais on recule pour mieux sauter.
-À un moment, il n'y en aura plus.
-Alors après, il n'y a pas de consensus sur le moment où il n'y en aura plus.
-Pourquoi ? Parce que plus le temps avance, jusqu'en fait dans le 20ème siècle en fait,
-à partir de la fin du 19ème siècle, on va dire, on a généré des techniques minières,
-soit dans le domaine de l'exploitation, soit dans le domaine du traitement,
-qui nous ont permis d'aller récupérer des teneurs de plus en plus faibles.
-C'est-à-dire qu'avant, ce qui était un gisement était plutôt riche,
-et on arrivait à exploiter que les gisements plutôt riches,
-maintenant on arrive à exploiter des gisements plus pauvres.
-C'est une réalité.
-Mais ce que disent des auteurs par exemple comme Olivier Vidal,
-c'est de dire que ce gain de performance,
-c'est-à-dire qu'on a réussi à développer de nouveaux gisements
-parce qu'on arrivait à récupérer des concentrations plus petites,
+
+### Tu disais, gisement de cobalt au Maroc, ça, c'est depuis quand la Terre s'est formée ou c'est dû aux activités de la croûte terrestre, enfin voilà, sur des millions, des milliards d'années, ça s'est formé ou c'est vraiment à la création, quand la Terre s'est amalgamée, que tout ça s'est formé ou c'est vraiment dû à l'activité terrestre ?
+
+En fait, il y a deux processus. Je vais être extrêmement schématique sur les processus géologiques. On ne peut pas du tout insulter le monde de la géologie. On ne part pas sur une heure ou deux.
+
+Schématiquement, quand la Terre s'est formée, elle avait en son sein un certain nombre de métaux, qui effectivement aujourd'hui, plus on descend profond dans la Terre jusqu'au noyau et plus il y a de quantités de métaux importantes.
+
+Et puis, il y a des processus géologiques qui ont concentré localement le métal dans certains endroits, dans la croûte terrestre ou proche de la surface. C'est en général les gisements qu'on exprime.
+
+C'est-à-dire que, aujourd'hui, on peut aller très profond. Il y a des gisements d'or, notamment en Afrique du Sud, qui descendent à 4 km de profondeur, mais en général, on s'entend qu'on parle du centaine de mètres au kilomètre de profondeur.
+
+Au départ, il y avait du métal et on l'a concentré dans la croûte terrestre à certains endroits. C'est ça qu'on appelle un gisement.
+
+Il faut compter des millions ou des dizaines de millions d'années.
+
+Le gisement de Chukikamata, qui est un très gros gisement de cuivre au Chili, on estime que le temps de mise en place du gisement, c'est 35 millions d'années.
+
+### Ah, ça va !
+
+C'est de l'ordre de la dizaine de millions d'années, donc on n'y est pas. Effectivement, le stock est fini.
+
+En gros, aujourd'hui, pour revenir à ce que tu disais, quand on nous dit qu'il va falloir exploiter plus que ce qui n'a jamais été exploité par l'humanité, c'est le géologue Skinner en 1979 qui disait « Est-ce qu'on peut déjà commencer à rappeler qu'on a un stock fini de métal ? ». Ça, c'est le premier enjeu.
+
+On exploite, mais on recule pour mieux sauter. À un moment, il n'y en aura plus.
+
+Alors après, il n'y a pas de consensus sur le moment où il n'y en aura plus. Pourquoi ? Parce que plus le temps avance, jusqu'en fait dans le 20ème siècle en fait, à partir de la fin du 19ème siècle, on va dire, on a généré des techniques minières, soit dans le domaine de l'exploitation, soit dans le domaine du traitement, qui nous ont permis d'aller récupérer des teneurs de plus en plus faibles.
+
+C'est-à-dire qu'avant, ce qui était un gisement était plutôt riche, et on arrivait à exploiter que les gisements plutôt riches, maintenant on arrive à exploiter des gisements plus pauvres. C'est une réalité.
+
+Mais ce que disent des auteurs par exemple comme Olivier Vidal, c'est de dire que ce gain de performance, c'est-à-dire qu'on a réussi à développer de nouveaux gisements parce qu'on arrivait à récupérer des concentrations plus petites,
 donc on a en fait, si vous voulez, le fait de pouvoir aller chercher des teneurs plus faibles,
 des concentrations plus faibles, ça vous ouvre de nouveaux horizons,
 donc ça permet d'ouvrir de nouveaux gisements,
