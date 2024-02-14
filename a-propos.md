@@ -36,7 +36,31 @@ Le code source de ce site est disponible sur <a href="https://github.com/superta
 * 2019 : 21 épisodes et 14000 écoutes
 * 2018 : 3 épisodes
 
-<div class="block">
+## Témoignages des auditeurs et auditrices
+
+<blockquote>
+
+Techologie est riche et honnête. 
+
+<p class="quote-author">— Arnaud, développeur</p>
+</blockquote>
+
+
+<blockquote>
+
+Techologie est un podcast éclairant et instructif. Même en étant déjà sensibilisé aux impacts environnementaux et sociaux du numérique, la diversité des intervenants et des sujets abordés par le podcast permet de compléter sa vision et remettre en question sa perception. Il donne aussi plein de pistes pour s'engager et contribuer à un numérique meilleur.
+
+<p class="quote-author">— Cyrille, architecte technique et référent Numérique Responsable</p>
+</blockquote>
+
+
+<blockquote>
+
+Quand on aime l'informatique et qu'on prend conscience de son impact écologique et social, Techologie, c'est bon pour le moral.
+
+<p class="quote-author">— Jean-François, développeur</p>
+</blockquote>
+
 
 ## Comment suivre et donner un coup de pouce à ce podcast ?
 

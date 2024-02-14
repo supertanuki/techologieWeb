@@ -334,7 +334,7 @@ border: 1px solid green;
 border: 1px solid red;
 }
 
-.quote-highlight {
+.quote-highlight, blockquote {
 	border-left: 1rem solid green;
 	margin: 2rem 0 2rem 2rem;
 	padding: 0 3rem 0 2rem;
@@ -342,6 +342,10 @@ border: 1px solid red;
 
 .quote-highlight p {
 	font-size: 120%;
+}
+
+.quote-author {
+	font-size: 90%;
 }
 			
 @media only screen and (min-width: 1000px) {
