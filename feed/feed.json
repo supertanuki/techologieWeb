@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/newsletter/15/",
+      "url": "https://techologie.net/newsletter/15/",
+      "title": "Mine de rien...",
+      "content_html": Ce mois-ci, on se décentre ! Prenez vos casques de réalité virtuelle, on part comprendre l’emprise coloniale des technologies et des entreprises de la tech. On va creuser jusqu’aux mines. Pour remonter et voir que l’opacité des algorithmes des services publics est de plus en plus contestée. Entretien avec Romane Clément qui a fait plier son distributeur sur la garantie de son ordinateur en panne. Des mèmes et un paquets d’infos, de liens et même un sondage avant de se quitter. Allez c&#39;est parti !,
+      "date_published": "2024-02-15T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/86-transitions-numerique-et-ecologique-incompatibles/",
       "url": "https://techologie.net/episodes/86-transitions-numerique-et-ecologique-incompatibles/",
       "title": "Incompatibilités des transitions numérique et écologique",

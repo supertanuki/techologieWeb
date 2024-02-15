@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2024-02-14T13:22:49Z</updated>
+	<updated>2024-02-15T14:41:22Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Mine de rien...</title>
+		<link href="https://techologie.net/newsletter/15/"/>
+		<updated>2024-02-15T00:00:00Z</updated>
+		<id>https://techologie.net/newsletter/15/</id>
+		<content type="html">Ce mois-ci, on se décentre ! Prenez vos casques de réalité virtuelle, on part comprendre l’emprise coloniale des technologies et des entreprises de la tech. On va creuser jusqu’aux mines. Pour remonter et voir que l’opacité des algorithmes des services publics est de plus en plus contestée. Entretien avec Romane Clément qui a fait plier son distributeur sur la garantie de son ordinateur en panne. Des mèmes et un paquets d’infos, de liens et même un sondage avant de se quitter. Allez c&#39;est parti !</content>
+	</entry>
 	
 	<entry>
 		<title>Incompatibilités des transitions numérique et écologique</title>
