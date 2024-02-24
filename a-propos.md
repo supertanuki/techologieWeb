@@ -62,6 +62,30 @@ Quand on aime l'informatique et qu'on prend conscience de son impact écologique
 </blockquote>
 
 
+<blockquote>
+
+Super source pour la veille autour du Numérique Responsable qui permet de garder en tête sa composante sociale.
+
+<p class="quote-author">— Anonyme</p>
+</blockquote>
+
+
+<blockquote>
+
+Un bol d’air frais mais non conditionné avec un parti pris incarné et engagé pour un monde moins tech.
+
+<p class="quote-author">— MW, Consultant numérique responsable</p>
+</blockquote>
+
+
+<blockquote>
+
+En tant que référent numérique responsable dans mon entreprise, ce sujet riche et complexe me passionne. Techologie me nourrit en veille et en points de vue de parties prenantes très variées pour enrichir ma vision globale et systémique.
+
+<p class="quote-author">— Clément, référent numérique responsable</p>
+</blockquote>
+
+
 ## Comment suivre et donner un coup de pouce à ce podcast ?
 
 - Suivre le podcast sur [Mastodon](https://piaille.fr/@techologie)
