@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2024-02-24T20:37:29Z</updated>
+	<updated>2024-02-26T17:35:18Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Vivre avec un smartphone obsolète</title>
+		<link href="https://techologie.net/episodes/87-vivre-avec-un-smartphone-obsolete/"/>
+		<updated>2024-02-27T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/87-vivre-avec-un-smartphone-obsolete/</id>
+		<content type="html">Léa Mosesso est designer et issue du master Stratégie &amp; Design pour l&#39;Anthropocène de l&#39;école Strate. Elle a écrit deux mémoires discuté dans cet entretien : L’activisme écologique par les data, en 2020 et Vivre avec un smartphone obsolète, en 2023.</content>
+	</entry>
 	
 	<entry>
 		<title>Mine de rien...</title>
