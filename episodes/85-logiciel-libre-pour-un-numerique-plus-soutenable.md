@@ -63,9 +63,9 @@ Et avec nous aussi, Pierre-Yves Gibello. Tu es directeur général de la communa
 
 ### Mathilde, peux-tu nous parler des objectifs de la fondation OwnTech ?
 
-Les objectifs de la fondation Hauntech, c'est de faciliter les connaissances et savoir-faire dans un domaine phare de l'électrification, qu'on appelle électronique de puissance.
+Les objectifs de la fondation OwnTech sont de faciliter les connaissances et savoir-faire dans un domaine phare de l'électrification, qu'on appelle électronique de puissance.
 
-L'électronique de puissance, ça sert à faire les transformations électriques, soit baisser ou augmenter, onduler la tension et le courant.
+L'électronique de puissance sert à faire les transformations électriques, soit baisser ou augmenter, onduler la tension et le courant.
 
 Au CNRS, parce que c'est, comme tu l'as dit, fondation sous égide du CNRS, on a développé un convertisseur électrique programmable et donc open source, que ce soit sur la partie hardware ou software.
 
