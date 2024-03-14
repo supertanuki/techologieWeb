@@ -86,6 +86,15 @@ En tant que référent numérique responsable dans mon entreprise, ce sujet rich
 </blockquote>
 
 
+<blockquote>
+
+Pourquoi on aime "Techologie" ? Sa capacité à nous challenger et à nous faire réfléchir à l'impact de nos choix technologiques. Sa diversité d'intervenants, qui offre une multitude de points de vue et d'expertises.
+
+<p class="quote-author">— Sirup Lab</p>
+</blockquote>
+
+
+
 ## Comment suivre et donner un coup de pouce à ce podcast ?
 
 - Suivre le podcast sur [Mastodon](https://piaille.fr/@techologie)
