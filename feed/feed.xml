@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2024-03-20T09:24:00Z</updated>
+	<updated>2024-03-20T17:59:55Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Aux ingénieurs qui doutent dans leur cage dorée</title>
+		<link href="https://techologie.net/episodes/88-aux-ingenieurs-qui-doutent/"/>
+		<updated>2024-03-21T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/88-aux-ingenieurs-qui-doutent/</id>
+		<content type="html">Pour parler de sens du métier d’ingénieur, de bifurcation mais aussi de la juste place des technologies, nous avons avec nous Olivier Lefebvre.</content>
+	</entry>
 	
 	<entry>
 		<title>Vivre avec un smartphone obsolète</title>

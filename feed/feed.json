@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/88-aux-ingenieurs-qui-doutent/",
+      "url": "https://techologie.net/episodes/88-aux-ingenieurs-qui-doutent/",
+      "title": "Aux ingénieurs qui doutent dans leur cage dorée",
+      "content_html": Pour parler de sens du métier d’ingénieur, de bifurcation mais aussi de la juste place des technologies, nous avons avec nous Olivier Lefebvre.,
+      "date_published": "2024-03-21T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/87-vivre-avec-un-smartphone-obsolete/",
       "url": "https://techologie.net/episodes/87-vivre-avec-un-smartphone-obsolete/",
       "title": "Vivre avec un smartphone obsolète",
