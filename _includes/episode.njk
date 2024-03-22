@@ -2,72 +2,65 @@
 layout: layouts/base.njk
 ---
 
-<br />
-
-<h1>{{title}}</h1>
-
+<br/>
+<h1>{{ title }}</h1>
 <p class="published">
   {% if lang == 'en' %}
-    <a href="/en">Episodes</a> &gt; published on {{date | readableDate}}
+    <a href="/en">Episodes</a>
+    &gt; published on {{ date | readableDate }}
   {% else %}
-    Épisode {{episode_number}} publié le {{date | toFrenchDate}}
+    Épisode {{ episode_number }} publié le {{ date | toFrenchDate }}
   {% endif %}
 </p>
-
 <p>
-  <img src="{{image}}" alt="{{people | safe }}" />
+  <img src="{{ image }}" alt="{{ people | safe }}"/>
 </p>
-
 <p class="label">
-  <span>{{people | safe}}</span>
+  <span>{{ people | safe }}</span>
 </p>
-
-<p>{{description | safe}}</p>
-
+<p>{{ description | safe }}</p>
 <p class="listen">
   {% if lang == 'en' %}
-    <a href="{{audio_link | safe}}" title="Listen {{title | safe}} on Soundcloud" class="focus">
+    <a href="{{ audio_link | safe }}" title="Listen {{ title | safe }} on Soundcloud" class="focus">
       Listen
     </a>
-    
     {% if download_link %}
-      <a href="{{download_link | safe}}" title="Download episode {{title | safe}}" class="focus">
+      <a href="{{ download_link | safe }}" title="Download episode {{ title | safe }}" class="focus">
         Download .mp3
       </a>
     {% endif %}
-    
   {% else %}
-    <a href="{{audio_link | safe}}" title="Écouter l'épisode {{title | safe}} sur Soundcloud" class="focus">
+    <a href="{{ audio_link | safe }}" title="Écouter l'épisode {{ title | safe }} sur Soundcloud" class="focus">
       Écouter
     </a>
-    
     {% if download_link %}
-      <a href="{{download_link | safe}}" title="Télécharger l'épisode {{title | safe}}" class="focus">
+      <a href="{{ download_link | safe }}" title="Télécharger l'épisode {{ title | safe }}" class="focus">
         Télécharger en .mp3
       </a>
     {% endif %}
   {% endif %}
 </p>
-
 <p>
   <small>
-  {% if lang == 'en' %}
-    By listening to this episode, you will download {{audio_size_in_megabyte}} MB of data.
-  {% else %}
-    En écoutant cet épisode, vous téléchargerez {{audio_size_in_megabyte}} Mo de données.
-  {% endif %}
+    {% if lang == 'en' %}
+      By listening to this episode, you will download {{ audio_size_in_megabyte }} MB of data.
+    {% else %}
+      En écoutant cet épisode, vous téléchargerez {{ audio_size_in_megabyte }} Mo de données.
+    {% endif %}
   </small>
 </p>
+
+{% include "annonce.njk" %}
 
 {{ content | safe }}
 
 {# "/" final à supprimer dans page.url
-<hr>
-<p>
-  <a
-    href="https://github.com/supertanuki/techologieWeb/blob/master/src{{ page.url }}.md"
-  >
-    Proposer une modification de cette page
-  </a>
-</p>
-#}
+  <hr>
+  <p>
+    <a
+      href="https://github.com/supertanuki/techologieWeb/blob/master/src{{ page.url }}.md"
+    >
+      Proposer une modification de cette page
+    </a>
+  </p>
+  #}

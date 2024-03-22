@@ -320,10 +320,13 @@ box-shadow: inset 0 0 0 1px #ccc;
 .alert {
 padding: 1rem 2.25rem .75rem 3.5rem;
 position: relative;
+background: #fff;
 }
 
 .alert__title {
 font-weight: bold;
+font-size: larger;
+margin-top: 1rem;
 }
 
 .alert--success {

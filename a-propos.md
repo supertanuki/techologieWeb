@@ -12,6 +12,8 @@ Comment nous, professionnels dans la tech ou dans l'économie du numérique, dé
 
 Quelques éléments de réponse avec les personnes reçues en entretien dans ce podcast.
 
+{% include "annonce.njk" %}
+
 Créé en 2018 par [Richard Hanna](https://richardhanna.dev/), Techologie est un podcast indépendant et autofinancé (essentiellement coût d'hébergement). Présent dans la sélection [IMAGO](https://www.imagotv.fr/), la plateforme vidéo et podcasts de la transition, les épisodes de Techologie sont animés par des bénévoles :
 
 - Aurélie Baton
