@@ -54,10 +54,13 @@
             <a href="{{ '/episodes/' | url }}" {% if '/episodes/' == page.url %}aria-current="page"{% endif %}>Épisodes</a>
           </li>
           <li>
-            <a href="{{ '/communaute/' | url }}" {% if '/communaute/' == page.url %}aria-current="page"{% endif %}>Communauté</a>
+            <a href="{{ '/newsletter/' | url }}" {% if '/newsletter/' == page.url %}aria-current="page"{% endif %}>Newsletter</a>
           </li>
           <li>
-            <a href="{{ '/newsletter/' | url }}" {% if '/newsletter/' == page.url %}aria-current="page"{% endif %}>Newsletter</a>
+            <a href="{{ '/articles/' | url }}" {% if '/articles/' == page.url %}aria-current="page"{% endif %}>Articles</a>
+          </li>
+          <li>
+            <a href="{{ '/communaute/' | url }}" {% if '/communaute/' == page.url %}aria-current="page"{% endif %}>Communauté</a>
           </li>
           <li>
             <a href="{{ '/a-propos/' | url }}" {% if '/a-propos/' == page.url %}aria-current="page"{% endif %}>À propos</a>
@@ -102,7 +105,9 @@
         <a href="https://www.imagotv.fr/podcasts/techologie">Imago</a>, ou
         <a href="https://framateam.org/techologie/">
           Framateam
-        </a>
+        </a>.
+        {% set absoluteUrl %}{{ metadata.feed.path | url | absoluteUrl(metadata.url) }}{% endset %}
+        <a href="{{ absoluteUrl }}">Flux RSS</a>
       </p>
     {% else %}
       <p>

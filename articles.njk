@@ -1,0 +1,18 @@
+---
+layout: layouts/home.njk
+permalink: /articles/
+title: Articles
+---
+
+<h1>{{ title }}</h1>
+
+{% set articles = collections.article %}
+
+<ul>
+  {% for article in articles | reverse %}
+  <li>
+    <a href="{{ article.url | url }}">{{ article.data.title}}</a>
+    <br /><small>{{date | toFrenchDate}}</small>
+  </li>
+  {% endfor %}
+</ul>

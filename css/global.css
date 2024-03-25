@@ -8,6 +8,16 @@ body {
 	flex-direction: column;
 }
 
+main a {
+	scroll-margin-top: 5rem;
+}
+
+.citation-source {
+	vertical-align: super;
+	font-size: 70%;
+	margin: 0 .1em 0 .2em;
+}
+
 .logo {
 	background: #083c30;
 	color: #fff;
