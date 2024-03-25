@@ -8,6 +8,16 @@ body {
 	flex-direction: column;
 }
 
+main a {
+	scroll-margin-top: 5rem;
+}
+
+.citation-source {
+	vertical-align: super;
+	font-size: 70%;
+	margin: 0 .1em 0 .2em;
+}
+
 .logo {
 	background: #083c30;
 	color: #fff;
@@ -319,6 +329,7 @@ box-shadow: inset 0 0 0 1px #ccc;
 
 .alert {
 padding: 1rem 2.25rem .75rem 3.5rem;
+margin: 3rem 0;
 position: relative;
 background: #fff;
 }
@@ -388,7 +399,7 @@ border: 1px solid red;
 	
 	.minimal-menu.clr-black > ul > li:hover > a,
 	.minimal-menu.clr-black > ul > li.current > a {
-		border-color: #aaa;
+		border-bottom: 10px solid #aaa;
 	}
 		
 	.minimal-menu.clr-black ul ul li:hover > a,
@@ -402,11 +413,13 @@ border: 1px solid red;
 	
 	.minimal-menu.pos-fixed {
 		position: fixed;
-		top: -2px;
-		left: -2px;
-		right: -2px;
+		top: 0;
+		left: 0;
+		right: 0;
 		z-index: 9999;
 		height: 66px;
+		margin: 0;
+		padding: 0;
 	}
 	
 	.minimal-menu a {
@@ -414,8 +427,9 @@ border: 1px solid red;
 	}
 
 	.minimal-menu > ul {
-		margin-bottom: -15px !important;
-		padding: 5px;
+		margin: 0 auto;
+		max-width: 1000px;
+		padding: 0;
 	}
 		
 	.minimal-menu ul li {
