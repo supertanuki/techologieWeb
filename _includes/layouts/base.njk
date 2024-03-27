@@ -8,11 +8,9 @@
     <link rel="stylesheet" href="{{ '/css/global.css?1' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
-
-{% if '/' == page.url %}
-    <link rel="canonical" href="/">
-{% endif %}
-
+    {% if '/' == page.url %}
+      <link rel="canonical" href="/">
+    {% endif %}
     <link rel="apple-touch-icon" sizes="180x180" href="/img/icons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/img/icons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/img/icons/favicon-16x16.png">
@@ -20,60 +18,52 @@
     <link rel="mask-icon" href="/img/icons/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-
-    <meta property="og:title" content="{{ title or metadata.title }}" />
-    <meta property="og:description" content="{{ description or metadata.description }}" />
-    <meta property="og:image" content="{{ image | url | absoluteUrl(metadata.url) }}" />
-    <meta property="og:type" content="website" />
-
-    <meta property="twitter:title" content="{{ title or metadata.title }}" />
-    <meta property="twitter:description" content="{{ description or metadata.description }}" />
-    <meta property="twitter:image" content="{{ image | url | absoluteUrl(metadata.url) }}" />
-    <meta property="twitter:creator" content="{{ metadata.author.name }}" />
-    <meta property="twitter:card" content="summary" />
+    <meta property="og:title" content="{{ title or metadata.title }}"/>
+    <meta property="og:description" content="{{ description or metadata.description }}"/>
+    <meta property="og:image" content="{{ image | url | absoluteUrl(metadata.url) }}"/>
+    <meta property="og:type" content="website"/>
+    <meta property="twitter:title" content="{{ title or metadata.title }}"/>
+    <meta property="twitter:description" content="{{ description or metadata.description }}"/>
+    <meta property="twitter:image" content="{{ image | url | absoluteUrl(metadata.url) }}"/>
+    <meta property="twitter:creator" content="{{ metadata.author.name }}"/>
+    <meta property="twitter:card" content="summary"/>
   </head>
   <body class="{% if page.url == '/' %}home{% endif %}">
     <header>
       <label aria-hidden="true" class="minimal-menu-button" for="mobile-nav">
         Menu
       </label>
-      <input
-        aria-hidden="true"
-        class="minimal-menu-button"
-        type="checkbox"
-        id="mobile-nav"
-        name="mobile-nav"
-      />
+      <input aria-hidden="true" class="minimal-menu-button" type="checkbox" id="mobile-nav" name="mobile-nav"/>
       <nav class="minimal-menu clr-black pos-fixed">
         <ul>
           {% if lang != 'en' %}
-          <li>
-            <a href="{{ '/' | url }}" {% if '/' == page.url %}aria-current="page"{% endif %}>Accueil</a>
-          </li>
-          <li>
-            <a href="{{ '/episodes/' | url }}" {% if '/episodes/' == page.url %}aria-current="page"{% endif %}>Épisodes</a>
-          </li>
-          <li>
-            <a href="{{ '/newsletter/' | url }}" {% if '/newsletter/' == page.url %}aria-current="page"{% endif %}>Newsletter</a>
-          </li>
-          <li>
-            <a href="{{ '/articles/' | url }}" {% if '/articles/' == page.url %}aria-current="page"{% endif %}>Articles</a>
-          </li>
-          <li>
-            <a href="{{ '/communaute/' | url }}" {% if '/communaute/' == page.url %}aria-current="page"{% endif %}>Communauté</a>
-          </li>
-          <li>
-            <a href="{{ '/a-propos/' | url }}" {% if '/a-propos/' == page.url %}aria-current="page"{% endif %}>À propos</a>
-          </li>
-          <li>
-            <a href="{{ '/en/' | url }}">In english</a>
-          </li>
-          {% else %}
             <li>
-              <a href="{{ '/en/' | url }}" {% if '/en/' == page.url %}aria-current="page"{% endif %}>Episodes</a>
+              <a href="{{ '/' | url }}" {% if '/' == page.url %} aria-current="page" {% endif %}>Accueil</a>
             </li>
             <li>
-              <a href="{{ '/en/extra/ecodesign-game/' | url }}" {% if '/en/extra/ecodesign-game/' == page.url %}aria-current="page"{% endif %}>Ecodesign game</a>
+              <a href="{{ '/episodes/' | url }}" {% if '/episodes/' == page.url %} aria-current="page" {% endif %}>Épisodes</a>
+            </li>
+            <li>
+              <a href="{{ '/newsletter/' | url }}" {% if '/newsletter/' == page.url %} aria-current="page" {% endif %}>Newsletter</a>
+            </li>
+            <li>
+              <a href="{{ '/articles/' | url }}" {% if '/articles/' == page.url %} aria-current="page" {% endif %}>Articles</a>
+            </li>
+            <li>
+              <a href="{{ '/communaute/' | url }}" {% if '/communaute/' == page.url %} aria-current="page" {% endif %}>Communauté</a>
+            </li>
+            <li>
+              <a href="{{ '/a-propos/' | url }}" {% if '/a-propos/' == page.url %} aria-current="page" {% endif %}>À propos</a>
+            </li>
+            <li>
+              <a href="{{ '/en/' | url }}">In english</a>
+            </li>
+          {% else %}
+            <li>
+              <a href="{{ '/en/' | url }}" {% if '/en/' == page.url %} aria-current="page" {% endif %}>Episodes</a>
+            </li>
+            <li>
+              <a href="{{ '/en/extra/ecodesign-game/' | url }}" {% if '/en/extra/ecodesign-game/' == page.url %} aria-current="page" {% endif %}>Ecodesign game</a>
             </li>
             <li>
               <a href="{{ '/' | url }}">En français</a>
@@ -82,45 +72,46 @@
         </ul>
       </nav>
     </header>
-
     <main class="{% if page.url not in ['/', '/episodes/', '/episodes-retranscrits/', '/en/'] %}centered{% endif %}">
       {{ content | safe }}
     </main>
-
-
-
     <footer>
       <div class="centered">
-    {% if lang != 'en' %}
-      <p>
-        Podcast de la sélection <a href="https://www.imagotv.fr/">IMAGO</a>,
-        publié sous licence
-        <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
-          Creative Commons
-        </a>
-      </p>
-      <p>
-        Commenter sur
-        <a rel="me" href="https://piaille.fr/@techologie">Mastodon</a>,
-        <a href="https://www.imagotv.fr/podcasts/techologie">Imago</a>, ou
-        <a href="https://framateam.org/techologie/">
-          Framateam
-        </a>.
-        {% set absoluteUrl %}{{ metadata.feed.path | url | absoluteUrl(metadata.url) }}{% endset %}
-        <a href="{{ absoluteUrl }}">Flux RSS</a>
-      </p>
-    {% else %}
-      <p>
-        Podcast published under
-        <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons</a>
-        licence
-      </p>
-    {% endif %}
+        {% if lang != 'en' %}
+
+          <div style="float:right">
+            {% include "donner.njk" %}
+          </div>
+          <p>
+            Podcast de la sélection
+            <a href="https://www.imagotv.fr/">IMAGO</a>,
+                      publié sous licence
+            <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/fr/">
+              Creative Commons
+            </a>
+          </p>
+          <p>
+            Commenter sur
+            <a rel="me" href="https://piaille.fr/@techologie">Mastodon</a>,
+            <a href="https://www.imagotv.fr/podcasts/techologie">Imago</a>, ou
+            <a href="https://framateam.org/techologie/">
+              Framateam
+            </a>. {% set absoluteUrl %}{{ metadata.feed.path | url | absoluteUrl(metadata.url) }}{% endset %}
+          </p>
+          <p>
+            <a href="{{ absoluteUrl }}">Flux RSS</a>
+          </p>
+        {% else %}
+          <p>
+            Podcast published under
+            <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons</a>
+            licence
+          </p>
+        {% endif %}
       </div>
     </footer>
-
-{% if extrajs %}
-    <script src="{{ extrajs }}"></script>
-{% endif %}
+    {% if extrajs %}
+      <script src="{{ extrajs }}"></script>
+    {% endif %}
   </body>
 </html>
