@@ -1,7 +1,7 @@
 ---
 title: La numérisation des services publics, quel impact sur la précarité ?
 author: Thomas Lemaire
-date: 2024-03-25
+date: 2024-04-09
 image: /img/articles/2024/services-publics-precarite/capture-form-rsa.png
 layout: "article.njk"
 tags: "article"
