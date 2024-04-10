@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2024-04-09T12:16:21Z</updated>
+	<updated>2024-04-10T08:30:08Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Toi, tu creuses.</title>
+		<link href="https://techologie.net/newsletter/16/"/>
+		<updated>2024-04-10T00:00:00Z</updated>
+		<id>https://techologie.net/newsletter/16/</id>
+		<content type="html">Coucou les amishs, une newsletter un peu spéciale car un méga évènement approche, proposé par le consortium international Point de MIR + Techologie. C’est le samedi 4 mai à Paris et on vous dit tout.</content>
+	</entry>
 	
 	<entry>
 		<title>Aux ingénieurs qui doutent dans leur cage dorée</title>

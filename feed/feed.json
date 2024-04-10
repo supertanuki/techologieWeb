@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/newsletter/16/",
+      "url": "https://techologie.net/newsletter/16/",
+      "title": "Toi, tu creuses.",
+      "content_html": Coucou les amishs, une newsletter un peu spéciale car un méga évènement approche, proposé par le consortium international Point de MIR + Techologie. C’est le samedi 4 mai à Paris et on vous dit tout.,
+      "date_published": "2024-04-10T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/88-aux-ingenieurs-qui-doutent/",
       "url": "https://techologie.net/episodes/88-aux-ingenieurs-qui-doutent/",
       "title": "Aux ingénieurs qui doutent dans leur cage dorée",
