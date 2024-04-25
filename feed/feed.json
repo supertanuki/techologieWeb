@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/89-lutter-localement/",
+      "url": "https://techologie.net/episodes/89-lutter-localement/",
+      "title": "Lutter localement contre la destruction de la nature",
+      "content_html": Christophe Nedelec est informaticien, musicien, sono-thérapeute, apiculteur, botaniste amateur et militant écologiste. À travers différentes associations, il s&#39;est battu contre la destruction de zones naturelles en Île de France. À travers différentes associations locales, ses luttes les plus importantes ont été de préserver le Montguichet à cheval sur les communes de Gagny, Montfermeil et Chelles, préserver un tronçon de l&#39;aqueduc de la Dhuis et de contrer l&#39;exploitation du gypse du Fort de Vaujours, un site anciennement détenu par le Commissariat à l&#39;énergie atomique (CEA) où a été conçu le détonateur de la bombe nucléaire française.,
+      "date_published": "2024-04-27T00:00:00Z"
+    },{
       "id": "https://techologie.net/newsletter/16/",
       "url": "https://techologie.net/newsletter/16/",
       "title": "Toi, tu creuses.",

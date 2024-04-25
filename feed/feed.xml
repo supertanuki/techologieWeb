@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2024-04-10T08:30:08Z</updated>
+	<updated>2024-04-25T14:33:29Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Lutter localement contre la destruction de la nature</title>
+		<link href="https://techologie.net/episodes/89-lutter-localement/"/>
+		<updated>2024-04-27T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/89-lutter-localement/</id>
+		<content type="html">Christophe Nedelec est informaticien, musicien, sono-thérapeute, apiculteur, botaniste amateur et militant écologiste. À travers différentes associations, il s&#39;est battu contre la destruction de zones naturelles en Île de France. À travers différentes associations locales, ses luttes les plus importantes ont été de préserver le Montguichet à cheval sur les communes de Gagny, Montfermeil et Chelles, préserver un tronçon de l&#39;aqueduc de la Dhuis et de contrer l&#39;exploitation du gypse du Fort de Vaujours, un site anciennement détenu par le Commissariat à l&#39;énergie atomique (CEA) où a été conçu le détonateur de la bombe nucléaire française.</content>
+	</entry>
 	
 	<entry>
 		<title>Toi, tu creuses.</title>
