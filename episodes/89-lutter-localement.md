@@ -5,7 +5,7 @@ people: Christophe Nedelec
 description: Christophe Nedelec est informaticien, musicien, sono-thérapeute, apiculteur, botaniste amateur et militant écologiste. À travers différentes associations, il s'est battu contre la destruction de zones naturelles en Île de France. À travers différentes associations locales, ses luttes les plus importantes ont été de préserver le Montguichet à cheval sur les communes de Gagny, Montfermeil et Chelles, préserver un tronçon de l'aqueduc de la Dhuis et de contrer l'exploitation du gypse du Fort de Vaujours, un site anciennement détenu par le Commissariat à l'énergie atomique (CEA) où a été conçu le détonateur de la bombe nucléaire française.
 date: 2024-04-27
 image: /img/episodes/89-christophe-nedelec.jpg
-audio_link: https://soundcloud.com/techologie/luttes-ecologiques-locales-avec-christophe-nedelec
+audio_link: https://soundcloud.com/techologie/89-luttes-ecologiques-locales-avec-christophe-nedelec
 audio_size_in_megabyte: 32
 transcribed: true
 ---
