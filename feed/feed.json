@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/90-realite-physique-de-la-realite-virtuelle/",
+      "url": "https://techologie.net/episodes/90-realite-physique-de-la-realite-virtuelle/",
+      "title": "Réalité physique de la Réalité Virtuelle",
+      "content_html": Pour parler de réalité virtuelle, son impact environnemental et sa place dans les enjeux écologiques d’aujourd’hui et demain, nous avons avec nous deux spécialistes, Landia Egal et Amaury La Burthe.,
+      "date_published": "2024-05-09T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/89-lutter-localement/",
       "url": "https://techologie.net/episodes/89-lutter-localement/",
       "title": "Lutter localement contre la destruction de la nature",
