@@ -5,7 +5,7 @@ people: Landia Egal et Amaury La Burthe
 description: Pour parler de réalité virtuelle, son impact environnemental et sa place dans les enjeux écologiques d’aujourd’hui et demain, nous avons avec nous deux spécialistes, Landia Egal et Amaury La Burthe.
 date: 2024-05-09
 image: /img/episodes/90-landia-egal-amaury-la-burthe.jpg
-audio_link: https://soundcloud.com/techologie/89-realite-virtuelle-avec-landia-egal-et-amaury-la-burthe
+audio_link: https://soundcloud.com/techologie/90-realite-virtuelle-avec-landia-egal-et-amaury-la-burthe
 audio_size_in_megabyte: 56
 transcribed: true
 ---
