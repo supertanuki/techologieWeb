@@ -5,12 +5,20 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2024-05-13T12:35:03Z</updated>
+	<updated>2024-05-22T08:19:06Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>La réalité minière du numérique</title>
+		<link href="https://techologie.net/episodes/91-la-realite-miniere-du-numerique/"/>
+		<updated>2024-05-23T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/91-la-realite-miniere-du-numerique/</id>
+		<content type="html">Début 2024, Celia Izoard publie « La ruée minière au XXIe siècle » aux éditions du Seuil, un essai dans lequel elle s&#39;intéresse à l&#39;industrie minière et sa place à la fois dans la numérisation de nos sociétés mais aussi dans la prétendue transition énergétique.</content>
+	</entry>
 	
 	<entry>
 		<title>Réalité physique de la Réalité Virtuelle</title>

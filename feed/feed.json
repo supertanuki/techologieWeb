@@ -10,6 +10,12 @@
     "url": "https://techologie.net/about-me/"
   },
   "items": [{
+      "id": "https://techologie.net/episodes/91-la-realite-miniere-du-numerique/",
+      "url": "https://techologie.net/episodes/91-la-realite-miniere-du-numerique/",
+      "title": "La réalité minière du numérique",
+      "content_html": Début 2024, Celia Izoard publie « La ruée minière au XXIe siècle » aux éditions du Seuil, un essai dans lequel elle s&#39;intéresse à l&#39;industrie minière et sa place à la fois dans la numérisation de nos sociétés mais aussi dans la prétendue transition énergétique.,
+      "date_published": "2024-05-23T00:00:00Z"
+    },{
       "id": "https://techologie.net/episodes/90-realite-physique-de-la-realite-virtuelle/",
       "url": "https://techologie.net/episodes/90-realite-physique-de-la-realite-virtuelle/",
       "title": "Réalité physique de la Réalité Virtuelle",
