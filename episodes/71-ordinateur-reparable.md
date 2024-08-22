@@ -8,7 +8,6 @@ image: "/img/episodes/71-francois-marthaler.jpg"
 audio_link: https://soundcloud.com/techologie/71-un-ordinateur-reparable-avec-francois-marthaler
 download_link: https://feeds.soundcloud.com/stream/1384575916-techologie-71-un-ordinateur-reparable-avec-francois-marthaler.mp3
 audio_size_in_megabyte: 28
-top: true
 ---
 
 ## Sommaire

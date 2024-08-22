@@ -8,6 +8,7 @@ image: "/img/episodes/86-marie-garin-et-romain-couillet.jpg"
 audio_link: https://soundcloud.com/techologie/86-incompatibles-sont-les-transitions-numerique-et-ecologique-avec-marie-garin-et-romain-couillet
 audio_size_in_megabyte: 66
 transcribed: true
+top: true
 ---
 
 ## Sommaire

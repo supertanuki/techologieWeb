@@ -7,7 +7,6 @@ date: 2019-09-24
 image: "/img/episodes/18-agnes-crepet.jpg"
 audio_link: "https://soundcloud.com/techologie/18-un-smartphone-ethique-et-reparable"
 audio_size_in_megabyte: 24
-top: true
 ---
 
 ## Sujets abordés

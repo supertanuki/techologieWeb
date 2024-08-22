@@ -8,6 +8,7 @@ image: "/img/episodes/70-nicolas-celnik.jpg"
 audio_link: https://soundcloud.com/techologie/70-techno-luttes-les-nouveaux-visages-de-la-technocritique-avec-nicolas-celnik
 download_link: https://feeds.soundcloud.com/stream/1356057709-techologie-70-techno-luttes-les-nouveaux-visages-de-la-technocritique-avec-nicolas-celnik.mp3
 audio_size_in_megabyte: 38
+top: true
 ---
 
 ## Sommaire
