@@ -18,6 +18,19 @@ Pour en parler avec nous,
 
 ## Sommaire
 
+* Hannane : ce qui lui a donné l'envie de quitter le confort du travail salarié pour monter ta ferme ?
+* Clélia : ce qui lui a donné l'envie de se lancer dans une activité de production agricole ?
+* Hannane : pourquoi dès le début de son projet, sont fixés des objectifs forts de répondre à des enjeux écologiques, sociaux et de solidarité ?
+* Hannane : les dimensions sociales et solidaires du projet se matérialisent comment ?
+* Agathe : les stéréotypes de genre dans l'agriculture prennent quelles formes ?
+* Agathe : comment les femmes peuvent reprendre du pouvoir sur leurs conditions de travail à travers les choix d'outillage ?
+* Clélia : l'Atelier Paysan et les formations
+* Hannane : son rapport à la technique dans son métier
+* Agathe : comment dépasser ces stéréotypes de genre, aider, accompagner les femmes dans ce métier ?
+* Clélia : groupe de paysannes et femmes rurales en mixité choisie, en quoi cela consiste et pourquoi ce choix ?
+* À l'ère de l'iOT, l'internet des objets, l'IA, l'intelligence artificielle, la 5G, l'agriculture 4.0 qui deviennent la norme dans l'agriculture conventionnelle, comment sortir de ce tout-technologique, supprimer ces dépendances technologiques et promouvoir les low-tech voire les no-tech dans l'agriculture ?
+
+
 ## En savoir plus :
 
 - [L'Atelier Paysan](https://www.latelierpaysan.org/)
