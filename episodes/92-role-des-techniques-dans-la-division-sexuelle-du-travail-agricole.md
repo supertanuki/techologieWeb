@@ -14,7 +14,7 @@ Pour en parler avec nous,
 
 - Hannane Somi-Bouzidi, maraichere bio et en agro-écologie qui a créée la ferme Sauvages et Cultivées à Chelles quasi à cheval sur la Seine-et-Marne et la Seine saint Denis.
 - Clélia Chateaux, paysane dans la Drôme.
-- Agathe Demathieu, ingénieure en mécanique, sociétaire de l’Atelier Paysan, auteure d’un mémoire portant sur “L’impact des stéréotypes de genre sur la relation des agricultrices à l’équipement agricole”
+- Agathe Demathieu, ingénieure en mécanique, auteure d’un mémoire portant sur “L’impact des stéréotypes de genre sur la relation des agricultrices à l’équipement agricole”
 
 ## Sommaire
 
@@ -33,7 +33,6 @@ Pour en parler avec nous,
 
 ## En savoir plus :
 
-- [L'Atelier Paysan](https://www.latelierpaysan.org/)
 - [Subvertir la division sexuelle du travail agricole via les techniques](https://agrigenre.hypotheses.org/16956), Agathe Demathieu, juin 2023
 
 ## Transcription
@@ -78,7 +77,7 @@ Pour en parler avec nous, on a trois personnes aujourd'hui exceptionnellement. O
 
 Nous avons également avec nous Clélia Chateau, tu es paysanne dans la Drôme.
 
-Et on a Agathe Demathieu, tu es ingénieure en mécanique, sociétaire de l'Atelier Paysans, auteur d'un mémoire portant sur l'impact des stéréotypes de genre sur la relation des agricultrices à l'équipement agricole.
+Et on a Agathe Demathieu, tu es ingénieure en mécanique, sociétaire de l'Atelier Paysan, auteure d'un mémoire portant sur l'impact des stéréotypes de genre sur la relation des agricultrices à l'équipement agricole.
 
 
 ### Hannane, qu'est ce qui t'a donné envie de quitter le confort du travail salarié pour monter ta ferme ?
