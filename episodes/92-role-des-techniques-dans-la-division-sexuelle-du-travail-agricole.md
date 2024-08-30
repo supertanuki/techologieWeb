@@ -13,7 +13,7 @@ transcribed: true
 Pour en parler avec nous,
 
 - Hannane Somi-Bouzidi, maraichere bio et en agro-écologie qui a créée la ferme Sauvages et Cultivées à Chelles quasi à cheval sur la Seine-et-Marne et la Seine saint Denis.
-- Clélia Chateaux, paysane dans la Drôme.
+- Clélia Chateaux, paysanne dans la Drôme.
 - Agathe Demathieu, ingénieure en mécanique, auteure d’un mémoire portant sur “L’impact des stéréotypes de genre sur la relation des agricultrices à l’équipement agricole”
 
 ## Sommaire
