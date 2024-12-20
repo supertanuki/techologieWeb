@@ -6,35 +6,26 @@ on:
       - master
 
 jobs:
-  build_deploy:
+  build-deploy:
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: ['20']
-
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
+          node-version: 18
 
-      - name: Install packages
-        run: npm ci
+      - name: Install dependencies
+        run: npm install
 
-      - name: Run npm build
-        run: npm run build:prod
+      - name: Build Eleventy site
+        run: npm run build
 
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          publish_dir: _site 
-          publish_branch: gh-pages
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          
+          publish_dir: _site
