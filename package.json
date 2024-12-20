@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-base-blog",
-  "version": "6.0.0",
-  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
+  "name": "techologie",
+  "version": "2.0.0",
+  "description": "Website of Techologie podcast. Based on eleventy-base-blog",
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-rss": "^1.1.2",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.3",
