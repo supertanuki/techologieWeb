@@ -39,30 +39,6 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd')
   })
 
-  /*
-  eleventyConfig.addCollection(
-    'episodesAndNewsletters',
-    function (collectionApi) {
-      const items = [
-        ...collectionApi.getFilteredByTag('newsletter'),
-        ...collectionApi.getFilteredByTag('episode'),
-      ]
-
-      items.forEach((item) => {
-        if (!item.templateContent) {
-          console.warn(`templateContent not ready for ${item.inputPath}`)
-        }
-      })
-
-      return items.sort((a, b) => {
-        const dateA = a.data.date || new Date()
-        const dateB = b.data.date || new Date()
-        return new Date(dateB) - new Date(dateA)
-      })
-    }
-  )
-  */
-
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter('head', (array, n) => {
     if (!Array.isArray(array) || array.length === 0) {
