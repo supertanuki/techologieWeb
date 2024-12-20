@@ -8,13 +8,30 @@ on:
 jobs:
   build_deploy:
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: ['20']
+
     steps:
-      - uses: actions/checkout@master
-      - name: Build
-        uses: TartanLlama/actions-eleventy@master
+      - uses: actions/checkout@v4
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+
+      - name: Install packages
+        run: npm ci
+
+      - name: Run npm build
+        run: npm run build
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           publish_dir: _site 
           publish_branch: gh-pages
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          
