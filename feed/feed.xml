@@ -5,10 +5,754 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2024-12-20T09:31:44Z</updated>
+	<updated>2024-12-20T10:08:30Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
 		<email>supertanuki@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Coder et designer pour un futur incertain</title>
+		<link href="https://techologie.net/episodes/1-coder-et-designer-pour-un-futur-incertain/"/>
+		<updated>2018-12-13T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/1-coder-et-designer-pour-un-futur-incertain/</id>
+		<content type="html">Marie-Cécile Paccard est designer et auteure des articles S&#39;éveiller à l&#39;effondrement et Design pour un futur incertain. On parle d&#39;effondrement et d&#39;éco-conception dans le design et le développement web ou logiciel.</content>
+	</entry>
+	
+	<entry>
+		<title>Impact écologique, que faire en tant que professionnel du web</title>
+		<link href="https://techologie.net/episodes/2-impact-ecologique-que-faire-en-tant-que-professionnel-du-web/"/>
+		<updated>2018-12-17T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/2-impact-ecologique-que-faire-en-tant-que-professionnel-du-web/</id>
+		<content type="html">Raphaël Lemaire est développeur et sensibilisé depuis des années à l&#39;éco-conception. Que faire en tant que développeur ou professionnel du web pour réduire l&#39;impact de nos produits sur l&#39;environnement et la consommation énergétique ?</content>
+	</entry>
+	
+	<entry>
+		<title>Permaculture et agilité</title>
+		<link href="https://techologie.net/episodes/3-permaculture-et-agilite/"/>
+		<updated>2018-12-28T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/3-permaculture-et-agilite/</id>
+		<content type="html">Nicolas Bétheuil est développeur. Il a appris simultanément la permaculture dans sa vie personnel et l&#39;agilité dans sa vie professionnelle. Il a remarqué de nombreuses similitudes entre agriculture respectueuse de la nature et l&#39;agilité en entreprise, notamment les pratiques Scrum et XP, Extreme Programming.</content>
+	</entry>
+	
+	<entry>
+		<title>Coder, designer pour quel futur ?</title>
+		<link href="https://techologie.net/episodes/4-coder-designer-pour-quel-futur/"/>
+		<updated>2019-01-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/4-coder-designer-pour-quel-futur/</id>
+		<content type="html">Le 15 janvier 2019, au meetup HumanTalks Paris - humantalks.com, j&#39;ai présenté ce sujet et parler du podcast.</content>
+	</entry>
+	
+	<entry>
+		<title>Pour une sobriété numérique</title>
+		<link href="https://techologie.net/episodes/5-pour-une-sobriete-numerique/"/>
+		<updated>2019-01-25T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/5-pour-une-sobriete-numerique/</id>
+		<content type="html">Xavier Verne est directeur projet à la SNCF, agrégé de mathématiques et membre du think tank The Shift Project. Il nous parle du rapport publié en octobre dernier « Pour une sobriété numérique », l’impact environnemental du numérique et les leviers d&#39;action.</content>
+	</entry>
+	
+	<entry>
+		<title>Pour un manifeste écologique des professionnels de l&#39;informatique</title>
+		<link href="https://techologie.net/episodes/6-manifeste-ecologique-des-professionnels-de-l-informatique/"/>
+		<updated>2019-02-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/6-manifeste-ecologique-des-professionnels-de-l-informatique/</id>
+		<content type="html">Jean-François Fourmond est développeur Java indépendant. Il souhaite s&#39;engager pour limiter le réchauffement climatique en lançant un manifeste dédié aux professionnels de l&#39;informatique. Il a besoin d&#39;aide pour finaliser ce manifeste et communiquer.</content>
+	</entry>
+	
+	<entry>
+		<title>Se sensibiliser au numérique responsable</title>
+		<link href="https://techologie.net/episodes/7-se-sensibiliser-au-numerique-responsable/"/>
+		<updated>2019-03-01T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/7-se-sensibiliser-au-numerique-responsable/</id>
+		<content type="html">Bela a fondé l&#39;association Point de M.I.R, Maison de l&#39;Informatique Responsable qui organise des ateliers et évènements autour de cette thématique.</content>
+	</entry>
+	
+	<entry>
+		<title>Design pour une résilience face à l&#39;effondrement</title>
+		<link href="https://techologie.net/episodes/8-design-pour-une-resilience-face-a-l-effondrement/"/>
+		<updated>2019-03-08T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/8-design-pour-une-resilience-face-a-l-effondrement/</id>
+		<content type="html">Geoffrey Dorne est designer indépendant depuis 2005 et fondateur de Design &amp; Human, agence de design à vocation sociale et qui vise l’indépendance. Il a donné une conférence très inspirante à BlendWebMix 2018, « Pour un design de l’indépendance ». Il nous parle des métiers de la conception (designer, développeurs notamment) et comment ré-affecter ces métiers pour préparer les gens, les utilisateurs de nos produits, à plus de résilience face à l&#39;effondrement de notre civilisation.</content>
+	</entry>
+	
+	<entry>
+		<title>Les cryptomonnaies sont-elles réellement énergivores ?</title>
+		<link href="https://techologie.net/episodes/9-les-cryptomonnaies-sont-elles-reellement-energivores/"/>
+		<updated>2019-03-14T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/9-les-cryptomonnaies-sont-elles-reellement-energivores/</id>
+		<content type="html">Jean-Baptiste Dusseaut est eXtreme programmeur depuis plus de 16 ans, architecte logiciel chez LGO, co-fondateur d&#39;Arpinum, co-organisateur de l&#39;Agile Tour Bordeaux et également enseignant. Nous abordons le sujet de la consommation d&#39;énergie des cryptomonnaies notamment le BitCoin mais aussi les usages de la Blockchain, le bullshit marketing, la spéculation et les idées reçues autour de cette technologie.</content>
+	</entry>
+	
+	<entry>
+		<title>Nuit du code citoyen et la tech au service de l&#39;intérêt général</title>
+		<link href="https://techologie.net/episodes/10-nuit-du-code-citoyen-tech-for-good/"/>
+		<updated>2019-03-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/10-nuit-du-code-citoyen-tech-for-good/</id>
+		<content type="html">Dans cet épisode, on est à la Nuit du Code citoyen à Paris qui s&#39;est tenue le vendredi 15 mars 2019. On est avec Yannick Morel, co-fondateur de Latitudes, association loi 1901 qui accompagne et encourage l&#39;utilisation des technologies au service de l&#39;intérêt général.</content>
+	</entry>
+	
+	<entry>
+		<title>Mesurer la consommation énergétique des apps et sites web</title>
+		<link href="https://techologie.net/episodes/11-mesurer-la-consommation-energetique-des-apps-et-sites-web/"/>
+		<updated>2019-04-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/11-mesurer-la-consommation-energetique-des-apps-et-sites-web/</id>
+		<content type="html">Olivier Philippot est développeur depuis 20 ans, dans différentes technologies, embarquées et mobile notamment. Lors de ses années universitaires, il a fait de la recherche sur les batteries et la gestion de l&#39;énergie. Aujourd&#39;hui il est cofondateur de Greenspector, une startup installée à Nantes. Nous allons parler de comment mesurer la consommation énergétique de nos sites web et applications.</content>
+	</entry>
+	
+	<entry>
+		<title>Recycler les déchets d&#39;entreprise</title>
+		<link href="https://techologie.net/episodes/12-recycler-dechets-entreprise/"/>
+		<updated>2019-05-17T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/12-recycler-dechets-entreprise/</id>
+		<content type="html">Julien est ingénieur et a cofondé Urbyn, une startup dont l&#39;objectif est de réduire l&#39;impact environnemental des entreprises en accélérant leur transition vers l&#39;économie circulaire. Et cela passe par une meilleure gestion des déchets et de leur recyclage.</content>
+	</entry>
+	
+	<entry>
+		<title>Le numérique responsable, outil de résilience</title>
+		<link href="https://techologie.net/episodes/13-numerique-responsable-outil-de-resilience/"/>
+		<updated>2019-05-23T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/13-numerique-responsable-outil-de-resilience/</id>
+		<content type="html">Frédéric Bordage a été développeur, directeur technique, consultant et journaliste. En 2004, il a créé le blog greenit.fr afin de rassembler une communauté autour du green IT, ensuite sur l&#39;éco-conception et la conception responsable des services numériques.</content>
+	</entry>
+	
+	<entry>
+		<title>Développer un service de streaming musical coopératif</title>
+		<link href="https://techologie.net/episodes/14-developper-un-service-de-streaming-cooperatif/"/>
+		<updated>2019-06-27T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/14-developper-un-service-de-streaming-cooperatif/</id>
+		<content type="html">Marie Gauthier est développeuse et contribue depuis 2016 au lancement du service de streaming musical Resonate. Cette coopérative appartient aux musiciens, labels indépendants, fans et développeurs.</content>
+	</entry>
+	
+	<entry>
+		<title>Le rapprochement domicile - travail pour réduire l&#39;impact carbone</title>
+		<link href="https://techologie.net/episodes/15-le-rapprochement-domicile-travail-pour-reduire-limpact-carbone/"/>
+		<updated>2019-07-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/15-le-rapprochement-domicile-travail-pour-reduire-limpact-carbone/</id>
+		<content type="html">Laure Wagner travaille dans la mobilité depuis plus de 10 ans notamment chez Blablacar. Elle lance 1km à Pied, pour démocratiser la réalisation de diagnostic mobilité sur la base de fichiers RH et pour identifier des solutions de réduction des trajets, ce qui est à la fois bénéfique pour les entreprises, les salariés et l&#39;environnement.</content>
+	</entry>
+	
+	<entry>
+		<title>S&#39;inspirer de la permaculture dans la vie en entreprise</title>
+		<link href="https://techologie.net/episodes/16-sinspirer-de-la-permaculture/"/>
+		<updated>2019-08-30T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/16-sinspirer-de-la-permaculture/</id>
+		<content type="html">Nathaniel Richand, ancien développeur, est maintenant coach agile. En voulant sortir de sa bulle, il découvre un peu par hasard la permaculture. Il nous raconte cette rencontre et comment il a assez vite fait le lien entre permaculture et pratiques agiles.</content>
+	</entry>
+	
+	<entry>
+		<title>La tech pour redonner du pouvoir aux agriculteurs</title>
+		<link href="https://techologie.net/episodes/17-la-tech-pour-redonner-du-pouvoir-aux-agriculteurs/"/>
+		<updated>2019-09-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/17-la-tech-pour-redonner-du-pouvoir-aux-agriculteurs/</id>
+		<content type="html">Solene est cofondatrice et directrice produit de Perfarmer, une application mobile qui permet aux agriculteurs de vendre au bon moment.</content>
+	</entry>
+	
+	<entry>
+		<title>Un smartphone éthique et réparable</title>
+		<link href="https://techologie.net/episodes/18-un-smartphone-ethique-et-reparable/"/>
+		<updated>2019-09-24T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/18-un-smartphone-ethique-et-reparable/</id>
+		<content type="html">Agnès Crépet est développeuse chez Fairphone, membre des Duchess France, une association pour valoriser les femmes développeuses et cofondatrice de la conférence MIX-IT.</content>
+	</entry>
+	
+	<entry>
+		<title>Une vie engagée et un ordinateur low tech mais pas bidon</title>
+		<link href="https://techologie.net/episodes/19-une-vie-engagee-et-un-ordinateur-lowtech-mais-pas-bidon/"/>
+		<updated>2019-10-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/19-une-vie-engagee-et-un-ordinateur-lowtech-mais-pas-bidon/</id>
+		<content type="html">Romain Chanut, nomade depuis quelques mois, se décrit comme facilitateur et DJ. Il est aussi le cofondateur de Jerry Do it together, un ordinateur dans un bidon fait à base d&#39;éléments récupérés. On y parle de low tech, un peu de politique mais aussi d&#39;Extinction Rebellion.</content>
+	</entry>
+	
+	<entry>
+		<title>Sobriété numérique, les clés pour agir</title>
+		<link href="https://techologie.net/episodes/20-sobriete-numerique-les-cles-pour-agir/"/>
+		<updated>2019-10-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/20-sobriete-numerique-les-cles-pour-agir/</id>
+		<content type="html">Frédéric Bordage est un expert green IT, éco-conception et la conception responsable des services numériques. Nous l&#39;avions déjà rencontré lors d&#39;un précédent épisode. Il nous parle cette fois de son livre Sobriété numérique, les clés pour agir sorti le 10 septembre 2019.</content>
+	</entry>
+	
+	<entry>
+		<title>L’insoutenable usage de la vidéo en ligne</title>
+		<link href="https://techologie.net/episodes/21-insoutenable-usage-video/"/>
+		<updated>2019-10-29T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/21-insoutenable-usage-video/</id>
+		<content type="html">Maxime Efoui-Hess est ingénieur et chef de projet au sein du Shift Project sur les questions numériques. Nous l&#39;avons rencontré lors des ateliers du Shift fin septembre 2019.</content>
+	</entry>
+	
+	<entry>
+		<title>Un smartphone éthique, réparable et en location</title>
+		<link href="https://techologie.net/episodes/22-un-smartphone-ethique-reparable-et-en-location/"/>
+		<updated>2019-11-06T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/22-un-smartphone-ethique-reparable-et-en-location/</id>
+		<content type="html">Adrien Montagut a cofondé Commown, une coopérative d&#39;intérêt collectif qui propose des smartphone et des pc en location. Vous n&#39;êtes plus propriétaires de ces biens mais vous êtes clients d&#39;un service. C&#39;est ce qu&#39;on appelle l&#39;économie de la fonctionnalité. On parle avec Adrien de l&#39;impact environnemental de la production, de l&#39;usage et de fin de vie de nos smartphones, quelles sont les solutions pour réduire ces impacts. On parle aussi d&#39;activisme, de désobéissance civile et de décrochage de portraits.</content>
+	</entry>
+	
+	<entry>
+		<title>Anthropocène et futurs souhaitables</title>
+		<link href="https://techologie.net/episodes/23-anthropocene-et-futurs-souhaitables/"/>
+		<updated>2019-11-19T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/23-anthropocene-et-futurs-souhaitables/</id>
+		<content type="html">Marie-Cécile Godwin Paccard et Thomas di Luccio sont designers. Ils ont créé le think-tank Common Future(s). Nous les avons rencontré au ForumPHP 2019 où ils donnaient une conférence Façonner des futurs souhaitables : concevoir à l&#39;ère de l&#39;anthropocène.</content>
+	</entry>
+	
+	<entry>
+		<title>Agir pour la biodiversité marine en adoptant un corail</title>
+		<link href="https://techologie.net/episodes/24-agir-pour-la-biodiversite-marine-en-adoptant-un-corail/"/>
+		<updated>2019-12-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/24-agir-pour-la-biodiversite-marine-en-adoptant-un-corail/</id>
+		<content type="html">Découvrez l&#39;ONG Coral Guardian avec Coco, responsable communication, Ruxandra chargée de projet terrain et co-directrice scientifique et Audrey, responsable partenariat.</content>
+	</entry>
+	
+	<entry>
+		<title>Pour un réveil écologique</title>
+		<link href="https://techologie.net/episodes/25-pour-un-reveil-ecologique/"/>
+		<updated>2020-01-03T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/25-pour-un-reveil-ecologique/</id>
+		<content type="html">Antoine Trouche est membre de Pour un Réveil écologique, collectif qui est né dans la continuité du Manifeste Étudiant pour un Réveil Écologique, lancé en septembre 2018 et signé par près de 30 000 étudiants. Aujourd&#39;hui le collectif travaille sur deux axes : réveiller son employeur et réveiller sa formation.</content>
+	</entry>
+	
+	<entry>
+		<title>Évaluer l&#39;impact environnemental des gestes du quotidien</title>
+		<link href="https://techologie.net/episodes/26-evaluer-limpact-environnemental-des-gestes-du-quotidien/"/>
+		<updated>2020-01-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/26-evaluer-limpact-environnemental-des-gestes-du-quotidien/</id>
+		<content type="html">Maël Thomas est développeur dans une startup d&#39;état. Il a créé un outil en ligne pour évaluer l&#39;impact de chaque geste du quotidien.</content>
+	</entry>
+	
+	<entry>
+		<title>Design et numérique en temps de crise environnementale</title>
+		<link href="https://techologie.net/episodes/27-design-et-numerique-en-temps-de-crise-environnementale/"/>
+		<updated>2020-02-03T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/27-design-et-numerique-en-temps-de-crise-environnementale/</id>
+		<content type="html">Gauthier Roussilhe est designer et chercheur. Il travaille sur un design et un numérique soutenables dans un monde confronté à une crise environnementale majeure.</content>
+	</entry>
+	
+	<entry>
+		<title>Un écosyndicat qui concilie transition écologique et justice sociale</title>
+		<link href="https://techologie.net/episodes/28-un-ecosyndicat-qui-concilie-transition-ecologique-et-justice-sociale/"/>
+		<updated>2020-02-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/28-un-ecosyndicat-qui-concilie-transition-ecologique-et-justice-sociale/</id>
+		<content type="html">Maxime Blondeau a cofondé l&#39;association Printemps Écologique dont le but est de construire le premier écosyndicat de l&#39;histoire et accélérer la transition écologique par la négociation collective.</content>
+	</entry>
+	
+	<entry>
+		<title>La 5G, impact environnemental et pertinence économique</title>
+		<link href="https://techologie.net/episodes/29-la-5g-impact-environnemental-et-pertinence-economique/"/>
+		<updated>2020-02-25T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/29-la-5g-impact-environnemental-et-pertinence-economique/</id>
+		<content type="html">Dans une tribune dans le Monde début janvier 2020, Hugues Ferreboeuf et Jean-Marc Jancovici du Shift Project pose la question : « La 5G est-elle vraiment utile ? ». Alors qu’augmenter la durée d’utilisation des smartphones est primordial pour réduire leur empreinte carbone, l’apparition de la 5G accélérerait leur remplacement. L&#39;impact environnemental est aussi à l&#39;installation des antennes et à l&#39;usage, c&#39;est à dire la consommation d&#39;électricité, qui selon le Shift Project sera multipliée par 2,5 à 3 dans les cinq ans à venir. Hugues Ferreboeuf, directeur du projet « Lean ICT » au sein du Shift Project est venu répondre à nos questions sur la 5G.</content>
+	</entry>
+	
+	<entry>
+		<title>Conspiration positive pour futurs souhaitables</title>
+		<link href="https://techologie.net/episodes/30-conspiration-positive-pour-futurs-souhaitables/"/>
+		<updated>2020-03-03T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/30-conspiration-positive-pour-futurs-souhaitables/</id>
+		<content type="html">Stéphanie Matharet est directrice artistique. Elle nous raconte sa découverte par hasard des conspirateurs positifs et des formations de l&#39;Institut des Futurs Souhaitables.</content>
+	</entry>
+	
+	<entry>
+		<title>Une plateforme vidéo dédiée à la transition</title>
+		<link href="https://techologie.net/episodes/31-une-plateforme-video-dediee-a-la-transition/"/>
+		<updated>2020-03-11T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/31-une-plateforme-video-dediee-a-la-transition/</id>
+		<content type="html">Nicolas a cofondé Imago, la plateforme de vidéos et de podcasts dédiée à la transition et lancée en janvier 2019. On parle du monde de l&#39;audiovisuel, l&#39;arrivée du streaming.</content>
+	</entry>
+	
+	<entry>
+		<title>Économie circulaire, innovation sociale et réemploi de smartphones</title>
+		<link href="https://techologie.net/episodes/32-economie-circulaire-innovation-reemploi-de-smartphones/"/>
+		<updated>2020-04-13T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/32-economie-circulaire-innovation-reemploi-de-smartphones/</id>
+		<content type="html">Rencontre avec Cyril Desmidt avec qui nous parlons logiciels libres, innovation sociale, réemploi d&#39;équipements électroniques, transition numérique et écologique, économie circulaire, recylcage, low-tech, écoconception, épuisement de ressources et même sérendipité.</content>
+	</entry>
+	
+	<entry>
+		<title>Covid-19, produire plus de respirateurs pour sauver des vies</title>
+		<link href="https://techologie.net/episodes/33-covid-19-produire-plus-de-respirateurs-pour-sauver-des-vies/"/>
+		<updated>2020-04-21T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/33-covid-19-produire-plus-de-respirateurs-pour-sauver-des-vies/</id>
+		<content type="html">Pierre Roth dit Peio est développeur chez Eove, une entreprise qui produit des respirateurs, installée à Pau. Il nous parle de son quotidien qui a été bouleversé par l&#39;arrivée du Covid-19, comment protéger l&#39;équipe de production, créer une seconde équipe et travailler le samedi pour répondre à la demande.</content>
+	</entry>
+	
+	<entry>
+		<title>Un institut pour promouvoir un numérique responsable</title>
+		<link href="https://techologie.net/episodes/34-un-institut-pour-promouvoir-un-numerique-responsable/"/>
+		<updated>2020-06-05T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/34-un-institut-pour-promouvoir-un-numerique-responsable/</id>
+		<content type="html">Vincent Courboulay est maitre de conférences à La Rochelle Université et directeur scientifique de l&#39;Institut du Numérique Responsable.</content>
+	</entry>
+	
+	<entry>
+		<title>Évaluer la performance environnementale des services numériques</title>
+		<link href="https://techologie.net/episodes/35-performance-environnementale-services-numeriques/"/>
+		<updated>2020-06-23T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/35-performance-environnementale-services-numeriques/</id>
+		<content type="html">Caroline Vateau est directrice département Numérique Responsable de APL Data Center et secrétaire générale de l&#39;association Alliance Green IT. On parle de son parcours dans le domaine de l&#39;énergie, de sa création de son entreprise Neutreo dans le domaine du numérique responsable, de l&#39;association Alliance Green IT, du projet NegaOctet et bien sûr des impacts environnementaux du numérique notamment ceux des data center et du cloud.</content>
+	</entry>
+	
+	<entry>
+		<title>Concilier progrès technique et urgence climatique</title>
+		<link href="https://techologie.net/episodes/36-concilier-progres-technique-et-urgence-climatique-avec-pierre-beyssac/"/>
+		<updated>2020-09-24T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/36-concilier-progres-technique-et-urgence-climatique-avec-pierre-beyssac/</id>
+		<content type="html">Pierre Beyssac est informaticien depuis les années 1980, porte-parole du parti pirate, cofondateur de Gandi et eu.org, actif sur les débats tech. Nous le recevons pour parler de l&#39;impact environnemental du numérique et de la 5G.</content>
+	</entry>
+	
+	<entry>
+		<title>Technologie partout, démocratie nulle part</title>
+		<link href="https://techologie.net/episodes/37-technologie-partout-democratie-nulle-part/"/>
+		<updated>2020-10-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/37-technologie-partout-democratie-nulle-part/</id>
+		<content type="html">Yaël Benayoun est diplômée en philosophie politique et en sciences sociales. Elle conseille les organisations qui souhaitent se doter d’outils d’observation et de compréhension des réalités sociales. Irénée Régnauld est diplômé en sciences politiques et en affaires internationales et consultant en innovation et en transformation numérique. Auteur du blog et compte twitter technocritique « Mais où va le web ? ». Tous les deux, ont créé l&#39;association Le Mouton Numérique qui met en lumière les enjeux sociaux, politiques et environnementaux du numérique et des nouvelles technologies. Ils sont les auteurs du livre Technologies partout, démocratie nulle part, Plaidoyer pour que les choix technologiques deviennent l’affaire de tous.</content>
+	</entry>
+	
+	<entry>
+		<title>Un opérateur télécom coopératif et engagé dans la transition écologique</title>
+		<link href="https://techologie.net/episodes/38-un-operateur-telecom-cooperatif-et-engage-dans-la-transition-ecologique/"/>
+		<updated>2020-11-20T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/38-un-operateur-telecom-cooperatif-et-engage-dans-la-transition-ecologique/</id>
+		<content type="html">Marion Graeffly est cofondatrice de Telecoop, et chargée de la communication, des partenariats et du sociétariat.</content>
+	</entry>
+	
+	<entry>
+		<title>Deux ans de Techologie, que retenir et quel futur ?</title>
+		<link href="https://techologie.net/episodes/39-deux-ans-de-techologie-que-retenir-et-quel-futur/"/>
+		<updated>2020-12-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/39-deux-ans-de-techologie-que-retenir-et-quel-futur/</id>
+		<content type="html">Pour les deux ans du podcast, un épisode spécial en public pour marquer le coup. On fait le bilan, calmement.</content>
+	</entry>
+	
+	<entry>
+		<title>Lutter contre l&#39;obsolescence programmée et promouvoir la durabilité</title>
+		<link href="https://techologie.net/episodes/40-lutter-contre-lobsolescence-programmee-et-promouvoir-la-durabilite/"/>
+		<updated>2020-12-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/40-lutter-contre-lobsolescence-programmee-et-promouvoir-la-durabilite/</id>
+		<content type="html">A la suite de l&#39;instauration du délit d&#39;obsolescence programmée dans le Code de la consommation en 2015, est née l&#39;association HOP, Halte à l&#39;obsolescence programmée. Cette association a été créée notamment, par Laëtitia Vasseur, ancienne assistante parlementaire et militante contre la surconsommation, Emile Meunier, avocat, et Samuel Sauvage, autre militant et consultant spécialisé dans l&#39;économie circulaire. Pour parler d&#39;obsolescence programmée et d&#39;indice de réparabilité, nous avons le plaisir de recevoir Adèle Chasson, chargée des relations publiques de l&#39;association Hop.</content>
+	</entry>
+	
+	<entry>
+		<title>Sustainable development viewed from England</title>
+		<link href="https://techologie.net/episodes/41-sustainable-development-viewed-from-england/"/>
+		<updated>2021-01-11T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/41-sustainable-development-viewed-from-england/</id>
+		<content type="html">We switch to the other side of the Channel to talk to Nick Lewis who initiated the the-sustainable.dev website.</content>
+	</entry>
+	
+	<entry>
+		<title>Transition écologique et solidaire dans l&#39;enseignement supérieur</title>
+		<link href="https://techologie.net/episodes/42-transition-ecologique-et-solidaire-dans-lenseignement-superieur/"/>
+		<updated>2021-01-14T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/42-transition-ecologique-et-solidaire-dans-lenseignement-superieur/</id>
+		<content type="html">Yannick Morel est le cofondateur de l&#39;association Latitudes qui accompagne et encourage l&#39;utilisation des technologies au service de l&#39;intérêt général. Il nous raconte comment vivent les étudiants et les enseignants la crise sanitaire actuelle. Et comment l&#39;enseignement supérieur est en train de se transformer pour répondre à une indispensable transition écologique.</content>
+	</entry>
+	
+	<entry>
+		<title>Entreprise sociale de service numérique au Sénégal</title>
+		<link href="https://techologie.net/episodes/43-entreprise-sociale-service-numerique/"/>
+		<updated>2021-01-21T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/43-entreprise-sociale-service-numerique/</id>
+		<content type="html">Nous partons en Afrique rencontrer les membres de IT4Life, une entreprise de services numériques installée à Dakar, au Sénégal.</content>
+	</entry>
+	
+	<entry>
+		<title>Documenter un numérique plus responsable</title>
+		<link href="https://techologie.net/episodes/44-documenter-un-numerique-plus-responsable/"/>
+		<updated>2021-02-02T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/44-documenter-un-numerique-plus-responsable/</id>
+		<content type="html">Etudiante dans le secteur du numérique, Alizée Colin aspire à travers son blog à recentrer le web et ses outils dans un objectif de bien commun, tant bien environnemental que social.</content>
+	</entry>
+	
+	<entry>
+		<title>Anthropologie du smartphone et culture de la réparation</title>
+		<link href="https://techologie.net/episodes/45-anthropologie-du-smartphone/"/>
+		<updated>2021-03-09T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/45-anthropologie-du-smartphone/</id>
+		<content type="html">Nicolas Nova est anthropologue des technologies et designer-chercheur à Genève, et cofondateur du cabinet de conseil The Near Future Laboratory spécialisé dans les pratiques de design-fiction. Il est l&#39;auteur de Smartphones. Une enquête anthropologique et avec Anaïs Bloch, designer et chercheuse, d&#39;un essai en anglais, &quot;Dr Smartphone, une ethnographie des magasins de réparation de smartphone&quot;, qui sera en accès libre prochainement.</content>
+	</entry>
+	
+	<entry>
+		<title>L’impératif de la sobriété numérique et l’enjeu des modes de vie</title>
+		<link href="https://techologie.net/episodes/46-imperatif-de-la-sobriete-numerique-et-lenjeu-des-modes-de-vie/"/>
+		<updated>2021-03-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/46-imperatif-de-la-sobriete-numerique-et-lenjeu-des-modes-de-vie/</id>
+		<content type="html">Fabrice Flipo est professeur de philosophie sociale et politique, philosophie des sciences et techniques à l&#39;Institut Mines-Télécom et chercheur au Laboratoire de changement social et politique à l’Université de Paris. Il est l&#39;auteur de L’impératif de la sobriété numérique, L’enjeu des modes de vie.</content>
+	</entry>
+	
+	<entry>
+		<title>Stratégie et design pour l&#39;Anthropocène</title>
+		<link href="https://techologie.net/episodes/47-strategie-et-design-pour-lanthropocene/"/>
+		<updated>2021-04-05T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/47-strategie-et-design-pour-lanthropocene/</id>
+		<content type="html">Alexandre Monnin est directeur de la Recherche d&#39;Origens Medialab, Co-fondateur de l&#39;initiative Closing Worlds. Avec Emmanuel Bonnet, ils sont tous les deux enseignants dans le Master of Science (MSc) &quot;Stratégie et Design pour l&#39;Anthropocène&quot; à l&#39;ESC Clermont BS.</content>
+	</entry>
+	
+	<entry>
+		<title>Sustainable IT: Natalie Hollier views on product teams, cloud and IT for Green</title>
+		<link href="https://techologie.net/episodes/48-sustainable-it-cloud/"/>
+		<updated>2021-04-13T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/48-sustainable-it-cloud/</id>
+		<content type="html">Natalie has been working in Digital Sustainability for a few years at ThoughtWorks, and recently joined  Microsoft to work on Sustainability Product Innovation.</content>
+	</entry>
+	
+	<entry>
+		<title>Réduire la fracture numérique, réutiliser du matériel</title>
+		<link href="https://techologie.net/episodes/49-reduire-la-fracture-numerique-reutiliser-du-materiel/"/>
+		<updated>2021-04-26T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/49-reduire-la-fracture-numerique-reutiliser-du-materiel/</id>
+		<content type="html">Nous allons à la rencontre de Camille Bardou, chef de projet lacollecte.tech et Victor Estienney, responsable national des opérations de Emmaüs Connect.</content>
+	</entry>
+	
+	<entry>
+		<title>Data sciences, techno-libéralisme et désertion de l’ingénierie</title>
+		<link href="https://techologie.net/episodes/50-data-sciences-techno-liberalisme-et-desertion-de-lingenierie/"/>
+		<updated>2021-05-11T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/50-data-sciences-techno-liberalisme-et-desertion-de-lingenierie/</id>
+		<content type="html">Romain est ingénieur, spécialisé dans les data sciences. Il a travaillé en tant que consultant data scientist pendant 3 ans, avant de démissionner en mars 2020. Il publie il y a quelques semaines une lettre ouverte ainsi qu’un rapport intitulé « D’un peu de lucidité sur les ravages du techno-libéralisme ».</content>
+	</entry>
+	
+	<entry>
+		<title>L&#39;écoconception ne suffit pas</title>
+		<link href="https://techologie.net/episodes/51-ecoconception-ne-suffit-pas/"/>
+		<updated>2021-05-25T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/51-ecoconception-ne-suffit-pas/</id>
+		<content type="html">Guillaume Mandil est enseignant chercheur en science pour l’ingénieur à l’Université Grenoble Alpes, enseignant du master Stratégie et Design pour l&#39;Anthropocène et membre de l’équipe INRIA STEEP depuis 2018. Il est également docteur en génie mécanique et génie industriel.</content>
+	</entry>
+	
+	<entry>
+		<title>L&#39;éthique dans le design</title>
+		<link href="https://techologie.net/episodes/52-ethique-dans-le-design/"/>
+		<updated>2021-07-05T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/52-ethique-dans-le-design/</id>
+		<content type="html">Mellie Laroque est UX researcher et Karl Pineau, doctorant en sciences de l&#39;information et de la communication coprésident l&#39;association Designers Éthiques.</content>
+	</entry>
+	
+	<entry>
+		<title>Introduction to Climate Justice</title>
+		<link href="https://techologie.net/episodes/53-introduction-to-climate-justice/"/>
+		<updated>2021-07-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/53-introduction-to-climate-justice/</id>
+		<content type="html">In this podcast, we talk and learn about Climate Justice with Richard Kim and Yang Hong from the community Work on Climate.</content>
+	</entry>
+	
+	<entry>
+		<title>Sciences comportementales et transition écologique</title>
+		<link href="https://techologie.net/episodes/54-sciences-comportementales-et-transition-ecologique/"/>
+		<updated>2021-09-14T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/54-sciences-comportementales-et-transition-ecologique/</id>
+		<content type="html">Laurianne Vagharchakian est chercheuse en sciences comportementales. Son travail consiste à mieux prendre en compte le comportement humain afin de mieux façonner les politiques publiques. Par exemple, comment adapter nos comportements face au réchauffement climatique ?</content>
+	</entry>
+	
+	<entry>
+		<title>Se préparer aux catastrophes naturelles et technologiques</title>
+		<link href="https://techologie.net/episodes/55-se-preparer-aux-catastrophes-naturelles-et-technologiques/"/>
+		<updated>2021-10-05T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/55-se-preparer-aux-catastrophes-naturelles-et-technologiques/</id>
+		<content type="html">Gaël Musquet est un hacker citoyen, un fervent ambassadeur des logiciels libres et open source notamment OpenStreetMap. Il met les technologies au service de la prévention des risques naturels et pour une meilleure résilience face aux chocs.</content>
+	</entry>
+	
+	<entry>
+		<title>Au-delà des impacts environnementaux directs du numérique</title>
+		<link href="https://techologie.net/episodes/56-au-dela-des-impacts-environnementaux-directs-du-numerique/"/>
+		<updated>2021-10-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/56-au-dela-des-impacts-environnementaux-directs-du-numerique/</id>
+		<content type="html">Françoise Berthoud est ingénieure de recherche en informatique au CNRS, membre et ancienne directrice du GDS, groupement de service EcoInfo « Pour une informatique éco-responsable ».</content>
+	</entry>
+	
+	<entry>
+		<title>Face aux crises, la technologie fait-elle partie de la solution ?</title>
+		<link href="https://techologie.net/episodes/57-face-aux-crises-la-technologie-fait-elle-partie-de-la-solution/"/>
+		<updated>2021-11-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/57-face-aux-crises-la-technologie-fait-elle-partie-de-la-solution/</id>
+		<content type="html">Frédéric Sitterlé est Directeur Général de HETIC, une école qui forme des experts aux métiers de la tech et du numérique. Nous allons parlé du rôle des formations d&#39;ingénieurs quant aux enjeux actuels, environnementaux, sociaux, sociétaux.</content>
+	</entry>
+	
+	<entry>
+		<title>On n&#39;arrête pas le progrès ?</title>
+		<link href="https://techologie.net/episodes/58-on-narrete-pas-le-progres/"/>
+		<updated>2021-11-25T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/58-on-narrete-pas-le-progres/</id>
+		<content type="html">Philosophe de formation, Fanny Verrax est enseignante, chercheuse indépendante et consultante auprès de différentes institutions, dont le Ministère de la Transition écologique. Co-auteure du livre « Quelle éthique pour l’ingénieur ».</content>
+	</entry>
+	
+	<entry>
+		<title>À quels enfants allons-nous laisser le monde ?</title>
+		<link href="https://techologie.net/episodes/59-a-quels-enfants-allons-nous-laisser-le-monde/"/>
+		<updated>2021-12-09T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/59-a-quels-enfants-allons-nous-laisser-le-monde/</id>
+		<content type="html">Philippe Bihouix est ingénieur, son sujet les limites de la planète, l’épuisement de ses ressources minérales et ressources énergétiques et les low tech. Auteur de L&#39;Âge des low-tech, Le bonheur était pour demain, Quel futur pour les métaux ? et co-auteur avec Karine Mauvilly de : Le désastre de l’école numérique, plaidoyer pour une école sans écran.</content>
+	</entry>
+	
+	<entry>
+		<title>Trois ans de Techologie, déclics et actions</title>
+		<link href="https://techologie.net/episodes/60-techologie-3-ans/"/>
+		<updated>2021-12-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/60-techologie-3-ans/</id>
+		<content type="html">Pour finir cette année et fêter ces 3 ans, nous avons donné la parole à des auditeurs et membres de la communauté Techologie.</content>
+	</entry>
+	
+	<entry>
+		<title>Build a sustainable business with digital sustainability</title>
+		<link href="https://techologie.net/episodes/61-building-a-sustainable-business-with-digital-sustainability/"/>
+		<updated>2022-01-07T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/61-building-a-sustainable-business-with-digital-sustainability/</id>
+		<content type="html">In this episode, we invite Tom Greenwood to talk about sustainable web design and his company Wholegrain Digital.</content>
+	</entry>
+	
+	<entry>
+		<title>Conception pour appareils obsolètes</title>
+		<link href="https://techologie.net/episodes/62-conception-pour-des-appareils-obsoletes/"/>
+		<updated>2022-01-20T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/62-conception-pour-des-appareils-obsoletes/</id>
+		<content type="html">Anaëlle Beignon est designer d&#39;intéractions. Son sujet de mémoire de master a porté sur la conception pour appareils obsolètes, une exploration de la marginalisation des utilisateurs d&#39;appareils obsolètes face à la numérisation des services publics suédois.</content>
+	</entry>
+	
+	<entry>
+		<title>Le numérique de demain avec les équipements d&#39;hier</title>
+		<link href="https://techologie.net/episodes/63-le-numerique-de-demain-avec-les-equipements-dhier/"/>
+		<updated>2022-02-03T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/63-le-numerique-de-demain-avec-les-equipements-dhier/</id>
+		<content type="html">Ingénieur de recherche, chef de projet informatique dédié à la médiation scientifique et à l&#39;innovation pédagogique dans la direction scientifique à l&#39;Inria, spécialiste des impacts environnementaux des technologies numériques, Benjamin Ninassi est également membre du Groupement de service EcoInfo, pour une informatique éco-responsable et de l&#39;INR, l&#39;Institut du Numérique Responsable.</content>
+	</entry>
+	
+	<entry>
+		<title>Matérialité du numérique et externalités minières</title>
+		<link href="https://techologie.net/episodes/64-materialite-du-numerique-et-externalites-minieres/"/>
+		<updated>2022-03-17T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/64-materialite-du-numerique-et-externalites-minieres/</id>
+		<content type="html">Aurore Stéphant est ingénieure géologue minier, spécialisée dans les risques environnementaux et sanitaires de l&#39;industrie minière. Elle est cofondatrice de l&#39;association SystExt(Systèmes extractifs et Environnements) qui regroupe des professionnels en activité ayant un intérêt commun pour les systèmes extractifs, en particulier miniers, et des compétences pour s&#39;approprier les problématiques techniques associées à ces activités. Nous avons discuté de ce qu&#39;est l&#39;industrie minière et les particularités liés aux métaux nécessaires au numérique.</content>
+	</entry>
+	
+	<entry>
+		<title>Enjeux environnementaux de la souveraineté numérique et interdépendance</title>
+		<link href="https://techologie.net/episodes/65-enjeux-environnementaux-de-la-souverainete-numerique/"/>
+		<updated>2022-03-29T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/65-enjeux-environnementaux-de-la-souverainete-numerique/</id>
+		<content type="html">Ophélie Coelho est chercheuse indépendante en géopolitique du numérique, à l&#39;Institut Rousseau.</content>
+	</entry>
+	
+	<entry>
+		<title>Actions des régulateurs des télécoms sur l&#39;empreinte du numérique</title>
+		<link href="https://techologie.net/episodes/66-actions-des-regulateurs-telecoms-empreinte-numerique/"/>
+		<updated>2022-04-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/66-actions-des-regulateurs-telecoms-empreinte-numerique/</id>
+		<content type="html">Sandrine Elmi Hersi est chargée d’affaires européennes à l&#39;ARCEP et co-présidente du groupe de travail Soutenabilité au BEREC, organe qui rassemble les régulateurs européens des télécoms. Elle fait aussi partie du bureau de l&#39;association Politiqu&#39;Elles qui oeuvre à la promotion des femmes dans la société et lutte contre le sexisme.</content>
+	</entry>
+	
+	<entry>
+		<title>Pour une écologie décoloniale du numérique</title>
+		<link href="https://techologie.net/episodes/67-pour-une-ecologie-decoloniale-du-numerique/"/>
+		<updated>2022-05-24T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/67-pour-une-ecologie-decoloniale-du-numerique/</id>
+		<content type="html">David Maenda Kithoko est cofondateur et président de Génération Lumière, une association écologiste et de solidarité internationale qui agit en France et dans la région des Grands Lacs en Afrique de l&#39;Est. Originaire de la République Démocratique du Congo, il est réfugié politique en France. Il nous raconte son histoire et ses combats pour une prise de conscience des liens entre numérique, colonialisme, minerais de sang et conflits en République Démocratique du Congo et plus largement en Afrique.</content>
+	</entry>
+	
+	<entry>
+		<title>Les limites à l&#39;efficacité énergétique</title>
+		<link href="https://techologie.net/episodes/68-limites-efficacite-energetique/"/>
+		<updated>2022-07-06T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/68-limites-efficacite-energetique/</id>
+		<content type="html">Anne-Cécile Orgerie est chargée de Recherche CNRS à l&#39;IRISA de Rennes (Institut de Recherche en Informatique et Systèmes Aléatoires). Membre d&#39;EcoInfo, ses principaux sujets de recherche sont l&#39;efficacité énergétique dans les systèmes distribués, le cloud computing, les réseaux et les smart grids.</content>
+	</entry>
+	
+	<entry>
+		<title>Guide d&#39;écoconception de services numériques</title>
+		<link href="https://techologie.net/episodes/69-guide-decoconception-de-services-numeriques/"/>
+		<updated>2022-07-13T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/69-guide-decoconception-de-services-numeriques/</id>
+		<content type="html">Anne Faubry et Aurélie Baton sont toutes les deux designers, membres de l&#39;association Designers Ethiques. Elles nous présentent leur bifurcation professionnelle et les travaux sur le guide d&#39;écoconception de services numériques.</content>
+	</entry>
+	
+	<entry>
+		<title>Techno-luttes, les nouveaux visages de la technocritique</title>
+		<link href="https://techologie.net/episodes/70-techno-luttes-les-nouveaux-visages-de-la-technocritique/"/>
+		<updated>2022-10-07T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/70-techno-luttes-les-nouveaux-visages-de-la-technocritique/</id>
+		<content type="html">Nicolas Celnik est journaliste et co-auteur avec Fabien Benoit de Techno-luttes, enquête sur ceux qui résistent à la technologie, aux éditions du Seuil en partenariat avec Reporterre.</content>
+	</entry>
+	
+	<entry>
+		<title>Un ordinateur réparable</title>
+		<link href="https://techologie.net/episodes/71-ordinateur-reparable/"/>
+		<updated>2022-11-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/71-ordinateur-reparable/</id>
+		<content type="html">François Marthaler est un ancien Conseiller d’État vert vaudois en Suisse et fondateur de Why! Open Computing, une entreprise qui propose des ordinateurs réparables.</content>
+	</entry>
+	
+	<entry>
+		<title>Enjeux environnementaux des sujets émergents</title>
+		<link href="https://techologie.net/episodes/72-enjeux-environnementaux-des-sujets-emergents/"/>
+		<updated>2023-01-10T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/72-enjeux-environnementaux-des-sujets-emergents/</id>
+		<content type="html">Adélaïde Albouy-Kissi est cheffe du Département Informatique Graphique de l&#39;IUT du Puy en Velay de l&#39;Université Clermont Auvergne. Elle est aussi chargée de la Prospective et Sujets Émergents à l&#39;Institut du Numérique Responsable France.</content>
+	</entry>
+	
+	<entry>
+		<title>Accompagner la transition professionnelle écologique et solidaire</title>
+		<link href="https://techologie.net/episodes/73-institut-transitions/"/>
+		<updated>2023-02-01T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/73-institut-transitions/</id>
+		<content type="html">Isabelle Huynh, ingénieur mécanique, a lancé l&#39;Institut Transitions pour tous les profils notamment les ingénieurs qui souhaitent travailler dans le domaine de la transition écologique et solidaire.</content>
+	</entry>
+	
+	<entry>
+		<title>Traçabilité des achats d&#39;équipements numériques</title>
+		<link href="https://techologie.net/episodes/74-tracabilite-achats-des-equipements-numeriques/"/>
+		<updated>2023-02-14T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/74-tracabilite-achats-des-equipements-numeriques/</id>
+		<content type="html">Dans cet épisode, nous recevons deux actrices de la traçabilité de l&#39;approvisionnement des équipements numériques.</content>
+	</entry>
+	
+	<entry>
+		<title>Les impacts de l&#39;internet des objets</title>
+		<link href="https://techologie.net/episodes/75-les-impacts-de-linternet-des-objets/"/>
+		<updated>2023-02-28T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/75-les-impacts-de-linternet-des-objets/</id>
+		<content type="html">Dans cet épisode, nous allons parler de smart city, smart building, industrie 4.0 et derrière ces concepts, il y a des objets, l&#39;internet des objets et des impacts de ces objets sur les 4 dimensions : technique, économique, environnementale et sociale. Et pour parler de ces sujets, nous avons avec nous Gillo Alain Malpart qui est dirigeant de l&#39;entreprise Mavana, installée à Toulouse et qui propose d’aider les organisations à réduire leur empreinte environnementale grâce à des objets connectés.</content>
+	</entry>
+	
+	<entry>
+		<title>Collectivisons et convivialisons Internet</title>
+		<link href="https://techologie.net/episodes/76-collectivisons-et-convivialisons-internet/"/>
+		<updated>2023-03-24T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/76-collectivisons-et-convivialisons-internet/</id>
+		<content type="html">L&#39;internet, à ses débuts, espace de liberté a laissé place aux services proposés par les méga entreprises, les GAFAM : Google, Apple, Facebook, Amazon et Microsoft. Ces services gratuits reposent sur de la publicité et la monétisation des données utilisateurs. Face au capitalisme de surveillance, la résistance s&#39;organise. Des ilots émergent proposant un autre numérique, un autre moyen de voir l&#39;Internet et ses outils, en mettant au coeur de leur raison d&#39;être, les enjeux sociaux et écologiques. C&#39;est le cas notamment de Framasoft. Pour parler de ces sujets, nous avons avec nous Angie Gaudion, Chargée de relations publiques et Pierre-Yves Gosset, Délégué Général de l&#39;association Framasoft.</content>
+	</entry>
+	
+	<entry>
+		<title>Alternatives émancipatrices face au capitalisme technologique</title>
+		<link href="https://techologie.net/episodes/77-alternatives-emancipatrices/"/>
+		<updated>2023-05-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/77-alternatives-emancipatrices/</id>
+		<content type="html">Comment peut-on imaginer une ville intelligente avec des technologies émancipatrices ? Le point de vue africain de l&#39;architecte togolais Sénamé Koffi Agbodjinou.</content>
+	</entry>
+	
+	<entry>
+		<title>Redirection écologique joyeuse</title>
+		<link href="https://techologie.net/episodes/78-redirection-ecologique-joyeuse/"/>
+		<updated>2023-06-22T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/78-redirection-ecologique-joyeuse/</id>
+		<content type="html">Sheila est coach écosystémique, co-créatrice de la fresque du textile, référente fresque du climat USA et B-Corp leader. Elle veut faciliter le changement pour un monde plus juste, résilient et plein de joie.</content>
+	</entry>
+	
+	<entry>
+		<title>Sortir de l&#39;enfermement technologique de la décarbonation</title>
+		<link href="https://techologie.net/episodes/79-sortir-enfermement-technologique-decarbonation/"/>
+		<updated>2023-10-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/79-sortir-enfermement-technologique-decarbonation/</id>
+		<content type="html">Hélène Grosbois est une ancienne employée dans le monde de la Finance et maintenant néo-rurale qui apprend à être autonome en nourriture tout en restaurant le vivant. Ses articles sur Linkedin sont percutants et sans langue de bois. Elle prône la sortie du productivisme, l&#39;arrêt immédiat de la pétrochimie qui empoisonne nos sols et nos eaux, la décroissance et l&#39;exode urbain pour repeupler les campagnes et produire sa propre nourriture. Nous allons parler carbone, techno-solutionnisme, retour à une vie rurale, agriculture, pétrochimie, mais aussi l&#39;école, l&#39;espoir.</content>
+	</entry>
+	
+	<entry>
+		<title>Pour un numérique acceptable et d&#39;intérêt général</title>
+		<link href="https://techologie.net/episodes/80-pour-un-numerique-acceptable-et-dinteret-general/"/>
+		<updated>2023-11-02T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/80-pour-un-numerique-acceptable-et-dinteret-general/</id>
+		<content type="html">Louis Derrac est consultant, concepteur, chef de projet et formateur indépendant dans le domaine de l’éducation au numérique et bénévole auprès des associations Framasoft et Resnumerica. Il a écrit un manifeste pour un alternumérisme radical et un autre pour un numérique acceptable. Arnaud Levy est co-fondateur et développeur au sein de la coopérative Noesya. Il est également directeur des études et maître de conférences associé à l&#39;IUT Bordeaux Montaigne. Il propose un cadre de référence pour un Numérique d&#39;Intérêt Général, le NIG.</content>
+	</entry>
+	
+	<entry>
+		<title>Tiers-lieu de la transition écologique joyeuse</title>
+		<link href="https://techologie.net/episodes/81-tiers-lieu-de-la-transition-ecologique-joyeuse/"/>
+		<updated>2023-11-16T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/81-tiers-lieu-de-la-transition-ecologique-joyeuse/</id>
+		<content type="html">Marion Crosnier a créé le tiers-lieu les Ciboulettes dédié à accompagner la transition écologique des personnes, entreprises et collectivités vers un monde désirable et durable. Son local est atypique car il prend place dans une gare RER à Chelles en Seine et Marne. Au micro du podcast Techologie, retour sur son parcours, sur sa vision des tiers-lieux, son regard sur le monde de la tech, comment sortir de l&#39;entre-soi dont les initiatives écologistes sont victimes, comment aller plus et plus vite, ...</content>
+	</entry>
+	
+	<entry>
+		<title>Enjeux du recyclage des déchets électriques et électroniques</title>
+		<link href="https://techologie.net/episodes/82-enjeux-du-recyclage-des-dechets-electriques-et-electroniques/"/>
+		<updated>2023-12-05T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/82-enjeux-du-recyclage-des-dechets-electriques-et-electroniques/</id>
+		<content type="html">Tess Pozzi est administratrice de la FEDEREC, Fédération des entreprises du recyclage et responsable des relations institutionnelles Derichebourg Environnement. Romuald Ribault est directeur Marketing de Ecologic, éco-organisme agréé pour la gestion des déchets électriques et électroniques et vice-président de l’AGIT, Alliance Green IT. Avec nos deux interlocuteurs, nous avons échangé sur le fonctionnement du traitement et du recyclage des déchets électroniques ainsi que sur les enjeux actuels et à venir comme l&#39;export illégal vers des pays pauvres.</content>
+	</entry>
+	
+	<entry>
+		<title>Bombes carbones et usages de la data et de l&#39;IA</title>
+		<link href="https://techologie.net/episodes/83-bombes-carbones-et-usages-de-la-data-et-de-l-ia/"/>
+		<updated>2023-12-12T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/83-bombes-carbones-et-usages-de-la-data-et-de-l-ia/</id>
+		<content type="html">Lou Welgryn est responsable produit pour Carbon4 Finance. Théo Alves Da Costa est responsable IA, soutenabilité et climat chez Ekimetrics. De plus, ils sont co-présidents de l’association Data for Good et membres du collectif Éclaircies et sont à l’initiative de CarbonBombs.org une cartographie en ligne des bombes climatiques.</content>
+	</entry>
+	
+	<entry>
+		<title>Cinq ans de Techologie - des jeux et des surprises</title>
+		<link href="https://techologie.net/episodes/84-cinq-ans-de-techologie/"/>
+		<updated>2023-12-19T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/84-cinq-ans-de-techologie/</id>
+		<content type="html">Animé par Richard Hanna et avec la participation de Agnès Crepet, Sophie Provost, Gillo Alain Malpart, Louis Derrac et Marie-Cécile Paccard.</content>
+	</entry>
+	
+	<entry>
+		<title>Le logiciel libre pour un numérique plus soutenable ?</title>
+		<link href="https://techologie.net/episodes/85-logiciel-libre-pour-un-numerique-plus-soutenable/"/>
+		<updated>2024-01-11T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/85-logiciel-libre-pour-un-numerique-plus-soutenable/</id>
+		<content type="html">Mathilde Longuet est ingénieure informatique issue de l’UTC Compiègne, technologue, croisant sciences, techniques et études de leurs impacts sociaux. Elle a contribué à divers projets en appliquant les philosophies du libre. Aujourd’hui, elle porte le projet de la fondation Owntech, sous l’égide de la fondation CNRS, dans le domaine de l’énergie. Pierre-Yves Gibello est directeur général de la communauté du logiciel libre OW2. Cela fait plus de 25 ans qu’il s&#39;implique dans l’open-source. Pour le Conseil des logiciels libres et la DINUM, il a piloté une étude “Apports du logiciel libre à la durabilité des équipements” en lien avec la future mise en place de l’indice de durabilité des équipements. Enregistrement de cet épisode en direct et en public durant l’évènement Open Source Experience 2023 et animé par Richard Hanna.</content>
+	</entry>
+	
+	<entry>
+		<title>Incompatibilités des transitions numérique et écologique</title>
+		<link href="https://techologie.net/episodes/86-transitions-numerique-et-ecologique-incompatibles/"/>
+		<updated>2024-01-23T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/86-transitions-numerique-et-ecologique-incompatibles/</id>
+		<content type="html">Le numérique permet d&#39;éviter plus d&#39;émissions de gaz à effet de serre d&#39;autres secteurs que ce le secteur du numérique produit lui même. Ce qui ferait du numérique le champion de la décarbonation. En tout cas c’est ce qu’affirme les industriels du secteur. Vérité ou idéologie ? Il faut croire que le message est bien passé car les décideurs politiques du monde entier, en France, en Europe affirme haut et fort que la transition écologique ne peut se faire qu’avec une transition numérique. Avec nous pour en parler, Marie Garin, doctorante à l&#39;ENS Paris-Saclay dont un chapitre de sa thèse est dédié aux enjeux écologie et numérique et elle est l&#39;auteure avec Achille Baucher d’une publication préliminaire Que la transition écologique soit, et la transition numérique fut, et Romain Couillet enseignant-chercheur à l’Université Grenoble Alpes, Inria et CNRS et auteur avec Grégoire Poissonnier de Pourquoi et comment démanteler le numérique ?</content>
+	</entry>
+	
+	<entry>
+		<title>Vivre avec un smartphone obsolète</title>
+		<link href="https://techologie.net/episodes/87-vivre-avec-un-smartphone-obsolete/"/>
+		<updated>2024-02-27T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/87-vivre-avec-un-smartphone-obsolete/</id>
+		<content type="html">Léa Mosesso est designer et issue du master Stratégie &amp; Design pour l&#39;Anthropocène de l&#39;école Strate. Elle a écrit deux mémoires discuté dans cet entretien : L’activisme écologique par les data, en 2020 et Vivre avec un smartphone obsolète, en 2023.</content>
+	</entry>
+	
+	<entry>
+		<title>Aux ingénieurs qui doutent dans leur cage dorée</title>
+		<link href="https://techologie.net/episodes/88-aux-ingenieurs-qui-doutent/"/>
+		<updated>2024-03-21T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/88-aux-ingenieurs-qui-doutent/</id>
+		<content type="html">Pour parler de sens du métier d’ingénieur, de bifurcation mais aussi de la juste place des technologies, nous avons avec nous Olivier Lefebvre.</content>
+	</entry>
+	
+	<entry>
+		<title>Lutter localement contre la destruction de la nature</title>
+		<link href="https://techologie.net/episodes/89-lutter-localement/"/>
+		<updated>2024-04-27T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/89-lutter-localement/</id>
+		<content type="html">Christophe Nedelec est informaticien, musicien, sono-thérapeute, apiculteur, botaniste amateur et militant écologiste. À travers différentes associations, il s&#39;est battu contre la destruction de zones naturelles en Île de France. À travers différentes associations locales, ses luttes les plus importantes ont été de préserver le Montguichet à cheval sur les communes de Gagny, Montfermeil et Chelles, préserver un tronçon de l&#39;aqueduc de la Dhuis et de contrer l&#39;exploitation du gypse du Fort de Vaujours, un site anciennement détenu par le Commissariat à l&#39;énergie atomique (CEA) où a été conçu le détonateur de la bombe nucléaire française.</content>
+	</entry>
+	
+	<entry>
+		<title>Réalité physique de la Réalité Virtuelle</title>
+		<link href="https://techologie.net/episodes/90-realite-physique-de-la-realite-virtuelle/"/>
+		<updated>2024-05-09T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/90-realite-physique-de-la-realite-virtuelle/</id>
+		<content type="html">Pour parler de réalité virtuelle, son impact environnemental et sa place dans les enjeux écologiques d’aujourd’hui et demain, nous avons avec nous deux spécialistes, Landia Egal et Amaury La Burthe.</content>
+	</entry>
+	
+	<entry>
+		<title>La réalité minière du numérique</title>
+		<link href="https://techologie.net/episodes/91-la-realite-miniere-du-numerique/"/>
+		<updated>2024-05-23T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/91-la-realite-miniere-du-numerique/</id>
+		<content type="html">Début 2024, Celia Izoard publie « La ruée minière au XXIe siècle » aux éditions du Seuil, un essai dans lequel elle s&#39;intéresse à l&#39;industrie minière et sa place à la fois dans la numérisation de nos sociétés mais aussi dans la prétendue transition énergétique.</content>
+	</entry>
+	
+	<entry>
+		<title>Rôle des techniques dans la division sexuelle du travail agricole</title>
+		<link href="https://techologie.net/episodes/92-role-des-techniques-dans-la-division-sexuelle-du-travail-agricole/"/>
+		<updated>2024-08-27T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/92-role-des-techniques-dans-la-division-sexuelle-du-travail-agricole/</id>
+		<content type="html">Aujourd’hui, en France, les agricultrices exploitantes, co-exploitantes ou associées représentent environ 27% des effectifs. Dans l’imaginaire collectif mais aussi dans les faits, les hommes utilisent davantage les machines agricoles et s’occupent des grandes cultures tandis que les agricultrices utilisent avant tout des outils manuels et s’occupent des activités de soin, de transformation, de gestion comptable et administrative et de ménage des ateliers de production. Quelles sont les motivations de se lancer dans ce métier ? Quelles sont les difficultés que connaissent particulièrement les femmes ? D’où vient cette division sexuelle du travail agricole ? Quels impacts ont-elles ? Comment est-elle vécue par les agricultrices ? Qu’en est-il pour les agricultrices ne travaillant pas avec des hommes ?</content>
+	</entry>
+	
+	<entry>
+		<title>Comment le numérique aggrave les inégalités</title>
+		<link href="https://techologie.net/episodes/93-comment-le-numerique-aggrave-les-inegalites/"/>
+		<updated>2024-12-20T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/93-comment-le-numerique-aggrave-les-inegalites/</id>
+		<content type="html">Mathilde Saliou est journaliste spécialisée dans le numérique et auteure de l&#39;essai Technoféminisme, comment le numérique aggrave les inégalités, publié en 2023 aux éditions Grasset.</content>
+	</entry>
 </feed>
