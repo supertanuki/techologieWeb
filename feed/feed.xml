@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Techologie</title>
-	<subtitle>Le podcast qui tente de lier technologie et écologie alors que tout les oppose.</subtitle>
+	<subtitle>Le podcast qui questionne le rôle des technologies face aux enjeux écologiques. </subtitle>
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2024-12-20T09:08:01Z</updated>
+	<updated>2024-12-20T09:31:44Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
