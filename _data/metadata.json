@@ -2,9 +2,9 @@
   "title": "Techologie",
   "url": "https://techologie.net/",
   "language": "fr",
-  "description": "Le podcast qui tente de lier technologie et écologie alors que tout les oppose.",
+  "description": "Le podcast qui questionne le rôle des technologies face aux enjeux écologiques.",
   "feed": {
-    "subtitle": "Le podcast qui tente de lier technologie et écologie alors que tout les oppose.",
+    "subtitle": "Le podcast qui questionne le rôle des technologies face aux enjeux écologiques. ",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://techologie.net/"
