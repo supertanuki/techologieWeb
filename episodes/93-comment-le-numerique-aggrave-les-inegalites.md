@@ -13,12 +13,12 @@ transcribed: true
 ## Sommaire
 
 - Quels sont les problèmes qui font que le numérique n'est pas totalement inclusif ?
-- Comment s'explique l'invisibilisation des minorités lorsque l'on regarde dans l'histoire du numérique  ?
-- Quelles sont les conséquences d'un numérique façonné par eux ?
+- Comment s'explique l'invisibilisation des minorités dans l'histoire du numérique ?
+- Quelles sont les conséquences d'un numérique façonné par les hommes blancs et riches ?
 - Pourquoi et comment les biais et les inégalités de genre et l'invisibilisation des minorités se reproduisent encore à travers les IA ?
- - Comment l'IA bouleverse aujourd'hui son métier de journaliste ?
-- Depuis l'avènement de la Silicon Valley, on avait cru que les entrepreneurs de la tech soutenaient une certaine forme de progressisme et donc plutôt faisaient partis du camp démocrate. Cela vole en éclat avec le retour de Trump, soutenu par un grand nombre de libertarien de la silicon Valley, notamment d'Elon Musk. Qu'est-ce que cela va changer (ou pas) pour le futur de la tech ?
-- Quelles sont les pistes d'actions que tu formules dans ton essai Technoféminisme pour faire face aux discriminations permises grâce au numérique, et les manières de reprendre le pouvoir ?
+- Comment l'IA bouleverse aujourd'hui son métier de journaliste ?
+- Qu'est-ce que cela va changer (ou pas) pour le futur de la tech avec les nouveaux pouvoirs politiques d'Elon Musk, adoubé par Donald Trump ?
+- Quelles sont les pistes d'actions pour faire face aux discriminations permises grâce au numérique, et les manières de reprendre le pouvoir ?
 
 ## En savoir plus
 
