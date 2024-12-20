@@ -13,6 +13,9 @@ jobs:
       matrix:
         node-version: ['20']
 
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
 
@@ -26,7 +29,7 @@ jobs:
         run: npm ci
 
       - name: Run npm build
-        run: npm run build
+        run: npm run build:prod
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
