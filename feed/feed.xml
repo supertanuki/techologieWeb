@@ -5,7 +5,7 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2024-12-20T10:18:41Z</updated>
+	<updated>2025-02-05T20:17:58Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
@@ -754,5 +754,13 @@
 		<updated>2024-12-20T00:00:00Z</updated>
 		<id>https://techologie.net/episodes/93-comment-le-numerique-aggrave-les-inegalites/</id>
 		<content type="html">Mathilde Saliou est journaliste spécialisée dans le numérique et auteure de l&#39;essai Technoféminisme, comment le numérique aggrave les inégalités, publié en 2023 aux éditions Grasset.</content>
+	</entry>
+	
+	<entry>
+		<title>Partir en famille à vélo sans date de retour</title>
+		<link href="https://techologie.net/episodes/94-partir-en-famille-a-velo-sans-date-de-retour/"/>
+		<updated>2025-02-05T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/94-partir-en-famille-a-velo-sans-date-de-retour/</id>
+		<content type="html">La famille Loyat s&#39;est lancé dans une aventure un peu folle : partir en famille à vélo dans toute l&#39;europe, sans itinéraire prédéfinie et sans date de retour.</content>
 	</entry>
 </feed>
