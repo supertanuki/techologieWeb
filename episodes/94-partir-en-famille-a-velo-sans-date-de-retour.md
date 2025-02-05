@@ -5,7 +5,7 @@ people: Estelle, Marc, Léon et Lucie Loyat
 description: "La famille Loyat s'est lancé dans une aventure un peu folle : partir en famille à vélo dans toute l'europe, sans itinéraire prédéfinie et sans date de retour."
 date: 2025-02-05
 image: /img/episodes/94-loyat.jpg
-audio_link: https://soundcloud.com/techologie/94-partie-en-famille-a-velo-sans-date-de-retour
+audio_link: https://soundcloud.com/techologie/94-partir-en-famille-a-velo-sans-date-de-retour
 audio_size_in_megabyte: 48
 transcribed: true
 ---
