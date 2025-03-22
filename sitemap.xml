@@ -557,11 +557,6 @@
   </url>
   
   <url>
-    <loc>https://techologie.net/episodes/95-faire-face-aux-risques-du-secteur-numerique/</loc>
-    <lastmod>2025-02-05</lastmod>
-  </url>
-  
-  <url>
     <loc>https://techologie.net/a-propos/</loc>
     <lastmod>2025-03-22</lastmod>
   </url>
@@ -609,5 +604,10 @@
   <url>
     <loc>https://techologie.net/newsletter/</loc>
     <lastmod>2025-03-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techologie.net/episodes/95-faire-face-aux-risques-du-secteur-numerique/</loc>
+    <lastmod>2025-03-25</lastmod>
   </url>
 </urlset>
