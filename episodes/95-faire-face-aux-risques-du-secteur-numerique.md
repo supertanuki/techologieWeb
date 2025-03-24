@@ -30,7 +30,7 @@ Thomas Lemaire, développeur, a approfondi ses connaissances sur la matérialit�
 
 ## Transcription
 
-Transcription réalisée avec l'aimable aide de Thibault Dugast.
+Transcription réalisée avec l'aimable aide de Thibault Dugast du collectif Translucide.
 
 ### Extraits
 
