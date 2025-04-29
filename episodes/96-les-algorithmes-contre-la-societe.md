@@ -1,0 +1,286 @@
+---
+episode_number: 96
+title: Les algorithmes contre la société
+people: Hubert Guillaud
+description: "Hubert Guillaud est journaliste, blogueur et observateur du numérique de longue date. Il publie en 2025 \"Les algorithmes contre la société\" aux éditions La fabrique."
+date: 2025-05-06
+image: /img/episodes/96-hubert-guillaud.jpg
+audio_link: https://soundcloud.com/techologie/96-les-algorithmes-contre-la-societe-avec-hubert-guillaud
+audio_size_in_megabyte: 21
+transcribed: true
+---
+
+## Sommaire
+
+- Le cynisme des calculs inféodés aux logiques capitalistes
+- L’automatisation est l’instrument pour imposer la domination
+- Rationalisations budgétaires et moins de personnels grâce au numérique
+- Les calculs et prédictions ne sont pas fiables
+- Pourquoi des algorithmes difficiles à expliquer ou à reproduire posent problème ?
+- Les développeurs devraient ils être formés aux sciences sociales et avoir plus de bagage scientifique afin de mieux comprendre les enjeux des algorithmes ?
+- Les entreprises développent des applications qui manquent de rigueur scientifique, qui n’ont pas à prouver qu’elle font bien ce qu’elle prétendent.
+- Convergence entre le capitalisme et les politiques d’extrême droite
+- Y a t’il des pistes pour des algorithmes plus justes, plus équitables ?
+
+## En savoir plus
+
+- [Dans les algorithmes](https://danslesalgorithmes.net/)
+- [Les algorithmes contre la société](https://lafabrique.fr/les-algorithmes-contre-la-societe/)
+- [InternetActu](https://www.internetactu.net/)
+
+## Transcription
+
+### Extrait
+
+Ce que je dis au moins, c'est qu'on devrait re-regarder ces questions, se reposer, encore une fois, ces enjeux et, pour les reposer, il faut pouvoir, ce que je disais tout à l'heure, discuter avec la société, vraiment. D'où l'intérêt ou l'enjeu capital à ce que les usagers soient représentés dans ces calculs. Ce n'est pas normal aujourd'hui que, dans les modalités de ParcoursLib, les étudiants ne soient pas représentés, ni les professeurs, en fait.
+
+Il y a peut-être, il y a en tout cas des endroits où on doit se poser vraiment la question de leurs limites et de leurs interdictions. Je pense que là aussi, il y a des enjeux qui sont forts.
+
+### Introduction
+
+Bonjour à toutes et tous, nouvel épisode du podcast Techologie et aujourd'hui, je suis très, très, très heureux de recevoir, en tout cas, c'est lui qui me reçoit dans ses bureaux, Hubert Guillaud qui est un observateur du numérique de longue date, journaliste, blogueur sur InternetActu, feu Internet Actu, hébergé par LaFing, feu la Fing. Et aujourd'hui, on peut le retrouver dans le blog, c'est l'auteur du blog Dans les algorithmes.
+
+Hubert Guillaud est aussi l'auteur de, notamment en 2022, Coincés dans Zoom et aujourd'hui en 2025, de les algorithmes contre la société aux éditions La Fabrique.
+
+### Est-ce que tu veux compléter cette présentation ?
+
+Bonjour à tous. Oh non, elle me semble très, très bien.
+
+### Alors j'ai repris quelques petites phrases de ton bouquin. On va tout de suite rentrer dans le vif du sujet. Tu parles notamment dans les algorithmes contre la société que le cynisme des calculs inféodés aux logiques capitalistes est le sujet de ce livre. Est-ce que tu veux nous expliquer pourquoi ?
+
+C'est compliqué d'expliquer le cynisme des calculs, en fait, parce qu'on ne le voit pas, en fait.
+Ce niveau de déséquilibre aujourd'hui que permettent les calculs et notamment les calculs du social de partout.
+Mais c'est le même niveau de déséquilibre que vous avez sur Twitter, TikTok ou quel que soit le réseau social que vous pouvez utiliser.
+Et ces algorithmes d'hyperviralité, d'accélération et d'augmentation d'une manière très inégale ou très défaillante, en fait, des recommandations qui vous sont faites.
+Moi, le cynisme, j'essaye de lui trouver une date d'échirance, alors j'essaye de trouver à quel moment, en fait, ce cynisme des calculs est arrivé.
+Et je pense qu'une bonne image, parce que vous vous en souviendrez tous, c'est Mark Zuckerberg devant le Sénat américain, on doit être en 2018, je crois, ou quelque chose comme ça, 2019.
+Vous savez, quand il est là, la face toute blême qui tente de s'excuser en disant mais non, Cambridge Analytica, on n'a pas fait exprès, c'est pas nous, c'est pas bien grave, etc.
+Et en fait, Zuckerberg passe cette épreuve du Sénat dans laquelle il a l'air très mal à l'aise, mais il la passe et il se passe rien, en fait.
+C'est-à-dire que le problème Cambridge Analytica, qui a été largement documenté, finalement, Facebook, Meta n'est pas réprimandé pour ce qui s'est passé.
+Et je pense que le cynisme, il vient de là, en fait, c'est-à-dire que le cynisme, c'est une forme de déni, c'est un moment où, finalement, il n'y a pas de conséquences à ce qu'on fait, où elles ne sont pas graves.
+Et on le voit de partout ailleurs, en fait, dans tous les grands groupes, à peu près dans ces mêmes époques, il y a des transformations très fortes,
+qui sont effectivement vues souvent par les autorités de régulation, quelles qu'elles soient, mais qui n'empêchent pas, en fait, d'avancer sans conséquences.
+Donc derrière ce cynisme, en fait, des plateformes et de leur modèle économique et du néolibéralisme, il y a aussi une forme de cynisme, des calculs, finalement,
+quelles que soient les modalités ou les manières dont on calcule, tout ça n'a pas d'importance.
+On le voit très bien sur Twitter, devenu X, sous Elon Musk, où d'un coup, finalement, on va pouvoir, ceux qui vont payer pour un abonnement vont pouvoir être mis en avant d'une manière totalement délirante.
+Alors que, pourquoi est-ce qu'ils sont droits à cette mise en avant, juste parce qu'ils ont payé, enfin, c'est une forme de cynisme assez radicale.
+Et c'est ce genre de comportement qu'on va commencer à voir partout, en fait.
+Donc, ce cynisme des calculs, c'est qu'il n'y a pas de limite à ce que peuvent faire ces systèmes de calculs.
+L'une des plus grandes images qu'on puisse avoir aujourd'hui, c'est la viralité d'un Elon Musk, en fait, sur sa propre plateforme, qui a une audience mondiale, en fait, mais qui est démultipliée par le système.
+De même, Mark Zuckerberg, sur Facebook, tout le monde voit ses billets, quasiment.
+C'est-à-dire que, pourquoi, en fait ? Or, ils ont ce droit-là, c'est leur marque de fabrique.
+Et je pense que, voilà, on a atteint un niveau, en fait, où tout cela n'a plus de conséquences, parce qu'il n'y a pas assez ou pas suffisamment de régulation.
+Et donc, entre ces oligarques de la tech multimillionnaire, qui peuvent faire ce qu'ils veulent, et les systèmes de calculs qu'ils mettent en place, qui peuvent faire aussi ce qu'ils veulent, parce que la régulation est insuffisante,
+finalement, nous arrivons dans un moment assez débridé où tout est possible.
+D'où la question du cynisme, en fait. Je parle aussi d'une sorte de marchandisation, en fait, sans limite, en fait, sans responsabilité.
+Et je pense que c'est le moment où nous sommes, en fait, et qu'on peut dater à peu près de ces années-là, 2018, 2019, 2020, où aujourd'hui, bon, finalement, pour la plupart de ces entreprises,
+dans des tas de secteurs ou dans des tas d'endroits, elles font, grosso modo, ce qu'elles veulent.
+Tu parles également dans le bouquin des lois antitrust états-uniennes qui ont finalement complètement échoué, sous l'ère Obama, sous l'ère Biden, et finalement, là, sous l'ère Trump, il ne va pas se passer grand-chose.
+Là encore, c'est une faillite de la régulation, en fait. Alors, les lois antitrust sont là depuis très longtemps aux États-Unis. Elles ont été très vivement utilisées dans les années 30, dans les années 70, 70, voire 80, 90 pour la régulation des télécoms, par exemple.
+Et depuis, elles sont un peu en déshérence, en fait. Depuis la montée, en fait, du réganisme, du néolibéralisme vraiment un peu effréné, ces lois ne sont pas très utilisées.
+Et effectivement, ce qui se passe aujourd'hui, c'est qu'en fait, on se rend compte de collusions d'acteurs dans des tas de domaines. Alors, on vient de le dire pour ce qui concerne l'amplification algorithmique où finalement, rien n'est fait.
+On l'a vu il y a quelques années quand un Facebook, à l'époque, rachète un Instagram ou un WhatsApp, finalement augmentant la surface potentielle de ses services publicitaires sans aucune inquiétude, en fait.
+Les inquiétudes finissent par arriver quelques dizaines d'années plus tard, aujourd'hui, où Zuckerberg est poursuivi par la commission du commerce américaine pour ces questions-là.
+Il est possible qu'il puisse encore une fois s'en sortir ou pas, on verra. Et effectivement, il y a aujourd'hui une sorte de difficulté à faire appliquer ces lois qui régulent la concurrence.
+Pourquoi en fait ? Parce que beaucoup de ces services sont présentés comme étant gratuits. Les services de réseaux sociaux, par exemple, qu'a racheté Facebook comme Instagram ou WhatsApp sont jugés par certains comme étant très différents et pas totalement intégrés à l'univers de Facebook.
+Même aujourd'hui encore, même s'il y a des complémentarités, ça reste encore des réseaux sociaux supplétifs ou supplémentaires, qui ne sont pas totalement intégrés aux réseaux sociaux Facebook lui-même, par exemple.
+Et donc, il y a une difficulté, en fait, à faire agir ou à prendre le levier de ces législations antitrust pour les rendre possibles ou pour montrer leur fonctionnement.
+Et on voit tant en Europe qu'aux États-Unis, la vraie difficulté aujourd'hui est d'aller à l'encontre des politiques de ces gens, de ces plateformes géantes, sur quelque domaine que ce soit et notamment sur les questions de concurrence, alors qu'il y aurait certainement là une certaine matière à agir en fait.
+Mais ces questions se sont complexifiées, on n'est plus à l'époque où des entrepreneurs du rail s'entendaient entre eux, comme c'était le cas à la fin du XIXe siècle, aux États-Unis, et où ces lois justement ont pu faire une forme de démantèlement des empires du rail qui se construisaient aux États-Unis.
+Donc, il y a une nouvelle complexité, en fait. Alors, depuis quelques temps, juste avant l'élection de Trump, hélas, la Commission fédérale du commerce s'est mise à agir sur plusieurs niveaux, en fait, pour essayer de s'en prendre, en fait, ou de renforcer les questions de concurrence.
+L'arrivée de Trump au pouvoir a changé la donne et on ne sait pas vraiment ce qu'il va donner de tous ces jugements qui sont en cours ou en attente, que ce soit ceux de Meta dont on vient de parler ou ceux de Google vis-à-vis du démantèlement publicitaire lié au fait que la régie de Google soit présente absolument de partout et pose un problème, notamment entre son navigateur et ses appareils.
+La question concurrentielle, en fait, est une vraie question, mais on voit que tous les acteurs de la régulation ont vraiment du mal à s'en saisir, parce qu'en fait, les modalités de calcul ou de collusion peuvent être assez complexes, compliquées, invisibilisées ou difficiles à montrer et à prouver.
+Tu dis également que le numérique fournit des outils pour rendre effectifs des rationalisations budgétaires avec finalement moins de personnes, moins de personnel. Est-ce que tu veux développer un peu ce point pour nous ?
+La grande promesse du calcul, c'est de produire une efficacité ou une sorte d'optimisation nouvelle, en fait. On va remplacer tous les dossiers papiers d'antan par des systèmes qui vont calculer, déterminer des droits, etc., d'une manière massive sur tous les bénéficiaires de France Travail, de la CAF, vous pouvez démultiplier le nombre de services, ce qui importe, en fait.
+Et donc on va pouvoir le faire en appuyant sur un bouton. Enfin, c'est un peu ce fantasme, en tout cas, qui s'introduit de partout avec le numérique. En fait, ce n'est qu'un calcul d'optimisation qui suffit de rendre efficace et qui va pouvoir délivrer du service public optimal, délivrer des droits de manière la plus juste possible, etc.
+Et ce fantasme, en fait, est très très présent, en fait. Et effectivement, quand on regarde très concrètement, oui, oui, les calculs permettent justement de calculer, donc de rationaliser, de trouver des paramètres, des critères qui vont permettre de faire effectivement plus avec moins.
+Et le problème, c'est que pour beaucoup de services, l'enjeu derrière cette promesse de rentabilité, c'est bien évidemment d'augmenter la rentabilité, donc les profits pour les services privés ou diminuer les coûts pour les services publics.
+Et donc, derrière le développement de ces techniques, ce qu'on propose assez souvent, c'est des suppressions de personnel. Alors, dans le service public, par exemple, quand vous voulez développer aujourd'hui, faire appel à un des fonds qui permet en fait d'acheter ou de développer des systèmes d'intelligence artificielle, vous devez les justifier en précisant le nombre d'ETP que vous allez économiser, en fait.
+L'ETP, c'est des personnels, en fait. Donc, en fait, le développement de l'IA aujourd'hui dans la fonction publique se justifie complètement par le nombre de personnels qu'on va économiser.
+C'est clairement dit pour des tas de systèmes qui se développent, mais vous avez exactement la même chose dans le domaine du privé où aujourd'hui, le fantasme de l'utilisation de l'IA fait que vous avez des start-up qui arrivent très, très rapidement à des centaines de millions de dollars de revenus en présentant des produits très, très rapidement et avec des équipes qui sont de 10, 20 salariés.
+Aujourd'hui, l'un des fantasmes qu'on entend dans les délires marketing des start-up et des levées de fonds, c'est de dire qu'un employé, il doit rapporter 1, 2 à 5 millions de dollars sur son seul poste, en fait.
+Donc, non seulement vous économisez plein de gens, mais en plus, c'est une sorte de surproductivité renforcée par ces outils.
+Donc, il y a une sorte de fantasme très, très présent, très, très, très, très prégnant d'un enjeu où ces outils vont permettre de renforcer une rentabilité, une productivité nouvelle.
+La grande difficulté derrière ce fantasme, c'est d'essayer d'en regarder la réalité.
+Et assez souvent, quand on essaye un tout petit peu d'enquêter, on se rend compte que cette rentabilité ou cette efficacité, elle n'est pas vraiment là.
+Au passé, mais nombre d'économistes montrent, par exemple, que depuis ces quelques années avec le développement de l'IA générative, voire de l'IA à tout court,
+voire des techniques algorithmiques depuis, on dirait, une quinzaine, pas une quinzaine d'années, depuis 2015, donc ça fait à peu près une dizaine d'années,
+la productivité n'a pas augmenté, au contraire, elle s'est plutôt effondrée dans la plupart des pays occidentaux, elle ne va pas bien en tout cas, elle n'est pas en grande forme,
+et malgré le déploiement ou le développement de systèmes algorithmiques ou de systèmes d'IA, à un niveau macro en fait, et à un niveau micro effectivement,
+c'est un petit peu aussi la même chose en tout cas dans le monde d'entreprise, la productivité des employés en fait n'a pas non plus, elle s'est plus dégradée qu'elle ne s'est améliorée,
+et donc la difficulté c'est de se dire mais où est cette productivité dont tout le monde parle, ce fantasme de les ordinateurs vont nous aider à développer une productivité nouvelle, etc.
+Quand on regarde un petit peu les histoires passées, on se rend compte que depuis très longtemps cette promesse est faite, depuis le début de l'informatique,
+on nous promet qu'elle va améliorer la productivité du secteur, améliorer la performance des entreprises, c'est une promesse qui en fait ne se voit pas dans les chiffres,
+on ne voit pas la productivité, on n'a pas vu la productivité de l'informatique, on n'a pas vu la productivité des systèmes techniques, on ne voit pas aujourd'hui la productivité de l'intelligence artificielle,
+mais il n'empêche que le message ou le mantra est toujours là en fait, il est très très souvent très asséné, on vous promet voilà on va développer tel outil d'intelligence artificielle générative dans tel service,
+parce que vous allez voir ça va réduire le nombre d'emplois, on va avoir besoin de moins de monde, ça va être plus efficace, plus productif, etc.
+La réalité en fait économique vraiment, c'est qu'on ne la voit pas dans les chiffres, cette productivité magique.
+Et j'allais peut-être compléter, s'il y a des gains de productivité, à qui ça profite ? C'est un peu ça la question, on ne les voit pas non plus.
+Si si si si, on les voit à un endroit, alors regardons la capitalisation exceptionnelle de ces méta, de ces Google, de ces Amazon, de ces OpenAI, etc.
+On voit bien qu'il y a une forme ici de, je ne dirais pas d'hyper-rentabilité, mais si, enfin on est bien là-dessus, enfin le niveau de valorisation financière de ces entreprises est à des niveaux stratosphériques en fait.
+Toutes les entreprises précédentes de l'ère industrielle, aucune n'arrive à ces niveaux de valorisation-ci, donc il y a bien un endroit où ça fonctionne en tout cas, c'est pour les poches des actionnaires, où là il y a une forme de rentabilité.
+Mais le problème c'est, comme tu le disais, c'est à qui ça profite, pas à tout le monde, à certains plus qu'à d'autres, et en renforçant des logiques de pouvoir et d'accaparement phénoménaux et très très inégalitaires.
+Quand je dis, on ne les voit pas, on ne les voit pas pour tout le monde, mais on les voit effectivement dans la poche des dominants.
+Comme dirait l'autre, les calculs ne sont pas bons Kevin, les calculs et les prédictions, tu disais, ne sont pas fiables, et pourquoi des algorithmes finalement difficiles à expliquer ou à reproduire, ça pose problème ?
+La difficulté, sur la fiabilité d'abord, la difficulté quand on fait un calcul, c'est qu'est-ce qu'on calcule, dans quel but et pour produire quoi, quel savoir est-ce qu'on veut en produire, quelles décisions on veut prendre depuis ce calcul.
+Je vais prendre un exemple très simple et très basique, mais qui permet à tout le monde de comprendre, aujourd'hui par exemple, les élèves, on calcule leurs moyennes pour prendre des décisions sur leur orientation.
+Parcoursup, c'est un simple calcul de moyennes de toutes leurs notes qui leur permet d'avoir un score, c'est ce qu'on appelle une moyenne, et qui les distingue les uns des autres, et ceux qui ont un meilleur score vont pouvoir avoir une meilleure école que les autres.
+Et donc, depuis cette note, on va leur attribuer une place dans le supérieur, mais vous avez bien compris que la qualité de cette note, même si elle est très bonne, ne veut pas dire qu'ils vont réussir leur première année dans le supérieur, ça dit juste leur niveau.
+Or, en fait, il y a une sorte de glissement permanent dans les formes de calcul qui est toujours de prendre une mesure pour une autre, en fait. Donc, on calcule une moyenne et on dit que c'est un prédicteur de la réussite des élèves dans telle ou telle matière ou dans telle ou telle formation supérieure.
+C'est bien que la réalité est un peu plus complexe que ça, que vous avez des très bons élèves qui s'effondrent à certains endroits parce qu'ils ne sont pas au bon endroit ou parce que ça ne leur convient pas, et à l'inverse, de très mauvais élèves qui peuvent se révéler dans certains endroits, etc.
+Et donc, voilà, ça, c'est une modalité d'appréciation un peu différente de la fiabilité du calcul. Vous l'avez de partout, en fait. Dans des tas de domaines, on essaye, par exemple, dans la reconnaissance faciale, on essaye de calculer est-ce qu'un visage ressemble à tel autre visage ou au même visage dans le temps, avec quel pourcentage de fiabilité.
+Vous l'avez dans la météo, est-ce qu'on peut prévoir ou prédire le temps et à combien de jours et avec quel taux de fiabilité, en fait. Et ce taux de fiabilité du calcul est, en fait, une donnée extrêmement importante, mais qui est bien souvent qui disparaît, en fait, à mesure que vous l'accomplissez.
+Dans la météo, vous comprenez tous que, on comprend tous, en tout cas très facilement, que la prévision météo pour le lendemain a de grandes chances d'être juste, et plus vous éloignez d'un temps, plus elle a de grandes proportions d'être fausse, en fait.
+Au-delà de 7 jours, ça devient très compliqué de prédire les choses. Et donc, on voit bien qu'avec le calcul, la notion de fiabilité vient avec. Et il y a des choses qui sont plus faciles, en tout cas, de calculer que d'autres, et il y a des choses qui sont plus fiables que d'autres, notamment quand elles sont simples, quand elles prédisent vraiment ce qui est dit.
+Or, par exemple, nous disent les chercheurs, dans la question de reconnaissance faciale, il est très facile, ou ça fonctionne plutôt très très bien, de reconnaître le visage d'une personne dans une base de données où cette personne est.
+Parce qu'en fait, les critères, il n'y a pas de choses à extrapoler. C'est où le visage ressemble, où le visage ne ressemble pas, en fait. Et donc, avec des taux de réussite qui, aujourd'hui, deviennent assez bons dans le domaine de la reconnaissance faciale.
+Mais, par contre, dans d'autres systèmes, par exemple, déduire l'émotion depuis une image d'un visage, par exemple, là, c'est du n'importe quoi. La fiabilité est nulle, en fait.
+Parce que la manière d'exprimer les émotions, en fait, ne se marque pas, selon les cultures, de la même façon, d'un visage à un autre. Et donc, voilà, là, la fiabilité est nulle.
+La reconnaissance de l'émotion, comme on l'appelle, c'est vraiment une technologie dont la fiabilité est quasiment nulle. Le sourire de quelqu'un ou la grimace de quelqu'un ne veut pas dire, nécessairement, qu'il est en colère, ou ça peut être le signe d'inscepticisme ou autre chose, enfin, voilà.
+Il n'y a pas, en fait, de corrélation forte ou de causalité directe entre les données qu'on recueille et le sens qu'on veut en tirer.
+Donc, ça, c'est le premier enjeu de la fiabilité, c'est est-ce que les données qu'on calcule sont proches, effectivement, de ce qu'on veut obtenir.
+Et, en fait, on se rend compte assez souvent que ça fonctionne très, très mal dans ce cadre-là, que très souvent, on calcule une chose pour une autre ou qu'on ne fait pas attention aux erreurs d'administration ou des calculs, en fait.
+Typiquement, par exemple, on se rend compte que quand la caisse d'allocations familiale essaye de calculer un score de risque de défaillance, en fait, de ses usagers,
+ou un score de risque de fraude, plus précisément, de ses usagers, on se rend compte, en fait, que le score, il est biaisé et que le calcul n'est pas équitable.
+Ainsi, deux tiers des personnes qui sont précaires, le score de risque aujourd'hui, voilà, établit qu'en fait, deux tiers des gens calculés comme à risque par la CAF sont parmi les plus précaires,
+alors que ces précaires ne forment même pas la majorité des bénéficiaires.
+Donc, on voit bien qu'il y a ici un calcul qui a, en fait, des formes de biais.
+De même, vous avez 36% des parents seuls qui sont calculés à score de risque pour la CAF, alors qu'ils ne représentent que 16% des bénéficiaires.
+Donc, on voit bien qu'il y a, en fait, des effets, en fait, performatifs du calcul, qui ont vraiment des effets réels, en fait, sur la société.
+Mais encore une fois, cette question de fiabilité est vraiment un enjeu important.
+Et trop souvent, en fait, on calcule une chose pour une autre, on ne surveille pas suffisamment le risque d'iniquité des calculs, le moment où ils produisent un peu n'importe quoi.
+Et ça, en fait, dès qu'on se penche sur ces questions-là, on en trouve partout, des calculs faits n'importe comment, en fait.
+Par exemple, dans le recrutement, vous avez beaucoup aujourd'hui d'usage de la vidéo-surveillance pour analyser l'émotion dont on parlait il y a 30 secondes.
+Et bien évidemment, ça dysfonctionne à bloc, en fait, quoi.
+Donc, on va juger quelqu'un, soi-disant, pour son CV ou ses qualités, et en fait, la machine va regarder, là, il n'a pas suffisamment souri, et donc, va écarter son CV.
+Je caricature et exagère, mais c'est pour vous faire comprendre les fonctionnements, en fait.
+Quand on regarde la manière dont sont calculés, à plein d'endroits, on se rend compte qu'il y a des défaillances logiques, en fait, qui sont à la base, même, des calculs.
+En démultipliant les techniques, en fait, et la complexité des calculs, le problème, c'est qu'en fait, on produit des calculs assez spécifiques,
+qu'on a effectivement du mal à reproduire dans d'autres types de conditions, et qui produisent surtout, enfin, des défaillances en masse, en fait.
+Et je pense que c'est aujourd'hui une vraie difficulté, enfin, et il n'est pas normal qu'un calcul public, par exemple, ne soit pas équitable.
+Mais pourtant, c'est quelque chose d'assez courant, et pourtant, derrière, la problématique pourrait être assez simple.
+Je vais vous prendre un autre exemple.
+Aujourd'hui, dans les systèmes bancaires, vous avez des procédures de surveillance des comptes, des rentrées d'argent, des sorties d'argent,
+notamment liées au risque de narcotrafique ou au risque de blanchiment d'argent, qui font que quand il y a des mouvements de fonds sur certains types de comptes,
+il y a des alertes qui sont déclenchées.
+Au Royaume-Uni, on estime, l'année dernière, qu'il y avait 170 000 personnes qui ont été débancarisées, c'est-à-dire qu'ils n'ont plus eu accès à leurs comptes bancaires,
+du fait de ces mouvements d'argent, la plupart du temps sans explication aucune.
+Or, quand on regarde au même Royaume-Uni, la même année, le nombre de personnes condamnées pour blanchiment d'argent ou narcotrafique, c'est 1000 personnes.
+Donc, on a un système qui ne fait pas attention aux faux positifs qu'il génère.
+Et donc, 170 000 personnes sont débancarisées chaque année au Royaume-Uni, les chiffres doivent être à peu près les mêmes dans les autres pays européens,
+contre 1000 personnes condamnées. Vous comprenez bien qu'il y a un problème, la proportion n'est pas bonne.
+Et cela s'explique parce qu'en fait, les banques doivent produire du signalement auprès de leurs autorités, montrer qu'elles agissent,
+et donc elles surproduisent des scores de risque sur leurs utilisateurs, et elles débancarisent l'état de gens sur ce principe-là.
+Mais en fait, c'est le même système qui est à l'oeuvre aujourd'hui à la CAF, où la CAF doit répondre à des objectifs d'automatisation, de contrôle automatisé,
+et qui sont, je ne sais pas, je crois que c'est 50% de contrôle automatisé à la CAF ou aux impôts, et donc il y a des scores et des productivités à faire.
+Voilà, on va accuser plein de gens d'avoir de faits ou de fraude, alors que bien souvent, en fait, quand on regarde plus techniquement, ce n'est pas des questions de fraude,
+c'est un vocabulaire spécifique utilisé par ces systèmes, mais bien des problèmes d'indu qui sont liés au fait que plein de gens ont des revenus très irréguliers,
+et donc ces revenus très irréguliers, qui ne sont pas comme vous ou moi, qui sont des revenus très stables pour la plupart des gens,
+qui font que d'un calcul d'un mois sur l'autre de vos droits au logement ne bougent pas beaucoup, et donc n'impactent pas beaucoup le calcul qui reste restable,
+quand vous avez un mois avec trois jours de revenus et un autre mois avec une semaine ou quinze jours de revenus, vous comprenez bien que ces écarts créent des variations,
+et en fait ce sont ces variations, ces indus, qui sont surtout recherchés par la CAF en fait, et donc on voit bien qu'on est ici en fait dans un système où les défaillances s'entretiennent,
+notamment il me semble beaucoup parce que ces organismes, qu'ils soient bancaires ou la CAF, ne contrôlent pas suffisamment, ou surcontrôlent, c'est plutôt ça,
+ou surcontrôlent, mais sans essayer de mettre une pondération en fait justement sur les faux positifs qu'ils génèrent.
+Tu parles aussi de plusieurs, je vais condenser plusieurs sujets là qui se rejoignent, effectivement donc on a parlé que les algorithmes sont difficiles à expliquer,
+mais aussi les entreprises qui développent ces applications manquent de rigueur scientifique, alors même qu'ils mettent en avant le côté scientifique, le côté science,
+et finalement n'ont pas à prouver qu'elles ont raison, enfin que les algorithmes, les applications qu'elles développent sont fiables.
+Tu parles également que les développeurs devraient être formés, d'avoir un peu plus de bagages scientifiques, est-ce qu'ils devraient être formés aux sciences sociales,
+les ingénieurs informatiques, avant de mettre en place les choses, justement pour mieux comprendre les enjeux de mise en place des algorithmes ?
+Effectivement, on peut toujours améliorer la formation des ingénieurs et je pense qu'on a besoin, et des développeurs, et je pense qu'on a besoin effectivement
+qu'ils soient plus au fait des questions sociales qui sont impactées par les technologies qu'ils mettent en place.
+J'ai l'impression que ce n'est pas le seul levier qu'on peut mettre en place et qu'il y en a un autre, c'est aussi d'augmenter le niveau de discussion entre ceux qui produisent ces systèmes
+et leurs impacts, c'est-à-dire avec le reste de la société, c'est-à-dire avec les gens que ça impacte.
+Je pense que c'est certainement plus important que d'améliorer la formation des ingénieurs, c'est de pousser ou de forcer les ingénieurs et les entreprises qui mettent en place des systèmes
+à avoir des discussions avec ceux qui sont impactés par les systèmes qu'ils mettent en place.
+Mais ceci dit, effectivement, quand on regarde les calculs produits ou les systèmes produits, assez souvent ils sont produits un peu en chambre
+et puis après développés sur des secteurs particuliers, sans se rendre compte nécessairement des enjeux qui peuvent avoir lieu derrière en fait.
+Dans le domaine, par exemple, aujourd'hui des systèmes d'automatisation de l'embauche, c'est-à-dire aujourd'hui,
+quand vous candidatez dans la plupart des grandes entreprises, vous devez envoyer un CV qui sera lu automatiquement par un système et qui sera encore une fois scoré,
+c'est-à-dire on va déterminer selon les mots que vous avez utilisés et leur concordance avec l'offre d'emploi publiée,
+un score qui va déterminer si vous allez pouvoir être accepté à un rendez-vous ou pas.
+Et on se rend compte en fait que la plupart du temps, ces systèmes de score, c'est n'importe quoi en fait.
+Ça prend en compte des tas de données qui ne devraient pas l'être, quand vous ajoutez des systèmes d'intelligence artificielle dessus,
+ça peut mettre en avant des types de mots-clés qui n'ont rien à voir avec l'enjeu, voire dysfonctionner massivement.
+En 2018, Amazon avait mis ainsi en place un système de recrutement par intelligence artificielle et c'était bizarre et donc le système rejetait toutes les candidatures féminines,
+tout simplement parce qu'il était entraîné uniquement depuis les données des co-laborateurs d'Amazon qui sont à 95% des mecs en fait.
+Et donc le système avait appris qu'il fallait rejeter les femmes.
+On pourrait s'en amuser, mais ce qui est très amusant c'est qu'Amazon n'a pas pu rectifier son système.
+Les brillants ingénieurs d'Amazon, je ne vous parle pas de monsieur et madame tout le monde,
+c'est quelques-uns des meilleurs ingénieurs au monde qui ont produit ce système, n'ont pas pu le réparer.
+Les biais étaient trop nombreux et donc ils ont abandonné le système. Plutôt que d'en proposer un autre, ils l'ont abandonné.
+Donc ça veut bien dire en fait qu'il y a des limites à ce que peuvent proposer les ingénieurs ou la réalité ne peut pas se mouler dans les systèmes qu'ils veulent mettre en place.
+Je pense que c'est un bon exemple qui montre justement ces limites et qui montre que ces développements posent des problèmes profonds
+et que pour les réparer, alors effectivement il faut mieux former les ingénieurs, mais il faut aussi que ceux-ci se mettent en discussion avec ceux que ça impacte.
+Moi je suis frappé qu'à la CAF, que dans Parcoursup, que même dans les systèmes d'attribution d'embauche aujourd'hui, il n'y ait pas d'utilisateurs en fait
+qui sont les mieux à même pourtant de montrer et les défaillances de ces systèmes et d'arriver à proposer des limites ou des alternatives.
+L'association Changer de Cap en 2023 qui est une petite association qui aide des gens en fait face aux difficultés qu'ils peuvent avoir face aux services sociaux
+a réalisé une grande enquête auprès de ses bénéficiaires et ce qui est ressorti de cette enquête, c'était quelque chose qu'ils n'avaient pas vu, c'était des appels à l'aide en fait.
+Deux bénéficiaires de services sociaux à la CAF notamment et qui étaient en grande difficulté du fait de la numérisation des procédures
+et des batailles qu'ils avaient vis-à-vis de droits qui leur étaient coupés en fait.
+Changer de Cap s'est mis à enquêter vraiment avec 200 utilisateurs à peu près sur ces problématiques et ils se sont mis ainsi à développer un discours en fait critique
+à adresser en fait des doléances à la caisse nationale d'allocations familiales pour leur demander des explications, des réparations
+et en fait de ce travail de documentation patient des problèmes que vivaient les gens, aujourd'hui c'est une association qui fait des propositions
+qui ne sont pas écoutées hélas mais qui fait des propositions à la CAF pour corriger ou à tout le moins voire parfois supprimer certaines défaillances de ces systèmes en fait.
+Et voilà donc on voit bien qu'en fait que le retour que peuvent proposer en fait les utilisateurs, les gens qui sont confrontés à ces systèmes sont le meilleur moyen souvent de les faire progresser.
+Et le problème aujourd'hui dans la technologie et notamment dans la technologie numérique c'est que ce dialogue entre utilisateurs et ingénieurs
+la plupart du temps n'existe pas.
+Donc dans les algorithmes contre la société Hubert, tu parles également que la menace de l'intelligence artificielle c'est pas la super intelligence...
+comment on appelle ça ? La super intelligence... l'intelligence artificielle générale c'est ça ?
+Mais le solutionnisme populiste qui émerge de la convergence entre le capitalisme et les politiques d'extrême droite,
+est-ce qu'on va vers des sociétés technofascistes ?
+Alors en tout cas on voit que dans certains pays la bascule autoritaire est très nette et notamment aujourd'hui aux Etats-Unis mais c'est éminemment inquiétant.
+L'autre risque c'est vraiment cette utilisation justement du calcul et du score pour distinguer et discriminer les gens.
+Et en fait quand on regarde l'utilisation courante de ces calculs et de ces scores ils servent à ça, ils servent à mettre dans Parcoursup du meilleur au moins bon,
+ils servent à mettre dans les scores de risque de la CAF de la personne qui ne pose pas de problème à ceux qui en posent,
+aux impôts entre ceux qui les payent sans trop de soucis et les autres et encore il y en a certains qui sont un peu épargnés.
+Moi l'inquiétude que j'ai c'est que tous ces systèmes de calculs créent par nature même des classements entre les gens.
+Et des classements entre les gens ce sont des distinctions entre les gens mais également des discriminations entre les gens.
+La bascule risque d'être encore plus facile avec ces systèmes et c'est ça mon alerte ou mon inquiétude.
+Le technofascisme est en fait plus près à devenir que jamais justement parce qu'il a à sa disposition ce type d'outil.
+C'est l'alerte que fait Félix Treguet dans son dernier livre "Technopolis" en disant que si nous étions en 1939
+et que nous avions tous les outils aujourd'hui de surveillance policière, de surveillance des gens, de fichage et d'identification des uns et des autres disponibles,
+des formes de résistance telles qu'il y a eu ne seraient certainement pas possibles.
+Et je pense que c'est une vraie alerte effectivement, le déploiement qui peut paraître très insidieux, enfin très, comment dire, c'est pas insidieux,
+sans conséquences en fait par exemple de la localisation totale des gens, non pas via des bases de données ou des saletélites avec une position très précise des gens,
+mais la base de données qui permet en fait de donner une adresse très très précise à chacun.
+Vous savez en campagne par exemple désormais toutes les habitations ont un numéro très précis, un nom de rue, une sorte d'homogénéisation en fait des adresses de partout
+pour que chaque endroit soit très spécifiquement localisé.
+Oui c'est super, on normalise en fait la base d'adresses nationales pour que toutes les adresses soient spécifiques, uniques, il n'y a plus lu de monsieur machin lieu dit le truc,
+et donc chaque endroit est spécifique, détaillé etc.
+Mais voilà, enfin le problème c'est que désormais chacun est aussi associé à une adresse très précise, à des localisations, à des profilages, à des numéros etc.
+En tout cas, ce qui se passe si jamais il y a des régismes très autoritaires qui se mettent en place ou très vagites, c'est qu'ils ont à disposition des outils dont ils ne pouvaient que rêver en fait quoi.
+Et on le voit aux Etats-Unis aujourd'hui, c'est exactement ce qui se passe, la surveillance et la déportation des migrants, des étudiants etc.
+est facilité par toutes ces technologies en fait qui sont extrêmement accessibles par les services de surveillance et les services de police.
+Et donc je pense que nous devons en tant que société nous poser des vraies questions sur les enjeux de cette surveillance que nous mettons en place.
+Alors c'est plus facile à dire qu'à faire, le problème en fait c'est que tout le monde s'en fout un peu, mais il y a une vraie alerte vraiment sur les systèmes que nous mettons en place.
+Plus ils vont utiliser de données, plus ils vont être précis, plus ils vont être dangereux.
+D'où l'enjeu à construire des systèmes qui n'utilisent pas beaucoup de données, qui ne soient pas précis afin de diminuer la pression de la surveillance.
+On a beaucoup parlé des Etats-Unis mais on peut aussi regarder vers l'Asie, vers la Chine notamment.
+Est-ce que c'est une autre forme de technofascisme, de surveillance de masse et de contrôle de la population par les algorithmes ?
+Pour toi c'est la même chose ou c'est vraiment différent ?
+En tout cas il y a des jeux de scoring de la société qui peuvent être similaires des profilages qu'on retrouve aussi.
+A ce que j'en comprends, et de loin je ne suis pas suffisamment spécialiste du contexte chinois, mais à ce que j'en comprends, la société chinoise n'est pas qu'hyper-techno contrairement à ce que l'on entend souvent.
+Même le score de notation sociale, de ce que j'en ai compris, c'est surtout une démodalité de surveillance entre voisins en fait, plus que des outils technologiques.
+Mais bon, encore une fois, je ne suis pas suffisamment spécialiste de la politique chinoise, reste qu'il y a bien évidemment, entre toutes ces formes-là, une continuité qui est bien hélas celle d'une mise à disposition de données et d'informations pour des croisements supplémentaires,
+pour une surveillance accrue, pour des profilages de plus en plus précis, même si défaillants.
+Cette direction que nous prenons en tant que société en fait, moi me déplait en tout cas, c'est pas celle vers laquelle je voudrais qu'on aille, et je pense que nous avons un certain intérêt à réagir.
+Et l'un des leviers pour réagir, c'est justement de montrer que ces systèmes dysfonctionnent, qu'ils créent des faux positives dont on parlait tout à l'heure, des surveillance indues, des déportations qui fonctionnent mal, et en fait qui génèrent tout un tas de problèmes.
+Alors le problème, c'est que ces problèmes justement impactent aujourd'hui des populations pauvres, les plus précaires, les plus démunis, etc., et qui nous sont invisibles à la plupart des gens qui se portent bien dans nos sociétés occidentales en fait.
+Le risque bien évidemment, c'est qu'ils se démultiplient et qu'ils commencent à conquérir d'autres strates de population.
+Est-ce que justement il y a des pistes pour des algorithmes plus justes ? Est-ce qu'il faut arrêter les algorithmes ? Est-ce qu'il faut interdire à réguler, interdire justement le calcul de risque ? Est-ce qu'on faut globalement que la société résiste, refuse les algorithmes ? Est-ce qu'on peut envisager des algorithmes "raisonnables" ?
+Ce qui est compliqué, c'est que ce sont des développements en contexte, donc qu'il y a certains endroits où effectivement peut-être qu'on ne doit pas produire de scores, ou sinon peut-être complètement d'autres scores, et que dans le domaine de social, notamment, la plupart du temps, tous ces scores dysfonctionnent.
+En tout cas, c'est ce que j'essaye de montrer dans mon livre. Vous pouvez faire du calcul sur la vitesse de freinage d'un métro ou d'un train, il est possible d'être très précis et de faire des choses très très bien, mais il y a des tas de considérations techniques qui rentrent en jeu, et pas des considérations sociales.
+C'est un petit peu différent quand vous faites du calcul sur l'enfance maltraitée, ou les droits que vous réservez à des gens demandant l'asile, ou autre. Et donc, sur tous ces systèmes-là, on voit que les systèmes de calcul sont pas bons.
+Alors, qu'est-ce qu'on peut faire pour les limiter ? Dans certains endroits, il faut effectivement peut-être les interdire. Je pense qu'il y a des champs aujourd'hui qui sont problématiques, parce que quand vous les regardez un tout petit peu, ça produit vraiment n'importe quoi.
+Et puis, il y a des champs où on peut peut-être imaginer des alternatives, ou d'autres manières de produire d'autres types d'algorithmes qui n'ont rien à voir. J'aime beaucoup donner l'exemple de ces lycéens américains confrontés au même problème que le nôtre, avec des algorithmes d'affectation dans le supérieur, qui ont grosso modo sur la base de notre parcours sub qui calcule des moyennes des élèves pour les affecter aux meilleures écoles.
+Et eux proposent en fait une autre règle d'affectation. Et si en fait, les écoles devaient prendre des élèves en proportion du niveau des candidatures, c'est-à-dire que si vous avez 10% d'élèves qui ont entre 10 et 12 de moyenne, vous devez prendre 10% d'élèves qui ont 10 et 12 de moyenne.
+Voilà, c'est une autre modalité de calcul. On voit tout de suite qu'elle change la donne en fait. C'est-à-dire qu'elle permettrait d'ouvrir des grandes écoles à une plus large part de la population.
+Et donc en fait, quand on se plonge dans les calculs, on se rend compte qu'il y a plein de manières de calculer différentes et qu'en fait, on est pris dans des formes de calculs qui nous sont imposées, ressassées, prémachées, et finalement que tout le monde applique sans trop se poser de questions. Moi, ce que je dis au moins, c'est qu'on devrait re-regarder ces questions, se reposer en fait, encore une fois, ces enjeux, et pour les reposer en fait, il faut pouvoir, ce que je disais tout à l'heure, discuter avec la société vraiment.
+D'où l'intérêt ou l'enjeu capital à ce que les usagers soient représentés dans ces calculs. Il n'est pas normal aujourd'hui que dans les modalités de Parcoursup, les étudiants ne soient pas représentés, ni les professeurs en fait.
+Où sont ces gens dans les instances supérieures du conseil d'éthique de Parcoursup ? Ils ne sont pas là. Je pense qu'on a vraiment besoin de remettre de la discussion. Moi, je n'ai pas envie de faire des propositions.
+Je ne donne que des pistes où je ne dis seulement qu'on peut faire autrement. Je pense que c'est à la société de se poser des questions sur les limites de ces systèmes de calculs, et comment les réinventer, et qu'elle a toute latitude pour pouvoir les réinventer.
+Effectivement, comme on le disait aussi, il y a peut-être eu en tout cas des endroits où on doit se poser vraiment la question de leurs limites et de leurs interdictions. Je pense que là aussi, il y a des enjeux qui sont forts.
+Par exemple, tout ce qui est reconnaissance émotionnelle, dont on évoquait aussi par exemple dans l'embauche, mais bien au-delà. Je pense qu'aujourd'hui, c'est une technologie qui n'est absolument pas mature pour être utilisée où que ce soit.
+Le risque, c'est qu'elle le soit d'un état d'endroit, parce qu'en fait, ces technos sont déjà disponibles, sont utilisables. Ce sont aujourd'hui des API, c'est-à-dire des services de services, qu'il suffit de brancher du service que vous voulez développer sur un autre de ces services développés par des Google ou des Meta et d'autres systèmes.
+Et en fait, nous sommes dans une fluidification de ces formes d'utilisation qui posent également des tas de problèmes.
+Eh bien, Hubert Guiot, merci beaucoup. Je rappelle donc que tu es l'auteur de "Les algorithmes contre la société" aux éditions La Fabrique. Merci beaucoup en tout cas de m'avoir reçu, et à bientôt au micro d'écologie. J'espère que vous avez bien aimé cet épisode. N'hésitez pas à le partager et puis à commenter, peut-être sur les réseaux sociaux des GAFAM. Merci Hubert.
