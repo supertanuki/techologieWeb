@@ -5,7 +5,7 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2025-03-24T08:57:48Z</updated>
+	<updated>2025-05-06T06:20:37Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
@@ -770,5 +770,13 @@
 		<updated>2025-03-25T00:00:00Z</updated>
 		<id>https://techologie.net/episodes/95-faire-face-aux-risques-du-secteur-numerique/</id>
 		<content type="html">Margaux, Marion et Thomas travaillent à un numérique plus responsable et se posent les questions quant à la résilience de la société face aux risques numériques liés notamment aux problèmes d&#39;accès aux ressources et aux limites planétaires.</content>
+	</entry>
+	
+	<entry>
+		<title>Les algorithmes contre la société</title>
+		<link href="https://techologie.net/episodes/96-les-algorithmes-contre-la-societe/"/>
+		<updated>2025-05-06T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/96-les-algorithmes-contre-la-societe/</id>
+		<content type="html">Hubert Guillaud est journaliste, blogueur et observateur du numérique de longue date. Il publie en 2025 &quot;Les algorithmes contre la société&quot; aux éditions La fabrique.</content>
 	</entry>
 </feed>
