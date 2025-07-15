@@ -8,6 +8,7 @@ image: "/img/episodes/29-hugues-ferreboeuf.jpg"
 audio_link: "https://soundcloud.com/techologie/29-la-5g-impact-environnemental-et-pertinence-economique"
 audio_size_in_megabyte: 26
 transcribed: true
+top: true
 ---
 
 ## Sommaire
