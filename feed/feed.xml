@@ -5,7 +5,7 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2025-05-06T07:06:58Z</updated>
+	<updated>2025-07-18T06:18:35Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
@@ -778,5 +778,13 @@
 		<updated>2025-05-06T00:00:00Z</updated>
 		<id>https://techologie.net/episodes/96-les-algorithmes-contre-la-societe/</id>
 		<content type="html">Hubert Guillaud est journaliste, blogueur et observateur du numérique de longue date. Il publie en 2025 &quot;Les algorithmes contre la société&quot; aux éditions La fabrique.</content>
+	</entry>
+	
+	<entry>
+		<title>La réalité ouvrière du numérique</title>
+		<link href="https://techologie.net/episodes/97-la-realite-ouvriere-du-numerique/"/>
+		<updated>2025-07-17T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/97-la-realite-ouvriere-du-numerique/</id>
+		<content type="html">Le 11 juin 2025 à Paris, l&#39;association Point de MIR organisait une conférence sur la réalité ouvrière du numérique.</content>
 	</entry>
 </feed>
