@@ -31,6 +31,7 @@ Le code source de ce site est disponible sur <a href="https://github.com/superta
 
 ## Quelques stats
 
+* 2024 : 9 épisodes et 22990 écoutes
 * 2023 : 13 épisodes et 32200 écoutes
 * 2022 : 11 épisodes et 28600 écoutes
 * 2021 : 20 épisodes et 23600 écoutes
