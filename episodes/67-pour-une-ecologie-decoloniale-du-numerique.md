@@ -8,7 +8,6 @@ image: "/img/episodes/67-david-maenda-kithoko.jpg"
 audio_link: https://soundcloud.com/techologie/67-pour-une-ecologie-decoloniale-du-numerique-avec-david-maenda-kithoko
 audio_size_in_megabyte: 26
 transcribed: true
-top: true
 ---
 
 ## Sommaire
