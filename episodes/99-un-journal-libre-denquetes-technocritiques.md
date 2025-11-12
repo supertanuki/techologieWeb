@@ -3,7 +3,7 @@ episode_number: 99
 title: Un journal libre d'enquêtes technocritiques
 people: Jean-Philippe Peyrache
 description: Jean-Philippe Peyrache est cofondateur de la Brèche, journal libre d'enquêtes, analyses et reportages sur les thèmes environnement, santé publique, technocritique.
-date: 2025-11-06
+date: 2025-11-13
 image: /img/episodes/99-jp-peyrache.jpg
 audio_link: https://soundcloud.com/techologie/99-un-journal-libre-denquetes-technocritiques
 audio_size_in_megabyte: 25
