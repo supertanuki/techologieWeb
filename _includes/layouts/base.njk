@@ -27,6 +27,19 @@
     <meta property="twitter:image" content="{{ image | url | absoluteUrl(metadata.url) }}"/>
     <meta property="twitter:creator" content="{{ metadata.author.name }}"/>
     <meta property="twitter:card" content="summary"/>
+
+    <script>
+      var _paq = window._paq = window._paq || [];
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="//stats.libreon.fr/";
+        _paq.push(['setTrackerUrl', u+'matomo.php']);
+        _paq.push(['setSiteId', '16']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
   </head>
   <body class="{% if page.url == '/' %}home{% endif %}">
     <header>
