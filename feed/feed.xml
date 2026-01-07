@@ -5,7 +5,7 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2025-12-05T09:41:53Z</updated>
+	<updated>2026-01-07T15:33:05Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
@@ -802,5 +802,13 @@
 		<updated>2025-11-13T00:00:00Z</updated>
 		<id>https://techologie.net/episodes/99-un-journal-libre-denquetes-technocritiques/</id>
 		<content type="html">Jean-Philippe Peyrache est cofondateur de la Brèche, journal libre d&#39;enquêtes, analyses et reportages sur les thèmes environnement, santé publique, technocritique.</content>
+	</entry>
+	
+	<entry>
+		<title>Des outils libres pour l&#39;éducation</title>
+		<link href="https://techologie.net/episodes/100-des-outils-libres-pour-l-education/"/>
+		<updated>2026-01-08T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/100-des-outils-libres-pour-l-education/</id>
+		<content type="html">Dans cet épisode, Marion Rébier reçoit Emmanuel Zimmert, le créateur et développeur de La Digitale, un ensemble d&#39;outils libres au service des enseignant·es et des formateur·rices.</content>
 	</entry>
 </feed>
