@@ -12,14 +12,14 @@ layout: layouts/base.njk
     Épisode {{ episode_number }} publié le {{ date | toFrenchDate }}
   {% endif %}
 </p>
-<p>
+<p class="text-centered">
   <img src="{{ image }}" alt="{{ people | safe }}"/>
 </p>
-<p class="label">
+<p class="label text-centered">
   <span>{{ people | safe }}</span>
 </p>
 <p>{{ description | safe }}</p>
-<p class="listen">
+<p class="listen text-centered">
   {% if lang == 'en' %}
     <a href="{{ audio_link | safe }}" title="Listen {{ title | safe }} on Soundcloud" class="focus">
       Listen
@@ -52,15 +52,8 @@ layout: layouts/base.njk
 
 {% include "annonce.njk" %}
 
+<div class="episode-content">
+
 {{ content | safe }}
 
-{# "/" final à supprimer dans page.url
-  <hr>
-  <p>
-    <a
-      href="https://github.com/supertanuki/techologieWeb/blob/master/src{{ page.url }}.md"
-    >
-      Proposer une modification de cette page
-    </a>
-  </p>
-  #}
+</div>

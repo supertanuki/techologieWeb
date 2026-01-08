@@ -19,6 +19,7 @@ Créé en 2018 par [Richard Hanna](https://richardhanna.dev/), Techologie est un
 - Aurélie Baton
 - Florimond Manca
 - Hélène Maître-Marchois
+- Marion Rébier
 - Richard Hanna
 - Sébastien Solère
 - Et pourquoi pas vous ?
@@ -31,6 +32,7 @@ Le code source de ce site est disponible sur <a href="https://github.com/superta
 
 ## Quelques stats
 
+* 2025 : 6 épisodes et 11540 écoutes
 * 2024 : 9 épisodes et 22990 écoutes
 * 2023 : 13 épisodes et 32200 écoutes
 * 2022 : 11 épisodes et 28600 écoutes
