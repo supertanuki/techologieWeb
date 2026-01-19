@@ -5,7 +5,7 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2026-01-08T12:03:29Z</updated>
+	<updated>2026-01-19T15:56:57Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
@@ -810,5 +810,13 @@
 		<updated>2026-01-08T00:00:00Z</updated>
 		<id>https://techologie.net/episodes/100-des-outils-libres-pour-l-education/</id>
 		<content type="html">Dans cet épisode, Marion Rébier reçoit Emmanuel Zimmert, le créateur et développeur de La Digitale, un ensemble d&#39;outils libres au service des enseignant·es et des formateur·rices.</content>
+	</entry>
+	
+	<entry>
+		<title>Désescalade numérique, 10 propositions pour les municipales</title>
+		<link href="https://techologie.net/episodes/101-desescalade-numerique-10-propositions-pour-les-municipales/"/>
+		<updated>2026-01-20T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/101-desescalade-numerique-10-propositions-pour-les-municipales/</id>
+		<content type="html">Cet épisode est une rediffusion de l&#39;émission Paroles Technocritiques diffusée sur Radio Fréquence Paris Plurielle le 27 décembre 2025 et animée par les membres de l&#39;association Technologos qui ont invité Richard Hanna à parler des 10 propositions de désescalade numérique pour les municipales.</content>
 	</entry>
 </feed>
