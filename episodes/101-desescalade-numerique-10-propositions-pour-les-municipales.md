@@ -1,0 +1,388 @@
+---
+episode_number: 101
+title: Désescalade numérique, 10 propositions pour les municipales
+people: Technologos et Richard Hanna
+description: Cet épisode est une rediffusion de l'émission Paroles Technocritiques diffusée sur Radio Fréquence Paris Plurielle le 27 décembre 2025 et animée par les membres de l'association Technologos qui ont invité Richard Hanna à parler des 10 propositions de désescalade numérique pour les municipales.
+date: 2026-01-20
+image: /img/episodes/101-desescalade-numerique.png
+audio_link: https://soundcloud.com/techologie/101-desescalade-numerique-10-propositions-pour-les-municipales
+audio_size_in_megabyte: 43
+transcribed: true
+---
+ 
+## En savoir plus
+ 
+- [10 propositions pour une désescalade numérique](https://www.desescaladenumerique.org/)
+- [Les émissions de Paroles Technocritiques de Technologos](https://technologos.fr/paroles/index.html)
+ 
+## Transcription
+
+### Introduction
+
+Adrien : Bonjour, vous êtes sur Radio Fréquence Paris Plurielle, 106,3 FM dans l'émission Paroles Technocritiques.
+
+Dans l'émission Paroles Technocritiques animée par les membres de l'association Technologos. Aujourd'hui, en studio, je suis avec Richard, avec Serge. Et dans la cabine, il y a Leïla et Blaise.
+
+Alors, aujourd'hui, c'est une émission spéciale sur les 10 propositions pour une désescalade numérique. C'est pour ça qu'on reçoit aujourd'hui Richard.
+
+Mais avant de démarrer, on fait une petite présentation de cette émission. On rappelle que c'est une émission technocritique. Donc, dans les grandes lignes, ici, on critique la technique, mais aussi la science qui produit des techniques. On fait de la critique comme les critiques de cinéma. On dit qu'il y a peut-être des techniques qui valent mieux que les autres. On a déjà parlé de techniques autoritaires et de techniques démocratiques. Bon, là, c'est très abstrait, mais vous pouvez aller écouter les autres émissions pour avoir des cas concrets. On a parlé du numérique, on a parlé de l'intelligence artificielle, on a parlé des déchets, on a parlé un peu de nucléaire. Voilà, donc on a déjà fait pas mal de choses.
+
+Aujourd'hui, on va être sur le numérique, ça, c'est sûr. Mais avant, on va continuer le fil rouge qu'on a commencé le mois dernier sur l'extractivisme, sur le coût matériel du numérique, mais aussi de la transition écologique. Et le mois dernier, si vous avez écouté cette émission, on s'est intéressé à l'extractivisme en Espagne avec la mine de Rio Tinto, une mine responsable, mais pas si responsable que ça, parce qu'au niveau de la production de déchets, c'est assez considérable.
+
+Et puis après, on est partis au Maroc, on s'est un peu éloignés. On est partis au Maroc sur une autre mine responsable aussi, éthique, puisque c'est une mine qui extrait du cobalt pour les industriels automobiles et que c'est une mine responsable, soi-disant responsable. Et on avait vu à quel point c'était problématique, puisque cette mine de cobalt aussi produit beaucoup plus d'arsenic, qui est un poison, que de cobalt. Et les conditions de travail sont dramatiques.
+
+On avait aussi vu que, comme l'extraction minière en général consomme beaucoup d'eau, il y avait une compétition entre la consommation d'eau pour la mine et la consommation d'eau aussi pour l'agriculture. Résultat, les oasis, les dâtiers, les champs de dâtiers étaient asséchés, en plus d'être empoisonnés par l'arsenic.
+
+Donc on a vu ça et j'ai envie de continuer. On continuera sur plusieurs émissions. Aujourd'hui, on va partir aux USA. On va aller regarder un joli lac bleu turquoise. J'ai des images pour les gens qui sont dans le studio, c'est de la radio. Et je voudrais vous faire écouter un son. Alors avant de le faire, avant de le passer, je vous contextualise. On est dans le Montana. Le lac, c'est un lac bleu turquoise. Voilà, je le montre à mes invités. Voilà, magnifique. Et puis, à côté de ce lac, on peut entendre les bruits suivants.
+
+Alors, des bruits de détonation et des bruits de petits moteurs.
+
+### Ces bruits de petits moteurs d'après vous, Serge, Richard, ces petits moteurs, ça ressemble à des moteurs de quoi ?
+
+Richard : Je sais, j'ai lu le bouquin.
+
+Adrien : Mince, mince, mince. Attends, Serge ne l'a pas lu. Les petits moteurs, c'est des moteurs de quoi d'après toi ? Ça ressemble à... Tu ne vois pas ?
+
+Serge : Je ne vois pas trop, non.
+
+Adrien : Ah, c'est des moteurs de drone.
+
+Serge : Ah oui, non, j'étais loin.
+
+Adrien : Et les détonations, c'est des explosions qui sont faites. Ce qui est important, c'est à quoi ça sert ? Eh bien, ça sert à éviter que des oies sauvages fassent une pause, comment dire, hydratation dans ce lac magnifique. Parce qu'il est très, très beau. Mais comme le dit un texte de présentation de ce Berkeley Pit à Butte dans le Montana, si vous mettez un bateau sur ce lac, l'hélice, elle va fondre. Elle va être rongée.
+
+Pourquoi ? Parce que cette eau, c'est en fait, ce lac est un lac artificiel. Il est dû à l'abandon d'une mine, d'une mine de cuivre. Et en fait, si on ne pompe pas l'eau de ces mines, elle se noie, quoi. Et donc, elle se noie et l'eau est en contact avec des roches.
+
+Et il y a une réaction. C'est-à-dire que l'eau s'acidifie et en s'acidifiant, elle fait réagir aussi la roche et elle dissout des substances chimiques assez toxiques.
+
+Qu'est-ce qui s'est passé dans le Montana en 2016 ? Eh bien, des oies sauvages qui venaient là faire une pause dans leur migration, ont bu cette eau et il a plu littéralement des oies sauvages. Moi, j'ai vu les images, vous pouvez les voir sur Internet. Des milliers d'oies sauvages qui étaient mortes.
+
+Donc, depuis ce moment-là, parce que c'est problématique quand même d'avoir... Vous pouvez les voir les images, ça ressemble à un film d'horreur, vraiment un film catastrophe. Ils sont obligés de faire des détonations artificielles pour faire fuir ces oies sauvages, d'utiliser des drones pour les pourchasser, voire de viser aussi, de tirer des coups de fusil un peu à côté pour éviter qu'elles boivent.
+
+Donc, ça demande énormément d'attirail, il y a aussi des systèmes de flash très puissants pour pouvoir leur faire peur. Et ça, ça va durer des centaines d'années si c'est pas dépollué.
+
+Alors, attention, j'ai dit dépollué, je vous rappelle que dépolluer, c'est pas éliminer la pollution et faire en sorte qu'elle n'existe plus. C'est-à-dire, en gros, dépolluer, c'est déplacer la pollution. Ça, on y reviendra, on travaillera sur les déchets encore, on l'a déjà fait.
+
+Donc, ça, c'est une catastrophe comme en génère beaucoup les mines, les mines d'extraction. Comme le dit l'association Systext, qui est une association de géologues, une mine, c'est avant tout une usine à déchets.
+
+Et notamment, comme le signale Celia Izoard dans son livre La ruée minière au XXIe siècle, un livre qui nous sert effectivement de support pour ce fil rouge, la production de déchets est colossale. Elle prend comme exemple les barrages, les étangs où toutes les eaux qui ont été utilisées pour nettoyer, rincer ou alors faire les réactions acido-basiques, enfin, l'utilisation d'acides, toutes ces eaux polluées sont stockées dans des bassins.
+
+Alors, c'est joli, c'est coloré, mais quand le barrage cède, eh bien, ça provoque d'énormes pollutions. Et comme elle le dit dans son livre, je vais la citer, plusieurs fois par an, quelque part dans le monde, la digue d'un parc à résidus, c'est en fait un bassin dans lequel il y a les résidus de nettoyage, d'eau acidifiée, etc., d'eau polluée. Donc, quelque part dans le monde, la digue d'un parc à résidus se rompt plusieurs fois par an. Pour la seule année 2022, on recense cinq accidents de ce type.
+
+De temps à autre, l'accident se produit à une échelle titanesque, détruisant tout sur son passage. Elle prend comme exemple en janvier 2019 au Brésil, le barrage de la mine de fer de Brumadinho s'est rompu, une coulée de boue de 12 millions de mètres cubes a tué 270 personnes, anéanti un pont, un village et toute la faune et la flore sauvage sur des dizaines de kilomètres carrés.
+
+Leïla : j'ai entendu Celia Izoard dans une conférence et elle précisait que ces digues étaient en fait destinées à rompre puisqu'elles n'étaient pas du tout entretenues, c'était délibéré en fait.
+
+Richard : Le barrage de Brumadinho, il y a une vidéo, puisque ça a été filmé, il y a une vidéo, je crois, du Parisien que vous pouvez trouver sur YouTube. Mais c'est vraiment impressionnant. Donc, si vous avez jamais vu ces images-là, je vous invite à regarder, mais voilà, âmes sensibles s'abstenir.
+
+Adrien : Oui, j'imagine.
+
+Donc, ce fil rouge, je tenais donc à le reprendre avant de parler de cette initiative, que sont les dix propositions pour une désescalade numérique, parce que moi, c'est ce qui me donne envie de soutenir ces propositions. Voilà, c'est partie des arguments écologiques, sanitaires, qui me poussent donc à soutenir cette proposition. Et voilà pourquoi on est content de te recevoir au studio Richard.
+
+
+### Richard, tu peux te présenter un peu, s'il te plaît ?
+
+Oui, merci de me recevoir. Moi, je suis, on va dire, un déçu du numérique. Je suis développeur informatique. Mais on va dire, depuis 2018, j'ai eu une petite claque, même si je me considérais comme écolo, etc. En fait, je commençais à me poser des questions. J'ai lancé un podcast en 2018, donc ça fait sept ans que j'anime Techologie. Et j'ai commencé un peu à me poser des questions. Est-ce qu'on peut améliorer nos pratiques en tant que développeur, partir sur de l'éco-conception, mais très vite, ça a viré sur vraiment de la technocritique. À se poser des questions sur le numérique dans la société.
+
+Et aujourd'hui, en fait, j'interviens auprès de vous. Je représente une association qui s'appelle Point de M.I.R, qui, dans son objectif, est de sensibiliser aux enjeux environnementaux et aux droits sociaux, aux droits humains, des conséquences du numérique. Et donc, notamment, c'est des ateliers de sensibilisation des jeunes, c'est des festivals...
+
+Dernièrement, on a eu deux journées de festivals de documentaires liés à l'extraction, aux usines d'assemblage, notamment sur les droits humains des ouvriers, et sur la fin de vie, la gestion des déjeuners.
+
+Adrien : J'ai vu aussi, donc tu en as parlé, des animations à destination des jeunes, des scolaires aussi. Ça peut intéresser peut-être les enseignants. Je leur conseille d'aller voir le site.
+
+Richard : Oui, sur le site Point de M.I.R est détaillé toutes les ressources pédagogiques, justement, beaucoup à destination des jeunes, effectivement.
+
+Adrien : Je trouve ça très, très intéressant.
+
+### Et donc, il y a ces dix propositions pour une désescalade numérique dans le cadre des municipales 2026.
+
+Oui, en fait, c'est lié à Celia Izoard dont tu as parlé tout à l'heure. Et c'est lié à une activité de Point de M.I.R qui avait invité Celia durant une conférence que j'animais aussi, à présenter son livre sur la ruée minière au 21ème siècle. C'était en avril 2024, c'était une conférence, mais on a fait participer le public. Celia a posé des questions au public en disant, vous, vous voyez comment un programme de décroissance ? C'est parti d'abord sur la question de la décroissance numérique.
+
+Les gens sont venus sur scène. Et voilà, entre autres, en 2024, ça commençait à être un peu le buzz IA, donc beaucoup voulaient abolir l'IA, etc. Sauf qu'on a eu, on va dire, 30 minutes de débat un peu comme ça sur scène. Et à la suite de ça, Celia nous a dit mais il faut qu'on fasse quelque chose. Et Bela Loto, qui est présidente de l'association Point de M.I.R, a dit, allez, on y va, on organise un atelier, on invite plein, plein de collectifs, notamment Technologos, Lève les yeux, Stop 5G Lyon, etc. Mais aussi des enseignants, des chercheurs, des informaticiens, aussi des acteurs du numérique. Et voilà, pas mal d'associations, vraiment un public très, très varié et parfois pas d'accord entre eux. Aussi, des personnes qui militent pour la décolonisation.
+
+Enfin, c'était hyper intéressant, donc on a fait une journée. On est sorti plein, plein d'idées, mais on était un peu frustré, donc on a continué. On a fait un week-end d'ateliers sur lequel on a travaillé sur pas mal de choses. Et durant ce week-end, c'était hyper organique. En fait, on ne savait pas où on allait. On s'est dit, c'est quoi la prochaine échéance électorale ? On ne savait pas qu'il y aurait eu une dissolution à cette époque là. Et du coup, on s'est dit, travaillons sur les municipales. Et du coup, on a commencé à rédiger pas mal de choses durant ces ateliers. Et puis, ça a donné ces 10 propositions.
+
+Et puis, on a mis à signature ces 10 propositions. On était parti sur la décroissance. On a basculé sur la désescalade numérique qui nous paraissait peut-être un peu plus vendeur, un peu plus "consensuel", entre guillemets.
+
+### Oui, je pense que vous avez eu raison sur le désescalade
+
+Parce qu'on est assez d'accord. On avait passé une intervention de Nicolas Alep qui a écrit le bouquin "Contre l'alternumérisme". Il avait été interpellé dans une question d'intervention en disant, mais qu'est-ce que tu proposes ? Qu'est-ce que vous proposez ? Et il s'est bien rendu compte que les gens dépendaient du numérique et que, pour l'instant, ce qu'ils pouvaient proposer, c'est une désescalade.
+
+Serge : Mais même une désescalade, c'est déjà assez radical, je trouve. Enfin, on va vers la radicalité, pour moi, quand on dit "désescalade".
+
+Adrien : Alors, il y a une intervention de Blaise dans le studio.
+
+### C'est quoi l'acronyme de MIR ?
+
+Richard : MIR, ce n'est pas totalement assumé parce qu'il y a une réflexion dans l'association pour changer. C'est Maison de l'informatique responsable. Mais voilà, c'est amené à changer bientôt.
+
+### Désescalade
+
+Adrien : Je voulais dire que le terme "désescalade" je le trouve plus puissant que "décroissance"
+
+Parce qu'il y a derrière l'idée d'escalade un peu folle, de course en avant, alors que "décroissance", ça reste un petit peu, pour moi, c'est toujours très vague. On ne sait jamais vraiment... Il faut situer, il faut remplacer, mais ça reste économique, ça reste un petit peu... Ah, il y a le terme "croissance" qui fait penser à la croissance économique. Un petit peu "désescalade", je trouve que c'est plus général et plus puissant parce qu'il y a l'idée de dernière critique de "c'est une course un peu folle".
+
+Richard : En fait, il y a eu, pendant notre week-end de deux, trois jours au vert, on va dire, avec les différents collectifs, on a eu ce débat-là aussi sur le nom à la fin où on s'est dit "il faut qu'on fasse quelque chose pour les municipales". Quel nom sur lequel on part ? Est-ce qu'on reste sur "décroissance numérique" ?
+
+On ne l'a pas dit encore, mais c'est un programme pour les candidats aux municipales et pour tous les candidats de gauche, même les moins radicaux. Donc on vise aussi, on va dire, les plus consensuels.
+
+Mais qu'on s'est dit, candidats de gauche, on ne veut pas que ça soit récupéré par la droite, par la droite réactionnaire ou même la droite modérée, on va dire, qui peuvent mal interpréter nos propositions. Pour exemple, on l'a dit pendant ces travaux, il y a un maire de droite en Seine-et-Marne qui a interdit le téléphone portable dans les rues, mais c'est quelque chose d'assez liberticide.
+
+Nous, on n'en parle pas du tout de ça, d'interdire les téléphones, ce n'est pas du tout le sujet. C'est très individualiste et très liberticide. Nous, on veut viser vraiment au niveau collectif, au niveau de qu'est-ce qu'on veut, quels sont les choix politiques et pas juste des interdictions de façade.
+
+Adrien : À Technologos, en 2021, on avait réfléchi à un programme pour 2022. Que serait un programme technocritique pour 2022 ? On n'avait pas réussi, mais il y avait eu des choses intéressantes. J'ai l'impression que vous vous avez abouti à quelque chose. C'est vrai que de viser les municipales, on peut plus facilement accéder aux élus. Pour ma part, je suis dans une ville du 92, je suis allé voir une conseillère municipale parce qu'en ce moment, c'est l'ébullition dans les marchés. On peut y aller, on peut les interpeller. Ils sont à l'écoute parce qu'ils sont en pleine course aux élections. On peut trouver une écoute, on peut trouver l'oreille. Désescalade, effectivement, je trouve que ça veut dire ce que ça veut dire, mais la personne était assez intéressée. Je vais voir ce que ça donne.
+
+Ici, on est à RFPP (Radio Fréquence Paris Plurielle), il y a des courants libertaires. C'est vrai que ce n'est pas trop notre tasse de thé, peut-être les élections. Moi, je dirais qu'à l'échelle de la municipalité, c'est ce qu'il y a le plus de sens pour moi, puisqu'on peut discuter directement avec les élus. J'irai encore les interpeller pour ma part et je crois que d'autres le font. C'est ce qui a marqué sur le site, d'inciter aussi les gens à aller voir les élus.
+
+Richard : Oui, en fait, sur le terme, on voulait quand même quelque chose qui ne soit pas tiède, qui marque. C'est comme décroissance, c'est un mot-bombe, comme dirait certains, pour marquer un peu les esprits. On voulait quand même quelque chose qui marque. Effectivement, pourquoi parler des municipales, même si on est libertaire, etc. ? Sur les questions écologiques, on se sent démuni face à la méga machine, sur toutes les luttes, et parfois on gagne.
+
+Adrien : Ah, juste, Maria vient d'arriver en studio. Maria qui fait son entrée, on va la laisser s'installer. Continue, excuse-moi, vas-y.
+
+Richard : Et parfois on gagne, notamment la ZAD de Notre-Dame-des-Landes, l'A69, on pourrait gagner peut-être. Il y a une information comme quoi on pourrait peut-être arrêter le chantier. Effectivement, sur le numérique, ça paraît tellement virtuel, le cloud, etc. Du coup, on s'est dit, pourquoi pas travailler au niveau local, à petite échelle, autour de soi. Effectivement, c'est vrai que ça dépend de la taille de la ville, de la commune. Mais dans une petite ville de 10 000 habitants, 50 000 habitants, on a accès aux maires, on a accès aux candidats, on peut discuter avec eux assez facilement. Personnellement, j'ai pu rencontrer dernièrement deux candidats pour parler de ça, pour parler d'autres choses, de vélo, etc.
+
+Et du coup, on s'est dit, pour sortir de l'impuissance, c'est un levier hyper important au niveau local. On a accès à ces gens-là, on peut pousser des messages. Et surtout, les personnalités de gauche sont preneuses de ces sujets-là qu'ils ne connaissent pas.
+
+Adrien : Oui, tu as raison. Je pense que ce sera le moment aussi dans des réunions publiques de pouvoir discuter technocritiques grâce à ces propositions. Si même malgré tout, elles ne sont pas utilisées, c'est un prétexte pour ouvrir une discussion dans une réunion politique.
+
+Leïla :  Je voulais revenir sur l'effort qu'on avait tenté en 2021 pour les présidentielles. C'était finalement assez démesuré. Nous, on visait peut-être désescalades technologiques, pas seulement numériques. La tâche était trop grande. Donc c'est bien de l'aborder aussi par un angle précis, mais qui est lié à d'autres, celui du numérique. Non seulement à cet échelon local, mais aussi avec cette thématique plus restreinte, mais qui finalement en rejoint plein d'autres.
+
+### Vous parlez aussi dans la proposition numéro une du réseau électrique et pas seulement numérique. Donc finalement, ça a des ramifications au-delà du numérique.
+
+Richard : Oui, tout à fait. C'est vrai que sur la première proposition, c'est effectivement de travailler sur des services publics essentiels hors réseau. Donc hors réseau à la fois électrique, hors réseau internet. Comment faire en sorte qu'aujourd'hui, une commune puisse continuer à fonctionner en cas de crise ? Et on sait que les crises sont amenées à augmenter en fait dans le futur.
+
+On a eu une crise là dernièrement en avril dernier où en Espagne, au Portugal, il y a eu une panne d'électricité géante pendant plus de 24 heures il me semble. Tous les services publics étaient à l'arrêt en fait, les transports étaient à l'arrêt. C'est se dire avec cette proposition là, comment on peut faire sans numérique ? Donc c'est à la fois enlevons du numérique là où ce n'est pas utile, et comment on pourrait faire en cas de coup dur de faire sans, en fait ?
+
+Adrien : Oui, on est déjà rentré dans les propositions. Donc Leïla a déjà démarré avec la première proposition qui est donc de sécuriser les services publics essentiels hors réseau. Comme tu l'as dit Richard, tu l'as illustré par un exemple de blackout. Et ça, ça me permet un peu de dire une des motivations de la technocritique quand les systèmes se complexifient, quand ils s'électrifient puis après se numérisent, ils rajoutent encore une couche de technologie on va dire pour résumer. Et bien ces systèmes là, ils sont fragiles en cas d'arrêt et tout s'arrête.
+
+Je prends moi souvent l'exemple qui a été donné dans une réunion sur le blackout. C'est les systèmes de pompe à eau pour amener l'eau dans les immeubles qui sont électriques mais qui maintenant, ils sont avec une couche d'informatique. C'est à dire que maintenant c'est l'informatique qui contrôle ce système électrique. Si il y a un problème d'informatique, il y a un bug informatique, ça flingue tout le système. Il n'y a plus d'eau. Donc ça rend la chose très très fragile. Alors peut-être qu'il ne faut pas aussi faire des immeubles très hauts. Ça éviterait de devoir utiliser des pompes.
+
+Mais je réponds à une critique qui est faite des fois de la technocritique de ne pas penser à ce système, aux pannes que ça impliquerait et de penser qu'à la technique... Non, justement on pense à ce système qui se rigidifie, qui se fragilise en devenant de plus en plus complexe. Donc votre première proposition, c'est ça, c'est de garantir un service public hors réseau qui pourrait marcher sans ou avec moins de numérique.
+
+### Ce qui est intéressant dans la présentation que vous pouvez lire sur le site, c'est qu'il y a un pourquoi et après il y a des propositions de mesures. 
+
+Oui, tout à fait. Pour chacune des dix propositions, on a cette trame-là. On explique pourquoi et c'est des exemples de mesures. Bien sûr, on ne peut pas être exhaustif. Peut-être qu'il y a des nouvelles choses. On pourra faire progresser, faire évoluer. On réfléchit à comment ouvrir ces propositions à contribution.
+
+Pour ce sujet-là en tout cas, j'en ai parlé mais peut-être pour te rejoindre aussi, c'est effectivement le numérique aujourd'hui est hyper fragile. C'est tellement complexe et on a de plus en plus d'exemples. Ça peut être aussi des risques de cyber-sécurité. Ce n'est pas que la question de rupture d'électricité, de ressources, etc. Mais aussi de risques cyber et puis des risques tout simplement de conception. On a eu des exemples récemment. Moi, en tant que développeur, j'ai été impacté. On a eu plusieurs jours à différents degrés où une panne dans un serveur aux États-Unis a impacté la terre entière.
+
+Il me semble qu'il y a deux ans, il y a eu une panne et là tant mieux. C'est une panne qui a bloqué pas mal d'aéroports, notamment à Londres. Et là, bravo, sympa la panne, merci pour ça. Et qui a bloqué l'aéroport à cause d'une mise à jour Windows qui n'est pas passée.
+
+Adrien : Ça rejoint aussi un des points, je n'ai pas envie de les faire dans le désordre, mais on reviendra aussi sur la vidéo-surveillance. C'est en Corée où deux personnes avaient réussi à hacker les vidéos-surveillance de maisons. Plusieurs centaines de millions de vidéos-surveillance et avaient élaboré grâce à ces vidéos, des vidéos pornographiques. On en reparlera si on a le temps.
+
+
+
+### On va aller sur la deuxième, mais on va dans l'ordre, ça dérange. On revient, ça rebondit sur la première... C'est assurer une gestion municipale sobre et dégafamiser. Il faut peut-être expliquer ce que c'est que les GAFAM.
+
+Les GAFAM, c'est les entreprises américaines. Les grosses structures Google, Apple, Facebook, donc Meta aussi maintenant, Amazon, Microsoft, qui aujourd'hui sont partout. En France, je ne parle pas aux États-Unis, mais même en France, c'est partout. Tout le monde utilise à titre perso, les associations malheureusement les utilisent.
+
+Même si des associations comme Framasoft militent pour dégoogliser, sortir de ces outils. Parce qu'il y a des outils alternatives, libres, open source.
+
+Adrien : C'est dans vos propositions, effectivement.
+
+Richard : Nous, à l'échelle des municipales, on le sait très bien, c'est des outils utilisés dans les services municipaux. Dans les outils de la mairie et les différentes structures municipales. Du coup, on invite, avec cette proposition, de sortir de cette dépendance étasunienne qui est risquée aujourd'hui.
+
+Avant, on parlait des GAFAM, le risque, c'était quoi ? C'était la collecte des données, le risque d'atteinte aux données personnelles. Aujourd'hui, depuis récemment, on l'a découvert, mais c'était un peu sous-jacent, c'est le risque technofasciste. Le risque fascisant de ces entreprises qui en fait allégeance à Donald Trump. Tous les dirigeants de ces entreprises et la politique qui est menée à l'intérieur de ces entreprises.
+
+Adrien : Oui, et c'est peut-être là où on va avoir peut-être pas un désaccord, mais peut-être une discussion. Parce qu'on a fait une émission là-dessus, sur les techniques autoritaires. Et technofascisme, pour moi, c'est un pléonasme, puisqu'effectivement, ces technologies, elles sont autoritaires. Mais bon, on pourrait en discuter. C'est-à-dire que ça fait longtemps que dans les milieux technocratiques, on alerte sur Elon Musk.
+
+On n'a pas attendu qu'il fasse un signe nazi pour dire qu'il était complètement fou, parce qu'il avait une volonté de puissance assez, comment dire, complètement titanesque. Enfin, je ne sais pas comment le dire. Et donc ça, ça va avec cette technologie. Mais on pourrait en discuter. Ça serait un débat. Ça n'enlève pas pour autant la réflexion, parce que moi, ce qui me fait rigoler, c'est toujours le côté nationaliste des hommes politiques, cocorico, et puis on utilise Windows, on utilise Google, mais il n'y a aucune incohérence. Mais bon, on le retrouve dans d'autres technologies. C'est assez drôle de voir qu'ils ont un double discours.
+
+Richard : Nous, autour de cette table, peut-être nos auditeurs, on est conscient de ça, mais tout le monde n'était pas conscient de ça.
+
+Adrien : Non, non, non, bien sûr. Oui, non, mais c'est pour ça. Je sais qu'il y a eu une discussion autour de consensus. Et c'est bien de présenter. Je pense qu'on aura le temps d'en discuter dans d'autres émissions, sur technique autoritaire, etc., technofascisme, le terme, pourquoi, est-ce qu'il est pertinent, est-ce qu'il est fait pour alerter, ou est-ce qu'il ne brouille pas les cartes aussi, je ne sais pas. Voilà, c'est quelque chose qui nous plaît de discuter à Technologos, en tout cas.
+
+Richard : En tout cas, moi, personnellement, je me positionne quand même... Il y a des technologies, on va dire, qui sont utiles dans certains domaines, dans finalement très, très peu de domaines, mais on ne peut pas renier toutes les technologies. Il ne faut pas rentrer non plus dans du réactionnaire, on va dire. Mais effectivement, certaines technologies... Là, dans le côté technofasciste, juste peut-être rapidement, c'était dans le côté que c'est plutôt des entreprises, on va dire, menées par des gros capitalistes, et qui aujourd'hui ont vraiment fait allégeance à l'extrême droite.
+
+Adrien : Oui, tout à fait, tout à fait. OK, on va continuer. Ah, c'est le moment de la pause. On peut faire une petite pause, comme ça, on se détend. Comme ça, on va laisser Maria s'installer définitivement. On va écouter un groupe qu'on a déjà diffusé, qui s'appelle La Maison Bizarre, et qui, je l'espère, fera un concert bientôt, en 2026, je l'espère. Et voilà, petite pause.
+
+(musique)
+
+Adrien : Vous êtes sur Radio Fréquences Paris-Puriel 106,3 FM, dans l'émission Paroles Technocritiques, toujours avec Richard, Serge et Maria, en studio et en cabine, Blaise et Leïla.
+
+On parle aujourd'hui des dix propositions pour une désescalade numérique au Municipal 2026, avec comme sous-titre que j'adore, "Ne laissez pas l'intelligence artificielle écrire votre programme", et on va essayer de balayer toutes les propositions avec le temps qui nous reste encore, et puis on verra si on n'y arrive pas, tant pis, on a quand même des événements, je demande en cabine de me prévenir quelques minutes avant la fin, parce qu'il faut parler des événements qui auront lieu en janvier.
+
+### On y va sur la proposition 3, garantir un service public humain, qui va pour moi avec la proposition 4, favoriser les emplois, pas les IA.
+
+D'abord un service public humain, parce que vous le rappelez, ça c'est très bien fait dans le document, c'est que 17% des Français rencontrent des difficultés avec le numérique, et que 13% des Français ne possèdent pas de smartphone, et ça, ça implique une exclusion de plus d'une personne sur dix, si le service repose que sur le numérique.
+
+Richard : Oui, tout à fait, et moi-même je suis développeur, mais je me sens exclu aussi parfois, c'est très compliqué, parce que comme beaucoup de nos auditeurs et auditrices, sans doute, j'ai dû faire des démarches en ligne pour mes parents, notamment, pour moi, pour ma famille, et c'est toujours la croix et la bannière en fait, c'est très très complexe, et imaginez un public très éloigné du numérique, ou allophone, etc., ça peut être très très compliqué d'accéder à des services en ligne, surtout quand ces services sont de plus en plus réduits au numérique en fait.
+
+On n'a plus d'alternative autre que le numérique, et donc ce qu'on dit dans cette proposition, c'est de garantir toujours une alternative humaine au niveau de la collectivité, au niveau de la mairie, et du coup aussi de réduire l'usage de numérique pour accéder à certaines informations, notamment QR code. Pour accéder à une information, est-ce qu'on a besoin de flasher un QR code ? Bah non, on peut peut-être mettre juste l'URL.
+
+On a des choses beaucoup plus poussées, c'est notamment, on a cité le collectif Nantais de vigilance citoyenne, qui propose un droit à la non-connexion, parce qu'en réalité, ce qui était intéressant dans les ateliers qu'on a mené, certains nous ont dit, mais en fait, il n'y a aucune obligation d'utiliser le numérique, il n'y a aucun texte de loi qui oblige les citoyens à utiliser un site web, une application pour accéder à un service.
+
+Adrien : Mais c'est assez étonnant d'ailleurs, parce qu'en fait on n'a plus le choix, et chaque fois que je dis que je n'ai pas de smartphone, on me dit que c'est mon choix, j'ai le droit, mais en fait dans les faits, il va falloir que je passe par le numérique, par un QR code, donc en fait je n'ai pas le choix, c'est pas vrai, si à la fin il faut passer par un QR code, je ne peux pas l'utiliser, donc c'est très étrange quand même, cette histoire-là, et donc effectivement, s'il n'y a que le numérique, c'est problématique.
+
+Richard : Tout à fait, et il y avait un autre sujet qui était très très intéressant, dont on parle dans cette proposition, qui a été poussé par le collectif Halte au contrôle numérique, c'est le statut opposable d'objecteur du numérique, ça fait référence un peu à l'objecteur de conscience quand on fallait aller au service militaire, et effectivement ça peut être assez intéressant comme inscrire dans la loi, dans le juridique, qu'on n'est pas obligé d'utiliser du numérique pour accéder au service public.
+
+Serge : Je voulais signaler à ce propos qu'il y a un collectif de chercheurs qui s'appelle Atelier d'écologie politique, qui a lancé un manifeste d'objecteurs de conscience face à l'IA générative. Pour l'instant, il y a des tentatives comme ça, un peu partout, je ne m'en rends pas trop compte.
+
+Richard : Effectivement, j'ai vu passer ça, j'ai signé tout de suite, et du coup oui, c'est des enseignants dans les universités qui disent que la déferlante IA, c'est plus possible, ils se positionnent comme objecteurs de conscience, de ne pas utiliser l'IA, et pour l'instant ça n'a pas tellement de valeur, mais en tout cas pour moi ça a une valeur, c'est que ça amène le sujet dans le débat public, et effectivement remonter aussi aux instances dirigeantes.
+
+### C'est marqué dans les mesures de la proposition 3, ne pas utiliser l'IA pour interagir avec le public.
+
+Richard : Tout à fait, c'est tout ce qui est chatbot, assistance, même aujourd'hui on appelle, on tombe sur un répandeur avec une IA de plus en plus, où ça peut être juste un truc automatisé, qu'est-ce que vous cherchez, on doit parler à une machine, l'état civil, et puis attendre, et puis non, il n'a pas compris, etc.
+
+Adrien : Ça rebondit avec la proposition 4, favoriser les emplois, pas les IA. Ah, il y a une intervention de Leïla, et après de Serge.
+
+### Oui, j'ai une question pour Richard, parce que tu es informaticien, peut-être tu sais, je me posais la question, l'entraînement des IA, est-ce que c'est quelque chose qui est interdit de base ?
+
+Je sais qu'on doit donner un consentement normalement pour ça, donc pourquoi est-ce que, sur certaines applications, c'est installé par défaut ? Tu vois, par exemple, les applications de messagerie internet, si tu ne vas pas dans les paramètres pour l'enlever, toutes tes mails sont lus par des robots qui vont s'améliorer comme ça.
+
+Richard : Oui, c'est une logique des GAFAM, c'est un design pattern, c'est-à-dire que, de base, dans la conception, on va pousser le maximum la fonctionnalité IA, même si les utilisateurs ne l'ont jamais demandé. Moi, j'ai WhatsApp de Meta, et effectivement, il y a le bouton IA qui est apparu, et je ne sais pas, il n'y a aucune possibilité de l'enlever, en fait. Donc c'est vraiment poussé à son usage
+
+Tu parlais d'entraînement. Lorsqu'on utilise les outils américains, aujourd'hui, effectivement, la plupart des données sont pompées par les robots d'indexation des IA, notamment ChatGPT et compagnie. Et ça, effectivement, même s'il y a des mécanismes, des outils qui nous permettent de désactiver certaines choses, il ne faut pas se leurrer, en réalité, tout est pompé. Donc, on va dire, c'est assez inéluctable que toutes ces IA sont entraînées avec la connaissance et les informations personnelles.
+
+Serge...
+
+### Et est-ce que tu peux nous dire un peu ce qui s'est passé à Villeurbanne, par exemple, concernant le droit au nom numérique, apparemment, c'est appliqué, c'est ça ?
+
+Richard : Oui, tout à fait. Donc, c'est un très bon exemple où, à Villeurbanne, la municipalité a décidé de proposer un "droit au nom numérique". Et donc, la ville s'est engagée à offrir systématiquement une alternative non numérique à ses guichets, donc une ligne téléphonique ou un service dédié avec des vrais humains ou un accès par courrier.
+
+Serge : Donc, c'est possible ?
+
+Richard : C'est tout à fait possible.
+
+Adrien : Ça doit embêter les gestionnaires, quand même, d'offrir plusieurs possibilités à chaque fois. J'imagine la critique qu'il pourrait y avoir. 
+
+Maria ?
+
+### Je voudrais réagir sur l'exclusion. Eh bien, je trouve que vos reproches, vous êtes un peu dures, parce que les services publics, nous, on est sensible à l'exclusion numérique, mais les pouvoirs publics, ils sont très sensibles à l'exclusion. Ils mettent beaucoup de sous pour réduire la fracture numérique. L'illectronisme. Une personne sur dix, c'est une catastrophe pour tout le monde. Donc, on va arriver à zéro. Il y a de l'espoir. Il faut former les seniors. Exactement, ils repartent à l'école. D'ailleurs, l'expression en anglais, c'est "computer literacy". En français, ça doit être un truc comme "alphabétisation". On n'ose pas dire "alphabétisation", mais ça veut dire ça en anglais. On repart à l'école et ils vont y arriver.
+
+Adrien : Oui, il faut réduire cette fracture.
+
+Richard : Merci d'en parler. Oui, on parle d'inclusion numérique. Et ça, effectivement, on n'a pas parlé dans ces propositions d'inclusion numérique, puisque pour nous, ce n'était pas du tout le sujet. Au contraire, l'inclusion numérique, c'est plutôt de ne pas faire de numérique, de proposer des alternatives non numériques. C'était plutôt dans ce sens-là.
+
+Adrien : OK, on continue. On dit à favoriser les emplois, pas les IA. Je pense qu'on a un peu touché le sujet.
+
+Maria : Je voulais ajouter que, à partir du 1er janvier 2026, dans le service des impôts, il y a des télédéclarations qui sont obligatoires. Et j'ai regardé un peu les conditions d'exemption. C'était les personnes qui déclarent qu'elles ne sont pas aptes ou elles n'ont pas Internet chez elles ou elles n'ont pas les moyens, elles ne peuvent pas faire, elles ne savent pas faire. Mais c'est déjà obligatoire. Et puis, pas grave, parce qu'en fait, c'est déjà 70% des personnes qui passent par une télédéclaration, donc on y est déjà presque 100%.
+
+Adrien : Donc, favoriser les emplois, pas les IA.
+
+### Plus d'humains, en fait ?
+
+Richard : Oui, et en même temps, c'est plus loin que ça, parce qu'en fait, on parle notamment de créer de l'emploi qui ne soit pas de l'IA, notamment tout ce qui est métiers du réemploi, de la réparation, du recyclage, tout ce qui est sujet de solidarité au niveau local. Donc, tout l'argent que pourrait mettre le service informatique des mairies dans les IA et compagnie, dans les algorithmes pourrait être vraiment alloué sur des subventions à des associations, sur développer des activités vraiment avec de l'humain.
+
+Adrien : C'est ça que les gens, des fois, ne comprennent pas quand on fait de la critique des technologies. C'est le paramètre. Tout le pognon de dingue qu'on met dans la technologie et pas dans l'humain.
+
+Richard : Ah ben, il faut qu'on parle de télésurveillance, alors.
+
+Adrien : Ben allons-y, parce qu'on a un peu effleuré le sujet tout à l'heure. C'est la proposition 5 que j'aime beaucoup,
+
+### Assurer la sécurité sans vidéo-surveillance. Mais comment ça ? C'est pas du tout efficace sans vidéo.
+
+Richard : Avec vidéo-surveillance, c'est pas efficace non plus.
+
+Adrien : Ouais, j'ai vu il y a le 1% des enquêtes sont élucidées grâce à la vidéo-surveillance.
+
+Richard : Ouais, selon une étude commandée par la gendarmerie.
+
+Adrien : Ah, ok, pas de biais.
+
+Richard : Il n'y a pas de biais, donc effectivement, et ça coûte très très cher. On donne quelques exemples. Pour un village, l'installation d'une quinzaine de caméras coûte 100 000 euros. Plus la maintenance, plus la supervision. Donc il y a un coût annuel qui pourrait être vraiment alloué à autre chose.
+
+Adrien : Oui, t'as dit un mot important, on y reviendra sûrement dans une mission. C'est la maintenance. On ne se rend pas compte à quel point ces outils sont fragiles. Et il faut payer sur une longue durée. D'où le concept d'abonnement qui s'est développé, je pense, aussi dans le capitalisme de la fidélisation.
+
+Richard : C'est un problème systémique, la vidéo-surveillance. Vidéo-protection, pardon, selon nos élus. Bien sûr, il faut traduire ça en vidéo-surveillance.
+
+Si la vidéo-surveillance est déjà installée, ce qu'il faut faire, c'est surtout ne pas escalader vers la surveillance algorithmique, qui est arrivée un peu à la mode avec les Jeux Olympiques de Paris.
+
+Et puis, comment faire de la sécurité sans vidéo-surveillance ? En fait, en remettant du lien social. En fait, on a vachement poussé dans ces propositions, face au repli sur soi, face au capitalisme individualiste ambiant, on va dire, c'est recréer du lien social, créer des locaux, des infrastructures municipales, faire des maisons de quartier pour les jeunes.
+
+Enfin, quand je vois par chez moi, les deux maisons de quartier ont été supprimées il y a 10 ans. Aujourd'hui, il y a l'explosion du trafic de drogue. Voilà, c'est un peu sans doute lié.
+
+Avec l'argent de la vidéo-surveillance qu'on va éviter, c'est embaucher des médiatrices, médiateurs de quartier pour animer, notamment les quartiers, les jeunes, etc. Et puis, investir dans la culture, dans les activités locales, etc.
+
+Adrien : Et donc, comme je le disais, mettre ces infrastructures de surveillance nous expose aussi à des risques, comme je l'ai dit en Corée, des vidéos-surveillance qui ont été hackées, centaines de milliers. Et donc, des images qui ont été détournées, utilisées. Donc, il faut de la maintenance et en plus payer de la cyber-sécurité. Tout ça, ça a un coût vraiment très, très important. Je pense qu'on ne s'en rend pas compte.
+
+### On continue avec la proposition 6, bien sûr, bannir les écrans publicitaires de l'espace public et des transports en commun.
+
+On le voit, nous qui prenons le métro, les énormes écrans qui ont été installés il y a les 3-4 ans, qui diffusent des publicités pour le bien de l'épidémie des myopies internationales que j'ai vues dans le monde. Bon, bref, mais qui poussent à la consommation. On voit les publicités. C'est une aberration écologique, énergétique. C'est un gouffre financier.
+
+Richard : Et colonial à chaque fois, puisque ça repose sur l'accaparement de ressources, l'asservissement de peuples ailleurs.
+
+Pour la petite anecdote, toi, tu cites une bonne action que tu as vue dans le métro. Moi, j'ai une capture écran, je pourrais vous l'envoyer, avec des écrans numériques allumés qui vous disent, est-ce que vous avez pensé à éteindre la lumière en partant de chez vous ?
+
+Adrien : C'est génial. On est un peu dans l'absurde, parce qu'il y a une sorte de multiplication des écrans. On le voit même dans le métro, dans les quais, mais dans le métro, à l'intérieur du métro et à l'intérieur des bus, on met des écrans partout, qui ne sont pas que publicitaires.
+
+Maria : Et sur les portes palières des métros automatiques, ligne 4. C'est plus que dans le dos, c'est devant soi et pas juste en face.
+
+Adrien : C'est comme si on n'était pas capable de comprendre que il y avait marqué trois minutes à un seul endroit, ça suffisait largement.
+
+Maria : C'est de la pub. Entre les portes palières, tu as maintenant de la pub.
+
+Adrien : D'accord, je n'avais pas vu.
+
+Serge : Il y a aussi les portes qui s'ouvrent sur un écran qui fait exactement la taille de la porte de notre vision.
+
+Adrien : Oui, ça, c'est sur le quai, ça.
+
+Richard : Sachant que de toute façon, les gens ont déjà la tête baissée vers leur téléphone, donc un écran en plus ou en moins.
+
+Maria : Oui, tu as raison, tête baissée. Donc plus utile, les trottoirs. Qu'est-ce qu'ils attendent pour envahir les trottoirs ?
+
+Adrien : Ah oui, les trottoirs par terre, ça serait génial. Des dalles tactiles. Des rétroviseurs. Oui, ça, je pense que depuis Casseurs de pub,
+la décroissance qui avait effectivement décidé de sensibiliser sur la publicité qui envahit... Oui, tu voulais rajouter quelque chose ?
+
+Richard : par rapport aux trottoirs, ça me fait penser, je crois que c'est en Corée du Sud, comme il y avait de plus en plus d'accidents, comme les jeunes ou les moins jeunes sont sur leur téléphone, ils ont mis effectivement des luminaires par terre pour indiquer là où il y a des passages piétons ou c'est un accès à la voirie, en fait.
+
+Maria : C'est une lutte incessante. Parce que quand j'étais gamine et qu'on allait au bord de la mer, il y avait des avions qui circulaient avec des bannières publicitaires. Ça a été entre temps interdit.
+
+Adrien : Oui, moi j'ai vu des bateaux aussi sur la Côte d'Azur. C'est des bateaux publicitaires, sur lesquels il y avait un écran.
+
+Serge : Mais moi je pensais que ça avait, je n'ai pas une bonne information, que ça avait été, il y avait une sorte de moratoire sur les écrans, en tout cas à Paris, non ? Je ne sais pas où en est la législation en fait.
+
+Richard : À Paris, je ne sais pas. Mais en tout cas, il y a plusieurs villes de France, on les cite dans le document, Grenoble, Lyon, Bordeaux, qui ont effectivement pris des mesures pour interdire ou fortement limiter les écrans numériques publicitaires. Et ça, ça se fait assez facilement, on va dire, puisque la municipalité a accès à un outil juridique qu'elle maîtrise. C'est le règlement local de publicité. Et donc peut interdire les écrans publicitaires.
+
+Effectivement, après, il y a un manque de revenus, enfin, puisque c'est une source de revenus, pourquoi les mairies le mettent en place ? C'est parce que c'est une source de revenus. Mais avec tellement d'impact et de pollution visuelle énergétique, ça ne vaut pas le coup.
+
+Adrien : Alors, on est vers la fin de l'émission, je suis désolé. Il va falloir faire une petite pause, pas musicale, mais donner les événements qui vont arriver. Et après, si on a un peu de temps, on revient, d'accord ? Alors, on va commencer. Leïla, je t'écoute.
+
+### Les évènements
+
+Leïla : C'est en lien avec le thème de cette émission. En janvier, le samedi 24, auront lieu les Assises de l'attention, qui sont organisées depuis plusieurs années par l'association Lève les yeux, avec d'autres associations. Et cette année, le thème, c'est "Surexposition aux écrans, que peuvent les villes ?" Donc, on peut encore s'inscrire, il reste des places. C'est à la Bellevilloise, dans le 20e arrondissement de Paris, le samedi 24 janvier, de 8h30 à 18h.
+
+Et il y aura notamment une table ronde, le matin, qui s'intitule "Vers des villes sobres en écran", dont on vient d'en parler, avec l'intervention, entre autres, de Celia Izoard, qui est l'autrice du livre La ruée minière au XXIe siècle, dont Adrien a parlé le mois dernier et ce mois-ci. Et évidemment, initiatrice, avec Point de M.I.R, l'association de Richard, de décroissance numérique, dix propositions pour les municipales.
+
+Adrien : Désescalade, attention !
+
+Leïla : Ah oui, sur le site, ce n'est pas moi, c'est écrit comme ça. Et l'après-midi, il y aura, à 16h15, une présentation de la charte municipale "Plus d'humains, moins d'écrans", portée par le collectif Attention. Donc là, encore une fois, une action en vue de ces élections, certainement.
+
+Et enfin, à 16h30, une table ronde Comment les institutions peuvent-elles soutenir la déconnexion ? Donc là aussi, ça rejoint complètement notre sujet. Voilà, donc inscrivez-vous.
+
+On a le séminaire sur le totalitarisme informatique, qui lui aussi a lieu depuis plusieurs années, organisé par Christopher Pollman qui est membre de Technologos. Et le 13 janvier, c'est un mardi, à 18h, à la Maison Suger, 21 rue Suger, dans le sixième arrondissement à Paris. C'est l'auteur Julien Gobin, L’individu, fin de parcours ? Le piège de l’intelligence artificielle, qui parlera du sujet "Le clivage entre perspectives individuelles et collectives exacerbées par l'informatique".
+
+Blaise : Et une petite annonce aussi, le 24 janvier, le centenaire de la naissance d'Ivan Illich, à l'Académie du climat. On ne pourra pas se dédoubler, donc c'est avec l'Institut Momentum, la revue Topophile, Thierry Paquot.
+
+Adrien : Donc on a vraiment un samedi 24 très technocritique. Vous pouvez aller le matin à l'Académie du climat, et l'après-midi à la Belle-Villevoise, ou le contraire.
+
+Alors on va se survoler, on a quatre minutes. Je pense qu'on aura le temps un jour d'y revenir. C'est les autres propositions. Bien sûr, une qui me touche particulièrement, c'est à l'école,
+
+### Favoriser une éducation ouverte et créative
+
+Vous signalez, effectivement, la consommation d'écran chez les enfants. Vous demandez à ne plus fournir de tablettes. Je crois qu'on en a un peu revenu dans certains endroits de France. Là, il y a eu la commission TikTok, des déclarations du président sur même le smartphone au lycée. Il y a des lycées qui se sont mobilisés bien avant ça pour interdire le smartphone ou alors utiliser des casiers pour mettre les smartphones pendant les cours. Je pense qu'il y a un mouvement. Ça, c'est plutôt une voie aussi d'entrée de la technocritique par l'école et par les enfants.
+
+Richard : Alors, effectivement, on en parle, mais nous, en tout cas, on ne parle pas d'interdiction. Nous, on n'a pas voulu aller sur ce chemin-là, même si certains bénévoles qui ont participé à ces travaux ont tout de suite parlé d'interdiction du téléphone, etc. Interdiction des réseaux sociaux.
+
+D'ailleurs, l'Australie l'a fait il y a quelques jours, mais on a déjà des échos comme quoi les adolescents le contournent.
+
+Pour nous, ça ne nous paraît pas très efficace. Il faut que l'Éducation Nationale se regarde en face et se dise qu'il faut sanctuariser l'école, notamment en primaire ou au collège, et de faire vraiment une éducation la moins liée à des technologies. Et quand, malheureusement, on voit que la plupart du temps, c'est des tableaux numériques, il n'y a plus de la craie, ça n'existe quasiment plus, ou presque.
+
+Adrien : Ça existe parce qu'en fait, je l'ai vu parce que j'ai milité contre les dalles tactiles, et en fait, l'expérience montre que les professeurs en avaient marre des salles avec que des écrans tactiles, et donc préfèrent encore le feutre, pas la craie. Donc, il y a vraiment une prise de conscience par l'expérience aussi.
+
+Après, sanctuariser, je milite aussi pour la sanctuarisation, c'est aussi interdire le smartphone dans le lycée, comme c'est fait au collège. Après, ça peut être contourné, mais considérer que c'est interdit, en tout cas que c'est mauvais, c'est ça que je défends. Après, qu'ils le contournent comme beaucoup de choses, je veux dire qu'ils le contournent, mais au moins que ce soit posé. Et d'ailleurs, c'est ce qui manque dans les lycées, c'est qu'il y a des référents numériques, mais il n'y a pas de référent critique du numérique. Et moi, j'aimerais bien que ça existe, parce que sinon, si on n'apporte pas des informations, on n'explique pas aux élèves et aux enseignants les méfaits de la fabrication et de l'utilisation, on interdit froidement sans expliquer.
+
+Maria : Ils existent, mais ils ne le savent pas encore, c'est les éco-délégués. Je suis sûre que par eux, on va pouvoir...
+
+Adrien : Oui, mais en fait, on pourra en reparler, on fera, je pense, un truc sur l'enseignement, vraiment, on discutera de ce qui se passe. Je voudrais juste, il y a deux minutes, on en reparlera.
+
+### Il y a refuser l'installation des data centers
+
+Il y a un excellent numéro du Chiffon, qui est un journal de Paname et de sa banlieue, un journal garanti sans IA, je pense qu'on les invitera, parce qu'ils ont fait un travail sur les data centers en Ile-de-France, tous les projets.
+
+### Il y a la dixième proposition où vous parlez courageusement, je pense, de limiter les antennes relais et l'exposition électromagnétique.
+
+Alors, ça m'embête de le faire à la fin, parce que vous l'avez mis aussi à la fin, je ne sais pas si c'est fait exprès, parce que c'est souvent dans les collectifs, on évite de parler de ça, parce que ça ne fait pas consensus au niveau scientifique, ce n'est pas encore assez documenté.
+
+Pour certains, c'est déjà suffisamment documenté, donc il y a une controverse, même dans les milieux écologistes, on a peur de ça. Mais moi, je trouve ça intéressant que ça soit présent, et je trouve ça assez courageux quand même. On pourrait en discuter, même à Technologos, des fois, on n'est pas d'accord là-dessus. Et il va falloir que j'arrête là.
+
+Je remercie Richard, tu reviendras Richard. Je remercie Serge, Maria, Leïla et Blaise. À bientôt.
