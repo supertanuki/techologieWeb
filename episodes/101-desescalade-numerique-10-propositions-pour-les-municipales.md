@@ -1,8 +1,8 @@
 ---
 episode_number: 101
-title: Désescalade numérique, 10 propositions pour les municipales
+title: Désescalade numérique, 10 propositions pour les municipales (1/2)
 people: Technologos et Richard Hanna
-description: Cet épisode est une rediffusion de l'émission Paroles Technocritiques diffusée sur Radio Fréquence Paris Plurielle le 27 décembre 2025 et animée par les membres de l'association Technologos qui ont invité Richard Hanna à parler des 10 propositions de désescalade numérique pour les municipales.
+description: Cet épisode est une rediffusion de l'émission Paroles Technocritiques diffusée sur Radio Fréquence Paris Plurielle le 27 décembre 2025 et animée par les membres de l'association Technologos qui ont invité Richard Hanna à parler des 10 propositions de désescalade numérique pour les municipales. Première émission d'une série de deux. La seconde émission sera diffusée à la fin du mois de janvier.
 date: 2026-01-20
 image: /img/episodes/101-desescalade-numerique.png
 audio_link: https://soundcloud.com/techologie/101-desescalade-numerique-10-propositions-pour-les-municipales
