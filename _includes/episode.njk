@@ -2,8 +2,14 @@
 layout: layouts/base.njk
 ---
 
-<br/>
 <h1>{{ title }}</h1>
+
+<p class="episode-detail-image text-centered">
+  <img src="{{ image }}" alt="{{ people | safe }}"/>
+</p>
+<p class="label text-centered">
+  <span>{{ people | safe }}</span>
+</p>
 <p class="published">
   {% if lang == 'en' %}
     <a href="/en">Episodes</a>
@@ -12,13 +18,9 @@ layout: layouts/base.njk
     Épisode {{ episode_number }} publié le {{ date | toFrenchDate }}
   {% endif %}
 </p>
-<p class="text-centered">
-  <img src="{{ image }}" alt="{{ people | safe }}"/>
-</p>
-<p class="label text-centered">
-  <span>{{ people | safe }}</span>
-</p>
+
 <p>{{ description | safe }}</p>
+
 <p class="listen text-centered">
   {% if lang == 'en' %}
     <a href="{{ audio_link | safe }}" title="Listen {{ title | safe }} on Soundcloud" class="focus">
@@ -40,7 +42,8 @@ layout: layouts/base.njk
     {% endif %}
   {% endif %}
 </p>
-<p>
+
+<p class="text-centered">
   <small>
     {% if lang == 'en' %}
       By listening to this episode, you will download {{ audio_size_in_megabyte }} MB of data.
