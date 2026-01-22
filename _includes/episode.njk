@@ -26,20 +26,10 @@ layout: layouts/base.njk
     <a href="{{ audio_link | safe }}" title="Listen {{ title | safe }} on Soundcloud" class="focus">
       Listen
     </a>
-    {% if download_link %}
-      <a href="{{ download_link | safe }}" title="Download episode {{ title | safe }}" class="focus">
-        Download .mp3
-      </a>
-    {% endif %}
   {% else %}
     <a href="{{ audio_link | safe }}" title="Écouter l'épisode {{ title | safe }} sur Soundcloud" class="focus">
       Écouter
     </a>
-    {% if download_link %}
-      <a href="{{ download_link | safe }}" title="Télécharger l'épisode {{ title | safe }}" class="focus">
-        Télécharger en .mp3
-      </a>
-    {% endif %}
   {% endif %}
 </p>
 

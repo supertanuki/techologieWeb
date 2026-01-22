@@ -107,11 +107,8 @@
             Commenter sur
             <a rel="me" href="https://piaille.fr/@techologie">Mastodon</a>,
             <a href="https://www.imagotv.fr/podcasts/techologie">Imago</a>, ou
-            <a href="https://framateam.org/techologie/">
-              Framateam
-            </a>. {% set absoluteUrl %}{{ metadata.feed.path | url | absoluteUrl(metadata.url) }}{% endset %}
-          </p>
-          <p>
+            <a href="https://framateam.org/techologie/">Framateam</a>.
+            {% set absoluteUrl %}{{ metadata.feed.path | url | absoluteUrl(metadata.url) }}{% endset %}
             <a href="{{ absoluteUrl }}">Flux RSS</a>
           </p>
         {% else %}
