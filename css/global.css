@@ -76,6 +76,7 @@ img {
   overflow: hidden;
   width: 240px;
   height: 240px;
+  border-radius: 10px;
 }
 
 .episode-image img {
@@ -242,7 +243,7 @@ main .label span {
   width: 240px;
   background: var(--primary-color);
   margin: 0 auto 20px;
-  border: 1px solid var(--primary-color);
+  border-radius: 10px;
 }
 
 .episodes li .description {
