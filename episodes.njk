@@ -15,18 +15,6 @@ eleventyNavigation:
 
 {% set episodes = collections.episode %}
 
-
-<h2>Les plus écoutés</h2>
-
-<ul class="episodes">
-  {% for episode in episodes | reverse %}
-  {% if episode.data.top %}
-    {% include "episodeslist.njk" %}
-  {% endif %}
-  {% endfor %}
-</ul>
-
-
 {% set currentYear = null %}
 
   {% for episode in episodes | reverse %}

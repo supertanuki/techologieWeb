@@ -18,13 +18,22 @@ eleventyNavigation:
     Techologie, le podcast qui questionne le rôle des technologies face aux enjeux écologiques.
   </h1>
 
-  <h2>Les derniers épisodes</h2>
+  {% set episodes = collections.episode %}
 
+  <h2>Les derniers épisodes</h2>
   <ul class="episodes">
-  {% set episodes = collections.episode | head(-3) %}
-  {% for episode in episodes | reverse %}
-    {% include "episodeslist.njk" %}
-  {% endfor %}
+    {% for episode in episodes | head(-3) %}
+      {% include "episodeslist.njk" %}
+    {% endfor %}
+  </ul>
+
+  <h2>Les plus écoutés</h2>
+  <ul class="episodes">
+    {% for episode in episodes | reverse %}
+      {% if episode.data.top %}
+        {% include "episodeslist.njk" %}
+      {% endif %}
+    {% endfor %}
   </ul>
 
   <p class="text-centered">

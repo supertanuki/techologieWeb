@@ -8,6 +8,7 @@ image: /img/episodes/91-celia-izoard.jpg
 audio_link: https://soundcloud.com/techologie/91-la-realite-miniere-du-numerique-avec-celia-izoard
 audio_size_in_megabyte: 74
 transcribed: true
+top: true
 ---
 
 Après des études de Philosophie, Celia Izoard est journaliste indépendante et écrit des articles critiques de la technologie moderne et elle dénonce la numérisation de la société. Elle a traduit des ouvrages comme 1984 de George Orwell. Elle a aussi écrit des essais critiques de la numérisation du monde comme par exemple, La machine est ton seigneur et ton maître. Et Merci de changer de métier, lettres aux humains qui robotisent le monde.
