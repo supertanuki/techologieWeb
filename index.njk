@@ -22,7 +22,7 @@ eleventyNavigation:
 
   <h2>Les derniers épisodes</h2>
   <ul class="episodes">
-    {% for episode in episodes | head(-3) %}
+    {% for episode in episodes | head(-3) | reverse %}
       {% include "episodeslist.njk" %}
     {% endfor %}
   </ul>

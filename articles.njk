@@ -11,8 +11,8 @@ title: Articles
 <ul>
   {% for article in articles | reverse %}
   <li>
-    <a href="{{ article.url | url }}">{{ article.data.title}}</a>
-    <br /><small>{{date | toFrenchDate}}</small>
+    <a href="{{ article.url | url }}">{{ article.data.title }}</a>
+    <br /><small>{{ article.data.date | toFrenchDate }}</small>
   </li>
   {% endfor %}
 </ul>
