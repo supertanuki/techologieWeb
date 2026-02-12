@@ -30,6 +30,9 @@ title: Newsletter
 
 <ul>
   {% for newsletter in newsletters | reverse %}
-  <li><a href="{{ newsletter.url | url }}">#{{ newsletter.data.number}}. {{ newsletter.data.title}}</a></li>
+  <li>
+    <a href="{{ newsletter.url | url }}">#{{ newsletter.data.number}}. {{ newsletter.data.title}}</a>
+    <br /><small>{{ newsletter.data.date | toFrenchDate }}</small>
+  </li>
   {% endfor %}
 </ul>
