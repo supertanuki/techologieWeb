@@ -5,7 +5,7 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2026-02-12T14:03:51Z</updated>
+	<updated>2026-02-18T16:54:05Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
@@ -826,5 +826,13 @@
 		<updated>2026-01-29T00:00:00Z</updated>
 		<id>https://techologie.net/episodes/102-desescalade-numerique-10-propositions-pour-les-municipales/</id>
 		<content type="html">Second épisode sur les 10 propositions de désescalade numérique à l&#39;échelle locale pour les municipales. Comme le précedent épisode, il s&#39;agit d&#39;une rediffusion d&#39;une émission, Paroles Technocritiques diffusée sur Radio Fréquence Paris Plurielle, émission animée par les membres de l&#39;association Technologos.</content>
+	</entry>
+	
+	<entry>
+		<title>Plug, baby, plug : les impacts du data center</title>
+		<link href="https://techologie.net/episodes/103-plug-baby-plug-datacenter/"/>
+		<updated>2026-02-17T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/103-plug-baby-plug-datacenter/</id>
+		<content type="html">À l&#39;occasion du sommet Choose France, le 13 mai 2024, Emmanuel Macron avec sa phrase « plug, baby, plug », invitait des entreprises comme Microsoft et Amazon à implanter des data centers en France pour profiter d&#39;une énergie bas-carbone. Mais sait-on ce qu&#39;est vraiment un datacenter, ses conséquences environnementales, ses futurs impacts… sur notre futur. Pour répondre à nos questions sur les centres de données, nous avons Cécile Diguet, experte en architecture, design urbain et l&#39;impact des datacenters sur son territoire, coautrice avec Fanny Lopez du livre Sous le feu numérique, Spatialités et énergies des data centers, paru en 2023 aux éditions MétisPresses, coautrice d&#39;un rapport pour l&#39;Ademe : Prospective d&#39;évolution des consommations des centres de données en France de 2024 à 2060.</content>
 	</entry>
 </feed>
