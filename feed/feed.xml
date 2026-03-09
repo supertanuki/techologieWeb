@@ -5,7 +5,7 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2026-02-18T16:54:05Z</updated>
+	<updated>2026-03-09T15:20:07Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
@@ -834,5 +834,13 @@
 		<updated>2026-02-17T00:00:00Z</updated>
 		<id>https://techologie.net/episodes/103-plug-baby-plug-datacenter/</id>
 		<content type="html">À l&#39;occasion du sommet Choose France, le 13 mai 2024, Emmanuel Macron avec sa phrase « plug, baby, plug », invitait des entreprises comme Microsoft et Amazon à implanter des data centers en France pour profiter d&#39;une énergie bas-carbone. Mais sait-on ce qu&#39;est vraiment un datacenter, ses conséquences environnementales, ses futurs impacts… sur notre futur. Pour répondre à nos questions sur les centres de données, nous avons Cécile Diguet, experte en architecture, design urbain et l&#39;impact des datacenters sur son territoire, coautrice avec Fanny Lopez du livre Sous le feu numérique, Spatialités et énergies des data centers, paru en 2023 aux éditions MétisPresses, coautrice d&#39;un rapport pour l&#39;Ademe : Prospective d&#39;évolution des consommations des centres de données en France de 2024 à 2060.</content>
+	</entry>
+	
+	<entry>
+		<title>Decolonize tech</title>
+		<link href="https://techologie.net/episodes/104-decolonize-tech/"/>
+		<updated>2026-03-10T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/104-decolonize-tech/</id>
+		<content type="html">Decolonizing the digital world is a topic that still receives little media attention and is rarely explored, even here on this podcast. We had the opportunity to discuss this subject with David Maenda Kithoko about four years ago on Techologie (episode 67), and he explained the connection between wars, deaths, rapes, and the smartphones in our pockets. It is important to consider more generally the decolonization of ecology, especially here in the global north. Let&#39;s continue exploring this topic with Rania Youssef, a Back End Developer, queer activist and founder of Tribe-X in order to decolonize tech.</content>
 	</entry>
 </feed>
