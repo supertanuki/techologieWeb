@@ -7,6 +7,7 @@ date: 2022-04-22
 image: "/img/episodes/66-sandrine-elmi-hersi.jpg"
 audio_link: https://soundcloud.com/techologie/66-actions-des-regulateurs-telecoms-empreinte-numerique
 audio_size_in_megabyte: 32
+tags: ["géopolitique", "télécommunication"]
 ---
 
 ## Sommaire

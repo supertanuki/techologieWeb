@@ -7,6 +7,7 @@ date: 2021-03-16
 image: "/img/episodes/46-fabrice-flipo.jpg"
 audio_link: https://soundcloud.com/techologie/limperatif-de-la-sobriete-numerique-et-lenjeu-des-modes-de-vie-avec-fabrice-flipo
 audio_size_in_megabyte: 38
+tags: ["décroissance", "technocritique"]
 ---
 
 ## Les sujets abordés

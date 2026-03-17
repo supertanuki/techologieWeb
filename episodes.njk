@@ -11,7 +11,10 @@ eleventyNavigation:
 
 {% include "annonce.njk" %}
 
-<p><a href="/episodes-retranscrits/">Voir uniquement les épisodes retranscrits</a></p>
+<p class="buttons-list">
+  <a href="/tags/">Par thématique</a>
+  <a href="/episodes-retranscrits/">Épisodes retranscrits</a>
+</p>
 
 {% set episodes = collections.episode %}
 

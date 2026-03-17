@@ -9,6 +9,7 @@ audio_link: https://soundcloud.com/techologie/79-sortir-enfermement-technologiqu
 audio_size_in_megabyte: 57
 transcribed: true
 top: true
+tags: ["décroissance", "redirection", "éthique"]
 ---
 
 ## Sommaire

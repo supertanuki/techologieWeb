@@ -7,6 +7,7 @@ date: 2019-05-23
 image: "/img/episodes/13-frederic-bordage.jpg"
 audio_link: "https://soundcloud.com/techologie/13-numerique-responsable-outil-de-resilience"
 audio_size_in_megabyte: 30
+tags: ["sobriété", "5G"]
 ---
 
 ## Sujets abordés
@@ -31,15 +32,9 @@ audio_size_in_megabyte: 30
 * Comment vois tu l'avenir du monde ? Es-tu pessimiste ou plutôt optimiste ?
 * Le club Green IT fera plusieurs annonces majeures sur le numérique responsable lors du MeetUp GreenTech verte, le 4 juin 2019 à Station F et organisé par le ministère de l'environnement et de la transition écologique. Peux-tu nous donner un avant-goût de ces annonces ?
 
-## Transcript
 
-_À venir._
-
-<div class="block">
-En savoir plus :
+## En savoir plus
 
 * [Green IT](https://www.greenit.fr/)
 * [Collectif conception responsable numérique](https://www.conception-numerique-responsable.com/)
 * [MeetUp GreenTech verte 2019](https://www.greenit.fr/agenda/greentech-verte-meetup-2019/)
-
-</div>

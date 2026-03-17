@@ -8,6 +8,7 @@ image: /img/episodes/103-cecile-diguet.jpg
 audio_link: https://soundcloud.com/techologie/103-plug-baby-plug-datacenter
 audio_size_in_megabyte: 37
 transcribed: true
+tags: ["prospective", "data center", "énergie", "souveraineté"]
 ---
 
 ## En savoir plus

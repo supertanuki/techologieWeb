@@ -7,11 +7,12 @@ date: 2021-09-14
 image: "/img/episodes/54-laurianne-vagharchakian.jpg"
 audio_link: https://soundcloud.com/techologie/sciences-comportementales-et-transition-ecologique-avec-laurianne-vagharchakian
 audio_size_in_megabyte: 28
+tags: ["nudge", "respiration"]
 ---
 
 ## Sommaire
 
-* écart entre intentions et actions pro-environnementales
+* Écart entre intentions et actions pro-environnementales
 * Prise de conscience des citoyens sur leur rôle à jouer dans l’enjeu climatique
 * Les sciences comportementales au service de la transition écologique
 * Comment aider les consommateurs dans leurs choix d’achat écoresponsable ?

@@ -7,6 +7,7 @@ date: 2021-01-21
 image: "/img/episodes/43-it4life.jpg"
 audio_link: "https://soundcloud.com/techologie/43-entreprise-sociale-service-numerique"
 audio_size_in_megabyte: 28
+tags: ["design", "recyclage", "réemploi", "respiration"]
 ---
 
 Nous avons avec nous Sébastien Kuznier, fondateur de IT4life, Marion Schruoffeneger, business developer et Mame Daba Diouf, responsable pôle développement.

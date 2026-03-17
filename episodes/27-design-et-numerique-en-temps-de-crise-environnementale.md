@@ -7,6 +7,7 @@ date: 2020-02-03
 image: "/img/episodes/27-gauthier-roussilhe.jpg"
 audio_link: "https://soundcloud.com/techologie/27-design-et-numerique-en-temps-de-crise-environnementale-avec-gauthier-roussilhe"
 audio_size_in_megabyte: 27
+tags: ["design", "écoconception", "outil"]
 ---
 
 ## Au sommaire :

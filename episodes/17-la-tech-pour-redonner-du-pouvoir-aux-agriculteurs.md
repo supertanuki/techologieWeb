@@ -7,6 +7,7 @@ date: 2019-09-12
 image: "/img/episodes/17-solene-maitre.jpg"
 audio_link: "https://soundcloud.com/techologie/17-la-tech-pour-redonner-du-pouvoir-aux-agriculteurs"
 audio_size_in_megabyte: 19
+tags: ["outil", "design"]
 ---
 
 ## Sujets abordés

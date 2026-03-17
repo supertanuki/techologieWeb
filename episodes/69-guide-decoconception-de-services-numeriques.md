@@ -7,6 +7,7 @@ date: 2022-07-13
 image: "/img/episodes/69-anne-aurelie.jpg"
 audio_link: https://soundcloud.com/techologie/69-guide-decoconception-de-services-numeriques-avec-aurelie-baton-et-anne-faubry
 audio_size_in_megabyte: 23
+tags: ["écoconception"]
 ---
 
 ## Sommaire

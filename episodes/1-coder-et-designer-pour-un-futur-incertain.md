@@ -8,6 +8,7 @@ image: "/img/episodes/1-paccard.jpg"
 audio_link: "https://soundcloud.com/techologie/1-coder-et-designer-pour-un-futur-incertain"
 audio_size_in_megabyte: 30
 transcribed: true
+tags: [ "design", "effondrement", "anthropocène" ]
 ---
 
 <p>

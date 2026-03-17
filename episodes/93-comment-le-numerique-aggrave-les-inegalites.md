@@ -8,6 +8,7 @@ image: /img/episodes/93-mathilde-saliou.jpg
 audio_link: https://soundcloud.com/techologie/93-comment-le-numerique-aggrave-les-inegalites
 audio_size_in_megabyte: 41
 transcribed: true
+tags: ["algorithme", "inégalités", "géopolitique"]
 ---
 
 ## Sommaire

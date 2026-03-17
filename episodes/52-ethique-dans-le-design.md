@@ -7,6 +7,7 @@ date: 2021-07-05
 image: "/img/episodes/52-mellie-la-roque-karl-pineau.jpg"
 audio_link: https://soundcloud.com/techologie/52-ethique-dans-le-design-avec-mellie-la-roque-et-karl-pineau
 audio_size_in_megabyte: 39
+tags: ["design", "éthique"]
 ---
 
 ## Les sujets abordés

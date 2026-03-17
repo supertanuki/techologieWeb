@@ -8,6 +8,7 @@ image: "/img/episodes/76-framasoft.jpg"
 audio_link: https://soundcloud.com/techologie/76-collectivisons-et-convivialisons-internet
 audio_size_in_megabyte: 44
 transcribed: true
+tags: ["low tech", "open source", "technocritique"]
 ---
 
 ## Sommaire

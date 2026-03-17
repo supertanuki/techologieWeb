@@ -6,7 +6,8 @@ description: "Stéphanie Matharet est directrice artistique. Elle nous raconte s
 date: 2020-03-03
 image: "/img/episodes/30-stephanie-matharet.jpg"
 audio_link: "https://soundcloud.com/techologie/30-conspiration-positive-pour-futurs-souhaitables-avec-stephanie-matharet"
-audio_size_in_megabyte: 18.5
+audio_size_in_megabyte: 19
+tags: ["tiers-lieu", "prospective", "design"]
 ---
 
 ## Au sommaire

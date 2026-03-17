@@ -8,6 +8,7 @@ lang: en
 image: "/img/episodes/61-tom-greenwood.jpg"
 audio_link: https://soundcloud.com/techologie/61-building-a-sustainable-business-with-digital-sustainability
 audio_size_in_megabyte: 27
+tags: ["écoconception"]
 ---
 
 In this episode, we invite Tom Greenwood to talk about sustainable web design and his company Wholegrain Digital.

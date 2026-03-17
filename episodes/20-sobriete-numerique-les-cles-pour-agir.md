@@ -7,6 +7,7 @@ date: 2019-10-22
 image: "/img/episodes/13-frederic-bordage.jpg"
 audio_link: "https://soundcloud.com/techologie/20-sobriete-numerique-les-cles-pour-agir-avec-frederic-bordage"
 audio_size_in_megabyte: 13
+tags: ["sobriété", "low tech"]
 ---
 
 ## Sujets abordés

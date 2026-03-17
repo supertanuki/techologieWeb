@@ -74,7 +74,7 @@ Quelques informations très partiels issus de cette présentation :
 
 ## Avant de se quitter
 
-Une première étude de l’Ademe qui utilise des données [NegaOctet](https://negaoctet.org/) vient de sortir : [la comparaison des impacts environnementaux d'un événement](https://librairie.ademe.fr/dechets-economie-circulaire/4886-evaluation-des-impacts-environnementaux-de-l-edition-virtuelle-2020-des-assises-de-l-economie-circulaire.html) réalisé en présentiel ou à distance.
+Une première étude de l’Ademe qui utilise des données NegaOctet vient de sortir : [la comparaison des impacts environnementaux d'un événement](https://librairie.ademe.fr/dechets-economie-circulaire/4886-evaluation-des-impacts-environnementaux-de-l-edition-virtuelle-2020-des-assises-de-l-economie-circulaire.html) réalisé en présentiel ou à distance.
 
 Lorsque les services publics numériques deviennent intermittents pour répondre aux crises climatique et écologique : [en mo(n)de dégradé](http://nosalgorithmes.fr/en-monde-degrade/).
 

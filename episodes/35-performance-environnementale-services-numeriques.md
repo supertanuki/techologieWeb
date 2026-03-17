@@ -7,9 +7,10 @@ date: 2020-06-23
 image: "/img/episodes/35-caroline-vateau.jpg"
 audio_link: "https://soundcloud.com/techologie/35-performance-environnementale-services-numeriques-caroline-vateau"
 audio_size_in_megabyte: 35
+tags: ["data center", "énergie"]
 ---
 
-Au sommaire :
+### Sommaire
 
 * Son parcours
 * Le déclic pour travailler sur les impacts environnementaux du numérique
@@ -26,11 +27,3 @@ Au sommaire :
 * Impacts de la construction de data center
 * Impact des canicules sur les data center
 * Croissance du nombre de data center compatible avec la limitation du dérèglement climatique ?
-
-<div class="block">
-
-En savoir plus
-
-* [negaoctet.org](https://negaoctet.org/)
-
-</div>

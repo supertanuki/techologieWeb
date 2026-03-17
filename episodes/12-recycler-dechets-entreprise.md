@@ -7,6 +7,7 @@ date: 2019-05-17
 image: "/img/episodes/12-julien.jpg"
 audio_link: "https://soundcloud.com/techologie/12-recycler-dechets-entreprise"
 audio_size_in_megabyte: 28
+tags: ["recyclage", "outil", "déchet"]
 ---
 
 ## Sommaire
@@ -27,14 +28,7 @@ Les sujets abordés :
 * Apprendre ce qu'est l'énergie à l'université ou dans les écoles d'ingénieurs ?
 * On manque de référentiel sur les émissions carbone ?
 
-## Transcript
-
-_À venir._
-
-<div class="block">
-En savoir plus :
+## En savoir plus
 
 * [Urbyn](https://urbyn.co/)
 * [Bubble, visual programming](https://bubble.is/)
-
-</div>

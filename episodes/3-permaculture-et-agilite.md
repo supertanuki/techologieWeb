@@ -8,6 +8,7 @@ image: "/img/episodes/3-betheuil.jpg"
 audio_link: "https://soundcloud.com/techologie/3-permaculture-et-agilite-avec-nicolas-betheuil"
 audio_size_in_megabyte: 24
 transcribed: true
+tags: ["permaculture", "design", "écoconception", "déchet"]
 ---
 
 <h2>Transcript</h2>

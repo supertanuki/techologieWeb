@@ -7,9 +7,10 @@ date: 2020-12-22
 image: "/img/episodes/40-adele-chasson.jpg"
 audio_link: "https://soundcloud.com/techologie/40-lutter-contre-lobsolescence-programmee-et-promouvoir-la-durabilite"
 audio_size_in_megabyte: 24
+tags: ["obsolescence", "écoconception"]
 ---
 
-Au sommaire :
+## Au sommaire
 
 * Quels sont les différents types d’obsolescence programmée ?
 * Quelles sont les conséquences environnementales et sociales de l'obsolescence programmée ?
@@ -21,7 +22,7 @@ Au sommaire :
 * Quelles sont les avancées de la lutte contre l'obsolescence au niveau européen ?
 * Comment faire plus, qu’elles règlementations de plus pour réduire l’obsolescence et les impacts environnementaux notamment du numérique ?
 
-En savoir plus :
+## En savoir plus
 
 * [Halte à l'obsolescence programmée](https://www.halteobsolescence.org/)
 * [Club de la durabilité](https://www.clubdeladurabilite.fr)

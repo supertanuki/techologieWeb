@@ -8,6 +8,7 @@ image: /img/episodes/88-olivier-lefebvre.jpg
 audio_link: https://soundcloud.com/techologie/88-aux-ingenieurs-qui-doutent-avec-olivier-lefebvre/
 audio_size_in_megabyte: 58
 transcribed: true
+tags: ["technocritique", "redirection", "éthique", "anthropocène"]
 ---
 
 Olivier Lefebvre a fait des études de philosophie et des études d'ingénieur robotique. Il travaillait dans une entreprise de construction de véhicules autonomes à Toulouse lorsqu'il démissionne, ne trouvant plus de sens à cette activité dans un contexte de crise sociale et environnementale. Il a décrit son parcours et sa démission dans le livre de Celia Izoard intitulé “Merci de changer de métier, Lettres aux humains qui robotisent le monde”, paru en 2020.

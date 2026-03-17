@@ -8,6 +8,7 @@ image: /img/episodes/102-desescalade-numerique.png
 audio_link: https://soundcloud.com/techologie/102-desescalade-numerique-10-propositions-pour-les-municipales-22-technologos-et-richard-hanna
 audio_size_in_megabyte: 43
 transcribed: true
+tags: ["décroissance", "technocritique"]
 ---
  
 ## En savoir plus

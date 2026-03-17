@@ -7,6 +7,7 @@ date: 2021-12-16
 image: "/img/episodes/60-techologie3ans.jpg"
 audio_link: https://soundcloud.com/techologie/techologie3ans
 audio_size_in_megabyte: 41
+tags: ["respiration", "redirection"]
 ---
 
 Avec :

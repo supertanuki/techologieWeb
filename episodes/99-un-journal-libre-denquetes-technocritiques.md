@@ -8,6 +8,7 @@ image: /img/episodes/99-jp-peyrache.jpg
 audio_link: https://soundcloud.com/techologie/99-un-journal-libre-denquetes-technocritiques
 audio_size_in_megabyte: 25
 transcribed: true
+tags: ["géoingénierie", "technocritique"]
 ---
 
 ## Sommaire

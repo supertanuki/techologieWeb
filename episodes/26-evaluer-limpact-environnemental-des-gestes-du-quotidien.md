@@ -7,6 +7,7 @@ date: 2020-01-22
 image: "/img/episodes/26-mael-thomas.jpg"
 audio_link: "https://soundcloud.com/techologie/26-evaluer-limpact-environnemental-des-gestes-du-quotidien-avec-mael-thomas"
 audio_size_in_megabyte: 25
+tags: ["énergie", "outil"]
 ---
 
 ## Au sommaire

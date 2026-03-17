@@ -8,6 +8,7 @@ image: "/img/episodes/81-marion-crosnier.jpg"
 audio_link: https://on.soundcloud.com/toXE2
 audio_size_in_megabyte: 17
 transcribed: true
+tags: ["redirection", "respiration", "tiers-lieu"]
 ---
 
 ## Sommaire

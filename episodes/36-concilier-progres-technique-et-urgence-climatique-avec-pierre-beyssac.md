@@ -7,6 +7,7 @@ date: 2020-09-24
 image: "/img/episodes/36-pierre-beyssac.jpg"
 audio_link: "https://soundcloud.com/techologie/36-concilier-progres-technique-et-urgence-climatique-avec-pierre-beyssac"
 audio_size_in_megabyte: 34
+tags: ["5G", "géopolitique"]
 ---
 
 Au sommaire :

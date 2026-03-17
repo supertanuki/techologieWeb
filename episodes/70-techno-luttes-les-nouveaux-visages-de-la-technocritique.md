@@ -9,13 +9,14 @@ audio_link: https://soundcloud.com/techologie/70-techno-luttes-les-nouveaux-visa
 download_link: https://feeds.soundcloud.com/stream/1356057709-techologie-70-techno-luttes-les-nouveaux-visages-de-la-technocritique-avec-nicolas-celnik.mp3
 audio_size_in_megabyte: 38
 top: true
+tags: ["technocritique"]
 ---
 
 ## Sommaire
 
 - Qu'est ce qui vous a donné envie d’écrire ce livre ?
 - Quels sont les nouveaux visages de la technocritique ?
-- Dans l’agriculture, que retiens tu des rencontres avec les organisations telles que « Atelier paysan » et « faut pas pucer » ?
+- Dans l’agriculture, que retiens tu des rencontres avec les organisations telles que « Atelier paysan » et « Faut pas pucer » ?
 - Quel rôle de l’urgence climatique dans ce renouveau technocritique ?
 - Quel rôle a joué la crise sanitaire dans ce renouveau technocritique avec un public réactionnaire sur le sujet du vaccin, parfois rétrograde sur le rôle de la femme et aussi transphobe ? 
 - La dématérialisation a créé plus de problèmes qu’elle n’en a résolu  ?

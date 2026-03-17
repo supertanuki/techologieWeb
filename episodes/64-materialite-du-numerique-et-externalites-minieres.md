@@ -8,6 +8,7 @@ image: "/img/episodes/64-aurore-stephant.jpg"
 audio_link: https://soundcloud.com/techologie/64-materialite-du-numerique-et-externalites-minieres
 audio_size_in_megabyte: 109
 top: true
+tags: ["droits humains", "extractivisme", "déchet"]
 ---
 
 ## Sommaire

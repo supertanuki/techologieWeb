@@ -8,6 +8,7 @@ image: "/img/episodes/74-malika-kessous-brigitte-demeure.jpg"
 audio_link: https://soundcloud.com/techologie/74-tracabilite-achats-des-equipements-numeriques-avec-brigitte-demeure-et-malika-kessous
 audio_size_in_megabyte: 34
 transcribed: true
+tags: ["droits humains", "réemploi"]
 ---
 
 Dans cet épisode, nous recevons deux actrices de la traçabilité de l'approvisionnement des équipements numériques :

@@ -8,6 +8,7 @@ lang: en
 image: "/img/episodes/53-yang-hong-richard-kim.jpg"
 audio_link: https://soundcloud.com/techologie/53-introduction-to-climate-justice-with-yang-hong-and-richard-kim
 audio_size_in_megabyte: 29
+tags: ["inégalités", "décolonisation"]
 ---
 
 Some of the topics we’ll be discussing include:

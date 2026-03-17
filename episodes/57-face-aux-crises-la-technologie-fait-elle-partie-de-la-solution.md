@@ -7,6 +7,7 @@ date: 2021-11-12
 image: "/img/episodes/57-frederic-sitterle.jpg"
 audio_link: https://soundcloud.com/techologie/57-face-aux-crises-la-technologie-fait-elle-partie-de-la-solution-avec-frederic-sitterle
 audio_size_in_megabyte: 33
+tags: ["éducation", "techno-optimisme", "cryptomonnaie"]
 ---
 
 ## Les sujets abordés

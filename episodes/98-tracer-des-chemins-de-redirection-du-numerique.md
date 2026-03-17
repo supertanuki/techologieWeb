@@ -8,6 +8,7 @@ image: /img/episodes/98-martin-deron.jpg
 audio_link: https://soundcloud.com/techologie/98-tracer-des-chemins-de-redirection-du-numerique
 audio_size_in_megabyte: 16
 transcribed: true
+tags: ["prospective", "redirection", "décroissance"]
 ---
 
 ## En savoir plus :

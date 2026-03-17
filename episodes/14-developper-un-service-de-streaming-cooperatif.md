@@ -6,7 +6,8 @@ description: "Marie Gauthier est développeuse et contribue depuis 2016 au lance
 date: 2019-06-27
 image: "/img/episodes/14-marie-gauthier.jpg"
 audio_link: "https://soundcloud.com/techologie/14-developper-un-service-de-streaming-cooperatif"
-audio_size_in_megabyte: 13.2
+audio_size_in_megabyte: 13
+tags: ["écoconception", "outil"]
 ---
 
 ## Sujets abordés
@@ -23,15 +24,8 @@ audio_size_in_megabyte: 13.2
 * Comment fonctionne techniquement le mode offline ?
 * Quelle est l'actualité de Resonate dans les prochaines semaines ?
 
-## Transcript
-
-_À venir._
-
-<div class="block">
-En savoir plus :
+## En savoir plus
 
 * [Resonate](https://resonate.is/)
 * [Mycelia / Creative passport](http://myceliaformusic.org/creative-passport/)
 * [Marie sur Github](https://github.com/blushi)
-
-</div>

@@ -7,6 +7,7 @@ date: 2019-07-12
 image: "/img/episodes/15-laure-wagner.jpg"
 audio_link: "https://soundcloud.com/techologie/15-le-rapprochement-domicile-travail-pour-reduire-limpact-carbone-avec-laure-wagner"
 audio_size_in_megabyte: 15
+tags: ["outil"]
 ---
 
 ## Sujets abordés
@@ -17,13 +18,7 @@ audio_size_in_megabyte: 15
 * Où en est le développement, la commercialisation et son financement ?
 * Quel a été le déclic pour s'engager dans ce projet ?
 
-## Transcript
 
-_À venir._
-
-<div class="block">
-En savoir plus :
+## En savoir plus
 
 * [1kmapied.com](https://www.1kmapied.com/)
-
-</div>

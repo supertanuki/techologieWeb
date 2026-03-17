@@ -8,6 +8,7 @@ image: "/img/episodes/84-cinq-ans.jpg"
 audio_link: https://soundcloud.com/techologie/84-cinq-ans-de-techologie-des-jeux-et-des-surprises/s-fUcdUtceqvU?si=8dff153c2ab3401bb80ffec6c1401527
 audio_size_in_megabyte: 55
 transcribed: true
+tags: ["respiration"]
 ---
 
 ## Sommaire

@@ -8,6 +8,7 @@ image: "/img/episodes/75-gillot-malpart.jpg"
 audio_link: https://soundcloud.com/techologie/75-les-impacts-de-linternet-des-objets-avec-gillo-malpart
 audio_size_in_megabyte: 39
 transcribed: true
+tags: ["écoconception", "smart city", "géopolitique", "déchet"]
 ---
 
 ## Sommaire

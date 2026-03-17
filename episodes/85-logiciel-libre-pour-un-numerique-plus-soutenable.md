@@ -8,6 +8,7 @@ image: "/img/episodes/85-mathilde-longuet-et-pierre-yves-gibello.jpg"
 audio_link: https://soundcloud.com/techologie/85-logiciel-libre-pour-un-numerique-plus-soutenable-avec-mathilde-longuet-et-pierre-yves-gibello
 audio_size_in_megabyte: 28
 transcribed: true
+tags: ["outil", "open source", "algorithme"]
 ---
 
 ## Sommaire

@@ -7,6 +7,7 @@ date: 2019-03-14
 image: "/img/episodes/9-jb-dusseaut.jpg"
 audio_link: "https://soundcloud.com/techologie/9-les-cryptomonnaies-sont-elles-reellement-energivores-avec-jean-baptiste-dusseaut"
 audio_size_in_megabyte: 27
+tags: ["cryptomonnaie", "techno-optimisme"]
 ---
 
 ## Les sujets abordés
@@ -18,17 +19,11 @@ audio_size_in_megabyte: 27
 * Des voix s'élèvent également pour dire que la blockchain déçoit globalement. On en parle depuis maintenant plusieurs années, et les seuls résultats connus par le grand public sont les spéculations autour des cryptomonnaies. Es-tu également déçu ou optimiste pour la suite ?
 * La blockchain peut-elle contribuer à l'économie circulaire ?
 
-## Transcript
 
-_en cours_
-
-<div class="block">
-En savoir plus :
+## En savoir plus
 
 * [The reports of bitcoin environmental damage are garbage](https://hackernoon.com/the-reports-of-bitcoin-environmental-damage-are-garbage-5a93d32c2d7)
 * [The Bitcoin  Mining Network - Trends, Marginal Creation Cost, Electricity Consumption & Sources](https://coinshares.co.uk/wp-content/uploads/2018/11/Mining-Whitepaper-Final.pdf) (Pdf)
 * La chaîne youtube conseillée par Jean-Baptiste pour comprendre le «pourquoi bitcoin», au delà des passions occidentales pour le trading, et de la hype autour du mot blockchain : [youtube.com/user/aantonop](https://www.youtube.com/user/aantonop)
 * Bitcoin, la monnaie acéphale : [bitcoinlamonnaieacephale.fr](https://bitcoinlamonnaieacephale.fr/)
 * Jean-Baptiste sur Twitter : [twitter.com/bodysplash](https://twitter.com/bodysplash)
-
-</div>

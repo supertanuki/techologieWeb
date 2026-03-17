@@ -7,6 +7,7 @@ date: 2021-05-11
 image: "/img/episodes/50-romain-boucher.jpg"
 audio_link: https://soundcloud.com/techologie/50-data-sciences-techno-liberalisme-et-desertion-de-lingenierie-avec-romain-boucher
 audio_size_in_megabyte: 48
+tags: ["technocritique", "redirection"]
 ---
 
 ## Les sujets abordés

@@ -7,6 +7,7 @@ date: 2021-12-09
 image: "/img/episodes/59-philippe-bihouix.jpg"
 audio_link: https://soundcloud.com/techologie/a-quels-enfants-allons-nous-laisser-le-monde-avec-philippe-bihouix
 audio_size_in_megabyte: 41
+tags: ["éducation", "low tech", "accélérationnisme", "décroissance"]
 ---
 
 ## Sommaire

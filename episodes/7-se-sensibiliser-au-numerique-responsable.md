@@ -8,6 +8,7 @@ image: '/img/episodes/7-bela-loto.jpg'
 audio_link: 'https://soundcloud.com/techologie/7-se-sensibiliser-au-numerique-responsable-avec-bela-loto'
 audio_size_in_megabyte: 25
 transcribed: true
+tags: ["sobriété", "droits humains"]
 ---
 
 ## Les sujets abordés
@@ -196,6 +197,3 @@ Donc il y a plein de choses à faire c'est ce dont on parle dans nos ateliers c'
 ### Tu parlais de Hop, de quoi il s'agit ?
 
 Alors Hop, pour Halte à l'obsolescence programmée. C'est une association qui comme son nom l'indique souhaite lutter contre l'obsolescence programmée.
-
-**Transcript en cours**
-

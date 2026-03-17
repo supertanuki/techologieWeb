@@ -7,6 +7,7 @@ date: 2021-11-25
 image: "/img/episodes/58-fanny-verrax.jpg"
 audio_link: https://soundcloud.com/techologie/58-on-narrete-pas-le-progres-avec-fanny-verrax
 audio_size_in_megabyte: 41
+tags: ["éducation", "jeux vidéo", "technocritique", "éthique"]
 ---
 
 ## Sommaire

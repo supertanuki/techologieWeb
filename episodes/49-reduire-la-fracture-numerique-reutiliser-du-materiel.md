@@ -7,6 +7,7 @@ date: 2021-04-26
 image: "/img/episodes/49-emmaus-connect.jpg"
 audio_link: https://soundcloud.com/techologie/49-reduire-la-fracture-numerique-reutiliser-du-materiel-avec-camille-bardou-et-victor-estienney
 audio_size_in_megabyte: 20
+tags: ["inégalités", "réemploi"]
 ---
 
 ## Les sujets abordés

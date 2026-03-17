@@ -58,11 +58,17 @@ module.exports = function (eleventyConfig) {
 
   function filterTagList(tags) {
     return (tags || []).filter(
-      (tag) => ['all', 'nav', 'post', 'posts'].indexOf(tag) === -1
+      (tag) => ['all', 'nav', 'post', 'posts', 'article', 'episode', 'newsletter'].indexOf(tag) === -1
     )
   }
 
   eleventyConfig.addFilter('filterTagList', filterTagList)
+
+  eleventyConfig.addFilter("sortByLocale", (items) => {
+    return items.slice().sort((a, b) => {
+      return a.localeCompare(b, 'fr', { sensitivity: 'base' });
+    });
+  });
 
   // Create an array of all tags
   eleventyConfig.addCollection('tagList', function (collection) {

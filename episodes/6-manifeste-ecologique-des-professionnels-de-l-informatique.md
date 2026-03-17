@@ -8,11 +8,12 @@ image: "/img/episodes/6-fourmond.jpg"
 audio_link: "https://soundcloud.com/techologie/6-manifeste-ecologique-des-professionnels-de-l-informatique"
 audio_size_in_megabyte: 12
 transcribed: true
+tags: ["redirection"]
 ---
 
 Pour participer au manifeste, rendez-vous ici : [github.com/climanifeste/climanifeste](https://github.com/climanifeste/climanifeste)
 
-## Transcript
+## Transcription
 
 Écrit par Jean-François lui-même (mille mercis !)
 

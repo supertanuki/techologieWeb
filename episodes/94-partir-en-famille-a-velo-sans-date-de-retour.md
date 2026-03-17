@@ -8,6 +8,7 @@ image: /img/episodes/94-loyat.jpg
 audio_link: https://soundcloud.com/techologie/94-partir-en-famille-a-velo-sans-date-de-retour
 audio_size_in_megabyte: 48
 transcribed: true
+tags: ["respiration"]
 ---
 
 ## Sommaire

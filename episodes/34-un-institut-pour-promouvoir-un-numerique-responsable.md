@@ -7,9 +7,10 @@ date: 2020-06-05
 image: "/img/episodes/34-vincent-courboulay.jpg"
 audio_link: "https://soundcloud.com/techologie/34-un-institut-pour-promouvoir-un-numerique-responsable-avec-vincent-courboulay"
 audio_size_in_megabyte: 25
+tags: ["outil", "sobriété"]
 ---
 
-Sommaire
+## Sommaire
 
 * Qu'est ce que l'Institut du Numérique Responsable
 * StopCovid, un sujet du numérique responsable ?
@@ -24,10 +25,7 @@ Sommaire
 
 Crédit photo : La Rochelle Université - Mélanie Chaigneau
 
-<div class="block">
+## En savoir plus
 
-En savoir plus
 * [Institut du Numérique Responsable (INR)](https://institutnr.org/)
 * "[Nous condamnerons en image, en son, en zoom...](https://www.franceinter.fr/emissions/lettres-d-interieur/lettres-d-interieur-28-mai-2020)", Maïwenn
-
-</div>

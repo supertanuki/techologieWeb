@@ -7,6 +7,7 @@ date: 2019-08-30
 image: "/img/episodes/16-nathaniel-richand.jpg"
 audio_link: "https://soundcloud.com/techologie/16-sinspirer-de-la-permaculture-avec-nathaniel-richand"
 audio_size_in_megabyte: 21
+tags: ["permaculture", "design"]
 ---
 
 ## Sujets abordés
@@ -27,15 +28,8 @@ audio_size_in_megabyte: 21
 * Passage à l'échelle des équipes
 * Qu'est ce que le Walking dev ?
 
-## Transcript
-
-_À venir._
-
-<div class="block">
-En savoir plus :
+## En savoir plus
 
 * [Twitter de Nathaniel](https://twitter.com/nrichand)
 * [Agile tribu](https://www.agiletribu.com/)
 * [Team mood](https://www.teammood.com/fr/)
-
-</div>

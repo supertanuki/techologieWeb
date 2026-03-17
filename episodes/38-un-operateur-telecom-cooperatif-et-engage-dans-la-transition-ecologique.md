@@ -7,9 +7,10 @@ date: 2020-11-20
 image: "/img/episodes/38-marion-graeffly.jpg"
 audio_link: "https://soundcloud.com/techologie/un-operateur-telecom-cooperatif-et-engage-dans-la-transition-ecologique-avec-marion-graeffly"
 audio_size_in_megabyte: 16
+tags: ["télécommunication", "5G"]
 ---
 
-Sommaire :
+## Sommaire
 
 * Présentation de Telecoop et pourquoi avoir choisi le statut de coopérative
 * L'impact environnemental du numérique et des télécoms qui vous a poussé à créer Telecoop ?
@@ -24,11 +25,7 @@ Sommaire :
 
 Erratum :  Le montant des parts que l'Etat possède dans Orange s'établit à 23% et non pas 17% comme annoncé dans l'épisode.
 
-<div class="block">
-
-En savoir plus
+## En savoir plus
 
 * [Telecoop](https://telecoop.fr/)
 * [Licoornes, les coopératives du monde d’après](https://www.enercoop.fr/content/licoornes-les-cooperatives-du-monde-dapres)
-
-</div>

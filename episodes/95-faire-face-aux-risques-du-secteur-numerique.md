@@ -8,6 +8,7 @@ image: /img/episodes/95-risques-numeriques.jpg
 audio_link: https://soundcloud.com/techologie/95-faire-face-aux-risques-du-secteur-numerique
 audio_size_in_megabyte: 21
 transcribed: true
+tags: ["prospective", "risques", "économie de la fonctionnalité", "décroissance"]
 ---
 
 Margaux Escande travaille à un numérique plus responsable et rêve d'une société qui dénumérise ses activités pour plus de résilience. Elle se lance aussi dans le maraîchage.

@@ -8,6 +8,7 @@ image: "/img/episodes/83-loy-welgryn-et-theo-alves-da-costa.jpg"
 audio_link: https://soundcloud.com/techologie/83-bombes-carbones-et-usages-de-la-data-et-de-lia-avec-lou-welgryn-et-theo-alves-da-costa
 audio_size_in_megabyte: 33
 transcribed: true
+tags: ["algorithme", "open source", "géoingénierie", "accélérationnisme"]
 ---
 
 ## Sommaire

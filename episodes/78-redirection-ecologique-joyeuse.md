@@ -8,6 +8,7 @@ image: "/img/episodes/78-sheila-suarez-flores.webp"
 audio_link: https://soundcloud.com/techologie/78-redirection-ecologique-joyeuse-avec-sheila-suarez-flores
 audio_size_in_megabyte: 29
 transcribed: true
+tags: ["redirection"]
 ---
 
 ## Sommaire

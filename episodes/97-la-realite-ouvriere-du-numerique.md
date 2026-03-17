@@ -8,6 +8,7 @@ image: /img/episodes/97-realite-ouvriere.jpg
 audio_link: https://soundcloud.com/techologie/97-la-realite-ouvriere-du-numerique
 audio_size_in_megabyte: 87
 transcribed: true
+tags: ["extractivisme", "obsolescence", "réparation", "droits humains", "économie de la fonctionnalité", "décroissance"]
 ---
 
 Avec : 

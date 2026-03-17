@@ -7,6 +7,7 @@ date: 2019-03-22
 image: "/img/episodes/10-yannick-morel.jpg"
 audio_link: "https://soundcloud.com/techologie/10-nuit-du-code-citoyen"
 audio_size_in_megabyte: 25
+tags: ["éducation", "outil", "redirection"]
 ---
 
 ## Sommaire
@@ -28,12 +29,7 @@ audio_size_in_megabyte: 25
 * J'ai noté que pas mal de personnes participantes sont en quête de sens ou en transition. Peut-on faire de la tech for good notre quotidien ?
 * Notes-tu une évolution du public par rapport au précédentes éditions ?
 
-## Transcript
-
-_en cours_
-
-<div class="block">
-En savoir plus :
+## En savoir plus
 
 * Latitudes [latitudes.cc](http://www.latitudes.cc/)
 * Nuit du code citoyen [nuitcodecitoyen.org](https://nuitcodecitoyen.org)
@@ -41,4 +37,3 @@ En savoir plus :
 Latitudes organise un [apéro le 24 avril à 19h](https://www.meetup.com/fr-FR/TechforGoodwithLatitudes/events/259874543/),
 où les porteur.se.s de projets et les participant.e.s partagerons leurs avancés.
 
-</div>

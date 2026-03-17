@@ -9,6 +9,7 @@ audio_link: "https://soundcloud.com/techologie/29-la-5g-impact-environnemental-e
 audio_size_in_megabyte: 26
 transcribed: true
 top: true
+tags: ["5G", "smart city", "sobriété", "énergie"]
 ---
 
 ## Sommaire

@@ -7,6 +7,7 @@ date: 2022-01-20
 image: "/img/episodes/62-anaelle-beignon.jpg"
 audio_link: https://soundcloud.com/techologie/62-conception-pour-des-appareils-obsoletes-avec-anaelle-beignon
 audio_size_in_megabyte: 32
+tags: ["écoconception", "obsolescence"]
 ---
 
 ## Sommaire

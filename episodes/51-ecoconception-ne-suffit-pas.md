@@ -7,6 +7,7 @@ date: 2021-05-25
 image: "/img/episodes/51-guillaume-mandil.jpg"
 audio_link: https://soundcloud.com/techologie/51-lecoconception-avec-guillaume-mandil
 audio_size_in_megabyte: 34
+tags: ["écoconception", "effondrement"]
 ---
 
 ## Les sujets abordés

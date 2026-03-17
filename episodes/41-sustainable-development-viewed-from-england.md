@@ -8,9 +8,10 @@ lang: en
 image: "/img/episodes/41-nick-lewis.jpg"
 audio_link: "https://soundcloud.com/techologie/41-sustainable-development-viewed-from-england-with-nick-lewis"
 audio_size_in_megabyte: 21
+tags: ["écoconception"]
 ---
 
-Topics discussed:
+## Topics discussed
 
 * Tell us more about of what you. What is your site the-sustainable.dev about and what do you aim to do with it?
 * in France, after 15 years of discussion on GreenIT, the subject is finally raising awareness and it’s accelerated recently about the environmental impact of the digital industry (the senate has talked about it, companies are pledging for a more sustainable digital industry). how do you see this as a developer in Bristol?
@@ -22,7 +23,7 @@ Topics discussed:
 * How did you educate yourself on the subject?
 * How can we find you?
 
-References:
+## References
 
 * [Climate Action Tech](https://climateaction.tech/)
 * [Leap](https://leap.eco/), an agency in the UK

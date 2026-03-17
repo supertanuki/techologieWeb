@@ -7,19 +7,16 @@ date: 2019-12-16
 image: "/img/episodes/24-coral-guardian.jpg"
 audio_link: "https://soundcloud.com/techologie/24-agir-pour-la-biodiversite-marine-en-adoptant-un-corail-avec-coco-ruxandra-et-audrey"
 audio_size_in_megabyte: 18
+tags: ["respiration"]
 ---
 
-## Au sommaire :
+## Au sommaire
 
 * Qu'est ce qu'un corail et à quoi cela sert ?
 * Comment rester positif alors que les coraux sont menacés de disparition dès 2050 ?
 * Comment la tech peut aider à sensibiliser sur le sort des coraux ?
 * Comment peut-on aider Coral Guardian ?
 
-<div class="block">
-
-En savoir plus :
+## En savoir plus
 
 * https://coral-guardian.org/
-
-</div>

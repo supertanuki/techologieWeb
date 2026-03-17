@@ -7,6 +7,7 @@ date: 2019-11-06
 image: "/img/episodes/22-adrien-montagut.jpg"
 audio_link: "https://soundcloud.com/techologie/22-un-smartphone-ethique-reparable-et-en-location-avec-adrien-montagut"
 audio_size_in_megabyte: 38
+tags: ["sobriété", "5G", "économie de la fonctionnalité", "recyclage", "réparation", "obsolescence"]
 ---
 
 Entretien enregistré le 12 septembre 2019.
@@ -19,7 +20,7 @@ Entretien enregistré le 12 septembre 2019.
 * Aujourd'hui quelles sont les téléphones qui sont réparables ?
 * L'abonnement à un Fairphone en location semble assez élevé et peut freiner. Que contient ce prix ?
 * Comment vous êtes reçus en tant que coopérative ?
-* Economie de l'attention et light phone ?
+* Économie de l'attention et light phone ?
 * Comment vois-tu le numérique dans quelques années ?
 * Activisme climat et décrochage de portraits du Président Macron
 * La 5G, il n'est pas trop tard ?

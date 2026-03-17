@@ -8,6 +8,7 @@ image: "/img/episodes/63-benjamin-ninassi.jpg"
 audio_link: https://soundcloud.com/techologie/63-le-numerique-de-demain-avec-les-equipements-dhier-avec-benjamin-ninassi
 audio_size_in_megabyte: 34
 transcribed: true
+tags: ["écoconception", "outil", "cryptomonnaie"]
 ---
 
 ## Sommaire
@@ -115,7 +116,7 @@ Les objectifs de ce mooc c'est d'une part comprendre les impacts du numérique s
 
 
 
-### Quel est le contenu du mooc, qu'est-ce qu'on peut y trouver ?
+### Quel est le contenu du MOOC, qu'est-ce qu'on peut y trouver ?
 
 On a un mooc en quatre parties. On a une première partie sur la compréhension des impacts environnementaux du numérique, on parle beaucoup du bilan carbone et des impacts carbone parce que dans le contexte de la crise climatique qui arrive c'est un indicateur très important mais le numérique a tout un tas d'autres impacts environnementaux : l'acidification des sols, des océans, la pollution de l'eau, ou l'occupation des sols, l'appauvrissement des ressources naturelles, en fait il y a tout un tas d'autres impacts environnementaux dont il faut avoir conscience. Surtout que dans un pays occidental comme le nôtre, ce sont des impacts qui sont invisibles chez nous, donc c'est assez important de comprendre où ils sont situés et quels sont éventuellement les enjeux géopolitiques associés à ces impacts. Être capable également de questionner les indicateurs, tout ça fait partie de la première partie, de comprendre les outils mathématiques qui sont utilisés et de comprendre comment les mesures des indicateurs qui sont souvent mis en avant sont effectuées.
 
@@ -132,9 +133,6 @@ Juste pour préciser, dans l'approche pédagogique, on a plusieurs niveaux de le
 Et il y a également des bibliothèques de ressources associées à chacune des parties pour aller plus loin et d'ailleurs je pense que le podcast Techologie doit y être référencé en tant que ressources complémentaires.
 
 
-
-### Merci !
-
 ### Et est-ce qu'à la fin on a une certification ? Si on a finalisé le mooc, qu'est-ce qu'on obtient ? Une médaille en chocolat ou autre chose ?
 
 Alors oui, je n'en ai pas parlé. Le mooc est accessible sur FUN, la plateforme de mooc France Université Numérique. L'objectif n'est pas d'aller vers une certification de compétences et de connaissances, par contre on délivre une attestation de suivi avec succès. C'est la plateforme FUN qui permet de délivrer cette attestation de suivi qui fait que vous pouvez valoriser le fait d'avoir passé du temps à suivre le mooc. Notre objectif n'est pas tant d'en faire un outil qui serve à certifier ou à valoriser les parcours, c'est vraiment un outil de sensibilisation, de formation et d'éveil à la curiosité citoyenne sur ces sujets-là. 
@@ -144,8 +142,6 @@ Alors oui, je n'en ai pas parlé. Le mooc est accessible sur FUN, la plateforme 
 ### Tu parlais des contributeurs, beaucoup issus de la recherche ou de l'enseignement, est-ce qu'il y a eu des contributeurs des entreprises, des start-up, pour avoir des retours terrains, ou des institutions publiques ?
 
 Oui, on a effectivement une grande majorité de contributeurs académiques, mais on a aussi des contributeurs comme Julie Orgelet, par exemple, de la société DDemain, qui est une spécialiste en Analyse du Cycle de Vie de services numériques. On a aussi Laurent Devernay, qui travaillait chez Simplon à l'époque et qui aujourd'hui a rejoint Greenspector je crois, donc on a quand même quelques contributeurs qui viennent du monde de l'entreprise qui sont venus apporter leur pierre à l'édifice. Pas autant qu'on souhaiterait... On a vraiment besoin de créer autour de ces sujets-là des passerelles durables entre le monde académique et le monde industriel parce que l'un a besoin de l'autre, dans les deux sens d'ailleurs, pour se nourrir à la fois des concepts théoriques, des progrès scientifiques et de la construction du savoir qui a lieu dans le monde académique, mais également des données, des contextes opérationnels et de la réalité du terrain qui se passe dans le monde de l'entreprise. On a vraiment besoin de "synergiser" les deux mondes autour de ces sujets-là.
-
-### 
 
 ### Et toi comment es-tu arrivé à t'intéresser à ce sujet numérique et environnement ?
 
@@ -268,9 +264,3 @@ Alors moi, il y a une des personnes que tu as interviewée précédemment qui m'
 ### C'est vrai qu'après *L'âge des low-tech* je recommande vivement cette lecture qui est assez renversante. Ce n'est pas seulement Philippe Bihouix, on peut citer la co-autrice qui est Karine Mauvilly.
 
 Le deuxième ouvrage dont je peux parler si vous voulez découvrir le sujet et avoir un tableau un peu large de ces sujets là sur votre table de nuit plutôt qu'en suivant le mooc de l'Inria / ClassCode, c'est *Vers un numérique responsable* de Vincent Courboulay, le directeur scientifique de l'Institut Numérique Responsable qui dresse un tableau un peu exhaustif des impacts environnementaux actuels liés au numérique.
-
-
-
-### Merci Benjamin
-
-Merci beaucoup Richard

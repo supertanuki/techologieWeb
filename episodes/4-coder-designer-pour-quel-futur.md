@@ -8,6 +8,7 @@ image: "/img/episodes/4-talk.jpg"
 audio_link: "https://soundcloud.com/techologie/4-coder-designer-pour-quel-futur-talk"
 audio_size_in_megabyte: 12
 transcribed: true
+tags: ["écoconception", "anthropocène"]
 ---
 
 <h2>Transcript</h2>

@@ -7,6 +7,7 @@ date: 2019-10-12
 image: "/img/episodes/19-romain.jpg"
 audio_link: "https://soundcloud.com/techologie/une-vie-engagee-et-un-ordinateur-de-recup-dans-un-bidon-avec-romain-chanut"
 audio_size_in_megabyte: 26
+tags: ["permaculture", "low tech", "réemploi", "redirection"]
 ---
 
 ## Sujets abordés

@@ -8,6 +8,7 @@ image: /img/episodes/89-christophe-nedelec.jpg
 audio_link: https://soundcloud.com/techologie/89-luttes-ecologiques-locales-avec-christophe-nedelec
 audio_size_in_megabyte: 32
 transcribed: true
+tags: ["respiration", "risques", "déchet"]
 ---
 
 ## Sommaire

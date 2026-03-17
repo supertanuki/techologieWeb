@@ -7,6 +7,7 @@ date: 2020-02-12
 image: "/img/episodes/28-maxime-blondeau.jpg"
 audio_link: "https://soundcloud.com/techologie/28-un-ecosyndicat-qui-concilie-transition-ecologique-et-justice-sociale"
 audio_size_in_megabyte: 22
+tags: ["droits humains", "redirection"]
 ---
 
 ## Au sommaire

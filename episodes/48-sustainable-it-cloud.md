@@ -8,6 +8,7 @@ lang: en
 image: "/img/episodes/48-sustainable-it.jpg"
 audio_link: https://soundcloud.com/techologie/48-sustainable-it-natalie-hollier-views-on-product-teams-cloud-and-it-for-green
 audio_size_in_megabyte: 26
+tags: ["data center", "design"]
 ---
 
 ## What we talked about

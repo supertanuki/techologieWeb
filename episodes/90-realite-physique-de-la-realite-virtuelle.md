@@ -8,6 +8,7 @@ image: /img/episodes/90-landia-egal-amaury-la-burthe.jpg
 audio_link: https://soundcloud.com/techologie/90-realite-virtuelle-avec-landia-egal-et-amaury-la-burthe
 audio_size_in_megabyte: 56
 transcribed: true
+tags: ["jeux vidéo"]
 ---
 
 Landia Egal, après une courte expérience dans le monde de la finance, est auteure et réalisatrice de films immersifs et fondatrice de la société de production Tiny Planets engagée au service de la création de nouveaux imaginaires plus sobres, justes et respectueux du vivant.
@@ -26,7 +27,7 @@ Tous les deux sont les porteurs du projet CEPIR, un Cas d'Étude Pour un Immersi
 - En quoi consiste le projet CEPIR ?
 - Faut-il renoncer au casque virtuel ?
 - En tant que chef d’entreprise, peut-on changer les choses et faire pivoter l’entreprise ?
-- Existe-t-il des jeux vidéos ou des expériences immersives sur les questions écologiques ?
+- Existe-t-il des jeux vidéo ou des expériences immersives sur les questions écologiques ?
 - Quels sont les nouveaux récits à construire ? Quels sont leurs futurs projets ?
 
 ## En savoir plus

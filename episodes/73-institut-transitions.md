@@ -8,6 +8,7 @@ image: "/img/episodes/73-isabelle-huynh.jpg"
 audio_link: https://soundcloud.com/techologie/73-institut-transitions-avec-isabelle-huynh
 audio_size_in_megabyte: 39
 transcribed: true
+tags: ["redirection"]
 ---
 
 Quel est le rapport entre la crise écologique et le travail, le quotidien professionnel, le moyen de subvenir à nos besoins ?
@@ -54,7 +55,7 @@ Pour parler de tous ces sujets, nous recevons Isabelle Huynh, ingénieur mécani
 
 Il y avait un manque d'acculturation, d'une certaine façon. Souvent je disais que ça vaudrait la peine de vous immerger dans le milieu de la transition, de comprendre de quoi on parle, quand on parle d'inégalités, de discrimination, de justice écologique, de justice sociale, des choses comme ça, et tout simplement pour que vous soyez à l'aise et pertinent dans ces milieux professionnels.
 
-### Je te propose tout simplement que tu nous racontes un peu ton parcours pour commencer,
+### Je te propose que tu nous racontes ton parcours pour commencer
 
 Je suis ingénieur mécanique, comme tu l'as évoqué. Ça veut dire que j'ai toujours été intéressée par le développement, la conception de produits, c'est quelque chose qui me tient toujours à cœur.
 
@@ -185,7 +186,7 @@ Cela faisait 2 ans, 3 ans et j'étais frustré de pas avoir de réponse d'organi
 S'il y a un besoin et qu'on voit que personne n'y répond pas, pourquoi pas se lancer ?
 
 
-### On est d'accord, ça va au delà du bilan de compétences ? Il y a de la formation, mais il y a aussi une aide à trouver son secteur, son domaine, ses entreprises ? [24:10]
+### On est d'accord, ça va au delà du bilan de compétences ? Il y a de la formation, mais il y a aussi une aide à trouver son secteur, son domaine, ses entreprises ?
 
 
 Comment on a réfléchi le programme ? Le programme "Nouvelles Voies" c'est le programme phare de l'Institut Transitions d'une durée d'un an. Il commence en septembre et ils rendent leur mémoire fin septembre de l'année suivante.
@@ -325,7 +326,3 @@ Par exemple, on a actuellement un programme qu'on développe qui s'appelle boît
 Et donc potentiellement, il y aura d'autres besoins qu'on va couvrir petit à petit. Moi, ce qui me plairait aussi à voir avec l'Institut Transitions, c'est qu'on développe aussi des formations avec différentes organisations. On a pu aider, par exemple, la ville d'Orléans qui nous demandait de former les agents sur les enjeux environnementaux. Mais il y a plein d'autres sujets sur lesquels on pourrait aider d'autres organisations, des entreprises ou autres à se former : d'aller plus dans la transition écologique et solidaire,d'être une entreprise régénérative, etc. Quelles sont les formations qu'on peut donner à vos équipes pour avancer sur ça et je pense qu'il y a encore tout un champ qu'on n'a pas assez creusé qui existe.
 
 Quand on voit des projets comme la CEC, la Convention des Entreprises pour le Climat, qui fédère énormément d'entreprises, si ça avance vraiment dans des actions concrètes, il va vraiment y avoir des besoins de formation et des besoins de personnes formées à ces enjeux. Donc voilà, on verra. On se croisera dans 5 ans pour te dire comment ça a évolué.
-
-### Avec plaisir même avant. Merci, isabelle, de nous avoir partagé ton expérience, ton engagement.
-
-À bientôt

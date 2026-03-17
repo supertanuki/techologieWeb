@@ -8,6 +8,7 @@ image: "/img/episodes/77-sename-koffi.jpg"
 audio_link: https://soundcloud.com/techologie/77-alternatives-emancipatrices-avec-sename-koffi
 audio_size_in_megabyte: 23
 transcribed: true
+tags: ["low tech", "décolonisation", "prospective", "smart city"]
 ---
 
 Dans cet épisode, faisons un pas de côté, comme d’habitude sur Techologie, allons changer de point de vue, direction Lomé, la capitale du Togo. Nous recevons l’architecte Sénamé Koffi Agbodjinou, qui a fondé L'Africaine d'architecture, une association qu’il qualifie de “structure activiste”, dans le but de promouvoir une approche différente, une approche africaine, des questions d'architecture, d'urbanisme et de design. Nous discutons de smart city, de ville intelligente, de fablab et leur adaptation aux contextes africains.

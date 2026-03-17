@@ -8,6 +8,7 @@ image: /img/episodes/100-la-digitale.jpg
 audio_link: https://soundcloud.com/techologie/100-des-outils-libres-pour-leducation
 audio_size_in_megabyte: 45
 transcribed: true
+tags: ["éducation", "outil"]
 ---
  
 ## Sommaire

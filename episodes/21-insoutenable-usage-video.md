@@ -7,6 +7,7 @@ date: 2019-10-29
 image: "/img/episodes/21-maxime-efoui-hess.jpg"
 audio_link: "https://soundcloud.com/techologie/21-linsoutenable-usage-de-la-video-en-ligne-avec-maxime-efoui-hess"
 audio_size_in_megabyte: 41
+tags: ["sobriété", "5G", "prospective"]
 ---
 
 ## Sujets abordés
@@ -32,17 +33,9 @@ audio_size_in_megabyte: 41
 * Le prochain rapport sur la Sobriété Numérique va t-il traiter de l'éco-conception des services numériques ?
 * Comment peut-on contribuer aux travaux du Shift Project ?
 
-## Transcript
-
-_À venir._
-
-<div class="block">
-
-En savoir plus :
+## En savoir plus
 
 * [Rapport pour une sobriété numérique](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/)
 * [Rapport l’insoutenable usage de la vidéo en ligne](https://theshiftproject.org/article/climat-insoutenable-usage-video/)
 * [Carbonalyser, l'extension pour Firefox](https://theshiftproject.org/carbonalyser-extension-navigateur/)
 * [Retournez à l'école ! par Jean-Marc Jancovici](https://www.lesechos.fr/idees-debats/sciences-prospective/retournez-a-lecole-1132225)
-
-</div>

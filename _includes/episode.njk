@@ -10,6 +10,7 @@ layout: layouts/base.njk
 <p class="label text-centered">
   <span>{{ people | safe }}</span>
 </p>
+
 <p class="published">
   {% if lang == 'en' %}
     <a href="/en">Episodes</a>
@@ -42,6 +43,18 @@ layout: layouts/base.njk
     {% endif %}
   </small>
 </p>
+
+{% if lang != 'en' %}
+  <h2>Thématiques</h2>
+
+  <p class="buttons-list">
+  {% for tag in tags | sort %}
+    {% if tag != 'episode' %}
+      <a href="/tag/{{ tag | slug }}">{{ tag }}</a>
+    {% endif %}
+  {% endfor %}
+  </p>
+{% endif %}
 
 {% include "annonce.njk" %}
 

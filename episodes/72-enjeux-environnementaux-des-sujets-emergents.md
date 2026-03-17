@@ -9,6 +9,7 @@ audio_link: https://soundcloud.com/techologie/72-enjeux-environnementaux-des-suj
 download_link: https://feeds.soundcloud.com/stream/1411709281-techologie-72-enjeux-environnementaux-des-sujets-emergents-avec-adelaide-albouy-kissi.mp3
 audio_size_in_megabyte: 25
 transcribed: true
+tags: ["tiers-lieu", "jeux vidéo"]
 ---
 
 ## Sommaire
@@ -18,7 +19,7 @@ transcribed: true
 * Numérique à l'école
 * A quoi peut servir l'intelligence artificielle
 * Quelle réalité derrière les métavers
-* Quelle place pour les jeux vidéos dans un monde aux ressources contraintes
+* Quelle place pour les jeux vidéo dans un monde aux ressources contraintes
 * Les étudiants sont-ils sensibles aux enjeux environnementaux ?
 * Les jeux sérieux peuvent ils attirer les consommateurs, les gamers ?
 * Le tiers lieux, Fab lab et mobiliers urbains en open source

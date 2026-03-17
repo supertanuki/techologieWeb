@@ -7,9 +7,10 @@ date: 2020-12-16
 image: "/img/episodes/39-techologie-2ans.jpg"
 audio_link: "https://soundcloud.com/techologie/39-deux-ans-de-techologie-que-retenir-et-quel-futur"
 audio_size_in_megabyte: 56
+tags: ["respiration"]
 ---
 
-Avec l'aimable participation de :
+## Avec l'aimable participation de :
 
 * Adrien Montagut, coopérative Commown
 * Aurélie Baton, UX designer
@@ -25,7 +26,7 @@ Avec l'aimable participation de :
 * Thomas Di Luccio, designer, enseignant
 * Yannick Morel, association Latitudes
 
-Les sujets abordés :
+## Les sujets abordés
 
 * Quel épisode de Techologie a été marquant ou a donné envie de se mettre en action ?
 * La vision de l'impact environnemental du numérique a t'elle évoluée depuis deux ans ?
@@ -38,7 +39,7 @@ Les sujets abordés :
 * Redirection écologique
 * Comment reconnaitre le greenwashing numérique ?
 
-En savoir plus :
+## En savoir plus
 
 * [Manifeste écologique des professionnel·le·s de l’informatique](https://www.climanifeste.net/)
 * [Technologie partout, démocratie nulle part avec Yaël Benayoun et Irénée Régnauld](/episodes/37-technologie-partout-democratie-nulle-part)

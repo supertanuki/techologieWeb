@@ -8,6 +8,7 @@ image: /img/episodes/96-hubert-guillaud.jpg
 audio_link: https://soundcloud.com/techologie/96-les-algorithmes-contre-la-societe-avec-hubert-guillaud
 audio_size_in_megabyte: 34
 transcribed: true
+tags: ["algorithme", "géopolitique"]
 ---
 
 ## Sommaire

@@ -7,6 +7,7 @@ date: 2021-03-09
 image: "/img/episodes/45-nicolas-nova.jpg"
 audio_link: https://soundcloud.com/techologie/45-anthropologie-du-smartphone-avec-nicolas-nova
 audio_size_in_megabyte: 33
+tags: ["design", "réparation", "réemploi"]
 ---
 
 ## Les sujets abordés

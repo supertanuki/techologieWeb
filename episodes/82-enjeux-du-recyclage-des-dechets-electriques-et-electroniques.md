@@ -8,6 +8,7 @@ image: "/img/episodes/82-tess-pozzi-et-romuald-ribault.jpg"
 audio_link: https://soundcloud.com/techologie/82-enjeux-du-recyclage-des-dechets-electriques-et-electroniques-avec-tess-pozzi-et-romuald-ribault
 audio_size_in_megabyte: 38
 transcribed: true
+tags: ["déchet", "recyclage", "économie de la fonctionnalité", "réemploi"]
 ---
 
 ## Sommaire

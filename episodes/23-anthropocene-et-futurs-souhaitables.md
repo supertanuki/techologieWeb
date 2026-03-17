@@ -7,6 +7,7 @@ date: 2019-11-19
 image: "/img/episodes/23-paccard-diluccio.jpg"
 audio_link: "https://soundcloud.com/techologie/23-anthropocene-et-futurs-souhaitables"
 audio_size_in_megabyte: 37
+tags: ["géoingénierie", "design", "low tech", "anthropocène"]
 ---
 
 Entretien enregistré le 25 octobre 2019.

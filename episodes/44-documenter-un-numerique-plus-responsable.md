@@ -7,6 +7,7 @@ date: 2021-02-02
 image: "/img/episodes/44-alizee-colin.jpg"
 audio_link: "https://soundcloud.com/techologie/44-documenter-un-numerique-plus-responsable-avec-alizee-colin"
 audio_size_in_megabyte: 15
+tags: ["design", "éducation"]
 ---
 
 ## Au sommaire

@@ -8,6 +8,7 @@ image: "/img/episodes/87-lea-mosesso.jpg"
 audio_link: https://soundcloud.com/techologie/87-vivre-avec-un-smartphone-obsolete-avec-lea-mosesso
 audio_size_in_megabyte: 26
 transcribed: true
+tags: ["obsolescence", "design", "anthropocène"]
 ---
 
 ## Sommaire

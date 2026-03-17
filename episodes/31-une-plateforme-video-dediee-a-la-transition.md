@@ -7,6 +7,7 @@ date: 2020-03-11
 image: "/img/episodes/31-imago.jpg"
 audio_link: "https://soundcloud.com/techologie/31-une-plateforme-video-dediee-a-la-transition-avec-nicolas"
 audio_size_in_megabyte: 32
+tags: ["obsolescence", "design", "outil"]
 ---
 
 ## Au sommaire

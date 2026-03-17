@@ -9,15 +9,16 @@ audio_link: https://soundcloud.com/techologie/104-decolonize-tech
 audio_size_in_megabyte: 20
 transcribed: true
 lang: en
+tags: ["décolonisation", "souveraineté"]
 ---
 
-## En savoir plus
+## Learn more
 
 - [Tribe X](https://tribe-x.org/)
 
 ## Transcription
 
-### Extrait
+### Extract
 
 <div class="quote-highlight">
 

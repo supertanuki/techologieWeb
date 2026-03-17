@@ -8,6 +8,7 @@ image: "/img/episodes/80-arnaud-levy-et-louis-derrac.jpg"
 audio_link: https://soundcloud.com/techologie/80-pour-un-numerique-acceptable-et-dinteret-general-avec-arnaud-levy-et-louis-derrac
 audio_size_in_megabyte: 47
 transcribed: true
+tags: ["technocritique", "algorithme", "open source", "souveraineté", "éthique"]
 ---
 
 ## Sommaire

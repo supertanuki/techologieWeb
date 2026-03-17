@@ -7,6 +7,7 @@ date: 2021-04-05
 image: "/img/episodes/47-design-for-the-anthropocene.jpg"
 audio_link: https://soundcloud.com/techologie/strategie-et-design-pour-lanthropocene-avec-alexandre-monnin-et-emmanuel-bonnet
 audio_size_in_megabyte: 40
+tags: ["redirection", "design", "prospective", "anthropocène"]
 ---
 
 ## Les sujets abordés

@@ -7,6 +7,7 @@ date: 2021-10-22
 image: "/img/episodes/56-francoise-berthoud.jpg"
 audio_link: https://soundcloud.com/techologie/56-au-dela-des-impacts-environnementaux-directs-du-numerique/
 audio_size_in_megabyte: 32
+tags: ["data center", "sobriété"]
 ---
 
 ## Les sujets abordés
@@ -14,7 +15,7 @@ audio_size_in_megabyte: 32
 * Pourquoi les impacts environnementaux du numérique ont été pendant longtemps ignorés voire éludés ?
 * Pourquoi est-ce difficile de mesurer les impacts environnementaux du numérique ?
 * Que pensez des nombreuses applications dans la mesure d'impact qui voient le jour en ce moment
-* Au sujet de Negaoctet
+* Au sujet de NegaOctet
 * Quel niveau de confiance peut on accorder aux données fournies par le constructeurs concernant l'impact de la fabrication et du transport des équipements ?
 * Son déclic
 * Sobriété numérique, numérique écoresponsable, numérique responsable ou numérique soutenable ?

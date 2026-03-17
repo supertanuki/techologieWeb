@@ -7,9 +7,10 @@ date: 2020-10-16
 image: "/img/episodes/37-irenee-yael.jpg"
 audio_link: "https://soundcloud.com/techologie/37-technologie-partout-democratie-nulle-part-avec-yael-benayoun-et-irenee-regnauld"
 audio_size_in_megabyte: 34
+tags: ["technocritique", "5G"]
 ---
 
-Sommaire :
+## Sommaire
 
 * Qu'est ce que la technologie et qu'est-ce que le progrès ?
 * Technologies partout, démocratie nulle part. C'est le débat (ou le non-débat) sur la 5G qui a inspiré ce livre ?
@@ -29,12 +30,8 @@ Dans ce contexte, peut on lier technologie et écologie alors que tout les oppos
 * Les autres pistes pour mieux maîtriser le progrès technologique, ses impacts sociaux et environnementaux ?
 * A propos du documentaire The Social Dilemma ("Derrière nos écrans de fumée").
 
-<div class="block">
-
-En savoir plus
+## En savoir plus
 
 * "[Technologies partout, démocratie nulle part](https://www.fypeditions.com/technologies-partout-democratie-nulle-part/)", FYP Editions
 * [Le mouton numerique](https://mouton-numerique.org/)
 * [Mais où va le web](http://maisouvaleweb.fr/)
-
-</div>

@@ -8,6 +8,7 @@ image: /img/episodes/92-hannane-agathe-clelia.jpg
 audio_link: https://soundcloud.com/techologie/92-role-des-techniques-dans-la-division-sexuelle-du-travail-agricole-avec-agathe-hannane-clelia
 audio_size_in_megabyte: 54
 transcribed: true
+tags: ["respiration", "inégalités"]
 ---
 
 Pour en parler avec nous,

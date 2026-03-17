@@ -7,6 +7,7 @@ date: 2021-01-14
 image: "/img/episodes/10-yannick-morel.jpg"
 audio_link: "https://soundcloud.com/techologie/42-transition-ecologique-et-solidaire-dans-lenseignement-superieur-avec-yannick-morel"
 audio_size_in_megabyte: 45
+tags: ["éducation", "respiration"]
 ---
 
 ## Sommaire

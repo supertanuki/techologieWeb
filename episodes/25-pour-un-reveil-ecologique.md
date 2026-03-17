@@ -7,6 +7,7 @@ date: 2020-01-03
 image: "/img/episodes/25-antoine-trouche.jpg"
 audio_link: "https://soundcloud.com/techologie/25-pour-un-reveil-ecologique-avec-antoine-trouche"
 audio_size_in_megabyte: 31
+tags: ["smart city", "technocritique", "low tech", "redirection"]
 ---
 
 ## Au sommaire
