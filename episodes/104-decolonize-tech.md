@@ -9,12 +9,13 @@ audio_link: https://soundcloud.com/techologie/104-decolonize-tech
 audio_size_in_megabyte: 20
 transcribed: true
 lang: en
-tags: ["décolonisation", "souveraineté"]
+tags: ["décolonisation", "souveraineté", "géopolitique"]
 ---
 
 ## Learn more
 
 - [Tribe X](https://tribe-x.org/)
+- [The Palestine Laboratory](www.babelio.com/livres/Loewenstein-The-Palestine-Laboratory-How-Israel-Exports-the-T/1756969): How Israel Exports the Technology of Occupation Around the World, Antony Loewenstein, 2024
 
 ## Transcription
 
