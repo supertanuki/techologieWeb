@@ -5,7 +5,7 @@
 	
 	<link href="https://techologie.net/feed/feed.xml" rel="self"/>
 	<link href="https://techologie.net/"/>
-	<updated>2026-03-17T16:49:41Z</updated>
+	<updated>2026-03-25T13:06:33Z</updated>
 	<id>https://techologie.net/</id>
 	<author>
 		<name>Richard Hanna</name>
@@ -842,5 +842,13 @@
 		<updated>2026-03-10T00:00:00Z</updated>
 		<id>https://techologie.net/episodes/104-decolonize-tech/</id>
 		<content type="html">Decolonizing the digital world is a topic that still receives little media attention and is rarely explored, even here on this podcast. We had the opportunity to discuss this subject with David Maenda Kithoko about four years ago on Techologie (episode 67), and he explained the connection between wars, deaths, rapes, and the smartphones in our pockets. It is important to consider more generally the decolonization of ecology, especially here in the global north. Let&#39;s continue exploring this topic with Rania Youssef, a Back End Developer, queer activist and founder of Tribe-X in order to decolonize tech.</content>
+	</entry>
+	
+	<entry>
+		<title>L&#39;échec du numérique éducatif</title>
+		<link href="https://techologie.net/episodes/105-echec-du-numerique-educatif/"/>
+		<updated>2026-03-26T00:00:00Z</updated>
+		<id>https://techologie.net/episodes/105-echec-du-numerique-educatif/</id>
+		<content type="html">Parlons de numérique à l&#39;école, avec Arnaud Levy, co-fondateur et développeur au sein de la coopérative Noesya, maître de conférences associé à l&#39;IUT Bordeaux Montaigne, auteur d&#39;un essai L&#39;échec du numérique éducatif, aux éditions Le bord de l&#39;eau.</content>
 	</entry>
 </feed>
