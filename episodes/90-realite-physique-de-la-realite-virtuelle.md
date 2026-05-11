@@ -8,7 +8,7 @@ image: /img/episodes/90-landia-egal-amaury-la-burthe.jpg
 audio_link: https://soundcloud.com/techologie/90-realite-virtuelle-avec-landia-egal-et-amaury-la-burthe
 audio_size_in_megabyte: 56
 transcribed: true
-tags: ["jeux vidéo"]
+tags: ["jeux vidéo", "culture"]
 ---
 
 Landia Egal, après une courte expérience dans le monde de la finance, est auteure et réalisatrice de films immersifs et fondatrice de la société de production Tiny Planets engagée au service de la création de nouveaux imaginaires plus sobres, justes et respectueux du vivant.
