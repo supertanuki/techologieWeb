@@ -3,7 +3,7 @@ episode_number: 106
 title: Le numérique dans le secteur culturel
 people: Christine Debray, Camille Pène et Romane Clément
 description: Avec les invitées, Christine Debray, jeune retraitée, ancienne déléguée au numérique responsable au Ministère de la Culture, Camille Pène, co-fondatrice du collectif Les Augures, elle accompagne les organisations culturelles dans leur transition écologique et Romane Clément, co-fondatrice de l’agence d’Innovation et de design Ctrl S qui accompagne entreprises et secteur public dans leurs stratégies numériques plus soutenables.
-date: 2026-05-12
+date: 2026-05-13
 image: /img/episodes/106-episode-culture.jpg
 audio_link: https://soundcloud.com/techologie/106-numerique-et-secteur-culturel
 audio_size_in_megabyte: 46
